@@ -1,12 +1,20 @@
 # KenkuKraft Config Changes
-**Minecraft Version:** 1.21.1 <br/>
-**Mod Loader:** NeoForge <br/>
-**Last Updated:** 29 December 2025 <br/>
 
 > Ⓒ - Client-Side Only <br/>
 > Ⓢ - Server-Side Only <br/>
 > Ⓕ - Fabric Mod (via Sinytra Connector) <br/>
 > Ⓞ - Optional <br/>
+
+## Base
+- More FPS [FORGE]
+    - Config Changes:
+        - [MOD]
+            - [CHANGE]
+    - Removed Configs:
+        - FancyMenu
+        - AutoMessage
+        - BisectHosting Server Integration Menu
+        - Loading Backgrounds
 
 ## Modpack Development Tools 
 

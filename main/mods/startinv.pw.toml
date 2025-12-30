@@ -1,0 +1,13 @@
+name = "StartInv | Seconds of Immortality!"
+filename = "neo_startinv-1.0.0-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "405274c56f428c5e3c8e5e552626c011696b55ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5499027
+project-id = 944149

@@ -9,12 +9,17 @@
 > Ⓞ - Optional <br/>
 
 ## Base
-- Modpack: [URL]
-    - Version: [X.X.X]
+- More FPS [FORGE]
+    - Version: 31.0.0
+    - URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
     - Removed Mods:
-        - [Mod Name]
-    - Removed Resource Packs:
-        - [Pack Name]
+        - FancyMenu
+        - AutoMessage
+        - Awesome 3D Mace
+        - BisectHosting Server Integration Menu
+        - Elemental Maces
+        - Loading Backgrounds
+    - Removed Resource Packs
 
 ## Libraries & Dependencies
 - 
@@ -23,18 +28,6 @@
 - 
 
 ## Performance
-- 
-
-## Quality of Life
-- 
-
-### UI Enhancements
-- 
-
-### Chat & Social
-- 
-
-### Keybinding Management
 - 
 
 ## Interface
@@ -53,6 +46,12 @@
 - 
 
 ### Tooltips & Info
+- 
+
+### Chat & Social
+- 
+
+### Keybinding Management
 - 
 
 ## Utility & Tools

@@ -19,6 +19,7 @@
         - BisectHosting Server Integration Menu
         - Elemental Maces
         - Loading Backgrounds
+        - Recipe Essentials
     - Removed Resource Packs
 
 ## Libraries & Dependencies

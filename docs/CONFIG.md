@@ -8,8 +8,8 @@
 ## Base
 - More FPS [FORGE]
     - Config Changes:
-        - [MOD]
-            - [CHANGE]
+        - Chunky
+            - Enabled "Continue On Restart"
     - Removed Configs:
         - FancyMenu
         - AutoMessage

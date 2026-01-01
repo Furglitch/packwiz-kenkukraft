@@ -1,10 +1,5 @@
 # KenkuKraft Config Changes
 
-> Ⓒ - Client-Side Only <br/>
-> Ⓢ - Server-Side Only <br/>
-> Ⓕ - Fabric Mod (via Sinytra Connector) <br/>
-> Ⓞ - Optional <br/>
-
 ## Base
 - More FPS [FORGE]
     - Config Changes:
@@ -20,25 +15,58 @@
 
 ## Performance 
 
-## Quality of Life 
-
-### UI Enhancements 
-
-### Chat & Social 
-
-### Keybinding Management 
-
 ## Interface 
 
 ### HUD 
+- Better Creative Mode Tabs
+    - Remove default tab priority
+- Counter (Day & Death)
+    - Adjusted positions
+    - Enabled own death counter by default
+    - Disabled emojis
+- Stylish Effects
+    - Adjust position and scale
 
 ### Menu/GUI 
 
+### Inventory & Crafting
+- EMI
+    - Set source to Creative+Registered
+    - Uncenter search bar
+    - Set recipe screen dimensions to 2160x256
+    - Add craft history to left sidebar
+    - Add lookup history to right sidebar
+
 ### Minimap & Navigation 
+- JourneyMap
+    - Disable first opening message
+    - Set shape to square
+    - Set size to 20
+    - Disable 'Move Effect Icons'
+- FTB Chunks
+    - Increase chunk count to 1024
+    - Increase loaded chunk count to 64
+    - Set party limit mode to 'sum'
 
 ### Camera & Controls 
+- OK Zoomer
+    - Spyglass Mode: Replace Zoom
+    - Zoom Overlay: Vignette
+    - Enable Spyglass Sounds
+    - Enable Scroll Sounds
 
-### Tooltips & Info 
+
+### Tooltips & Info
+- Enchantment Descriptions
+    - Require keybind to show descriptions
+- Obscure Tooltips
+
+### Chat & Social
+- Chat Heads
+    - Position: Before List
+
+### Keybinding Management
+- 
 
 ## Utility & Tools 
 
@@ -61,6 +89,8 @@
 ## Armory 
 
 ### Armor 
+- Cosmetic Armor Reworked
+    - Disable Recipe Book
 
 ### Weapons 
 
@@ -69,8 +99,6 @@
 #### Ranged Weapons 
 
 #### Firearms 
-
-#### Magic 
 
 ### Accessories 
 
@@ -215,6 +243,8 @@
 ## Exploration 
 
 ### Adventure & Quests 
+- FTB Quests
+    - <!-- TODO --!>
 
 ### Compasses & Maps 
 

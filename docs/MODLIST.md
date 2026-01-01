@@ -22,9 +22,6 @@
         - Recipe Essentials
     - Removed Resource Packs
 
-## Libraries & Dependencies
-- 
-
 ## Modpack Development Tools
 - 
 
@@ -32,25 +29,57 @@
 - 
 
 ## Interface
-- 
 
 ### HUD
-- 
+- AppleSkin
+- Better Creative Mode Tabs Ⓒ
+- Better F1 Reborn Ⓒ
+- Counter (Day & Death)
+- Jade
+    - Jade Addons
+- Leave My Bars Alone
+- Overflowing Bars
+- Stylish Effects
 
-### Menu/GUI
-- 
+### Menus
+- Cursors Extended Ⓒ
+- Fadeless Ⓒ
+
+### Inventory & Crafting
+- EMI
+    - EMI Enchanting
+    - EMI Extra Integrations
+    - EMI Professions
+    - EMIffect
+    - JEI
+    - Just Enough Archaeology
+    - Just Enough Breeding
+    - Just Enough Effect Descriptions
+    - Just Enough Resources
+    - Not Enough Recipe Book
+- Nemo's Inventory Sorting
 
 ### Minimap & Navigation
-- 
+- JourneyMap
+    - FTB Chunks
+    - Journeymap Integration
+    - Journeymap Waypoint Syncing
 
 ### Camera & Controls
-- 
+- OK Zoomer Ⓒ
 
 ### Tooltips & Info
-- 
+- Durability Tooltip Ⓒ
+- Enchantment Descriptions
+- Equipment Compare Ⓒ
+- Loot Journal Ⓒ
+- Obscure Tooltips Ⓒ
+- Shulker Box Tooltip
 
 ### Chat & Social
-- 
+- Chat Heads Ⓒ
+- Showcase Item
+- What Are They Up To?
 
 ### Keybinding Management
 - 
@@ -86,7 +115,7 @@
 - 
 
 ### Armor
-- 
+- Cosmetic Armor Reworked
 
 ### Weapons
 - 
@@ -98,9 +127,6 @@
 - 
 
 #### Firearms
-- 
-
-#### Magic
 - 
 
 ### Accessories
@@ -317,7 +343,7 @@
 - 
 
 ### Adventure & Quests
-- 
+- FTB Quests
 
 ### Compasses & Maps
 - 

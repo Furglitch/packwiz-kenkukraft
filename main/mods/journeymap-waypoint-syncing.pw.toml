@@ -1,0 +1,13 @@
+name = "JourneyMap Waypoint Syncing (JMWS)"
+filename = "jmws-neoforge-1.2.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d8845ae1e2518d59e26cd9a46c3fb5802f9e1cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7353492
+project-id = 1263493

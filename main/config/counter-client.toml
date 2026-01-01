@@ -1,0 +1,188 @@
+["Day Counter Overlay Settings"]
+	#Enable/disable the day overlay on the client side.
+	showDayOverlay = true
+	#Should the day counter overlay always be visible? If false, it is only visible while holding the Tab key.
+	showOverlayAlways = true
+	#Relative X position (0.0 = left, 1.0 = right).
+	# Default: 0.00625
+	# Range: 0.0 ~ 1.0
+	dayOverlayX = 0.00625
+	#Relative Y position (0.0 = top, 1.0 = bottom).
+	# Default: 0.015
+	# Range: 0.0 ~ 1.0
+	dayOverlayY = 0.015
+	#Scale factor for the day counter text size.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	dayOverlaySize = 1.0
+	#Alignment for the day overlay.
+	#Allowed Values: LEFT, CENTER, RIGHT
+	dayOverlayAlign = "LEFT"
+	#Color for the day overlay text.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	dayOverlayTextColor = 16777215
+
+["Death Counter List Settings"]
+	#Enable/disable the death counter list overlay on the client side.
+	showDeathListOverlay = true
+	#Should the death counter list overlay always be visible? If false, it is only visible while holding the Tab key.
+	showListOverlayAlways = false
+	#Relative X position (0.0 = left, 1.0 = right) of the death list overlay.
+	# Default: 0.0125
+	# Range: 0.0 ~ 1.0
+	deathListX = 0.0125
+	#Relative Y position (0.0 = top, 1.0 = bottom) of the death list overlay.
+	# Default: 0.18
+	# Range: 0.0 ~ 1.0
+	deathListY = 0.18
+	#Scale factor for the death list text size.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	deathListSize = 1.0
+	#Which style to use for displaying the death list?
+	#Allowed Values: CLASSIC, BOXED, TABLE
+	deathOverlayStyle = "TABLE"
+	#Minimum width (in pixels) for the death counter list overlay.
+	# Default: 120
+	# Range: 0 ~ 600
+	deathOverlayMinWidth = 120
+	#Alignment for the death list overlay.
+	#Allowed Values: LEFT, CENTER, RIGHT
+	deathListAlign = "LEFT"
+	#Default text color for the death list overlay.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	deathListTextColor = 16777215
+	#Color for the first place in the death list.
+	# Default: 16766720
+	# Range: 0 ~ 16777215
+	firstPlaceColor = 16766720
+	#Color for the second place in the death list.
+	# Default: 12632256
+	# Range: 0 ~ 16777215
+	secondPlaceColor = 12632256
+	#Color for the third place in the death list.
+	# Default: 13467442
+	# Range: 0 ~ 16777215
+	thirdPlaceColor = 13467442
+
+["Death Counter Self Settings"]
+	#Enable/disable the personal death counter overlay on the client side.
+	showDeathSelfOverlay = true
+	#Should the personal death counter overlay always be visible? If false, it is only visible while holding the Tab key.
+	showSelfOverlayAlways = true
+	#Relative X position for your personal death overlay.
+	# Default: 0.00625
+	# Range: 0.0 ~ 1.0
+	deathSelfX = 0.00625
+	#Relative Y position for your personal death overlay.
+	# Default: 0.068
+	# Range: 0.0 ~ 1.0
+	deathSelfY = 0.04
+	#Scale factor for the personal death counter text size.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	deathSelfSize = 1.0
+	#Alignment for your personal death overlay.
+	#Allowed Values: LEFT, CENTER, RIGHT
+	deathSelfAlign = "LEFT"
+	#Color for your personal death counter text.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	deathSelfTextColor = 16777215
+
+["Survival Counter Overlay Settings"]
+	#Enable/disable the survival time overlay.
+	showSurvivalOverlay = false
+	#Should the survival overlay always be visible? If false, it is only visible while holding the Tab key.
+	showSurvivalOverlayAlways = true
+	#Relative X position (0.0 = left, 1.0 = right).
+	# Default: 0.00625
+	# Range: 0.0 ~ 1.0
+	survivalOverlayX = 0.00625
+	#Relative Y position (0.0 = top, 1.0 = bottom).
+	# Default: 0.068
+	# Range: 0.0 ~ 1.0
+	survivalOverlayY = 0.068
+	#Scale factor for the survival overlay text size.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	survivalOverlaySize = 1.0
+	#Alignment for the survival overlay.
+	#Allowed Values: LEFT, CENTER, RIGHT
+	survivalOverlayAlign = "LEFT"
+	#Color for the survival overlay text.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	survivalOverlayTextColor = 16777215
+
+["Time Overlay Settings"]
+	#Enable/disable the time overlay on the client side.
+	showIngameTimeOverlay = false
+	#Should the time overlay always be visible?
+	showIngameTimeOverlayAlways = false
+	#Relative X position (0.0 = left, 1.0 = right).
+	# Default: 0.00625
+	# Range: 0.0 ~ 1.0
+	timeOverlayX = 0.00625
+	#Relative Y position (0.0 = top, 1.0 = bottom).
+	# Default: 0.955
+	# Range: 0.0 ~ 1.0
+	timeOverlayY = 0.955
+	#Scale factor for the ingame time overlay text size.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	timeOverlaySize = 1.0
+	#Alignment for the time overlay.
+	#Allowed Values: LEFT, CENTER, RIGHT
+	timeOverlayAlign = "LEFT"
+	#Color for the ingame time overlay text.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	timeOverlayTextColor = 16777215
+
+["Coordinates Overlay Settings"]
+	#Enable/disable the coordinates overlay.
+	showCoordsOverlay = false
+	#Should the coordinates overlay always be visible? If false, it is only visible while holding the Tab key.
+	showCoordsOverlayAlways = true
+	#Relative X position (0.0 = left, 1.0 = right).
+	# Default: 0.00625
+	# Range: 0.0 ~ 1.0
+	coordsOverlayX = 0.00625
+	#Relative Y position (0.0 = top, 1.0 = bottom).
+	# Default: 0.905
+	# Range: 0.0 ~ 1.0
+	coordsOverlayY = 0.905
+	#Scale factor for the coordinates overlay text size.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	coordsOverlaySize = 1.0
+	#Alignment for the coordinates overlay.
+	#Allowed Values: LEFT, CENTER, RIGHT
+	coordsOverlayAlign = "LEFT"
+	#Color for the coordinates overlay text.
+	# Default: 16777215
+	# Range: 0 ~ 16777215
+	coordsOverlayTextColor = 16777215
+
+["Ping Settings"]
+	#Show the ping as text (e.g. '123ms') instead of the default bars in the tab list?
+	showPingAsText = true
+	#Color for low ping (<100ms).
+	# Default: 65280
+	# Range: 0 ~ 16777215
+	pingColorGood = 65280
+	#Color for medium ping (100-249ms).
+	# Default: 16750848
+	# Range: 0 ~ 16777215
+	pingColorMedium = 16750848
+	#Color for high ping (>=250ms).
+	# Default: 16711680
+	# Range: 0 ~ 16777215
+	pingColorBad = 16711680
+
+["Emote Settings"]
+	#Enable or disable emojis in overlays.
+	showEmojis = false

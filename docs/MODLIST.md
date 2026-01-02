@@ -88,22 +88,29 @@
 - 
 
 ## Audio & Visuals
-- 
+- Distant Horizons
 
 ### Sound Enhancements
-- 
+- Ambient Sounds 6 Ⓒ
+- Extreme Sound Muffler Ⓒ
+- Lazyboy's No Global Sounds Ⓢ
+- Sound Physics Remastered
+- Sounds Ⓒ
+	- More Sound Ⓒ
 
 ### Visual Effects
-- 
+- Ambient Environment Ⓒ
+- ItemPhysic Lite Ⓒ
 
 ### Shaders & Lighting
-- 
+- Sodium/Embeddium Dynamic Lights Ⓒ
 
 ### Particles
-- 
+- Fancy Block Particles - Renewed Ⓒ
+- Soul Fire'd
 
 ### Weather & Seasons
-- 
+- Snow Under Trees
 
 ### Ambience
 - 
@@ -396,7 +403,7 @@
 - 
 
 ### Skins & Models
-- 
+- 3D Skin Layers Ⓒ
 
 ## Resource Packs
 - 

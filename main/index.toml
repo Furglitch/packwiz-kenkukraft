@@ -33,6 +33,10 @@ file = "config/alltheleaks.json"
 hash = "a7257d34565cbec7365e353a3fe8ea3abc09ad924eb3c0c64aa04cf47e5ede66"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "bc23877c765f26b51804c11a6c74d0d2ffb4dc6a69649d7129919a6f4ba3c755"
+
+[[files]]
 file = "config/badoptimizations.txt"
 hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
@@ -147,6 +151,10 @@ hash = "45f29fcdee25c1e7c5196524aca8555743672792a29fb0d7a9343d47b890c8e6"
 [[files]]
 file = "config/fastpaintings-common.toml"
 hash = "d0b4c0e85822735c3cc9800108204225e1f8e4fd17a17fff9ecfd4ab045e5f03"
+
+[[files]]
+file = "config/fbp/config.json"
+hash = "d13b5aab338579e45086340b0f9eada792b1b8bdbfc31285ab64bca11f6c0937"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -396,6 +404,16 @@ hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "2a927b4361d09500f17075c2bd01e3b0c031bae9cd04c04472648ce3a621191f"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "386d27ed05a5b6009046fe2dc10f1d60803859f1f53400989826f552461b32bb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
@@ -476,6 +494,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "40802547d9f1f916dfeefea8e0c52499edfc6940daca5b7f60e5c365a4ead296"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
@@ -501,6 +524,11 @@ hash = "fb11afa9913e1278c2682ccf87088b6b1b7522d54b05b8735ae9c3e25caea6c5"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "c7ad58e1f687d057bd13aa3191eac5765f5dc964304368be20b1caa90514954a"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
@@ -511,6 +539,11 @@ hash = "539513ed35cebfaa099397dde2d1936d38489c8685e96a902211f60cecee82c4"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "3a0da1a01f5281b39b00612f283b405e2d6c64d058cdf0571982a60480afe048"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "4fa72931e628ff5e0c406e79dfc27e647e31729d40f45920740b3d86ed2d161c"
 metafile = true
@@ -518,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "4fa1d6b802032c2335bd0f2263e2977b376fd22ee07dc5f57dae9797d0c267d3"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
@@ -571,6 +609,11 @@ hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "ece74e07bd00096b80d134cfd9fafb1090c3e7cb70c4e66a5bb4f874c397f2d0"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "98ff5eb507bb2485a3bfcb4757f0620812e7f8dca085ed11978bce30e763d6d0"
 metafile = true
@@ -588,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "0f871a463cc9f10ba812d7e7cbdbfb119535d1a683c8eb85d06af35d7c726953"
+metafile = true
+
+[[files]]
+file = "mods/fbp-renewed.pw.toml"
+hash = "b99e201df15b7c097266476147a51609ba4a00fd2ad2c8128d977f4dbc8394f4"
 metafile = true
 
 [[files]]
@@ -638,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "bcc93c628aba3bf54ed4d19c7943e1f49138643644b41d6dcb748b1a4ea31c0a"
 metafile = true
 
 [[files]]
@@ -746,8 +799,18 @@ hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
 metafile = true
 
 [[files]]
+file = "mods/more-sound.pw.toml"
+hash = "ae8c13410a282db0dbe54b2217b791f082c83368e771a099eb03a918165004dc"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "9749d73e7add8942aa12ca754ed46d4549f2148bc9f169f4ce94d19f6c5fb4b5"
 metafile = true
 
 [[files]]
@@ -758,6 +821,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/no-global-sounds.pw.toml"
+hash = "4e776d21c85d469688d3a06e37e96a9bd11a153731ecb6d17b07cd6580b45df2"
 metafile = true
 
 [[files]]
@@ -801,6 +869,11 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "0f85456e9e882c3d969469f5fe167027c37e80f0e329accb1136f5db42a50e8d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
@@ -841,6 +914,11 @@ hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "f0921e672c9519eff90da52406b64f84661604f067fc7bd3361f1906b2788344"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
@@ -848,6 +926,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "315dab048ce0558d26ebfba5260e788c4142d3a8287aeb89366a5b9e9c40028b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "36bc1bb632d1203c91d99298214b08b6babc7da301fff00fded2a1f705592f17"
 metafile = true
 
 [[files]]
@@ -893,6 +986,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3558debe8bf15733b43387dbd1368e12b27e52fd003056d8c0670d7a36c8ff07"
 metafile = true
 
 [[files]]

@@ -73,12 +73,16 @@
 ## Audio & Visuals 
 
 ### Sound Enhancements 
+- Ambient Sounds 6
+    - Set general volume to 0.15
 
 ### Visual Effects 
 
 ### Shaders & Lighting 
 
 ### Particles 
+- Fancy Block Particles - Renewed
+    - Disable placing animation
 
 ### Weather & Seasons 
 

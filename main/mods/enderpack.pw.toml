@@ -1,0 +1,13 @@
+name = "EnderPack - New Backpack"
+filename = "ender_pack-merged-1.21.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49f25ce60f0a3f21923610b86a0206176d3edc06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6404199
+project-id = 959446

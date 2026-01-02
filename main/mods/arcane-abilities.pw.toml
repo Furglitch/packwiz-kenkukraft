@@ -1,0 +1,13 @@
+name = "Relics: Arcane Abilities"
+filename = "arcane_abilities-0.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b002175698ed1acc45ec0b95e4ba64bd4743375e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6882737
+project-id = 951287

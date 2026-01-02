@@ -1,0 +1,13 @@
+name = "PointBlank: Jelly"
+filename = "pointblank-neoforge-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "538397f5fe4ea7aed11da9bc70d973971a5ed22e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6949290
+project-id = 1239440

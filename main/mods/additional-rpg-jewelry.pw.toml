@@ -1,0 +1,13 @@
+name = "Additional Jewelry"
+filename = "additional_rpg_jewelry-neoforge-2.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baac1e5551a66f8030117b92fb1721f019dc071f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7217177
+project-id = 1015097

@@ -90,27 +90,41 @@
 
 ### Skybox 
 
-## Armory 
+## Armory
 
-### Armor 
-- Cosmetic Armor Reworked
-    - Disable Recipe Book
+### Armor
 
-### Weapons 
+### Weapons
 
-#### Melee Weapons 
+#### Melee Weapons
+- Axes Are Weapons
+    - Enable sword enchants
+    - Enable fast cobweb breaking
+    - Enable looting on ranged weapons
+    - Enable mod compat
 
-#### Ranged Weapons 
+#### Ranged Weapons
+- 
 
-#### Firearms 
+#### Firearms
+- PointBlank: Jelly
+    - Decrease village shop spawn rate
 
-### Accessories 
+### Accessories
 
-#### Baubles & Trinkets 
+#### Baubles & Trinkets
 
-#### Backpacks 
+#### Backpacks
+- Backpacked
+    - Disabled Pickpocketing
+    - Disable wandering trader backpacks
+- Sophisticated Backpacks
+    - Disable entity backpacks
+- Traveler's Backpack
+    - Disable villager trade
+    - Disable entity backpacks
 
-#### Cosmetics 
+#### Cosmetics
 
 ## Building 
 

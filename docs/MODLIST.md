@@ -119,34 +119,60 @@
 - 
 
 ## Armory
-- 
+- Archers (RPG Series)
+	- Archers Expansion (More RPG Classes)
+- Berserker (More RPG Classes)
+- Elemental Wizards (More RPG Classes)
+- Forcemaster (More RPG Classes)
+- Paladins and Priests (RPG Series)
+- Rogues and Warriors (RPG Series)
+- Witcher (More RPG Classes)
+- Wizards (RPG Series)
 
 ### Armor
-- Cosmetic Armor Reworked
+- Advanced Netherite
+- Armory (RPG Series)
 
 ### Weapons
-- 
+- Arsenal (RPG Series)
 
 #### Melee Weapons
-- 
+- Simply Swords
+- Axes Are Weapons
 
 #### Ranged Weapons
 - 
 
 #### Firearms
-- 
+- PointBlank: Jelly
 
 ### Accessories
-- 
 
 #### Baubles & Trinkets
-- 
+- Jewelry (RPG Series)
+    - Additional Jewelry
+- Relics (RPG Series)
+    - More Relics (More RPG Content)
+- Accessories
+	- Accessories Compatibility Layer
+	- Accessorify
+	- Artifacts
+	- Curious Armor Stands
+	- Elytra Slot
+	- More Relics
+	- Relics
+	- Relics: Arcane Abilities
+	- Relics: Artifacts Compat
 
 #### Backpacks
-- 
+- Backpacked
+- Ender Pack
+- Sophisticated Backpacks
+- Traveler's Backpack
 
 #### Cosmetics
-- 
+- Cosmetic Armor Reworked
+- MinecraftCapes Ⓒ
 
 ## Building
 - 
@@ -154,7 +180,7 @@
 ### Placement
 - 
 
-### Construction Tools
+### Tools
 - 
 
 ### Furniture
@@ -179,10 +205,16 @@
 - 
 
 ### Combat Mechanics
-- 
+- Better Combat
+- Combat Roll
+- Critical Strike
 
-### Difficulty Mods
-- 
+### Skills & Abilities
+- Pufferfish's Skills
+    - Default Skill Trees
+    - Pufferfish's Attributes
+    - Skill Tree (RPG Series)
+    - More RPG Classes - Skill Tree
 
 ### PvP Enhancements
 - 

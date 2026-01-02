@@ -1,0 +1,13 @@
+name = "More RPG Classes - Skill Tree"
+filename = "mrpgc_skill_tree-neoforge-1.0.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52dddf934b1f65de4d440f3555a966be561489d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317410
+project-id = 1352810

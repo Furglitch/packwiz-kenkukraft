@@ -1,0 +1,13 @@
+name = "Elemental Wizards (More RPG Classes)"
+filename = "elemental_wizards_rpg-neoforge-2.5.4+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ade728741cd17e692ac60de32a17dd53ccfcdd95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317626
+project-id = 1006892

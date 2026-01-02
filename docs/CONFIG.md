@@ -128,21 +128,21 @@
 
 ## Building 
 
-### Placement 
+### Placement
 
-### Construction Tools 
+### Tools
+- TorchMaster
+    - Double torch radius
+    - Double lamp radius
+    - Quadruple flare radius
+- Utilitarian
+    - Increase ranges to factors of 8
 
-### Furniture 
+### Building Blocks
 
-### Decoration 
-
-### Building Blocks 
-
-### Doors & Windows 
-
-### Roofing & Flooring 
-
-### Tools 
+### Decoration & Furniture
+- The Block Box
+    - Move to separate tab
 
 ## Combat 
 

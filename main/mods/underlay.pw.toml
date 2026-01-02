@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-0.9.9-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e412f7e1ae2f04a59493f7ffdbd58a08d7d8642"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7316154
+project-id = 1263531

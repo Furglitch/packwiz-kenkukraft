@@ -175,31 +175,43 @@
 - MinecraftCapes Ⓒ
 
 ## Building
-- 
 
 ### Placement
-- 
+- [Reforged] Accurate Block Placement
+- Bridging Mod
+- Diagonal Fences
+- Diagonal Walls
+- Diagonal Windows
+- KleeSlabs
+- Stick It!
+- Underlay
 
 ### Tools
-- 
-
-### Furniture
-- 
-
-### Decoration
-- 
+- Construction Wands Revived
+- Sawmill
+- TorchMaster
+- Utilitarian
 
 ### Building Blocks
-- 
+- Double Doors
+- FramedBlocks
+- Macaw's Suite
+- OpenBlocks Elevator
+- Rechiseled
+	- Chipped
+	- Rechiseled: Chipped
+	- Rechiseled: Create
 
-### Doors & Windows
-- 
-
-### Roofing & Flooring
-- 
-
-### Tools
-- 
+### Decoration & Furniture
+- Amendments
+- Another Furniture
+- Comforts
+- Etched
+- Handcrafted
+- Lucky's Showcase
+- MultiBeds
+- Supplementaries
+- The Block Box
 
 ## Combat
 - 
@@ -256,6 +268,7 @@
 - 
 
 ### Processing
+- 
 - 
 
 ## Loot

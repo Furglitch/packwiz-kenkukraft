@@ -320,7 +320,6 @@
 - Dragon Survival
     - Disable menu on start
     - Save growth when switching species
-    - Disable stealing from villagers (unconfirmed)
 
 ### Emotes & Animations 
 

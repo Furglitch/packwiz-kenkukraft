@@ -150,7 +150,7 @@ hash = "257392973f0a4b5b3577b144ee4202ba11761857d241588000e390eaa95c57cd"
 
 [[files]]
 file = "config/dragonsurvival-server.toml"
-hash = "d7b5c24c0e13a828b95c71cbcb2386805588cf0acaa7867bacb7c6e39015e897"
+hash = "a5b9e824b7ba3f84000d5ca3d6811bddabc0cc6891c4e987daee1ac31b552de3"
 
 [[files]]
 file = "config/dynamic_fps.json"

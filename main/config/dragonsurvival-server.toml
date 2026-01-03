@@ -14,15 +14,15 @@
 	#How many experience points are gained when stealing from villagers
 	# Default: 4
 	# Range: > 0
-	pillager_experience_gain = 0
+	pillager_experience_gain = 4
 	#Cooldown in ticks (20 ticks = 1 second) before the entity can be pillaged again
 	# Default: 6000
 	# Range: > -2147483648
-	pillage_cooldown = -1
+	pillage_cooldown = 6000
 	#Max. distance the pillage icon will be rendered at (0 means it will be disabled)
 	# Default: 32
 	# Range: > -2147483648
-	max_pillage_render_distance = 0
+	max_pillage_render_distance = 32
 	#Determines how long (in seconds) the trapped effect lasts
 	# Default: 5.0
 	# Range: 0.0 ~ 1.7976931348623157E308

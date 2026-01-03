@@ -463,6 +463,11 @@ hash = "49dedd58a30df8112ca9922789f05726a7775fdc58ef626b05894aad8cfcbea0"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "afd9837f16b0b8fe16fe8788470334b7bb13d9c452f46a058d1a2c012f079adf"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -570,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/barbeques-delight.pw.toml"
 hash = "9178457378f5f7ee86e7bd3fa1e1e867f353722fbbe08d87bbf3dc6969de6d31"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "2f83f318618259e012cdd720b6630833fa8b6085d7856eed99f5fba48435f1b1"
 metafile = true
 
 [[files]]
@@ -715,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "ecc7e6953140862685982ae0ed9c83b4b73c7a73497973548bdcc5c2545ee589"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "80fc5d7af0f1e2ec6935f15d4c98c6958db494505c3b6036193ee3d13f7643ad"
 metafile = true
 
 [[files]]
@@ -1193,8 +1208,18 @@ hash = "3ac8c76f4cb2f1200d60fa2e74108d9cb9355346ddb8a4a735134dfac7b77136"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
 file = "mods/loot-journal-neoforge.pw.toml"
 hash = "06076763ccf1451520d6136dfdec52e9ef42247aa49575939711d274652dd495"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "695140fe35eab6ff221d83eb37a8dd182501db316f15a55310418e908b760cfd"
 metafile = true
 
 [[files]]
@@ -1518,6 +1543,11 @@ hash = "dcd71ef78fdb45a674114f12ad2c48a40b5feecb7d8286a6d095c40263d435b9"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
@@ -1730,6 +1760,11 @@ metafile = true
 [[files]]
 file = "mods/underlay.pw.toml"
 hash = "3de926a3db97baed6e63d03761d9b1f697f858922f350a297b8cde7925d3e874"
+metafile = true
+
+[[files]]
+file = "mods/unified-crops.pw.toml"
+hash = "02a5ea65ab2360b2d2cb28f11553f96c86d201dfd37b210e36052b3aab0c0726"
 metafile = true
 
 [[files]]

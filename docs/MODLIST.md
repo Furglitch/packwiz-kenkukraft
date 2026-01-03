@@ -225,6 +225,9 @@
     - Skill Tree (RPG Series)
     - More RPG Classes - Skill Tree
 
+### Death & Respawning
+- Corail Tombstone
+
 ## Agriculture
 - 
 ### Animal Husbandry
@@ -284,13 +287,17 @@
 - Anvil Restoration
 
 ## Loot
-- 
+
+### Unification
+- Almost Unified
+- Unified Crops
 
 ### Loot Tables
-- 
+- Loot Integrations
 
 ### Treasure & Rewards
-- 
+- Better Archeology
+- Lootr
 
 ## Magic
 - 

@@ -152,6 +152,11 @@
 
 ### PvP Enhancements 
 
+### Death & Respawning
+- Corail Tombstone
+    - Disable holiday events
+    - Halve XP loss on death
+
 ## Agriculture 
 
 ### Animal Husbandry 
@@ -182,9 +187,22 @@
 
 ## Loot 
 
-### Loot Tables 
+### Unification
+- Almost Unified
+    - Added materials:
+        - Rose Gold
+        - Cast Iron
+        - Tarnished Gold
+        - Thorium
+        - Titanium
+        - Palladium
+        - Wrought Iron
 
-### Treasure & Rewards 
+### Loot Tables
+
+### Treasure & Rewards
+- Lootr
+    - Enable blast resistance
 
 ## Magic 
 

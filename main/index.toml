@@ -762,6 +762,11 @@ hash = "9178457378f5f7ee86e7bd3fa1e1e867f353722fbbe08d87bbf3dc6969de6d31"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "802f1fb3e56bb2d177c61e68dde1fc15e6a047fd8ebb00ceed363607488887bc"
+metafile = true
+
+[[files]]
 file = "mods/be-bee-queen-dragon-survival-addon.pw.toml"
 hash = "90322eb24b13b120d41b6db2f63197fa7f9a7a1e7c98d5283f6df17a11c8f5f9"
 metafile = true
@@ -2567,6 +2572,11 @@ hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "98796f38bc82aacfb155506a662df4f19a26e810962a1ca2337dd584718badcd"
 metafile = true
@@ -2609,6 +2619,11 @@ metafile = true
 [[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "6a5313607b8a2bc002c6975b3625237a233e37f84ff0b1f25c886f3c1832908b"
+metafile = true
+
+[[files]]
+file = "mods/vending-block-restocked.pw.toml"
+hash = "6c8f93a4334e7b17003bf02da234ff424cbe6fb9eac66dae135b7859f34e1190"
 metafile = true
 
 [[files]]

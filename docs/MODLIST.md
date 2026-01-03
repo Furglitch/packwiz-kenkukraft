@@ -525,7 +525,9 @@
 - 
 
 ### Shops & Markets
-- 
+- Bartering Station
+- Trading Post
+- Vending Block: Restocked
 
 ### Currency
 - 

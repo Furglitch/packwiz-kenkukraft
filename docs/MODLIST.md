@@ -352,16 +352,28 @@
 - 
 
 ### Peaceful Mobs
-- 
+- Aquaculture 2
+- Chocco's Mobs
+- Earth Mobs
+- Friends & Foes
 
 ### Hostile Mobs
-- 
+- Creeper Overhaul
+- Enderman Overhaul
+- Fungal Infection: Spore
+- Mowzie's Mobs
+- Variants & Ventures
 
 ### Villagers
 - Chef's Delight
+- Guard Villagers
+- More Villagers : Re-employed
+- Villager Names
 
 ### Bosses
-- 
+- Bosses of Mass Destruction
+- Bosses'Rise
+- L_Ender's Cataclysm
 
 ### Mob Behavior
 - 

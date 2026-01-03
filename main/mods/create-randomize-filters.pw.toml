@@ -1,0 +1,13 @@
+name = "Create: Randomize Filters"
+filename = "createrandomizefilters-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9646f449fb53983bde4354579d9e39d72167951b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7366187
+project-id = 1396762

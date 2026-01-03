@@ -1,0 +1,13 @@
+name = "BjornLib"
+filename = "bjornlib-neoforge-1.0.72-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92d52f491c61e822330998cc691cb23d780fbc8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6611377
+project-id = 920448

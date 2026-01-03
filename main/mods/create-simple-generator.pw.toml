@@ -1,0 +1,13 @@
+name = "Create: Simple Generator"
+filename = "create_simple_generator-1.0.8-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66e0e83c419f2b5e3b71e12fec46f0adc2899454"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6786147
+project-id = 1236032

@@ -1,0 +1,13 @@
+name = "Extended Oritech"
+filename = "ExtendedOritech-1.1.2+build.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4e9f68daba40746e8ad6cf753bdf0072bf308ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7305507
+project-id = 1390979

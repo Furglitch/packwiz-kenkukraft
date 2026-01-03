@@ -25,6 +25,7 @@
 ## Modpack Development Tools
 
 ## Performance
+- Create: Threaded Trains
 
 ## Interface
 
@@ -46,6 +47,7 @@
 
 ### Inventory & Crafting
 - EMI
+    - EMI: Create Schematics
     - EMI Enchanting
     - EMI Extra Integrations
     - EMI Professions
@@ -262,6 +264,10 @@
 - Botany Pots
 - Croptopia
 - Farmer's Delight
+    - Create: Central Kitchen
+    - Create: Food
+    - Create: Integrated Farming
+    - Create: Slice & Dice
 - Pam's Harvestcraft 2 Suite
 
 #### Crops
@@ -316,6 +322,7 @@
 - Iron's Spells 'n Spellbooks
 	- Alshanex's Familiars
 	- Cataclysm: Spellbooks
+    - Create: Wizardry
 	- Dark Doppelganger
 	- Crystal Chronicles - Iron's Spells 'n Spellbooks
 	- Iron's Gems 'n Jewelry
@@ -403,8 +410,10 @@
 	- Applied Schematicannon
 	- Ars Énergistique
 	- Create Stock Bridge
+    - Create: AE2 Recipes
 	- Mega Cells
 - Tom's Simple Storage
+    - Create Contraption Terminals
 
 ### Item Sorting
 - Trash Cans
@@ -427,7 +436,20 @@
 - 
 
 ### Machinery
-- 
+- Compact Machines
+- Mekanism
+    - Just Enough Mekanism Multiblocks
+    - MekaGenJei
+    - MekaJadeUpgrades
+    - Mekanism Additions
+    - Mekanism Covers
+    - Mekanism Generators
+    - Mekanism Tools
+    - More Mekanism Processing
+- Oritech
+    - Create Oritech Compat
+    - Extended Oritech
+    - Oritech Things
 
 ### Automation
 - 
@@ -436,10 +458,44 @@
 - 
 
 ### Pipes & Transport
-- 
+- Pipez
 
 ### Create Addons
-- 
+- Create Crafts & Additions
+- Create Encased
+- Create Goggles (Create Plus)
+- Create Jetpack
+- Create Mechanical Extruder
+- Create Mechanical Spawner
+- Create Stuff 'N Additions
+- Create: Bells & Whistles
+- Create: Bitterballen
+- Create: Chimneys
+- Create: Connected
+- Create: Curios Jetpack & Backtank
+- Create: Design n' Decor
+- Create: Dragons Plus
+- Create: Dreams n' Desires
+- Create: EasyFilling
+- Create: Enchantment Industry
+- Create: Ender Link
+- Create: Extended Wrenches
+- Create: Filters Anywhere
+- Create: Fishing Bobber Detector
+- Create: Let The Adventure Begin
+- Create: Metalwork
+- Create: Misc & Things
+- Create: Mobile Packages
+- Create: New Beginnings
+- Create: Oxidized
+- Create: Pattern Schematics
+- Create: Randomize Filters
+- Create: Simple Generator
+- Create: Sound of Steam
+- Create: The Factory Must Grow
+- Create: Trading Floor
+- Create: Ultimate Factory
+- Create: Vibrant Vaults
 
 ## Transport
 - 
@@ -533,6 +589,7 @@
 	- Dragon Survival - Griffin Addon
 	- Tundra Dragon (Dragon Survival Add-On)
 	- Wing Kirin - Dragon Survival Addon
+- Shrink
 
 ### Emotes & Animations
 - 
@@ -541,7 +598,7 @@
 - Skin Layers 3D Ⓒ
 
 ## Resource Packs
-- 
+
 ### Textures
 - 
 

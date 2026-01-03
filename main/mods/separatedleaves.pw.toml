@@ -1,0 +1,13 @@
+name = "Separated Leaves"
+filename = "separatedleaves-2.6.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "121e22a0fe9ab863bed9d31441770fdbde3b1d1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6299775
+project-id = 905482

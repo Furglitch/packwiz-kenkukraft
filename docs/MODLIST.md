@@ -343,7 +343,10 @@
 - Enchanting Infuser
 
 ## Mining
-- 
+- FTB Ultimine
+- GravelMiner
+- Leaves Be Gone
+- Separated Leaves
 
 ## Mobs
 - 

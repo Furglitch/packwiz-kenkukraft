@@ -1,0 +1,13 @@
+name = "GravelMiner"
+filename = "gravelminer-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52f37b4e1fe786a424c2c1ae7b62e68a7428324e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5623486
+project-id = 244759

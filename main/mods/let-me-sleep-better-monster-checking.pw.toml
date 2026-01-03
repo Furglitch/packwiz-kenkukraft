@@ -1,0 +1,13 @@
+name = "Let Me Sleep - Better Sleep Check"
+filename = "letmesleep-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88cee30c1758ad05a1f0c12d771e383ab1275f73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5796610
+project-id = 1111436

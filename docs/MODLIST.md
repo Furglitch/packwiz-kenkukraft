@@ -209,12 +209,12 @@
 - Etched
 - Handcrafted
 - Lucky's Showcase
+- MmmMmmMmmMmm (Target Dummy)
 - MultiBeds
 - Supplementaries
 - The Block Box
 
 ## Combat
-- 
 
 ### Combat Mechanics
 - Better Combat
@@ -222,14 +222,13 @@
 - Critical Strike
 
 ### Skills & Abilities
+- DarkSleep
+- Let Me Sleep
 - Pufferfish's Skills
     - Default Skill Trees
     - Pufferfish's Attributes
     - Skill Tree (RPG Series)
     - More RPG Classes - Skill Tree
-
-### PvP Enhancements
-- 
 
 ## Agriculture
 - 

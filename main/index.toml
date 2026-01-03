@@ -217,6 +217,10 @@ file = "config/leaky.json"
 hash = "ee5d331e53643f4fe05a9bd42f30da19efe4b1e9cac68aae76da30635bf4004e"
 
 [[files]]
+file = "config/letmesleep-common.toml"
+hash = "411cb74de700ec715ac22388a32e75f39c0cbd1f875bfdfebf33d21b55e3f59e"
+
+[[files]]
 file = "config/limitedchunks.json"
 hash = "1a5929cfa7c9ad1b2842fd5ea9aa0d107785a1d4b9e92ba62ffac9e3f7245947"
 
@@ -710,6 +714,11 @@ hash = "dcc2615adce2babd45d4a14720fd918fb0dec3422e59d00d50ef800205632014"
 metafile = true
 
 [[files]]
+file = "mods/darksleep.pw.toml"
+hash = "157fde2866101ad91b70f154a5c51156308e30e4408dc19045762865a8f750e3"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "539513ed35cebfaa099397dde2d1936d38489c8685e96a902211f60cecee82c4"
 metafile = true
@@ -1035,6 +1044,11 @@ hash = "f6edefa60427039b2253f5aa3166ab7d19dc445004f7f781321d8e0f70437d19"
 metafile = true
 
 [[files]]
+file = "mods/let-me-sleep-better-monster-checking.pw.toml"
+hash = "a0ba89a662cf8ef8c473bd822a5e287517b2f2512616042133a91d0941432397"
+metafile = true
+
+[[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
 metafile = true
@@ -1117,6 +1131,11 @@ metafile = true
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
 hash = "e8090f80b8f3e7827b7db95c90018520e3b7d57b19e7a3e4760078acd20086dd"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "27f11f64ea613816bf58ac8f661bdea47402edf6e0060c8137b38b4b32dfcb9f"
 metafile = true
 
 [[files]]
@@ -1381,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "9da1b17e718cab38e76ce48fbecbdaa544c27eb53f82bb4ce9b8342b61dc5bcc"
+hash = "921b911bb9c5315423373c73f7dcbc3a5b02e6970fae52cd25154b7918640b89"
 metafile = true
 
 [[files]]

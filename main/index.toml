@@ -488,6 +488,11 @@ hash = "8e3c94d901d27042e160a6f618f1574c5e644defe10d6fb9ad486c9f2dbfce5d"
 metafile = true
 
 [[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "478021b36f882b570e52c308e8e9aab212a9968fc90ff6e5154f071310116a22"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
@@ -728,6 +733,16 @@ hash = "fb11afa9913e1278c2682ccf87088b6b1b7522d54b05b8735ae9c3e25caea6c5"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "e95f6e9384ea06e17022b7f03c9595d68e264f1af13134d27addab0bf10cf704"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "16e8dd4fab7436b972f80dd78e9468cde229a75c4ccbc51d834e89b6b6ddeff3"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight-croptopia.pw.toml"
 hash = "484fb38e825f7b42b82fb3bf5493d3615bfc482ba5c5b5373223866a1227d583"
 metafile = true
@@ -840,6 +855,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
 metafile = true
 
 [[files]]
@@ -1063,6 +1083,11 @@ hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "3f6a27001eb45ce6296829cfa9d7d41a0bd304914217f8dc3196feaa9030f963"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "bcc93c628aba3bf54ed4d19c7943e1f49138643644b41d6dcb748b1a4ea31c0a"
 metafile = true
@@ -1100,6 +1125,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "f3c65260852c67a57fe761cde9fa9340525857942057379d4c9e492591507c65"
+metafile = true
+
+[[files]]
+file = "mods/just-better-recipes.pw.toml"
+hash = "51ea039172465b662b19defa36525f3da23093764ec0e510c3df2f6aeed94937"
 metafile = true
 
 [[files]]
@@ -1513,6 +1543,11 @@ hash = "3ee01a32b6309256f083a8c67fc458e6745fc730c8abd86faa4a304333520064"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "bb19f71c8e391ee5103e29ba19baf7a9a1ee6912d641a735c033740154f3dba9"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -1705,6 +1740,11 @@ metafile = true
 [[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "6a5313607b8a2bc002c6975b3625237a233e37f84ff0b1f25c886f3c1832908b"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
 metafile = true
 
 [[files]]

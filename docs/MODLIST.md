@@ -37,6 +37,7 @@
     - Jade Addons
 - Leave My Bars Alone
 - Overflowing Bars
+- Scholar
 - Stylish Effects
 
 ### Menus
@@ -97,6 +98,7 @@
 ### Visual Effects
 - Ambient Environment Ⓒ
 - ItemPhysic Lite Ⓒ
+- Visual Workbench
 
 ### Shaders & Lighting
 - Sodium/Embeddium Dynamic Lights Ⓒ
@@ -266,17 +268,20 @@
 - Botany Trees
 
 ## Crafting
-- 
 
 ### Recipe Mods
-- 
+- Just Better Recipes
 
 ### Crafting Systems
-- 
+- Crafting Tweaks
 
 ### Processing
-- 
-- 
+- Iron Furnaces
+
+### Tools
+- Easy Anvils
+- Crafting on a Stick
+- Anvil Restoration
 
 ## Loot
 - 

@@ -498,7 +498,9 @@
 - Create: Vibrant Vaults
 
 ## Transport
-- 
+
+### Movement
+- Jump Over Fences
 
 ### Mounts & Vehicles
 - 
@@ -507,10 +509,11 @@
 - 
 
 ### Teleportation
-- 
+- Waystones
 
 ### Flight
-- 
+- Immersive Aircraft
+  - Man of Many Planes
 
 ### Ships & Boats
 - 

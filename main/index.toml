@@ -1682,6 +1682,11 @@ hash = "6c275f621e7c3895ed34ee0e5bf847916a4285ac0f6452982ad6dccd5dd59851"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e01a9920aa95f8bcea40bf8e56eb4fbc43b9f554375fd58d86537d3b7e19c943"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
@@ -1744,6 +1749,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "f3c65260852c67a57fe761cde9fa9340525857942057379d4c9e492591507c65"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+hash = "33c677f35f4d1f87cdf68b2d89372d5d6d608dd85291313637221a71bd2faa0e"
 metafile = true
 
 [[files]]
@@ -1899,6 +1909,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "41ea4b48ae8ecb1f0a92183f45f1d237b5b83a6007bbf73d80c60324d9a93358"
 metafile = true
 
 [[files]]
@@ -2609,6 +2624,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "aab0477b3088e321845e2ca11dc7480d2a032012016b60f40de84be8709921f6"
 metafile = true
 
 [[files]]

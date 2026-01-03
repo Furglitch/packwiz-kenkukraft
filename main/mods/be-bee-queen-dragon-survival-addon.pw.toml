@@ -1,0 +1,13 @@
+name = "Be Bee Queen - Dragon Survival Addon"
+filename = "bee_queen_ds-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7c8c5fe86c57ca5a2628af33350b29262a15d0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7239335
+project-id = 1372834

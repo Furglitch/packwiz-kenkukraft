@@ -9,3 +9,5 @@
 
 # Eclude precommit hooks config
 .pre-commit-config.yaml
+
+docs/ORIGINAL_*.md

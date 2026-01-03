@@ -1,0 +1,13 @@
+name = "Crystcursed Dragon (Dragon Survival Add-On)"
+filename = "crystcursed_dragon-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9353f51535129566642860fbfe04f3289b0bc9df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7391616
+project-id = 1379573

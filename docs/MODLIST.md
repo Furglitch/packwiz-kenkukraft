@@ -83,6 +83,7 @@
 ### Keybinding Management
 
 ## Utility & Tools
+- Patchouli
 
 ## Audio & Visuals
 - Distant Horizons
@@ -158,6 +159,7 @@
 	- Relics
 	- Relics: Arcane Abilities
 	- Relics: Artifacts Compat
+    - Reliquified Ars Nouveau
 
 #### Backpacks
 - Backpacked
@@ -224,6 +226,7 @@
     - Pufferfish's Attributes
     - Skill Tree (RPG Series)
     - More RPG Classes - Skill Tree
+    - Iron's Spells 'n Spellbooks Dynamic Skill Trees
 
 ### Death & Respawning
 - Corail Tombstone
@@ -245,6 +248,7 @@
 
 #### Food Variety
 - Arbitrary Delight
+- Ars Nouveau's Flavors and Delight
 - Barbeque's Delight
 - Brewin' And Chewin'
 - Cocktails Delight
@@ -300,10 +304,27 @@
 - Lootr
 
 ## Magic
-- 
 
 ### Spell Systems
-- 
+- Ars Nouveau
+	- Ars Additions
+	- Ars Affinity
+	- Ars Artillery
+	- Ars Creo
+	- Ars Elemancy
+	- Ars Elemental
+	- Ars Polymorphia
+	- Ars Unification
+	- Not Enough Glyphs
+	- StarbuncleMania
+- Iron's Spells 'n Spellbooks
+	- Alshanex's Familiars
+	- Cataclysm: Spellbooks
+	- Dark Doppelganger
+	- Crystal Chronicles - Iron's Spells 'n Spellbooks
+	- Iron's Gems 'n Jewelry
+	- GTBC's Spellbooks - Iron's Spells Addon
+	- T.O Magic 'n Extras - Iron's Spells Addon
 
 ### Magical Items
 - 
@@ -312,13 +333,14 @@
 - 
 
 ### Enchanting
-- 
 
 #### Enchantment Expansion
-- 
+- NeoEnchant+
+	- BeyondEnchant
 
 #### Enchanting Tables & Systems
-- 
+- Easy Magic
+- Enchanting Infuser
 
 ## Mining
 - 
@@ -462,7 +484,17 @@
 - 
 
 ### Player Customization
-- 
+- Dragon Survival
+	- Additional Dragons
+	- Aether Dragon - Dragon Survival addon
+	- Astral Dragon
+	- Be Bee Queen - Dragon Survival Addon
+	- Brain Stealer Dragon - Addon
+	- Crystcursed Dragon (Dragon Survival Add-On)
+	- Desert Claw - Dragon Survival Addon
+	- Dragon Survival - Griffin Addon
+	- Tundra Dragon (Dragon Survival Add-On)
+	- Wing Kirin - Dragon Survival Addon
 
 ### Emotes & Animations
 - 

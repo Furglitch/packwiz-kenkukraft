@@ -1,0 +1,13 @@
+name = "Brain Stealer Dragon - Addon"
+filename = "brain_stealer_dragon-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93a285456fc324da5941c88556f1eb19a6ed21c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7240315
+project-id = 1351163

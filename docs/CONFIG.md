@@ -207,6 +207,8 @@
 ## Magic 
 
 ### Spell Systems 
+- Ars Nouveau
+    - Remove starting book
 
 ### Magical Items 
 
@@ -314,7 +316,11 @@
 
 ## Cosmetics & Customization 
 
-### Player Customization 
+### Player Customization
+- Dragon Survival
+    - Disable menu on start
+    - Save growth when switching species
+    - Disable stealing from villagers (unconfirmed)
 
 ### Emotes & Animations 
 

@@ -1,0 +1,13 @@
+name = "Dark Doppelganger : Iron's Spells and Spellbooks Addon"
+filename = "darkdoppelganger-3.1.6-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d1123424afd8a367c404d4df5a327ddeaf6c18f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6671169
+project-id = 1110803

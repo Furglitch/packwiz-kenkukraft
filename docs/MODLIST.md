@@ -228,6 +228,7 @@
 
 ### Death & Respawning
 - Corail Tombstone
+- Village Spawn Point
 
 ## Agriculture
 - 
@@ -519,7 +520,6 @@
 - 
 
 ## Trading
-- 
 
 ### Economy Systems
 - 
@@ -533,22 +533,34 @@
 - 
 
 ## Exploration
-- 
 
 ### Adventure & Quests
 - FTB Quests
 
 ### Compasses & Maps
-- 
+- Nature's Compass
+- Explorer's Compass
 
 ## World Generation
-- 
 
 ### Terrain
-- 
+- Tectonic
+- River Redux
+- Underground Rivers
 
 ### Biomes
-- 
+- Biomes O' Plenty
+- Oh The Biomes We've Gone
+- Regions Unexplored
+- Terralith
+    - Terralith Restoned
+
+### Caves
+- YUNG's Better Caves
+- YUNG's Cave Biomes
+
+### Ore Generation
+- Large Ore Deposits
 
 ### Structures
 - 

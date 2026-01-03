@@ -812,6 +812,11 @@ hash = "bcc675a084bfaef51958262661ab35240dedd868f86ca0847bb2dbd01e3fab23"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "2365220deb4cf03f5b6bab7e52fe61ff4f3532f37c2e9ed0e78a0855ef3613ac"
+metafile = true
+
+[[files]]
 file = "mods/bjornlib.pw.toml"
 hash = "8d1256e9a5f2022ca0f49cca2d6a2609eacc41a00800e0d419217c9a328110e2"
 metafile = true
@@ -974,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "80fc5d7af0f1e2ec6935f15d4c98c6958db494505c3b6036193ee3d13f7643ad"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "fbdd2d7171e9100806bd5db5f10240e7609550efeba69796e8765fbefaeed1fd"
 metafile = true
 
 [[files]]
@@ -1482,6 +1492,11 @@ hash = "ea0136da3e600ffb5d0635109d295e3d7a46f7005722a4373e3b178d5ac7540e"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
+metafile = true
+
+[[files]]
 file = "mods/extended-oritech.pw.toml"
 hash = "bf7c284a6f1f669cc4d1c0492a720fd19ff52360ae0dd4e5bc69ef8a656e2c44"
 metafile = true
@@ -1562,6 +1577,11 @@ hash = "02c1d44b123ff9be9ba33cd89a77d2fe3136cb25b2dd037838d87cea600da355"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "80a692427106934e28d22c655d51e136cc5e9b3793139c63b7b014a4b6c9a11d"
 metafile = true
@@ -1634,6 +1654,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
 metafile = true
 
 [[files]]
@@ -1807,6 +1832,11 @@ hash = "7fbe3225c134e823a07f3aecedace39fe866f327671ecca928f134399b94008d"
 metafile = true
 
 [[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
+metafile = true
+
+[[files]]
 file = "mods/leaky.pw.toml"
 hash = "62574e74c238814dee84398b1caa0f19f7e3f381041b4f17cb1853815047ab5d"
 metafile = true
@@ -1844,6 +1874,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "3ac8c76f4cb2f1200d60fa2e74108d9cb9355346ddb8a4a735134dfac7b77136"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "92f8cdfdc3e3f14a3cb6b35b639c955c87bed7d3089485e4e2a40fb50f70c94b"
 metafile = true
 
 [[files]]
@@ -2067,6 +2102,11 @@ hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
+metafile = true
+
+[[files]]
 file = "mods/nemos-inventory-sorting.pw.toml"
 hash = "fe5467ddf211e409c7bbbe1683409c509b506668f19a48d0a290dc69a8f0c394"
 metafile = true
@@ -2114,6 +2154,16 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "62829a66eca07e93c67631f2d884a4a00adb91440b349e4e7353f205eeb5f13e"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "df3d76e31b1eac6927713c77421275d8fd1858ad1f86fa6986fe5f74fdac13a6"
 metafile = true
 
 [[files]]
@@ -2282,6 +2332,11 @@ hash = "efc2aa72f373c5bcbeeeaab12f7882f86d2ad13ab6f47df71163260681e82b98"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "134b3bb10e0d265734eba90eaffce14804077403ca1c1a3ccfc1fc2367b1ba7e"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "76d61f91b904099d550316e100307281d34696859ada63ae1f131169e0102cc1"
 metafile = true
@@ -2309,6 +2364,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/river-redux.pw.toml"
+hash = "95303b9359ea6f0c49161dcc641dffce1eddbef7596cbc96f25f1e2efbcb3551"
 metafile = true
 
 [[files]]
@@ -2537,6 +2597,26 @@ hash = "04bb52ee676beccd4ee7588d208d73013b9f91b455f151a7d82641b02958a413"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f1b4f0080de1ab714d033e2f9c492073cc1f41de3c44337a1407dbb81b0e5054"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/terralith-restoned.pw.toml"
+hash = "95c8b6156f2f6b9d7d138babfa2c3ec6223052a70224ee4d6eb67f58315a20ce"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
+metafile = true
+
+[[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "c8642cf1ac15e24a81e162845554b22ad392989e3045cf4966085ffaf48c5071"
 metafile = true
@@ -2597,6 +2677,11 @@ hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
+file = "mods/underground-rivers.pw.toml"
+hash = "146163421ece1d8d1547dbd1f8140b8fd34bf10d4ddd23808c5fbb22dbbf7d93"
+metafile = true
+
+[[files]]
 file = "mods/underlay.pw.toml"
 hash = "3de926a3db97baed6e63d03761d9b1f697f858922f350a297b8cde7925d3e874"
 metafile = true
@@ -2624,6 +2709,11 @@ metafile = true
 [[files]]
 file = "mods/vending-block-restocked.pw.toml"
 hash = "6c8f93a4334e7b17003bf02da234ff424cbe6fb9eac66dae135b7859f34e1190"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "51e571c72327184c573943f19502d5050bdbeafb7072776df8d10bf3607a88e1"
 metafile = true
 
 [[files]]
@@ -2674,4 +2764,19 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "10815a3aa6dc436f8aa9b86dbb68368fbbcaff26f15fb06113b519b678e1a480"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "895288a3b51192f27cbf3e7e7ebfefd0d31e5660157864a4da40828d5c1dac05"
 metafile = true

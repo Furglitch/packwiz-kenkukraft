@@ -1867,6 +1867,11 @@ hash = "2cba8e3227209edcb88307aa9cddfb6362dad9b9ab96596ad519913f8e60a196"
 metafile = true
 
 [[files]]
+file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
+hash = "0a11dfdd0fbfcdd535bc610fb2d9b9694eb13c40b757c4a686228d2b7da6fb5e"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
 metafile = true

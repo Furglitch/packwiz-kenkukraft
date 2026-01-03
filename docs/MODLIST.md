@@ -160,6 +160,7 @@
 	- Relics: Arcane Abilities
 	- Relics: Artifacts Compat
     - Reliquified Ars Nouveau
+    - Reliquified L_Ender's Cataclysm
 
 #### Backpacks
 - Backpacked

@@ -448,7 +448,7 @@
 - 
 
 ### Skins & Models
-- 3D Skin Layers Ⓒ
+- Skin Layers 3D Ⓒ
 
 ## Resource Packs
 - 

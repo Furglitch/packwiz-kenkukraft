@@ -23,10 +23,8 @@
     - Removed Resource Packs
 
 ## Modpack Development Tools
-- 
 
 ## Performance
-- 
 
 ## Interface
 
@@ -82,10 +80,8 @@
 - What Are They Up To?
 
 ### Keybinding Management
-- 
 
 ## Utility & Tools
-- 
 
 ## Audio & Visuals
 - Distant Horizons
@@ -113,10 +109,8 @@
 - Snow Under Trees
 
 ### Ambience
-- 
 
 ### Skybox
-- 
 
 ## Armory
 - Archers (RPG Series)
@@ -141,7 +135,6 @@
 - Axes Are Weapons
 
 #### Ranged Weapons
-- 
 
 #### Firearms
 - PointBlank: Jelly
@@ -232,30 +225,45 @@
 
 ## Agriculture
 - 
-
-### Farming
-- 
-
 ### Animal Husbandry
-- 
+- No Animal Tempt Delay
 
 ### Beekeeping
-- 
 
 ### Food & Cooking
-- 
-
-#### Crops
-- 
 
 #### Recipes & Cooking Systems
-- 
+- Cooking for Blockheads
+- Delightful Creators
+- Farming for Blockheads
+- Storage Delight
 
 #### Food Variety
-- 
+- Arbitrary Delight
+- Barbeque's Delight
+- Brewin' And Chewin'
+- Cocktails Delight
+- Croptopia Delight
+- Cultural Delights
+- Ender's Delight
+- Extra Delight
+- More Delight
+- My Nether's Delight
+- Ocean's Delight
+- Rustic Delight
+- Veggies Delight
+
+### Farming
+- Botany Pots
+- Croptopia
+- Farmer's Delight
+- Pam's Harvestcraft 2 Suite
+
+#### Crops
+- Hey Berry! SHUT UP
 
 ### Forestry
-- 
+- Botany Trees
 
 ## Crafting
 - 
@@ -313,7 +321,7 @@
 - 
 
 ### Villagers
-- 
+- Chef's Delight
 
 ### Bosses
 - 
@@ -337,7 +345,8 @@
 - 
 
 ### Bulk Storage
-- 
+- Crate Delight
+    - Crate Delight: Croptopia
 
 ## Technology
 - 

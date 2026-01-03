@@ -154,19 +154,21 @@
 
 ## Agriculture 
 
-### Farming 
-
 ### Animal Husbandry 
 
 ### Beekeeping 
 
 ### Food & Cooking 
 
-#### Crops 
-
 #### Recipes & Cooking Systems 
 
 #### Food Variety 
+
+### Farming 
+- Farmer's Delight
+    - Disable the Recipe Book
+
+#### Crops 
 
 ### Forestry 
 

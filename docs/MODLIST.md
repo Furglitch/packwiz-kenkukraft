@@ -162,12 +162,6 @@
     - Reliquified Ars Nouveau
     - Reliquified L_Ender's Cataclysm
 
-#### Backpacks
-- Backpacked
-- Ender Pack
-- Sophisticated Backpacks
-- Traveler's Backpack
-
 #### Cosmetics
 - Cosmetic Armor Reworked
 - MinecraftCapes Ⓒ
@@ -197,6 +191,7 @@
 - OpenBlocks Elevator
 - Rechiseled
 	- Chipped
+	- Rechiseled: AE2
 	- Rechiseled: Chipped
 	- Rechiseled: Create
 
@@ -383,20 +378,47 @@
 - 
 
 ## Storage
-- 
 
 ### Chests & Containers
-- 
+- Bank Storage
+- Ender Storage 1.8+
+    - Create Ender STorage
+- Functional Storage
+    - More Functional Storage
+- Sophisticated Storage
+	- Sophisticated Storage in Motion
+	- Sophisticated Storage Create Integration
+- Tank Storage
 
 ### Storage Networks
-- 
+- Applied Energistics 2
+	- AE2: Crafting Tree
+	- AE2 JEI Integration
+	- AE2 QoL Recipes
+	- AEInfinityBooster
+	- Applied Energistics 2 Wireless Terminals
+	- Applied Experienced
+	- Applied Flux
+	- Applied Mekanistics
+	- Applied Schematicannon
+	- Ars Énergistique
+	- Create Stock Bridge
+	- Mega Cells
+- Tom's Simple Storage
 
 ### Item Sorting
-- 
+- Trash Cans
 
 ### Bulk Storage
 - Crate Delight
     - Crate Delight: Croptopia
+
+### Backpacks
+- Backpacked
+- Ender Pack
+- Sophisticated Backpacks
+  - Sophisticated Backpacks Create Integration
+- Traveler's Backpack
 
 ## Technology
 - 

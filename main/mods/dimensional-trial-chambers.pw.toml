@@ -1,0 +1,13 @@
+name = "Dimensional Trial Chambers"
+filename = "dimensionaltrialchambers-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3f0cc776a7c1bf99581c73a1284acc3f09d8523"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5846114
+project-id = 1127637

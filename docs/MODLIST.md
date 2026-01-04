@@ -563,22 +563,54 @@
 - Large Ore Deposits
 
 ### Structures
-- 
 
 #### Overworld Surface
-- 
+- Additional Structures
+- AdoraBuild: Structures
+- Dungeons and Taverns
+- Hopo Better Ruined Portals
+- Hopo Better Underwater Ruins
+- Mo' Structures
+- Moog's Voyager Structures
+- Moog's Soaring Structures
+- Philip's Ruins
+- Piglet Structures
+- Structory
+	- Structory: Towers
+- Underground Bunkers
+- YUNG's Bridges
+- YUNG's Extras
 
 #### Dungeons
-- 
+- Adventure Dungeons
+- Dimensional Trial Chambers
+- DnT Ancient City Overhaul
+- Dungeon Crawl
+- Luki's Crazy Chambers
+- Luki's Strongholds
+- Luki's Woodland Mansions
+- Medieval Buildings
+- Repeatable Trial Vaults
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Ocean Monuments
+- YUNG's Better Witch Huts
 
 #### Villages
-- 
+- It Takes a Pillage Continuation
+- Tax' Village Architect
 
 #### The Nether
-- 
+- Medieval Buildings - Nether Edition
+- Moog's Nether Structures
+- YUNG's Better Nether Fortresses
 
 #### The End
-- 
+- Medieval Buildings - End Edition
+- Moog's End Structures
+- YUNG's Better End Island
 
 ### Dimensions
 

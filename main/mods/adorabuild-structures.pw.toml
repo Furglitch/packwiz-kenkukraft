@@ -1,0 +1,13 @@
+name = "AdoraBuild: Structures"
+filename = "adorabuild-structures-2.11.0-neoforge-1.21.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21d572284bb67014b1df5cdeb66acd04c2c17ef3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7294438
+project-id = 883352

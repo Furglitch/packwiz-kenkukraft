@@ -1,0 +1,13 @@
+name = "Piglet Structures"
+filename = "Piglet_Structures_1.21.1(ver.1.456).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85d5a8d76f791595b857a5add41496191bb5ed9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6302795
+project-id = 965511

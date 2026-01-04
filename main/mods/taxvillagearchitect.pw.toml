@@ -1,0 +1,13 @@
+name = "Tax' Village Architect"
+filename = "TaxVillageArchitect+M.1.21.1+NeoF.1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "209baa25a77a84c2a6daf234f7ccf6c6e22be8d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5800903
+project-id = 914001

@@ -1,0 +1,13 @@
+name = "Unusual End"
+filename = "unusualend-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac31c35f8616ebb5015965829412de3b304c9c9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6896554
+project-id = 617757

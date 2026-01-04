@@ -1,0 +1,13 @@
+name = "Aether Ruined Portals"
+filename = "aether-ruined-portal-3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3897e888304f85e3676f5ad9fba3c6efb53987b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7306337
+project-id = 1388747

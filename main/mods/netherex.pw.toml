@@ -1,0 +1,13 @@
+name = "NetherEx"
+filename = "NetherEx-neoforge-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc4032ecf6f174fd03676bcecee50e187d0f13d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6988554
+project-id = 248039

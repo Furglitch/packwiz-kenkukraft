@@ -615,16 +615,26 @@
 ### Dimensions
 
 #### The Nether
-- 
+- Eternal Nether
+- Incendium
+- NetherEx
 
 #### The End
-- 
+- End Remastered
+- Endercon
+- Nullscape
+- Unusual End
 
 #### New Dimensions
-- 
+- The Aether
+	- Aether Addon: Protect Your Moa
+	- Aether Ruined Portals
+	- Aether Villages
+	- Deep Aether
+	- Explore Ruins: The Aether - Dungeons & Structures
+- Deeper and Darker
 
 ## Cosmetics & Customization
-- 
 
 ### Player Customization
 - Dragon Survival

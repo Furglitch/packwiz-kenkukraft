@@ -11,8 +11,6 @@
 		- BisectHosting Server Integration Menu
 		- Loading Backgrounds
 
-## Modpack Development Tools 
-
 ## Performance 
 
 ## Interface 

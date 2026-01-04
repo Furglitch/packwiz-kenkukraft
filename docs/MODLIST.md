@@ -229,7 +229,7 @@
 - Village Spawn Point
 
 ## Agriculture
-- 
+
 ### Animal Husbandry
 - No Animal Tempt Delay
 
@@ -329,10 +329,8 @@
 	- T.O Magic 'n Extras - Iron's Spells Addon
 
 ### Magical Items
-- 
 
 ### Rituals & Alchemy
-- 
 
 ### Enchanting
 
@@ -351,7 +349,6 @@
 - Separated Leaves
 
 ## Mobs
-- 
 
 ### Peaceful Mobs
 - Aquaculture 2
@@ -378,10 +375,8 @@
 - L_Ender's Cataclysm
 
 ### Mob Behavior
-- 
 
 ### Pet & Companion Mods
-- 
 
 ## Storage
 
@@ -429,10 +424,8 @@
 - Traveler's Backpack
 
 ## Technology
-- 
 
 ### Power Generation
-- 
 
 ### Machinery
 - Compact Machines
@@ -451,10 +444,8 @@
   - Oritech Things
 
 ### Automation
-- 
 
 ### Computers & Programming
-- 
 
 ### Pipes & Transport
 - Pipez
@@ -502,10 +493,8 @@
 - Jump Over Fences
 
 ### Mounts & Vehicles
-- 
 
 ### Rails & Minecarts
-- 
 
 ### Teleportation
 - Waystones
@@ -515,12 +504,10 @@
   - Man of Many Planes
 
 ### Ships & Boats
-- 
 
 ## Trading
 
 ### Economy Systems
-- 
 
 ### Shops & Markets
 - Bartering Station
@@ -528,7 +515,6 @@
 - Vending Block: Restocked
 
 ### Currency
-- 
 
 ## Exploration
 
@@ -650,7 +636,6 @@
 - Shrink
 
 ### Emotes & Animations
-- 
 
 ### Skins & Models
 - Skin Layers 3D Ⓒ
@@ -658,19 +643,13 @@
 ## Resource Packs
 
 ### Textures
-- 
 
 ### Sounds
-- 
 
 ### Fonts
-- 
 
 ### Animations
-- 
 
 ## Shader Packs
-- 
 
 ## Data Packs
-- 

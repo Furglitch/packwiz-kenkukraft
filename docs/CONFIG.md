@@ -2,14 +2,14 @@
 
 ## Base
 - More FPS [FORGE]
-    - Config Changes:
-        - Chunky
-            - Enabled "Continue On Restart"
-    - Removed Configs:
-        - FancyMenu
-        - AutoMessage
-        - BisectHosting Server Integration Menu
-        - Loading Backgrounds
+	- Config Changes:
+		- Chunky
+			- Enabled "Continue On Restart"
+	- Removed Configs:
+		- FancyMenu
+		- AutoMessage
+		- BisectHosting Server Integration Menu
+		- Loading Backgrounds
 
 ## Modpack Development Tools 
 
@@ -19,51 +19,51 @@
 
 ### HUD 
 - Better Creative Mode Tabs
-    - Remove default tab priority
+	- Remove default tab priority
 - Counter (Day & Death)
-    - Adjusted positions
-    - Enabled own death counter by default
-    - Disabled emojis
+	- Adjusted positions
+	- Enabled own death counter by default
+	- Disabled emojis
 - Stylish Effects
-    - Adjust position and scale
+	- Adjust position and scale
 
 ### Menu/GUI 
 
 ### Inventory & Crafting
 - EMI
-    - Set source to Creative+Registered
-    - Uncenter search bar
-    - Set recipe screen dimensions to 2160x256
-    - Add craft history to left sidebar
-    - Add lookup history to right sidebar
+	- Set source to Creative+Registered
+	- Uncenter search bar
+	- Set recipe screen dimensions to 2160x256
+	- Add craft history to left sidebar
+	- Add lookup history to right sidebar
 
 ### Minimap & Navigation 
 - JourneyMap
-    - Disable first opening message
-    - Set shape to square
-    - Set size to 20
-    - Disable 'Move Effect Icons'
+	- Disable first opening message
+	- Set shape to square
+	- Set size to 20
+	- Disable 'Move Effect Icons'
 - FTB Chunks
-    - Increase chunk count to 1024
-    - Increase loaded chunk count to 64
-    - Set party limit mode to 'sum'
+	- Increase chunk count to 1024
+	- Increase loaded chunk count to 64
+	- Set party limit mode to 'sum'
 
 ### Camera & Controls 
 - OK Zoomer
-    - Spyglass Mode: Replace Zoom
-    - Zoom Overlay: Vignette
-    - Enable Spyglass Sounds
-    - Enable Scroll Sounds
+	- Spyglass Mode: Replace Zoom
+	- Zoom Overlay: Vignette
+	- Enable Spyglass Sounds
+	- Enable Scroll Sounds
 
 
 ### Tooltips & Info
 - Enchantment Descriptions
-    - Require keybind to show descriptions
+	- Require keybind to show descriptions
 - Obscure Tooltips
 
 ### Chat & Social
 - Chat Heads
-    - Position: Before List
+	- Position: Before List
 
 ### Keybinding Management
 - 
@@ -74,7 +74,7 @@
 
 ### Sound Enhancements 
 - Ambient Sounds 6
-    - Set general volume to 0.15
+	- Set general volume to 0.15
 
 ### Visual Effects 
 
@@ -82,7 +82,7 @@
 
 ### Particles 
 - Fancy Block Particles - Renewed
-    - Disable placing animation
+	- Disable placing animation
 
 ### Weather & Seasons 
 
@@ -98,17 +98,17 @@
 
 #### Melee Weapons
 - Axes Are Weapons
-    - Enable sword enchants
-    - Enable fast cobweb breaking
-    - Enable looting on ranged weapons
-    - Enable mod compat
+	- Enable sword enchants
+	- Enable fast cobweb breaking
+	- Enable looting on ranged weapons
+	- Enable mod compat
 
 #### Ranged Weapons
 - 
 
 #### Firearms
 - PointBlank: Jelly
-    - Decrease village shop spawn rate
+	- Decrease village shop spawn rate
 
 ### Accessories
 
@@ -116,13 +116,13 @@
 
 #### Backpacks
 - Backpacked
-    - Disabled Pickpocketing
-    - Disable wandering trader backpacks
+	- Disabled Pickpocketing
+	- Disable wandering trader backpacks
 - Sophisticated Backpacks
-    - Disable entity backpacks
+	- Disable entity backpacks
 - Traveler's Backpack
-    - Disable villager trade
-    - Disable entity backpacks
+	- Disable villager trade
+	- Disable entity backpacks
 
 #### Cosmetics
 
@@ -132,17 +132,17 @@
 
 ### Tools
 - TorchMaster
-    - Double torch radius
-    - Double lamp radius
-    - Quadruple flare radius
+	- Double torch radius
+	- Double lamp radius
+	- Quadruple flare radius
 - Utilitarian
-    - Increase ranges to factors of 8
+	- Increase ranges to factors of 8
 
 ### Building Blocks
 
 ### Decoration & Furniture
 - The Block Box
-    - Move to separate tab
+	- Move to separate tab
 
 ## Combat 
 
@@ -154,8 +154,8 @@
 
 ### Death & Respawning
 - Corail Tombstone
-    - Disable holiday events
-    - Halve XP loss on death
+	- Disable holiday events
+	- Halve XP loss on death
 
 ## Agriculture 
 
@@ -171,7 +171,7 @@
 
 ### Farming 
 - Farmer's Delight
-    - Disable the Recipe Book
+	- Disable the Recipe Book
 
 #### Crops 
 
@@ -189,26 +189,26 @@
 
 ### Unification
 - Almost Unified
-    - Added materials:
-        - Rose Gold
-        - Cast Iron
-        - Tarnished Gold
-        - Thorium
-        - Titanium
-        - Palladium
-        - Wrought Iron
+	- Added materials:
+		- Rose Gold
+		- Cast Iron
+		- Tarnished Gold
+		- Thorium
+		- Titanium
+		- Palladium
+		- Wrought Iron
 
 ### Loot Tables
 
 ### Treasure & Rewards
 - Lootr
-    - Enable blast resistance
+	- Enable blast resistance
 
 ## Magic 
 
 ### Spell Systems 
 - Ars Nouveau
-    - Remove starting book
+	- Remove starting book
 
 ### Magical Items 
 
@@ -284,7 +284,7 @@
 
 ### Adventure & Quests 
 - FTB Quests
-    - <!-- TODO --!>
+	- <!-- TODO --!>
 
 ### Compasses & Maps 
 
@@ -296,16 +296,16 @@
 
 ### Structures 
 - Structurify
-    - Enable overlap prevention
-    - Increase global spacing to 160%
-    - Set AE2 meteorite spacing to 48
-    - Set AE2 meteorite separation to 24
-    - Set Dungeon Crawl spacing to 48
-    - Set Dungeon Crawl separation to 24
-    - Set Aether bronze dungeon spacing to 24
-    - Set Aether bronze dungeon separation to 16
-    - Set Aether silver/gold dungeon spacing to 32
-    - Set Aether silver/gold dungeon separation to 24
+	- Enable overlap prevention
+	- Increase global spacing to 160%
+	- Set AE2 meteorite spacing to 48
+	- Set AE2 meteorite separation to 24
+	- Set Dungeon Crawl spacing to 48
+	- Set Dungeon Crawl separation to 24
+	- Set Aether bronze dungeon spacing to 24
+	- Set Aether bronze dungeon separation to 16
+	- Set Aether silver/gold dungeon spacing to 32
+	- Set Aether silver/gold dungeon separation to 24
 
 #### Overworld Surface 
 
@@ -329,8 +329,8 @@
 
 ### Player Customization
 - Dragon Survival
-    - Disable menu on start
-    - Save growth when switching species
+	- Disable menu on start
+	- Save growth when switching species
 
 ### Emotes & Animations 
 

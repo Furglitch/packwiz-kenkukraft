@@ -10,17 +10,17 @@
 
 ## Base
 - More FPS [FORGE]
-    - Version: 31.0.0
-    - URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
-    - Removed Mods:
-        - FancyMenu
-        - AutoMessage
-        - Awesome 3D Mace
-        - BisectHosting Server Integration Menu
-        - Elemental Maces
-        - Loading Backgrounds
-        - Recipe Essentials
-    - Removed Resource Packs
+	- Version: 31.0.0
+	- URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
+	- Removed Mods:
+			- FancyMenu
+			- AutoMessage
+			- Awesome 3D Mace
+			- BisectHosting Server Integration Menu
+			- Elemental Maces
+			- Loading Backgrounds
+			- Recipe Essentials
+	- Removed Resource Packs
 
 ## Performance
 - Create: Threaded Trains
@@ -33,7 +33,7 @@
 - Better F1 Reborn Ⓒ
 - Counter (Day & Death)
 - Jade
-    - Jade Addons
+  - Jade Addons
 - Leave My Bars Alone
 - Overflowing Bars
 - Scholar
@@ -45,24 +45,24 @@
 
 ### Inventory & Crafting
 - EMI
-    - EMI: Create Schematics
-    - EMI Enchanting
-    - EMI Extra Integrations
-    - EMI Professions
-    - EMIffect
-    - JEI
-    - Just Enough Archaeology
-    - Just Enough Breeding
-    - Just Enough Effect Descriptions
-    - Just Enough Resources
-    - Not Enough Recipe Book
+	- EMI: Create Schematics
+	- EMI Enchanting
+	- EMI Extra Integrations
+	- EMI Professions
+	- EMIffect
+	- JEI
+	- Just Enough Archaeology
+	- Just Enough Breeding
+	- Just Enough Effect Descriptions
+	- Just Enough Resources
+	- Not Enough Recipe Book
 - Nemo's Inventory Sorting
 
 ### Minimap & Navigation
 - JourneyMap
-    - FTB Chunks
-    - Journeymap Integration
-    - Journeymap Waypoint Syncing
+  - FTB Chunks
+  - Journeymap Integration
+  - Journeymap Waypoint Syncing
 
 ### Camera & Controls
 - OK Zoomer Ⓒ
@@ -146,9 +146,9 @@
 
 #### Baubles & Trinkets
 - Jewelry (RPG Series)
-    - Additional Jewelry
+  - Additional Jewelry
 - Relics (RPG Series)
-    - More Relics (More RPG Content)
+  - More Relics (More RPG Content)
 - Accessories
 	- Accessories Compatibility Layer
 	- Accessorify
@@ -159,8 +159,8 @@
 	- Relics
 	- Relics: Arcane Abilities
 	- Relics: Artifacts Compat
-    - Reliquified Ars Nouveau
-    - Reliquified L_Ender's Cataclysm
+  - Reliquified Ars Nouveau
+  - Reliquified L_Ender's Cataclysm
 
 #### Cosmetics
 - Cosmetic Armor Reworked
@@ -190,10 +190,10 @@
 - Macaw's Suite
 - OpenBlocks Elevator
 - Rechiseled
-	- Chipped
-	- Rechiseled: AE2
-	- Rechiseled: Chipped
-	- Rechiseled: Create
+  - Chipped
+  - Rechiseled: AE2
+  - Rechiseled: Chipped
+  - Rechiseled: Create
 
 ### Decoration & Furniture
 - Amendments
@@ -218,11 +218,11 @@
 - DarkSleep
 - Let Me Sleep
 - Pufferfish's Skills
-    - Default Skill Trees
-    - Pufferfish's Attributes
-    - Skill Tree (RPG Series)
-    - More RPG Classes - Skill Tree
-    - Iron's Spells 'n Spellbooks Dynamic Skill Trees
+  - Default Skill Trees
+  - Pufferfish's Attributes
+  - Skill Tree (RPG Series)
+  - More RPG Classes - Skill Tree
+  - Iron's Spells 'n Spellbooks Dynamic Skill Trees
 
 ### Death & Respawning
 - Corail Tombstone
@@ -263,10 +263,10 @@
 - Botany Pots
 - Croptopia
 - Farmer's Delight
-    - Create: Central Kitchen
-    - Create: Food
-    - Create: Integrated Farming
-    - Create: Slice & Dice
+  - Create: Central Kitchen
+  - Create: Food
+  - Create: Integrated Farming
+  - Create: Slice & Dice
 - Pam's Harvestcraft 2 Suite
 
 #### Crops
@@ -321,7 +321,7 @@
 - Iron's Spells 'n Spellbooks
 	- Alshanex's Familiars
 	- Cataclysm: Spellbooks
-    - Create: Wizardry
+  - Create: Wizardry
 	- Dark Doppelganger
 	- Crystal Chronicles - Iron's Spells 'n Spellbooks
 	- Iron's Gems 'n Jewelry
@@ -388,9 +388,9 @@
 ### Chests & Containers
 - Bank Storage
 - Ender Storage 1.8+
-    - Create Ender STorage
+  - Create Ender STorage
 - Functional Storage
-    - More Functional Storage
+  - More Functional Storage
 - Sophisticated Storage
 	- Sophisticated Storage in Motion
 	- Sophisticated Storage Create Integration
@@ -409,17 +409,17 @@
 	- Applied Schematicannon
 	- Ars Énergistique
 	- Create Stock Bridge
-    - Create: AE2 Recipes
+  - Create: AE2 Recipes
 	- Mega Cells
 - Tom's Simple Storage
-    - Create Contraption Terminals
+  - Create Contraption Terminals
 
 ### Item Sorting
 - Trash Cans
 
 ### Bulk Storage
 - Crate Delight
-    - Crate Delight: Croptopia
+  - Crate Delight: Croptopia
 
 ### Backpacks
 - Backpacked
@@ -437,18 +437,18 @@
 ### Machinery
 - Compact Machines
 - Mekanism
-    - Just Enough Mekanism Multiblocks
-    - MekaGenJei
-    - MekaJadeUpgrades
-    - Mekanism Additions
-    - Mekanism Covers
-    - Mekanism Generators
-    - Mekanism Tools
-    - More Mekanism Processing
+  - Just Enough Mekanism Multiblocks
+  - MekaGenJei
+  - MekaJadeUpgrades
+  - Mekanism Additions
+  - Mekanism Covers
+  - Mekanism Generators
+  - Mekanism Tools
+  - More Mekanism Processing
 - Oritech
-    - Create Oritech Compat
-    - Extended Oritech
-    - Oritech Things
+  - Create Oritech Compat
+  - Extended Oritech
+  - Oritech Things
 
 ### Automation
 - 
@@ -551,7 +551,7 @@
 - Oh The Biomes We've Gone
 - Regions Unexplored
 - Terralith
-    - Terralith Restoned
+  - Terralith Restoned
 
 ### Caves
 - YUNG's Better Caves
@@ -575,7 +575,7 @@
 - Philip's Ruins
 - Piglet Structures
 - Structory
-	- Structory: Towers
+  - Structory: Towers
 - Underground Bunkers
 - YUNG's Bridges
 - YUNG's Extras
@@ -626,27 +626,27 @@
 
 #### New Dimensions
 - The Aether
-	- Aether Addon: Protect Your Moa
-	- Aether Ruined Portals
-	- Aether Villages
-	- Deep Aether
-	- Explore Ruins: The Aether - Dungeons & Structures
+  - Aether Addon: Protect Your Moa
+  - Aether Ruined Portals
+  - Aether Villages
+  - Deep Aether
+  - Explore Ruins: The Aether - Dungeons & Structures
 - Deeper and Darker
 
 ## Cosmetics & Customization
 
 ### Player Customization
 - Dragon Survival
-	- Additional Dragons
-	- Aether Dragon - Dragon Survival addon
-	- Astral Dragon
-	- Be Bee Queen - Dragon Survival Addon
-	- Brain Stealer Dragon - Addon
-	- Crystcursed Dragon (Dragon Survival Add-On)
-	- Desert Claw - Dragon Survival Addon
-	- Dragon Survival - Griffin Addon
-	- Tundra Dragon (Dragon Survival Add-On)
-	- Wing Kirin - Dragon Survival Addon
+  - Additional Dragons
+  - Aether Dragon - Dragon Survival addon
+  - Astral Dragon
+  - Be Bee Queen - Dragon Survival Addon
+  - Brain Stealer Dragon - Addon
+  - Crystcursed Dragon (Dragon Survival Add-On)
+  - Desert Claw - Dragon Survival Addon
+  - Dragon Survival - Griffin Addon
+  - Tundra Dragon (Dragon Survival Add-On)
+  - Wing Kirin - Dragon Survival Addon
 - Shrink
 
 ### Emotes & Animations

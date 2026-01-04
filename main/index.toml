@@ -293,6 +293,10 @@ file = "config/ok_zoomer/config.toml"
 hash = "39c674df53fbd81c5071d69c17f30e415541df277002fd930aab356ebd07fc8a"
 
 [[files]]
+file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
+hash = "8138366476d822b43b1fcc6f9c2e5c3fdb80e1348e3114ff0cbfbb0ca93284c2"
+
+[[files]]
 file = "config/placebo.cfg"
 hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
@@ -2381,6 +2385,11 @@ hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
+file = "mods/packed-packs.pw.toml"
+hash = "0ac088ff535302a969f77f45fe8900a14cf6ac6150a022b4700defc897e5a60e"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "75f22ad3e66c9f1d1b21c234003976926f510e7747b151c9034cb810c330f590"
 metafile = true
@@ -3058,4 +3067,149 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
+hash = "d00268b4d83335336737cc42bb3f75c8728dcd323742746726f14ae20a39b796"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-boss-rush.pw.toml"
+hash = "681f8a5605214466b627bad6066a752c3858a8d8f1e8e0d96d775e1ef44e1775"
+metafile = true
+
+[[files]]
+file = "resourcepacks/amongstrealitys-bow.pw.toml"
+hash = "eda8ea3d1b6e44eb5fba648be2345fe9c84404c8a89f9dde8d6546c40e7dc787"
+metafile = true
+
+[[files]]
+file = "resourcepacks/beautiful-enchanted-books.pw.toml"
+hash = "2330fdab3ef22224eeecbc4e849bfb1bd3dd1d26b0b1e8feeb668ed7e95e4b6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bibliophilia.pw.toml"
+hash = "956250fa4da8d403b60b4402dc62cc713bc21c268c5208908791ab0b9d973736"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui-modded-compat.pw.toml"
+hash = "12932aedfd5fc48a61bfac0505ead8a49191c7bd945263b135130bc1e9720ee9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui-optifine.pw.toml"
+hash = "b37cd9b6268da88edf83dc4f881e52cf452ad364fcae490717b5fa223d183a4e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-text-extension.pw.toml"
+hash = "3e117c8ad9b42b33268be1975a7b6f74621339766e535f5868cdeb928ea31947"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ders-smooth-shaded-font.pw.toml"
+hash = "dc1b56aff4c8d0fa33dd3ed02d12d2ba692fa446ac2d1629f869ae194b69eb0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-aether.pw.toml"
+hash = "17609d3a60a6a75441443085ec0afe090a1df523ce11768ecf53f79a72294734"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshly-modded.pw.toml"
+hash = "2d9b5152758a93c0661214902adb45e0387c213acc979675c66742fad41b483b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/living-dragon.pw.toml"
+hash = "7fef5560430be69057d4db2db56ed7c3ba0cdd5a408eeab3246a4d1678bca11a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-fire-pack.pw.toml"
+hash = "cb2ed284c722042415ad916c96b6afcf8fdb1623ca988a1b2fb811994fdcb498"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield.pw.toml"
+hash = "a57787ec4a77621d4802dd4e2788f38009c01c9fa7e542e9d72fdc8c23647548"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandala-gui-dark-mode-utopia-extension.pw.toml"
+hash = "404f64364a98a1039f8e4b84004b19006e806a7bcfd59f42305633fa25d98164"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "7004a1a72df5489fc33f22be8d5afac7b2bfa8d57c83122ef3f167737b69d759"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed-fresh-animations.pw.toml"
+hash = "0a87d721c5071d605cd861e5de1213b13bce035504a1c353694deca193b8ffea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed.pw.toml"
+hash = "c539e37f2aa8cc92046567f13637b00e8dedb5a672a5b7c3cda681fa5c305230"
+metafile = true
+
+[[files]]
+file = "resourcepacks/noticably-suspicious.pw.toml"
+hash = "830808b7758e0a7de08d837516fd56c1bfd4e0c7779f6760a644f5979da30dbe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/obscurias-tools.pw.toml"
+hash = "28534285c3ebfdddd59d5c46efbe60d8095efca99ffc6fdc9eb23a7a0cf26725"
+metafile = true
+
+[[files]]
+file = "resourcepacks/overflowing-bars-mandalas-gui-compat.pw.toml"
+hash = "e1267e5f9a29aee4d2f3585a8c73b494e301a6f706ac9ccc0f46b1b08357fd31"
+metafile = true
+
+[[files]]
+file = "resourcepacks/semos-animations-lib.pw.toml"
+hash = "b97c84227942c75f4ad9c5f3d8f717885fb979fb1c6f318d23c0c63f9939b64f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod.pw.toml"
+hash = "9da31afa22efcca60d4c6fb911c2aa88818b79bb42a11030fb2435f40e1c9a0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unofficial-mandalas-gui-dark-mode-neo.pw.toml"
+hash = "c10bf8a31da0593e180176b37b10906746d669493981473fbf57855476e258cb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/zeros-modern-crosshair.pw.toml"
+hash = "37981702ececf97cafcbe4f5e9a5e8109724450ef3185f6f1501d02ddc92ac5d"
 metafile = true

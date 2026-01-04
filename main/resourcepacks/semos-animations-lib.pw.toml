@@ -1,0 +1,13 @@
+name = "Semos Animations Lib"
+filename = "Semos Animation Lib 1.1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eeff468afd6fabf1724310e795a56d3d94891dda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7251666
+project-id = 1350189

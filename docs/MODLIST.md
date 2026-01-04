@@ -42,6 +42,7 @@
 ### Menus
 - Cursors Extended Ⓒ
 - Fadeless Ⓒ
+- Packed Packs Ⓒ
 
 ### Inventory & Crafting
 - EMI
@@ -643,12 +644,58 @@
 ## Resource Packs
 
 ### Textures
+- KenkuKraft Resources
+
+#### Base Textures
+- Stay True
+
+#### Blocks & Environment
+- Noticably Suspicious
+- Fancy Crops
+- Living Dragon
+
+#### Tools & Armory
+- Obscuria's Tools
+- AmongstReality's Bow
+- Low Shield
+
+#### Mobs & Entities
+- Mobs Refreshed
+- AL's Boss Rush
+
+#### Items
+- Bibliophilia
+- Beautiful Enchanted Books
+
+#### Interface & HUD
+- Mandala's GUI - Dark Mode
+  - (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
+  - (Unofficial) Mandala's GUI - Dark Mode Compatibility Neo
+  - Overflowing Bars + Mandala's GUI Compat
+  - Mandala's GUI - Vending Block Compat
+  - Mandala's GUI - Dark mode - Utopia extension
+- Colourful Containers Dark Mode GUI
+  - Colourful Containers Text Extension
+  - Colourful Containers: Modded Dark Mode GUI Compat
+- Low Fire Pack
+- Zero's Modern Crosshair
+
+#### Mod Textures
+
 
 ### Sounds
 
 ### Fonts
+- Der's Smooth Shaded Font
 
 ### Animations
+- Semos Animations Lib
+- Fresh Animations
+- Fresh Moves (with Eyes)
+- Mobs Refreshed FA
+- AL's Boss Rush FA
+- F.M.R.P
+- Fresh Aether
 
 ## Shader Packs
 

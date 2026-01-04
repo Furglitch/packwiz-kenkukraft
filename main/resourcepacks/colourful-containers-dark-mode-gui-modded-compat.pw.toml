@@ -1,0 +1,13 @@
+name = "Colourful Containers: Modded Dark Mode GUI Compat"
+filename = "§5§lModded §f§lContainers §8§lDark§8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90874917229489b554ca90f10e5f652042c7884d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6635037
+project-id = 1160244

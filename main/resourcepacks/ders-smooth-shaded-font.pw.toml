@@ -1,0 +1,13 @@
+name = "(Der's) Smooth Shaded Font - Faithful 32x"
+filename = "§bDer's Shaded Font §d32x §3v6 §8(§dA§8).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86497c051f6a5228ba598e61e2b80c3550ad488c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7067494
+project-id = 1247214

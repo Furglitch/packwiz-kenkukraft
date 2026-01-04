@@ -1,0 +1,13 @@
+name = "AL's Boss Rush"
+filename = "AL's Boss Rush 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4069d6d2be94d9163196d0216788e6a1c5d796fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6582477
+project-id = 1000607

@@ -1,0 +1,13 @@
+name = "Low Fire Pack"
+filename = "Low Fire.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1641441bde52529aab09b8688070872547c10a70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7343684
+project-id = 1406432

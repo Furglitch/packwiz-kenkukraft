@@ -333,16 +333,3 @@
 ### Emotes & Animations 
 
 ### Skins & Models 
-
-## Resource Packs 
-### Textures 
-
-### Sounds 
-
-### Fonts 
-
-### Animations 
-
-## Shader Packs 
-
-## Data Packs 

@@ -1,0 +1,13 @@
+name = "AL's Boss Rush x Fresh Animations"
+filename = "AL's Boss Rush+FA 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "435e94c86b62a99f161779924949ce9ce18679ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6582478
+project-id = 1000702

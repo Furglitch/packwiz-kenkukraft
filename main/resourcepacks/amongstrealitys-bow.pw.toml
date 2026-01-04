@@ -1,0 +1,13 @@
+name = "AmongstReality's Bow"
+filename = "AmongstReality's Bow 1.20.2-1.21.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85c99519353c897fe4299f485d790410b9679121"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7095503
+project-id = 876432

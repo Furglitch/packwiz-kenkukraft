@@ -2425,11 +2425,6 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
-file = "mods/piglet-structures.pw.toml"
-hash = "448a4aba68d1c1219bbf6d637bbabee253a3ed7af50673be1f0f12943a420cab"
-metafile = true
-
-[[files]]
 file = "mods/pipez.pw.toml"
 hash = "1bb1904689ab102397544b9234eaaad105b60b865e571139d3b3c971dc03cc2b"
 metafile = true

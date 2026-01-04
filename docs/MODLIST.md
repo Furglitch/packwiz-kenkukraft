@@ -560,7 +560,6 @@
 - Moog's Voyager Structures
 - Moog's Soaring Structures
 - Philip's Ruins
-- Piglet Structures
 - Structory
   - Structory: Towers
 - Underground Bunkers

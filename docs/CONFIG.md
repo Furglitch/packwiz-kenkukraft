@@ -295,6 +295,17 @@
 ### Biomes 
 
 ### Structures 
+- Structurify
+    - Enable overlap prevention
+    - Increase global spacing to 160%
+    - Set AE2 meteorite spacing to 48
+    - Set AE2 meteorite separation to 24
+    - Set Dungeon Crawl spacing to 48
+    - Set Dungeon Crawl separation to 24
+    - Set Aether bronze dungeon spacing to 24
+    - Set Aether bronze dungeon separation to 16
+    - Set Aether silver/gold dungeon spacing to 32
+    - Set Aether silver/gold dungeon separation to 24
 
 #### Overworld Surface 
 

@@ -349,6 +349,10 @@ file = "config/structureessentials.json"
 hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
+file = "config/structurify.json"
+hash = "79d36add25e035f5e5d5b65136572d1409f9cb1e5d4936df522db2860b519d1e"
+
+[[files]]
 file = "config/stylisheffects-client.toml"
 hash = "0c7dc18766a4cc97d51bf9415974595b90cdfd62334c0f239cadc880087fb43a"
 
@@ -2774,6 +2778,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "1973f5f616c0af6a1d82c051d21d59af685de5048964b9dd45c6e52aa6684f05"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "fdb3496f4018e490c3d0b579be354a2651d90dcbb65eb96c12d68d5036718c55"
 metafile = true
 
 [[files]]

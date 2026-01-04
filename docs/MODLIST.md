@@ -22,8 +22,6 @@
         - Recipe Essentials
     - Removed Resource Packs
 
-## Modpack Development Tools
-
 ## Performance
 - Create: Threaded Trains
 
@@ -563,6 +561,7 @@
 - Large Ore Deposits
 
 ### Structures
+- Structurify
 
 #### Overworld Surface
 - Additional Structures

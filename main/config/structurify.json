@@ -1,0 +1,46 @@
+{
+  "config_version": "2.0.11",
+  "config_datetime": "2026-01-03_23-09-43",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": true,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 1.4
+  },
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "spacing": 48,
+      "separation": 24,
+      "name": "ae2:meteorite",
+      "salt": 124895654,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "spacing": 24,
+      "separation": 16,
+      "name": "aether:bronze_dungeon",
+      "salt": 32146754,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "spacing": 32,
+      "separation": 24,
+      "name": "aether:silver_and_gold_dungeons",
+      "salt": 4325806,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "spacing": 48,
+      "separation": 24,
+      "name": "dungeoncrawl:dungeons",
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true
+    }
+  ]
+}

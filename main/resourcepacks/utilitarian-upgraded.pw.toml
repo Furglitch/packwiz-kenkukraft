@@ -1,0 +1,13 @@
+name = "Utilitarian Upgraded"
+filename = "Utilitarian Upgraded.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "063794c25bddcc1185f6b3744df10f21575d9fd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7415538
+project-id = 1420400

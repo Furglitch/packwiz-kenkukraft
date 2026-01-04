@@ -67,6 +67,7 @@
 
 ### Camera & Controls
 - OK Zoomer Ⓒ
+- Ping Wheel
 
 ### Tooltips & Info
 - Durability Tooltip Ⓒ
@@ -182,8 +183,9 @@
 ### Tools
 - Construction Wands Revived
 - Sawmill
-- TorchMaster
+- Magnum Torch
 - Utilitarian
+- Tool Belt
 
 ### Building Blocks
 - Double Doors
@@ -322,7 +324,7 @@
 - Iron's Spells 'n Spellbooks
 	- Alshanex's Familiars
 	- Cataclysm: Spellbooks
-  - Create: Wizardry
+    - Create: Wizardry
 	- Dark Doppelganger
 	- Crystal Chronicles - Iron's Spells 'n Spellbooks
 	- Iron's Gems 'n Jewelry
@@ -405,7 +407,7 @@
 	- Applied Schematicannon
 	- Ars Énergistique
 	- Create Stock Bridge
-  - Create: AE2 Recipes
+    - Create: AE2 Recipes
 	- Mega Cells
 - Tom's Simple Storage
   - Create Contraption Terminals
@@ -450,6 +452,7 @@
 
 ### Pipes & Transport
 - Pipez
+- Pretty Pipes
 
 ### Create Addons
 - Create Crafts & Additions
@@ -679,9 +682,6 @@
 - Low Fire Pack
 - Zero's Modern Crosshair
 
-#### Mod Textures
-
-
 ### Sounds
 
 ### Fonts
@@ -695,6 +695,38 @@
 - AL's Boss Rush FA
 - F.M.R.P
 - Fresh Aether
+
+### Mod-Specific
+- Ars Nouveau Brass-ified Create-Style - ANBICS
+- Ars Nouveau Refresh
+- BB's Bosses Of Mass Destruction Tweaks
+- BB's Toolbelt
+- Comforts Modernized
+- Corail Tombstones Redux
+- Create Lootr
+- Create Style Sophisticated Backpacks
+- Create Touch-Ups
+- Create v6 SolidSails Soft
+- Excalibur | Magnum Torch Support
+- Fresh EndRem Textures
+- Fresh Waystones Texture
+- Iron's Spells 'n Spellbooks Icon's
+- Iron's Spells Armor Reimagined
+- Iron's Spells Weapons Reimagined
+- L_Ender's Cataclysm Reimagined
+- L_Ender's Cataclysm Reimagined 2D Model
+- Modernized Mekanism
+- Moonsu Better GUI for FarmingForBlockheads
+- Nature's & Explorer's Compass Retexture
+- Naturier Compass
+- Oritech Laboratory
+- Ping Wheel - Portal 2 Sound
+- Pretty Pretty Pipes
+- Pretty x Smart Pipez
+- Suren's FTB Quests
+- Suren's Sophisticated Storage
+- Updated Aquaculture
+- Utilitarian Upgraded
 
 ## Shader Packs
 

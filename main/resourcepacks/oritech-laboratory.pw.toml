@@ -1,0 +1,13 @@
+name = "Oritech Laboratory"
+filename = "OritechLab1.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1faeff20bee9d864ca6e0ff5d539f123b2d67de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6884408
+project-id = 1305574

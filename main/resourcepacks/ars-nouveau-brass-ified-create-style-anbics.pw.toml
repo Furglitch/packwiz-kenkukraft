@@ -1,0 +1,13 @@
+name = "Ars Nouveau Brass-ified Create-Style - ANBICS"
+filename = "Ars-Nouveau-Brass-ified-Create-Style---ANBICS.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3be4449d801800ea0275ea8c6ac1af837b21838"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6333470
+project-id = 934703

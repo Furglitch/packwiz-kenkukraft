@@ -1,0 +1,13 @@
+name = "Suren's FTB Quests"
+filename = "Suren FTB Quests 1.0.1 1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86b52073cba87e568c6843a01d6de0c332a82571"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6384796
+project-id = 1235013

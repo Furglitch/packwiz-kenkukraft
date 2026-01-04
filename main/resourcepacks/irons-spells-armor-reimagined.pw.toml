@@ -1,0 +1,13 @@
+name = "Iron's Spells Armor Reimagined"
+filename = "Iron's Spells AR v0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c07f282d577b67211f9d0e8a8b8358284e3e674"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6935717
+project-id = 1332150

@@ -1,0 +1,13 @@
+name = "Nature's & Explorer's Compass Retexture"
+filename = "Silver's Compass Retexture.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d21e68c3d9c2d75ff46bfbf786aa5c7ecb40a9d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7282857
+project-id = 1396050

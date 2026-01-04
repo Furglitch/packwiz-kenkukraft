@@ -1,0 +1,13 @@
+name = "Naturier Compass"
+filename = "Naturier Compass.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f93c69b53c8c40e0b429bb0e627e90e7cbc26b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7293645
+project-id = 1393341

@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm Reimagined 2D Model"
+filename = "Cataclysm Reimagined 2D for NeoForge.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "777e846f77ecc0157181670799e50e8b304af1a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359405
+project-id = 1409961

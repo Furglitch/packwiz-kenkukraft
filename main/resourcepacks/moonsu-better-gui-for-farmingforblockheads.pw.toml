@@ -1,0 +1,13 @@
+name = "[Moonsu] Better GUI for FarmingForBlockheads"
+filename = "[Moonsu] Better GUI for FarmingforBlockheads 2.0-1.20.3-4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfcc23be247e003b27411547ffdd9bdc921bfdbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5250253
+project-id = 997504

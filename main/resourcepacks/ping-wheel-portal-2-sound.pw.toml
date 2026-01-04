@@ -1,0 +1,13 @@
+name = "Ping Wheel - Portal 2 Sound"
+filename = "Ping Wheel - Portal Sound.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a74add3a4a653d3c4fde5d83e31a233c94a6cc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7415630
+project-id = 1420421

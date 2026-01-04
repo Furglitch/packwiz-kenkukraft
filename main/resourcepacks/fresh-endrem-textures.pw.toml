@@ -1,0 +1,13 @@
+name = "Fresh EndRem Textures"
+filename = "fresh-endrem-textures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a429724a89d2710bc607201383bb96775d52b432"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5385576
+project-id = 1028043

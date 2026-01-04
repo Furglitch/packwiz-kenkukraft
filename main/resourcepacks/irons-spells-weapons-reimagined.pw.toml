@@ -1,0 +1,13 @@
+name = "Iron's Spells Weapons Reimagined"
+filename = "Iron's Spells SR v1.7 1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42303b9ef2cfdeccea9fd3268bce5263253d88e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6734893
+project-id = 1212766

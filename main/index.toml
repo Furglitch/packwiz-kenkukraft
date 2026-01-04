@@ -1325,6 +1325,11 @@ hash = "fece5c9d8b82a49a84882c50edca2065f39a641d83047f89f835d4654c896735"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "e0b7b35b16b7bd9bd494a4e32c2b5058bb67fa4b0979e33551fe40247ea937ef"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "c5a93805e9edc7013b5f18b61918812eb333de605304edffbec113c98ae282fb"
 metafile = true
@@ -2080,6 +2085,11 @@ hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f5bba8e4957d5f6d549838d9997b04056d5b15182cccdcd5827c7ee8ae093917"
+metafile = true
+
+[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "41ea4b48ae8ecb1f0a92183f45f1d237b5b83a6007bbf73d80c60324d9a93358"
 metafile = true
@@ -2425,6 +2435,11 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "245c7944a8fdc3729cf62065a3f42e42fe8e6e573a0557fed43b5b5525f9029b"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "1bb1904689ab102397544b9234eaaad105b60b865e571139d3b3c971dc03cc2b"
 metafile = true
@@ -2452,6 +2467,16 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes-fluids.pw.toml"
+hash = "542bf3918f67ced10299c019cf14fa72f3b16e9d00b8247e6194880d471b1889"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "3c45ba9f0f41a5d704a1cef9c65a88b4bce636608bb0de33f7365512fe448a26"
 metafile = true
 
 [[files]]
@@ -2870,8 +2895,8 @@ hash = "e3d782bfb53036a7098153a0086f519e245caec576a3f6e79d9648477ddabd50"
 metafile = true
 
 [[files]]
-file = "mods/torchmaster.pw.toml"
-hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
+file = "mods/tool-belt.pw.toml"
+hash = "1c9103e6191f15d9830d38b2eae72b8fe764793ae3320c249ae1bcda1e836494"
 metafile = true
 
 [[files]]
@@ -3080,6 +3105,31 @@ hash = "eda8ea3d1b6e44eb5fba648be2345fe9c84404c8a89f9dde8d6546c40e7dc787"
 metafile = true
 
 [[files]]
+file = "resourcepacks/aquaculture-updated.pw.toml"
+hash = "8173bfa1aa1779f5a468e1314a86549d6e14b8dc4c70a02fcbd81f8ec07a2567"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-nouveau-brass-ified-create-style-anbics.pw.toml"
+hash = "6b18a1b6b0829c6c8309dac3b354c74039c499af9f5ca81ceae01983c25715f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-nouveau-refresh.pw.toml"
+hash = "a80d5c72df1b9561b934d8a408aa2f280d325d0ef6a8c64c0603c5d0f8cf97ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bbs-bosses-of-mass-destruction-tweaks.pw.toml"
+hash = "0fbc83aaf8174bb37ffa65f7f1d2d85d22e3bebd18a8c9927c38693c63abb570"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bbs-toolbelt.pw.toml"
+hash = "f8c22ebba65ecbb8ffba769d2a2095e3a738b6d0d74bd3158ed1a8f646c940b9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
 hash = "2330fdab3ef22224eeecbc4e849bfb1bd3dd1d26b0b1e8feeb668ed7e95e4b6b"
 metafile = true
@@ -3087,6 +3137,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/bibliophilia.pw.toml"
 hash = "956250fa4da8d403b60b4402dc62cc713bc21c268c5208908791ab0b9d973736"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cataclysm-reimagined.pw.toml"
+hash = "9bb6179001736ae91d8b0b872a35b05f450f10275c02023f61b9f2489a603805"
 metafile = true
 
 [[files]]
@@ -3105,8 +3160,38 @@ hash = "3e117c8ad9b42b33268be1975a7b6f74621339766e535f5868cdeb928ea31947"
 metafile = true
 
 [[files]]
+file = "resourcepacks/comforts-modernized.pw.toml"
+hash = "4174ff254d053615e70fad47e0f2844deb1076d7b699491e16224006b7ee5f34"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-touch-ups.pw.toml"
+hash = "1de28a6963cf2ab88c1819f73bb8aba04f71ba6a154c86efaf6c4a23b373e841"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-v6-solidsails-fps-with-shaders-create.pw.toml"
+hash = "1f8abf333c965a6bfa9526e2b81e79e479267f0620c00ae0a1a204979f3141c8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ders-smooth-shaded-font.pw.toml"
 hash = "dc1b56aff4c8d0fa33dd3ed02d12d2ba692fa446ac2d1629f869ae194b69eb0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-magnum-torch-support.pw.toml"
+hash = "2864f6d7f543604be8a70c4718a4763b446fd751715f5b78fedd8bd14e1384b8"
 metafile = true
 
 [[files]]
@@ -3125,13 +3210,43 @@ hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-endrem-textures.pw.toml"
+hash = "9efe0a7efb69fe28cfb80335ad0d98dec48bd04a11bbb5aa85b3584e87ab7f28"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
 hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "dd91c22e378715d83782d03668ad65b5833c7c85ed634f2e664412cb50e4366b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
 hash = "2d9b5152758a93c0661214902adb45e0387c213acc979675c66742fad41b483b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/irons-spells-armor-reimagined.pw.toml"
+hash = "de0f4c37e7baa04301ec5b51ba60d82981f4b5e19d542aaa236211d4950fa212"
+metafile = true
+
+[[files]]
+file = "resourcepacks/irons-spells-n-spellbooks-icons.pw.toml"
+hash = "45d00841e8f68bca3eb6715b700d99a9e62fe44850bd4f1e53d3269d7d08c8ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/irons-spells-weapons-reimagined.pw.toml"
+hash = "443c7e69fbdf87f5ee38e40ea24e428b5089f0a7d7683b73799d869428666eb0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/l-ender-s-cataclysm-reimagined-2d.pw.toml"
+hash = "9ba9a1e5e6da6a9f4d35f93b3bdd601ecd663332a79ba1a6cfdb158f4e63fd37"
 metafile = true
 
 [[files]]
@@ -3170,6 +3285,26 @@ hash = "c539e37f2aa8cc92046567f13637b00e8dedb5a672a5b7c3cda681fa5c305230"
 metafile = true
 
 [[files]]
+file = "resourcepacks/modernized-mekanism.pw.toml"
+hash = "342cb0c6653f43b345c0f5207044aa4801c0161fc38e0b93ff414de4d71463c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/moonsu-better-gui-for-farmingforblockheads.pw.toml"
+hash = "f35fd3aa604f95a4b3ccdffbbf9db0498a470092c5801ef286f2f5f67fd56595"
+metafile = true
+
+[[files]]
+file = "resourcepacks/natures-explorers-compass-retexture.pw.toml"
+hash = "55e084d722a863762982fef4a7ac00b68dbde3f2953bd839d5d55174eb52cd1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/naturier-compass.pw.toml"
+hash = "2bcfc64cc505cd093f8e1c5493673f087f551850350553ce0757a7eae679fb8d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/noticably-suspicious.pw.toml"
 hash = "830808b7758e0a7de08d837516fd56c1bfd4e0c7779f6760a644f5979da30dbe"
 metafile = true
@@ -3180,8 +3315,28 @@ hash = "28534285c3ebfdddd59d5c46efbe60d8095efca99ffc6fdc9eb23a7a0cf26725"
 metafile = true
 
 [[files]]
+file = "resourcepacks/oritech-laboratory.pw.toml"
+hash = "5c677fa85db359b10ee833a34a821b8d5589dd8ef3ed76696f4df97cc40c65b0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/overflowing-bars-mandalas-gui-compat.pw.toml"
 hash = "e1267e5f9a29aee4d2f3585a8c73b494e301a6f706ac9ccc0f46b1b08357fd31"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ping-wheel-portal-2-sound.pw.toml"
+hash = "e4535fab1810369df2841398bb9e9e218d4886b0b6b5aed58dbbe8ca2b72f4a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pretty-pretty-pipes.pw.toml"
+hash = "ae4b9156c6439648e931b408a57d995e5e1b81c70ef8f7d9949411d63aae833e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pretty-x-smart-pipez.pw.toml"
+hash = "75b811a77e333696a0b8eafc723ae206ede852c880c89cb4a0eacebb45deba86"
 metafile = true
 
 [[files]]
@@ -3195,6 +3350,21 @@ hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
 metafile = true
 
 [[files]]
+file = "resourcepacks/suren-ss.pw.toml"
+hash = "4793da32d65415ce11eaf080236ccdbbceee3f96ef31a816ad0579baf48a664f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/surens-ftb-quests.pw.toml"
+hash = "cf16a33dff5a0a53d6388fc05eba6f5be69dd841056b465490b1675d03d97ccb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tombstones-redux.pw.toml"
+hash = "301a6a40b93c7df457daf7c8f3f260bad69dcf44fef7e399361e1a9857d40897"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod.pw.toml"
 hash = "9da31afa22efcca60d4c6fb911c2aa88818b79bb42a11030fb2435f40e1c9a0a"
 metafile = true
@@ -3202,6 +3372,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/unofficial-mandalas-gui-dark-mode-neo.pw.toml"
 hash = "c10bf8a31da0593e180176b37b10906746d669493981473fbf57855476e258cb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/utilitarian-upgraded.pw.toml"
+hash = "faaf75bdd7f1be640a588ac684529f7a25e2454e40ea915fbf1acc46dfd3e162"
 metafile = true
 
 [[files]]

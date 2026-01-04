@@ -1,0 +1,13 @@
+name = "BB's Toolbelt"
+filename = "BB'sToolbelt0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8120670bef4974d2a5ee3c180fe6d644ffb511f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7206418
+project-id = 1382154

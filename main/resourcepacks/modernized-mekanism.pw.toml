@@ -1,0 +1,13 @@
+name = "Modernized Mekanism"
+filename = "Mekanism Modernized v0.2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c33cbc7c89e1d6789605f3cc54d54892a80be3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7080407
+project-id = 1329572

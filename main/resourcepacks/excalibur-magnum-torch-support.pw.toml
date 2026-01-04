@@ -1,0 +1,13 @@
+name = "Excalibur | Magnum Torch Support"
+filename = "magnumtorches_excalibur_v1.21.1-1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1875a6234e8699f2419727776a8a1a2b43d5f2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6473534
+project-id = 1253978

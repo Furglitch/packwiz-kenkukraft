@@ -972,6 +972,11 @@ hash = "531d3dd3deb7479e3fd1496a7c2db8606bc7affa33fc57eccddc9904c0ac559e"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "35d2ea525479d24177ee01c16fb0c4253c07a47b6f5c14db894cd9557e1f203d"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true

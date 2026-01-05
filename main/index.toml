@@ -685,6 +685,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/ardas-sculks.pw.toml"
+hash = "dfefc628af12ad8160e67293ae240661ec82300a04dfb15230b53bd53dd7bc76"
+metafile = true
+
+[[files]]
 file = "mods/areas.pw.toml"
 hash = "0c4aa6b863ff2d3150425cfe7ae3acace617234f34ee05cda38d7fabc6c809db"
 metafile = true
@@ -1437,11 +1442,6 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "7aa415b7ead3466d0845d147b52a58df023c5c9753be197408dcaacfb525d079"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
 
 [[files]]

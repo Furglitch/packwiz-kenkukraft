@@ -677,7 +677,7 @@
 	- Aether Villages
 	- Deep Aether
 	- Explore Ruins: The Aether - Dungeons & Structures
-- Deeper and Darker
+- Arda's Sculks
 
 ## Cosmetics & Customization
 

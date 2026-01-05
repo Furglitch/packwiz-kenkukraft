@@ -710,6 +710,7 @@
 ## Resource Packs
 
 ### Textures
+- Paxi
 - KenkuKraft Resources
 
 #### Base Textures
@@ -732,6 +733,7 @@
 #### Items
 - Bibliophilia
 - Beautiful Enchanted Books
+- Modded Omelet
 
 #### Interface & HUD
 - Mandala's GUI - Dark Mode

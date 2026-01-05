@@ -274,7 +274,7 @@ hash = "30a6ddc4da1e63bee01ba66d6a2c14ed0e43fcacaed7d349d9baa1a121fcbfb7"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
-hash = "bba382ae0029b8928d527ab22f523963112d5c4fd19027b8809637cf64b9d48b"
+hash = "1367d4bbd74d93a05ad5ca0a881a3c0de5d48106565441bd2f08a0ffefccd522"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -3569,6 +3569,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mobs-refreshed.pw.toml"
 hash = "c539e37f2aa8cc92046567f13637b00e8dedb5a672a5b7c3cda681fa5c305230"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modded-omelet.pw.toml"
+hash = "4f12ff6b5da1826f04ba6d51a0a5b55abbc1a61db3227d242dd876a46410418c"
 metafile = true
 
 [[files]]

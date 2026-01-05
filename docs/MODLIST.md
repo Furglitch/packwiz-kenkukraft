@@ -156,6 +156,11 @@
 
 #### Firearms
 - PointBlank: Jelly
+  - Point Blank Official Extension || Half Life Pack
+  - Cyberpunk 2077 Guns for Vic's Point Blank
+  - Vic's Point Blank || qrosshair
+  - Vic's Point Blank - Trauma
+  - Point Blank Official Extension || Doom Pack
 
 ### Accessories
 

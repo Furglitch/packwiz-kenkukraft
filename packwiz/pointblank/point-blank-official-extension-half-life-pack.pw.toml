@@ -1,0 +1,14 @@
+name = "Point Blank Official Extension || Half Life Pack"
+filename = "halflife-ext 0.7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6acde89d653d8460880c0c273d528cdccf2987f"
+# mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/6012/529/halflife-ext%200.7.zip"
+
+# [update]
+# [update.curseforge]
+# file-id = 6012529
+# project-id = 1163691

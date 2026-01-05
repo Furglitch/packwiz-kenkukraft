@@ -3352,6 +3352,31 @@ hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
 metafile = true
 
 [[files]]
+file = "pointblank/cyberpunk-2077-guns-for-vics-point-blank.pw.toml"
+hash = "b3474e65f48be5ee514589b3a6cf4b77911086985249c6cc0ec92671c5dbf352"
+metafile = true
+
+[[files]]
+file = "pointblank/point-blank-official-extension-doom-pack.pw.toml"
+hash = "31879bd1ed2b9e950fdfb65b96a5d18aaff9bc84f0534ac98c019f40bf08ddea"
+metafile = true
+
+[[files]]
+file = "pointblank/point-blank-official-extension-half-life-pack.pw.toml"
+hash = "b98dbdbc8e45e1610e740b7dda94d99eba0ece396ee2865e31bb5fe99bc63e46"
+metafile = true
+
+[[files]]
+file = "pointblank/vics-point-blank-qrosshair.pw.toml"
+hash = "3e21110cf8c63ac84164cc1a2e08c440159dd23c93bd0b04ceee6e2138097fe3"
+metafile = true
+
+[[files]]
+file = "pointblank/vics-point-blank-trauma.pw.toml"
+hash = "a95b42aa5e5d1b6f9ed31db24292f5a6e7e706384873f4bb1cad7c51ebe9c9d2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
 hash = "d00268b4d83335336737cc42bb3f75c8728dcd323742746726f14ae20a39b796"
 metafile = true

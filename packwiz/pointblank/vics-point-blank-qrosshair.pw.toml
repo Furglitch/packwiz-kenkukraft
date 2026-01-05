@@ -1,0 +1,14 @@
+name = "Vic's Point Blank || qrosshair"
+filename = "qrosshair0.2.1c.zip"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "bf384907030f180644f2b922b3db3db70212cb0d06e9198413454cb6f678444e"
+# mode = "metadata:curseforge"
+url = "https://mediafilez.forgecdn.net/files/6524/590/qrosshair0.2.1c.zip"
+
+# [update]
+# [update.curseforge]
+# file-id = 6524590
+# project-id = 1127048

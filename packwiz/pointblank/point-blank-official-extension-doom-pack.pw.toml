@@ -1,0 +1,14 @@
+name = "Point Blank Official Extension || Doom Pack"
+filename = "doom-ext v1.3.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "732e094ec638b9eabe1e6fd8f0f815666f732992"
+# mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/5696/604/doom-ext%20v1.3.5.zip"
+
+# [update]
+# [update.curseforge]
+# file-id = 5696604
+# project-id = 1004200

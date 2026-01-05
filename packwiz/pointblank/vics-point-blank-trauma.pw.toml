@@ -1,0 +1,14 @@
+name = "Vic's Point Blank - Trauma"
+filename = "TRAUMA_PACK.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "049792553ac6caca3cd37e414d2e734d17b12126"
+# mode = "metadata:curseforge"
+url = "https://mediafilez.forgecdn.net/files/7071/269/TRAUMA_PACK.zip"
+
+# [update]
+# [update.curseforge]
+# file-id = 7071269
+# project-id = 997454

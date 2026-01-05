@@ -2459,6 +2459,11 @@ hash = "4e776d21c85d469688d3a06e37e96a9bd11a153731ecb6d17b07cd6580b45df2"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-glyphs.pw.toml"
 hash = "491f2f0678f0c2747e26659e304fe0a5abe9e3a3db7c02a38f1777db1bab3531"
 metafile = true

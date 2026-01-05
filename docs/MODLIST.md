@@ -17,6 +17,7 @@
 			- AutoMessage
 			- Awesome 3D Mace
 			- BisectHosting Server Integration Menu
+			- Default Options
 			- Elemental Maces
 			- Loading Backgrounds
 			- Recipe Essentials
@@ -24,6 +25,7 @@
 
 ## Performance
 - Create: Threaded Trains
+- Concurrent Chunk Management Engine
 
 ## Interface
 
@@ -41,8 +43,10 @@
 
 ### Menus
 - Cursors Extended Ⓒ
+- Configured Defaults Ⓒ
 - Fadeless Ⓒ
 - Packed Packs Ⓒ
+- Seamless Loading Screen Ⓒ
 
 ### Inventory & Crafting
 - EMI
@@ -87,6 +91,14 @@
 ## Utility & Tools
 - Patchouli
 
+### Advancements & Quests
+- Clickable Advancements
+- Fancy Toasts
+- Advancements Reloaded Ⓒ
+- FTB Quests
+  - Certain Questing Additions
+  - ExtraQuests
+
 ## Audio & Visuals
 - Distant Horizons
 
@@ -100,15 +112,16 @@
 
 ### Visual Effects
 - Ambient Environment Ⓒ
+- Gaura's 2D Projectiles Ⓒ
 - ItemPhysic Lite Ⓒ
 - Visual Workbench
 
 ### Shaders & Lighting
-- Sodium/Embeddium Dynamic Lights Ⓒ
+- LambDynamicLights
 
 ### Particles
+- Dyed Flames
 - Fancy Block Particles - Renewed Ⓒ
-- Soul Fire'd
 
 ### Weather & Seasons
 - Snow Under Trees
@@ -201,12 +214,15 @@
 ### Decoration & Furniture
 - Amendments
 - Another Furniture
+- Armor Statues
 - Comforts
 - Etched
 - Handcrafted
 - Lucky's Showcase
 - MmmMmmMmmMmm (Target Dummy)
 - MultiBeds
+- Paintings ++
+- Straw Statues
 - Supplementaries
 - The Block Box
 
@@ -249,6 +265,7 @@
 #### Food Variety
 - Arbitrary Delight
 - Ars Nouveau's Flavors and Delight
+- Aquaculture Delight
 - Barbeque's Delight
 - Brewin' And Chewin'
 - Cocktails Delight
@@ -282,17 +299,18 @@
 
 ### Recipe Mods
 - Just Better Recipes
+- DarkSmithing
 
 ### Crafting Systems
 - Crafting Tweaks
-
-### Processing
-- Iron Furnaces
+- Farmer's Cutting Collection
+- Stoneworks
 
 ### Tools
-- Easy Anvils
-- Crafting on a Stick
 - Anvil Restoration
+- Crafting on a Stick
+- Easy Anvils
+- Iron Furnaces
 
 ## Loot
 
@@ -302,9 +320,25 @@
 
 ### Loot Tables
 - Loot Integrations
+  - Loot Integrations: Adventure Dungeons
+  - Loot Integrations: Better Archeology
+  - Loot Integrations: Bygone Nether & Eternal Nether & It Takes a Pillage
+  - Loot Integrations: ChoiceTheorem's Overhauled Village
+  - Loot Integrations: Dungeon Crawl
+  - Loot Integrations: Dungeons and Taverns
+  - Loot Integrations: Hopo Better Mineshaft, Ruins & Portals
+  - Loot Integrations: L_Ender's Cataclysm
+  - Loot Integrations: Medieval Buildings & End & Nether
+  - Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
+  - Loot Integrations: Philip's Ruins
+  - Loot Integrations: Randomized Loot compatibility
+  - Loot Integrations: Structory & Towers
+  - Loot Integrations: When Dungeons Arise & Co
+  - Yung Structures Addon for Loot Integrations
 
 ### Treasure & Rewards
 - Better Archeology
+- Clavis
 - Lootr
 
 ## Magic
@@ -355,14 +389,16 @@
 
 ### Peaceful Mobs
 - Aquaculture 2
-- Chocco's Mobs
 - Earth Mobs
 - Friends & Foes
+- Koopa's Critters
+- Ribbits
 
 ### Hostile Mobs
 - Creeper Overhaul
 - Enderman Overhaul
 - Fungal Infection: Spore
+- Illager Invasion
 - Mowzie's Mobs
 - Variants & Ventures
 
@@ -376,10 +412,13 @@
 - Bosses of Mass Destruction
 - Bosses'Rise
 - L_Ender's Cataclysm
+- Savage Ender Dragon
 
 ### Mob Behavior
+- Progressive Mob Wave Activations
+- Respawning Animals
 
-### Pet & Companion Mods
+### Pets & Companions
 
 ## Storage
 
@@ -483,6 +522,7 @@
 - Create: New Beginnings
 - Create: Oxidized
 - Create: Pattern Schematics
+- Create: Power Loader
 - Create: Randomize Filters
 - Create: Simple Generator
 - Create: Sound of Steam
@@ -495,6 +535,7 @@
 
 ### Movement
 - Jump Over Fences
+- Yori3o's Grappling Hooks
 
 ### Mounts & Vehicles
 
@@ -511,6 +552,9 @@
 
 ## Trading
 
+### Villager Trading
+- Trade Cycling
+
 ### Economy Systems
 
 ### Shops & Markets
@@ -522,8 +566,7 @@
 
 ## Exploration
 
-### Adventure & Quests
-- FTB Quests
+### Adventure
 
 ### Compasses & Maps
 - Nature's Compass
@@ -532,8 +575,9 @@
 ## World Generation
 
 ### Terrain
-- Tectonic
+- Continents
 - River Redux
+- Tectonic
 - Underground Rivers
 
 ### Biomes
@@ -559,7 +603,6 @@
 - Dungeons and Taverns
 - Hopo Better Ruined Portals
 - Hopo Better Underwater Ruins
-- Mo' Structures
 - Moog's Voyager Structures
 - Moog's Soaring Structures
 - Philip's Ruins
@@ -588,7 +631,7 @@
 
 #### Villages
 - It Takes a Pillage Continuation
-- Tax' Village Architect
+- ChoiceTheorem's Overhauled Village
 
 #### The Nether
 - Medieval Buildings - Nether Edition
@@ -603,6 +646,7 @@
 ### Dimensions
 
 #### The Nether
+- NetherPortalFix
 - Eternal Nether
 - Incendium
 - NetherEx
@@ -624,7 +668,11 @@
 
 ## Cosmetics & Customization
 
-### Player Customization
+### Player Skins and Models
+- Skin Layers 3D Ⓒ
+- Shrink
+
+### Origins & Races
 - Dragon Survival
   - Additional Dragons
   - Aether Dragon - Dragon Survival addon
@@ -636,12 +684,8 @@
   - Dragon Survival - Griffin Addon
   - Tundra Dragon (Dragon Survival Add-On)
   - Wing Kirin - Dragon Survival Addon
-- Shrink
 
 ### Emotes & Animations
-
-### Skins & Models
-- Skin Layers 3D Ⓒ
 
 ## Resource Packs
 

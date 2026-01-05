@@ -1,0 +1,13 @@
+name = "Transparent"
+filename = "transparent-neoforge-21.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4324864714a4cedd5949e143d313c273f3b3e6c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6565024
+project-id = 377582

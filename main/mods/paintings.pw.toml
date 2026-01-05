@@ -1,0 +1,13 @@
+name = "Paintings ++"
+filename = "paintings-neoforge-1.21.1-14.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7acdde29987dc24ac56d02dac41e3b82352258a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7091054
+project-id = 252042

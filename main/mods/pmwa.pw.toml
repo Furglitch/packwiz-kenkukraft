@@ -1,0 +1,13 @@
+name = "Progressive Mob Wave Activations - PMWA - Day/trigger-based control of mob spawning!"
+filename = "PMWA-3.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee8798a9ae2d8083f225ef00956b5bfb48764aaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200619
+project-id = 1128354

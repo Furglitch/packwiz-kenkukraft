@@ -1,0 +1,13 @@
+name = "Loot Integrations: Adventure Dungeons"
+filename = "lootintegrations_adventuredungeons-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12711b9f2287ce35f009e5f2da04778547585a35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6550125
+project-id = 1269722

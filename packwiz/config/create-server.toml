@@ -1,0 +1,10 @@
+[schematics]
+	creativePrintIncludesAir = true
+	maxSchematics = 16
+	maxTotalSchematicSize = 16384
+	maxSchematicPacketSize = 1024
+	schematicIdleTimeout = 600
+
+	[schematics.schematicannon]
+		schematicannonDelay = 10
+		schematicannonShotsPerGunpowder = 400

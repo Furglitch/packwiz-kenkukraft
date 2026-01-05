@@ -1,0 +1,5 @@
+["Mob day requirements"]
+	"Mob/limit List" = ["spore:-,red":The Infection spreads...",5"]
+["Bonus options"]
+	"Limit spawns in non-overworld dimensions" = true
+	"Limit spawns in non-vanilla dimensions" = true

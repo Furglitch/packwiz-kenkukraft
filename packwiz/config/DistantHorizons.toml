@@ -1,0 +1,17 @@
+_version = 3
+[client]
+	showDhOptionsButtonInMinecraftUi = true
+	[client.advanced]
+		[client.advanced.graphics]
+			[client.advanced.graphics.quality]
+				lodChunkRenderDistanceRadius = 256
+
+			[client.advanced.graphics.culling]
+				enableCaveCulling = false
+				caveCullingHeight = 128
+
+[common]
+	[common.worldGenerator]
+		enableDistantGeneration = true
+		showGenerationProgress = "OVERLAY"
+

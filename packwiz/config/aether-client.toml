@@ -1,0 +1,12 @@
+
+[Gui]
+	"Disables the accessories button" = true
+
+[Audio]
+	"Disables Aether menu music" = true
+	"Disables vanilla world preview menu music" = true
+	"Disables Aether world preview menu music" = true
+
+[Miscellaneous]
+	#Enables a direct join button for the official server
+	"Enables server button" = false

@@ -1,0 +1,5 @@
+[Gameplay]
+	"Use default Accessories' menu" = true
+	"Gives player Aether Portal Frame item" = false
+	"Reposition attack message above hotbar" = true
+	"Show Patreon message" = false

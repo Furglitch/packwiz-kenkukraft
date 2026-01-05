@@ -1,0 +1,13 @@
+{
+  "fancyAdvancementToastsEnabled": true,
+  "fancyQuestToastsEnabled": true,
+  "advancementToastsEnabled": true,
+  "recipeToastsEnabled": true,
+  "systemToastsEnabled": true,
+  "tutorialToastsEnabled": true,
+  "toastsToIgnore": [
+    "regions_unexplored:parent",
+    "morevillagers:first_village"
+  ],
+  "version": 1
+}

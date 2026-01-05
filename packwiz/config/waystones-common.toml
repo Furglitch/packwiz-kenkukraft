@@ -1,0 +1,15 @@
+[general]
+	defaultVisibility = "GLOBAL"
+	allowedVisibilities = ["GLOBAL"]
+
+[inventoryButton]
+	inventoryButton = "NONE"
+
+[teleports]
+	enableCosts = true
+	enableCooldowns = false
+	transportPets = "ENABLED"
+
+[compatibility]
+	journeyMap = true
+	preferJourneyMapIntegrationMod = true

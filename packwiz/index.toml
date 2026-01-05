@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "2e3f9cce79ec0de2a99d156924d18a65e2fd042ffc242e35a9526a45c0c180eb"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "5e8063bc20d6652022fbeee40031874ea7d44971fe397aee92de678c75a0ac78"
+
+[[files]]
+file = "config/PMWA_Config.toml"
+hash = "be03de692c5a1fe2c8423d628b0c9bdb6dadb8c678dd85ac01e5c9934910eeb5"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "0bbab77f988bfb166b20e0ce217e55c39dbe5146e57a024f0506e3809a0a6b1e"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "80a1ff91896bb820a2585c1cd1d1148b6ab3df334554c8f52f08beaae6dad112"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "a752d145e75dd436c177408af6b3b7f6f0048017af470c920c6671ab0a1e83bc"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -65,6 +85,10 @@ file = "config/blockbox-common.toml"
 hash = "0053b3857faf2be379aa329be8859fadbe5c2513c411b3c93673fe71ea9a0862"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "4ede967ffb8d7578ec88b286338ea0a2b631c2d8503db523a7081d244b6ce089"
+
+[[files]]
 file = "config/catalogue.properties"
 hash = "249858a5e408753c357de8747cf789d32a16e7f79ea769e9c074032e8cdcba3f"
 
@@ -87,6 +111,10 @@ hash = "cca134a4b0192eb60320a2b268dedc148700f6c62fc7d94945112bc61c53498f"
 [[files]]
 file = "config/counter-client.toml"
 hash = "036302b20439d6db5c747db9428fb5bb286828ce2e0898f252dc5a727f0389f6"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "e4083babd1dcc34cd08eefad6d02c624811133fe8c470e40b612bd3efbdb0322"
 
 [[files]]
 file = "config/cupboard.json"
@@ -129,6 +157,14 @@ file = "config/euphoria_patcher.properties"
 hash = "45f29fcdee25c1e7c5196524aca8555743672792a29fb0d7a9343d47b890c8e6"
 
 [[files]]
+file = "config/fancytoasts/toast.json"
+hash = "aa5535b90f8deb20b3f214be9233eb04b567d623a4bcb5129b996e256f8be7d4"
+
+[[files]]
+file = "config/fancytoasts/toast_filtering.json"
+hash = "2176df9d8e34dc9b2100062b63ec17be80b0fb9ea86d4b206f461b25b777d61e"
+
+[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "3a42e2688df188d44a796417191b171e52552a143e335ce4f6aa94130b78b0c5"
 
@@ -167,6 +203,10 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 [[files]]
 file = "config/iris.properties"
 hash = "c363e033d38a4461bda4b4bc1179045607fd27c4dd914643b5cee2d441961089"
+
+[[files]]
+file = "config/justplayerheads.json5"
+hash = "2a7100dede9d72632812450b1af0125d397adf4088e9c295355a8460873a6996"
 
 [[files]]
 file = "config/leaky.json"
@@ -331,6 +371,14 @@ hash = "1eabeee84b01936890fc21c1d1c8953a108a7caf7b6496001c2f100cfcde0ea1"
 [[files]]
 file = "config/utilitarian-server.toml"
 hash = "72f5ff4a1ad428c347bf66b2de1e5ab6a483a87eca1797f14b4d6bc47231e92a"
+
+[[files]]
+file = "config/villagespawnpoint.json5"
+hash = "2f48f9922be6ae34e97db3a64b5c92d30debb50005220159f4b8936fadb990f3"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "d265fabfaa54f3fe719fbc48ea2d3b3cc86eb2e4c14b24dd8e90d444b2dd77ad"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"
@@ -2796,11 +2844,6 @@ metafile = true
 [[files]]
 file = "mods/scholar.pw.toml"
 hash = "bb19f71c8e391ee5103e29ba19baf7a9a1ee6912d641a735c033740154f3dba9"
-metafile = true
-
-[[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "ff82eb4524b29dda9d14ac266058382c1989e654952cddd9474825b9f01b8052"
 metafile = true
 
 [[files]]

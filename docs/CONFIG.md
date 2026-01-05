@@ -78,6 +78,9 @@
 ## Utility & Tools 
 
 ## Audio & Visuals 
+- Distant Horizons
+  - Set cave culling distance to Y=128
+  - Add progress overlay
 
 ### Sound Enhancements 
 - Ambient Sounds 6
@@ -170,6 +173,10 @@
 - Corail Tombstone
 	- Disable holiday events
 	- Halve XP loss on death
+- Just Player Heads
+	- 15% drop chance on death
+- Village Spawn Point
+    - Change to plains village
 
 ## Agriculture 
 
@@ -246,7 +253,9 @@
 
 ### Bosses 
 
-### Mob Behavior 
+### Mob Behavior
+- Progressive Mob Wave Activations
+  - Delay Spore mob spawning by 5 days
 
 ### Pet & Companion Mods 
 
@@ -260,11 +269,15 @@
 
 ### Bulk Storage 
 
-## Technology 
+## Technology
 
 ### Power Generation 
 
 ### Machinery 
+- Create
+  - Enable Schematics replacing air in Creative
+  - Increase schematic file size to 16MB
+  - Increase allowed schematics to 16
 
 ### Automation 
 
@@ -276,11 +289,20 @@
 
 ## Transport 
 
+### Movement
+- Carry On
+  - Prevent lootr pickups
+  - Allow block interaction while carrying
+
 ### Mounts & Vehicles 
 
 ### Rails & Minecarts 
 
-### Teleportation 
+### Teleportation
+- Waystones
+  - Change activation to global
+  - Disable cooldown
+  - Enable pet teleportation
 
 ### Flight 
 

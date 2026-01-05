@@ -1,0 +1,13 @@
+name = "Dragon Drops Elytra"
+filename = "dragondropselytra-1.21.1-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "987871d9ea98172f9ee6595d38d0db54e9640e49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186152
+project-id = 302422

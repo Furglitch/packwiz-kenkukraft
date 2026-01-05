@@ -199,6 +199,7 @@
 - Magnum Torch
 - Utilitarian
 - Tool Belt
+- Stack Refill
 
 ### Building Blocks
 - Double Doors
@@ -210,6 +211,7 @@
   - Rechiseled: AE2
   - Rechiseled: Chipped
   - Rechiseled: Create
+- Scaffolding Drops Nearby
 
 ### Decoration & Furniture
 - Amendments
@@ -245,6 +247,7 @@
 
 ### Death & Respawning
 - Corail Tombstone
+- Just Player Heads
 - Village Spawn Point
 
 ## Agriculture
@@ -288,9 +291,10 @@
   - Create: Integrated Farming
   - Create: Slice & Dice
 - Pam's Harvestcraft 2 Suite
-
-#### Crops
 - Hey Berry! SHUT UP
+- Keep My Soil Tilled
+- Kelp Fertilizer
+- No Feather Trample
 
 ### Forestry
 - Botany Trees
@@ -339,6 +343,7 @@
 ### Treasure & Rewards
 - Better Archeology
 - Clavis
+- Dragon Drops Elytra
 - Lootr
 
 ## Magic
@@ -415,8 +420,10 @@
 - Savage Ender Dragon
 
 ### Mob Behavior
+- Despawning Eggs Hatch
 - Progressive Mob Wave Activations
 - Respawning Animals
+- Respawning Shulkers
 
 ### Pets & Companions
 
@@ -536,6 +543,7 @@
 ### Movement
 - Jump Over Fences
 - Yori3o's Grappling Hooks
+- Softer Hay Bales
 
 ### Mounts & Vehicles
 
@@ -545,6 +553,7 @@
 - Waystones
 
 ### Flight
+- Easy Elytra Takeoff
 - Immersive Aircraft
   - Man of Many Planes
 
@@ -569,6 +578,7 @@
 ### Adventure
 
 ### Compasses & Maps
+- Areas
 - Nature's Compass
 - Explorer's Compass
 
@@ -646,7 +656,10 @@
 ### Dimensions
 
 #### The Nether
+- Crying Portals
 - NetherPortalFix
+- Nether Portal Spread
+- Smaller Nether Portals
 - Eternal Nether
 - Incendium
 - NetherEx

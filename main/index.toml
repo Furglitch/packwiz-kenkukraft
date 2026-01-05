@@ -685,6 +685,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "0c4aa6b863ff2d3150425cfe7ae3acace617234f34ee05cda38d7fabc6c809db"
+metafile = true
+
+[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "4f5e2e271bc23583ad0e46b951d69497ef744895491447597c77dcd9e6aaa01f"
 metafile = true
@@ -1375,6 +1380,11 @@ hash = "9aa575969f8a359ac795b4e8754f3423d189d701088e197a7ace68eeaaaa0276"
 metafile = true
 
 [[files]]
+file = "mods/crying-portals.pw.toml"
+hash = "b53bfffa1bc7ca63fc5d757dee5068f43d967bbd667132c577135fd453ed510f"
+metafile = true
+
+[[files]]
 file = "mods/crystal-chronicles.pw.toml"
 hash = "02b3807ec14472960fd0f5bc2ca19506392d44bcc75b3f3767e852642a546de4"
 metafile = true
@@ -1450,6 +1460,11 @@ hash = "109bd4f10854ff70ebbb6b2dcac8d522d615e21a52a502a9fd511fe76f6d3640"
 metafile = true
 
 [[files]]
+file = "mods/despawning-eggs-hatch.pw.toml"
+hash = "9c566f9744ca621f4be256efd57daa3417ca33d276797fead7743d51f41f58dc"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "db153992e71c2c1ca7643ad93d11f1276cada2843879cd01909abef2f2ed9df9"
 metafile = true
@@ -1482,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "00f40009395dc60d8a67b6dddf155239b6e94867da16f1e26718f697c3065d73"
+metafile = true
+
+[[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "af6f0a1f4569a2bfc5e804c55c2b3ba0d4ecc9f3e2fd8e423bdcd5b5099e557d"
 metafile = true
 
 [[files]]
@@ -1527,6 +1547,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
+metafile = true
+
+[[files]]
+file = "mods/easy-elytra-takeoff.pw.toml"
+hash = "b92eee616d61ec37487a882c0d4e29401977db3245aa179c5efcb8a361c7f6da"
 metafile = true
 
 [[files]]
@@ -2020,8 +2045,23 @@ hash = "f61a3526d323d232fbac74dedb5d89e07f45981db1c5a705c66dbe5da7507a68"
 metafile = true
 
 [[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "567b00a7064f0a385782ca4f70441e82b112792936c1ff527536635a78a2afcf"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "480364ee4530bebdb3c4538dd30458e084a061bc3c4b42fb23a2ed3de2e16302"
+metafile = true
+
+[[files]]
+file = "mods/keep-my-soil-tilled.pw.toml"
+hash = "8f7863603f3769d20435693d092b17ed3a7e98da9484be75d0d4297fd0d63768"
+metafile = true
+
+[[files]]
+file = "mods/kelp-fertilizer.pw.toml"
+hash = "3b9b041723f3fb0a02b0e162f994b1ae373ca2e3da0979835fcd91d34b3f2508"
 metafile = true
 
 [[files]]
@@ -2460,6 +2500,11 @@ hash = "9166f9bd0a716eac06e76a10781a8b57f6462b6748c73bf62af7b4e55c8faaa2"
 metafile = true
 
 [[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "be3f2aa8a8b7e14f2ce3d047e2e52de6d4590fdf3e019a248b8756c36a45b8a7"
+metafile = true
+
+[[files]]
 file = "mods/netherex.pw.toml"
 hash = "81bc2ff32a5f43269f3756e983d8aad1865f7bb6fc4e1c92502ede8bd098d566"
 metafile = true
@@ -2477,6 +2522,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/no-feather-trample.pw.toml"
+hash = "f4814bf7b84118554e94abff1ff311cd026a97fa4b0a774454194602df6de645"
 metafile = true
 
 [[files]]
@@ -2765,6 +2815,11 @@ hash = "a8e3f25e035519ef1a0fe62ae165fd19459a06560d4eee744e9717f0e23742aa"
 metafile = true
 
 [[files]]
+file = "mods/respawning-shulkers.pw.toml"
+hash = "5cf79af629b8f43d4053e6742efe31275ebe2aa4086b58ee0f3c646d825cfad0"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
 metafile = true
@@ -2802,6 +2857,11 @@ metafile = true
 [[files]]
 file = "mods/sawmill.pw.toml"
 hash = "3ee01a32b6309256f083a8c67fc458e6745fc730c8abd86faa4a304333520064"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "d4aa02976a97ef3941bb8fa8c6b0e29c4e90b63690ea8beb3d23fab6caebb46a"
 metafile = true
 
 [[files]]
@@ -2875,6 +2935,11 @@ hash = "97658372a06b324c2121668e350cd27b02428db882f7f4943182aeef3f4cca75"
 metafile = true
 
 [[files]]
+file = "mods/smaller-nether-portals.pw.toml"
+hash = "c9780694422cc4007e93d0e8a65f4c2ff520a4dc294be168bb9e272e07db745d"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
 metafile = true
@@ -2897,6 +2962,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/softer-hay-bales.pw.toml"
+hash = "962eb672eaa906c87a01a1bf9b28fea144daf3ccd59a737c97f30f8dd9411d0e"
 metafile = true
 
 [[files]]
@@ -2952,6 +3022,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "d26d8b27ca5e5d9623a9cf97e02c5de180962a464a31264d1959ada0f035367a"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "cbbd729ae00922ec7a0130aaf1dc279a7879198f44465ed2e357e4033608fb1a"
 metafile = true
 
 [[files]]

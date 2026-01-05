@@ -7,8 +7,6 @@
     "enable_global_spacing_and_separation_modifier": true,
     "global_spacing_and_separation_modifier": 1.4
   },
-  "structure_namespaces": [],
-  "structures": [],
   "structure_sets": [
     {
       "spacing": 48,

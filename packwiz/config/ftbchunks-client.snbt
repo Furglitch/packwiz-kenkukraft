@@ -53,7 +53,7 @@
 		
 		# Chunk grid overlay in large map
 		# Default: false
-		chunk_grid: true
+		chunk_grid: false
 		
 		# Show claimed chunks on the map
 		# Default: true

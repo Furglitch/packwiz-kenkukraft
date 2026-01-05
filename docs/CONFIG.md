@@ -19,13 +19,18 @@
 - Better Creative Mode Tabs
 	- Remove default tab priority
 - Counter (Day & Death)
-	- Adjusted positions
 	- Enabled own death counter by default
 	- Disabled emojis
 - Stylish Effects
-	- Adjust position and scale
+	- Adjust HUD position to 80x6
+	- Limit to 4x4
+	- Limit to HUD and Inventory
 
 ### Menu/GUI 
+- Catalogue
+  - Adjust button position
+- Packed Packs
+  - Set order
 
 ### Inventory & Crafting
 - EMI
@@ -42,6 +47,8 @@
 	- Set size to 20
 	- Disable 'Move Effect Icons'
 - FTB Chunks
+    - Disable minimap in favor of JourneyMap
+    - Enable chunk map grid
 	- Increase chunk count to 1024
 	- Increase loaded chunk count to 64
 	- Set party limit mode to 'sum'
@@ -62,6 +69,8 @@
 ### Chat & Social
 - Chat Heads
 	- Position: Before List
+- NoChatReports
+	- Require on servers
 
 ### Keybinding Management
 - 
@@ -80,7 +89,9 @@
 
 ### Particles 
 - Fancy Block Particles - Renewed
+  - Disable options quick button
 	- Disable placing animation
+	- Enable low traction snow particles
 
 ### Weather & Seasons 
 
@@ -107,6 +118,7 @@
 #### Firearms
 - PointBlank: Jelly
 	- Decrease village shop spawn rate
+	- Increase mob drop rate to 50%
 
 ### Accessories
 
@@ -134,7 +146,11 @@
 	- Double lamp radius
 	- Quadruple flare radius
 - Utilitarian
+    - Disable no raider module
 	- Increase ranges to factors of 8
+	- Disable better sleep module in favor of LetMeSleep
+	- Disable no trampling module in favor of No Feathered Trample
+	- Enable recipe advancements
 
 ### Building Blocks
 
@@ -328,6 +344,7 @@
 ### Player Customization
 - Dragon Survival
 	- Disable menu on start
+	- Save abilities when switching species
 	- Save growth when switching species
 
 ### Emotes & Animations 

@@ -16,7 +16,7 @@
 	
 	# Minimap for clients connecting to this server will be disabled
 	# Default: false
-	force_disable_minimap: true
+	force_disable_minimap: false
 	
 	# If true, "Location Visibility" team settings are ignored, and all players can see each other anywhere on the map.
 	# Default: false
@@ -73,7 +73,7 @@
 		# You can override this with FTB Ranks 'ftbchunks.max_claimed' permission
 		# Default: 500
 		# Range: -∞ ~ +∞
-		max_claimed_chunks: 1024
+		max_claimed_chunks: 500
 		
 		# Maximum time (in real-world days) where if no player in a team logs in, the team automatically loses their claims.
 		# Prevents chunks being claimed indefinitely by teams who no longer play.
@@ -89,7 +89,7 @@
 		# AVERAGE: use the average of all members' limits.
 		# Default: "largest"
 		# Valid values: "largest", "owner", "sum", "average"
-		party_limit_mode: "sum"
+		party_limit_mode: "largest"
 	}
 	custom_behaviour: {
 		chunks_with_custom_y: [ ]
@@ -138,7 +138,7 @@
 		# You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
 		# Default: 25
 		# Range: -∞ ~ +∞
-		max_force_loaded_chunks: 64
+		max_force_loaded_chunks: 25
 		
 		# Maximum time (in real-world days) where if no player in a team logs in, any forceloaded chunks owned by the team are no longer forceloaded.
 		# Prevents chunks being forceloaded indefinitely by teams who no longer play.
@@ -188,7 +188,7 @@
 		
 		# Default allow-fake-player setting for team properties
 		# Default: false
-		def_fake_players: true
+		def_fake_players: false
 		
 		# Default mob griefing protection for claimed chunks
 		# Default: false

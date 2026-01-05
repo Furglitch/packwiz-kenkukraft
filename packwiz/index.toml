@@ -5,24 +5,8 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
-
-[[files]]
 file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+hash = "5e8063bc20d6652022fbeee40031874ea7d44971fe397aee92de678c75a0ac78"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -38,35 +22,23 @@ hash = "b24a4eb765ad21f75972a3d96841a9a93d594c3b0e33673d1aac3dfbf3816098"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "bc23877c765f26b51804c11a6c74d0d2ffb4dc6a69649d7129919a6f4ba3c755"
+hash = "deeb51d9b4abbf6e4f092823fbf792e2147d78c9b6b9920c4cd273e3717600c5"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
-hash = "b1a7e267eac38e5dab7a225798f854333eb45a405e1caee6e895af1cc51b006f"
+hash = "e6b85d4f0e3438c645912068a9aace13a5ddb90ba0a0863b6e134a7f7530eb47"
 
 [[files]]
 file = "config/axesareweapons.json5"
 hash = "5d5db476ee3e74e473766d8b97004248de4c20e3d639189332ee8817fa431b81"
 
 [[files]]
-file = "config/backpacked.augments.toml"
-hash = "e10d3b4975582866e37bf2472def7a6ecb7c908ea77dfd814f3a9a7d7f81550b"
-
-[[files]]
-file = "config/backpacked.backpack.toml"
-hash = "81ba81d61bc4eed469dae61f2d5c61e601c82c8658b6b34ef7e8a78b119f9972"
-
-[[files]]
-file = "config/backpacked.client.toml"
-hash = "8c59c4491999fb66b9d0457cb80e7f910e495a8c28181d98d15ad7d5df7651d9"
-
-[[files]]
 file = "config/backpacked.pickpocketing.toml"
-hash = "39649cc668a96a7a5d88159f3d20878aa2bfcc1cc40d1a3cb0ce65ba7ced9ef3"
+hash = "95106798f936fb692ca5f02986ada7421915d2ab8b86b4b7020a09a94f23dd58"
 
 [[files]]
 file = "config/backpacked.wandering_trader.toml"
-hash = "b478d4bee97292825b614931716e8168db9bdffffa30be7c831bcc417ef03ec9"
+hash = "6ba00dedf7e25c5aa60d138daeb9fa24221705a2b4111e475aa6f713d414d0ad"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -90,67 +62,39 @@ hash = "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017"
 
 [[files]]
 file = "config/blockbox-common.toml"
-hash = "68e90ee16e2fa078828a7b84111dedac1f61de0c228d820b7f4a380cc1c7ce7d"
+hash = "0053b3857faf2be379aa329be8859fadbe5c2513c411b3c93673fe71ea9a0862"
 
 [[files]]
 file = "config/catalogue.properties"
-hash = "9355d649d8f41a9b3151cc721aae1def21ce6683dac181166ea230288f463d57"
-
-[[files]]
-file = "config/catalogue_favourites.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "249858a5e408753c357de8747cf789d32a16e7f79ea769e9c074032e8cdcba3f"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "e8ea84fd48306229c09fc2e477a50f844a5be41bf4219bc3a7cf7fea9f59658d"
+hash = "4419105b72b5f01d8f8fbc746d47df2cffceb2383e8a4fe9cfd899615a40aa80"
 
 [[files]]
 file = "config/chunksending.json"
 hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
-
-[[files]]
 file = "config/connectivity.json"
 hash = "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202"
 
 [[files]]
-file = "config/cosmeticarmorreworked-client.toml"
-hash = "98abc386a142611a852bb7f7166777b195ecc35f0be48b2287d257efccbe004c"
-
-[[files]]
 file = "config/cosmeticarmorreworked-common.toml"
-hash = "edbaa5d8ae337740680176304e29533810124a2ce319be0914cfeb3a3874646e"
+hash = "cca134a4b0192eb60320a2b268dedc148700f6c62fc7d94945112bc61c53498f"
 
 [[files]]
 file = "config/counter-client.toml"
-hash = "7bdc415d794ea75e7198aaec2dc857d54842f080d208b123a26ac36c1a8a7ed0"
-
-[[files]]
-file = "config/counter-server.toml"
-hash = "3c847d207c054ea0fe778b403b95129e461948816155cfb057dcb0e097194217"
+hash = "036302b20439d6db5c747db9428fb5bb286828ce2e0898f252dc5a727f0389f6"
 
 [[files]]
 file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
-file = "config/defaultoptions-common.toml"
-hash = "7f84b4d37e39956dd57ed232b08453ea3c2c4578bdf1430d42b4e77a15024b75"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "90760da79853eaf33c79d9e7c0599900447848caa9940e2ee9cf80f4ff23b0ff"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "257392973f0a4b5b3577b144ee4202ba11761857d241588000e390eaa95c57cd"
-
-[[files]]
 file = "config/dragonsurvival-server.toml"
-hash = "a5b9e824b7ba3f84000d5ca3d6811bddabc0cc6891c4e987daee1ac31b552de3"
+hash = "28c8bae42baf571adc6a95af7a605d3b48bd505a4f0b30726baeef7e39fe989d"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -162,7 +106,7 @@ hash = "6c9478c9b0474d2579e58333ca7e694f628cbfdffd11f08c95133d15e9862677"
 
 [[files]]
 file = "config/enchdesc.json"
-hash = "a6c42f67aa4641b14c518f9ec72b44f37c4c2f51f3ebb7a8e4e433b056db1bd2"
+hash = "378f6df338df271b7e0e8017c5841029991b2e54d5e6fdb1d2fa162df5017994"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -186,7 +130,7 @@ hash = "45f29fcdee25c1e7c5196524aca8555743672792a29fb0d7a9343d47b890c8e6"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "32faa7829765b6ad3505d3041bacacf2232a133a55d8c223600cb5443e794ce3"
+hash = "3a42e2688df188d44a796417191b171e52552a143e335ce4f6aa94130b78b0c5"
 
 [[files]]
 file = "config/fastpaintings-common.toml"
@@ -194,7 +138,7 @@ hash = "d0b4c0e85822735c3cc9800108204225e1f8e4fd17a17fff9ecfd4ab045e5f03"
 
 [[files]]
 file = "config/fbp/config.json"
-hash = "d13b5aab338579e45086340b0f9eada792b1b8bdbfc31285ab64bca11f6c0937"
+hash = "a5d5d84ccd39cb93ef2787b9c6b677312a749e8078aa01a07f9c6bf41706e828"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -206,11 +150,11 @@ hash = "bc1caed4bead0b5bb54755dc11f8283cc472b780db39e571e80723dacbb37ae2"
 
 [[files]]
 file = "config/ftbchunks-client.snbt"
-hash = "234d162dc08eec909a11a6e6d1cba1d7b6988bb7145399e9a2b635496a3e968e"
+hash = "ddd99a6fb2ed52112bae911478fefd6ee59e089517e7ac27e2c1f4d6d9043bbf"
 
 [[files]]
 file = "config/ftbchunks-world.snbt"
-hash = "abf7a92c3dbe491c95e1e21f3fbae7ca342a038aeab413e06ee589af0026d616"
+hash = "aea711c136c5035bf951d9d18649d25ce8ac8fe4758de08f989205948cc995ab"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -225,16 +169,8 @@ file = "config/iris.properties"
 hash = "c363e033d38a4461bda4b4bc1179045607fd27c4dd914643b5cee2d441961089"
 
 [[files]]
-file = "config/l2_configs/better_creative_tabs-client.toml"
-hash = "cc5d6b0098de931f43df3c977c1bdc33414f6b75a7f696b8e179858c0a2132a8"
-
-[[files]]
 file = "config/leaky.json"
 hash = "ee5d331e53643f4fe05a9bd42f30da19efe4b1e9cac68aae76da30635bf4004e"
-
-[[files]]
-file = "config/letmesleep-common.toml"
-hash = "411cb74de700ec715ac22388a32e75f39c0cbd1f875bfdfebf33d21b55e3f59e"
 
 [[files]]
 file = "config/limitedchunks.json"
@@ -246,7 +182,7 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "8812d459a3efe94192e2c5e1b7678e68f9ffcfe9c10c55d1b9683cf614c5f4aa"
+hash = "00595a3c221baef72833f686a2fd6ccd0e8f1b56f5d31cacf976290b08d8e107"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -290,11 +226,15 @@ hash = "29e73ae1075a5d9f61394a353e60ba84c5c801e511105f2400e0d4ba66a9bf76"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "39c674df53fbd81c5071d69c17f30e415541df277002fd930aab356ebd07fc8a"
+hash = "a079c3f512d1315278d7214314cf93a109477fcb50111e76426aeb94040ebe57"
+
+[[files]]
+file = "config/packed_packs/config.json"
+hash = "30a6ddc4da1e63bee01ba66d6a2c14ed0e43fcacaed7d349d9baa1a121fcbfb7"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
-hash = "8138366476d822b43b1fcc6f9c2e5c3fdb80e1348e3114ff0cbfbb0ca93284c2"
+hash = "bba382ae0029b8928d527ab22f523963112d5c4fd19027b8809637cf64b9d48b"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -302,15 +242,7 @@ hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
 [[files]]
 file = "config/pointblank-common.toml"
-hash = "ce3692547c93b30b7fd06454f89ba1150ac32df31c6957106f20f7f0a97f5e39"
-
-[[files]]
-file = "config/pointblank-items.toml"
-hash = "454adba8d5bf626e1023356a239e13128f8c143fc1913a98b573a7c147fe21c9"
-
-[[files]]
-file = "config/recipeessentials.json"
-hash = "96b6764c28555977f3f2f7091b881de3c3def4560584ac13a1c42b6c692a6755"
+hash = "3cd6cd2d09348806874211310de0f66916d1f3bce2b03230c5197d77a5a2da06"
 
 [[files]]
 file = "config/smoothchunk.json"
@@ -342,7 +274,7 @@ hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "65f2c00fdf5f6c12b18023c4253c016cf6268ace42774576e6a47e6f604157ef"
+hash = "0967f5354048326b7a6ae91cd1beead5ecbd087133027a174c743be5dbdcf547"
 
 [[files]]
 file = "config/startinv.json"
@@ -354,11 +286,11 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/structurify.json"
-hash = "79d36add25e035f5e5d5b65136572d1409f9cb1e5d4936df522db2860b519d1e"
+hash = "81b84f7ef86ca5636e2bce809962b6aa7ecec27ed94134ede25c3b2c9084d77c"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "0c7dc18766a4cc97d51bf9415974595b90cdfd62334c0f239cadc880087fb43a"
+hash = "53bfe7670049bb0fd44e37994669b588ba09dea29c536534d1947704cd922428"
 
 [[files]]
 file = "config/time_on_display.toml"
@@ -370,15 +302,11 @@ hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
 file = "config/tombstone-common.toml"
-hash = "398170a90954cbb8b5bbee96c684f7e1eb4b1f574728f2a930b497cefe50f5bf"
+hash = "5a88994749f8164b5368c4a3b9a3df1f7cf7992f68ff1db95363e67417921f2e"
 
 [[files]]
 file = "config/tombstone-server.toml"
-hash = "a3bb4abba30b497518f7d79f000bd85befe07031b4c63f45cd0dbd99adbf6422"
-
-[[files]]
-file = "config/torchmaster.toml"
-hash = "35f0565eb94d48383462fcd2dc25001cbcbbeeb10f9f1f52834b90fb7a680997"
+hash = "f28c5b74423471a754493cd3dae8e9b0ea520f7ad811f709edafe9b60fd19e25"
 
 [[files]]
 file = "config/transition.json"
@@ -386,27 +314,23 @@ hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
 [[files]]
 file = "config/travelersbackpack-common.toml"
-hash = "0e50dbff844e39d7f4770480327df991d9b65e64109fd02e3d0c7c3549a87fe3"
+hash = "696cfbb010c2a9c36d80e87ac810ad0d0b5eb0774ff256a3b8912b77629648b5"
 
 [[files]]
 file = "config/travelersbackpack-server.toml"
-hash = "e6f29781caa049fb5cc670949de604b040c189925f46f5cd701ca0b7efbc9b8b"
+hash = "d5970461df9098ea79441a31be03359ed4c3af446178923de57291fa1ae17eb7"
 
 [[files]]
 file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
-file = "config/utilitarian-client.toml"
-hash = "85ec1149ae245bb2561be09097d80d7c3126936d15bd7693b31f4c1c035cb144"
-
-[[files]]
 file = "config/utilitarian-common.toml"
-hash = "36efb9378cc4106d99cf88748125d4b1497859dff4da97c41596622bbed28f36"
+hash = "1eabeee84b01936890fc21c1d1c8953a108a7caf7b6496001c2f100cfcde0ea1"
 
 [[files]]
 file = "config/utilitarian-server.toml"
-hash = "5d4c8d7bcbf0aec1de25482c3eaebc6984e35ffe9381dbc336aa41f5420714d2"
+hash = "72f5ff4a1ad428c347bf66b2de1e5ab6a483a87eca1797f14b4d6bc47231e92a"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"

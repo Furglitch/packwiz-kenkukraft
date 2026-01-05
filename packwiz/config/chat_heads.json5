@@ -2,8 +2,5 @@
 	"renderPosition": "BEFORE_LIST",
 	"offsetNonPlayerText": true,
 	"senderDetection": "UUID_AND_HEURISTIC",
-	"smartHeuristics": true,
-	"handleSystemMessages": true,
-	"drawShadow": true,
-	"nameAliases": { }
+	"smartHeuristics": true
 }

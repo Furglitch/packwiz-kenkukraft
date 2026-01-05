@@ -35,7 +35,7 @@
 - Better F1 Reborn Ⓒ
 - Counter (Day & Death)
 - Jade
-  - Jade Addons
+	- Jade Addons
 - Leave My Bars Alone
 - Overflowing Bars
 - Scholar
@@ -65,9 +65,9 @@
 
 ### Minimap & Navigation
 - JourneyMap
-  - FTB Chunks
-  - Journeymap Integration
-  - Journeymap Waypoint Syncing
+	- FTB Chunks
+	- Journeymap Integration
+	- Journeymap Waypoint Syncing
 
 ### Camera & Controls
 - OK Zoomer Ⓒ
@@ -96,8 +96,8 @@
 - Fancy Toasts
 - Advancements Reloaded Ⓒ
 - FTB Quests
-  - Certain Questing Additions
-  - ExtraQuests
+	- Certain Questing Additions
+	- ExtraQuests
 
 ## Audio & Visuals
 - Distant Horizons
@@ -161,9 +161,9 @@
 
 #### Baubles & Trinkets
 - Jewelry (RPG Series)
-  - Additional Jewelry
+	- Additional Jewelry
 - Relics (RPG Series)
-  - More Relics (More RPG Content)
+	- More Relics (More RPG Content)
 - Accessories
 	- Accessories Compatibility Layer
 	- Accessorify
@@ -174,8 +174,8 @@
 	- Relics
 	- Relics: Arcane Abilities
 	- Relics: Artifacts Compat
-  - Reliquified Ars Nouveau
-  - Reliquified L_Ender's Cataclysm
+	- Reliquified Ars Nouveau
+	- Reliquified L_Ender's Cataclysm
 
 #### Cosmetics
 - Cosmetic Armor Reworked
@@ -207,10 +207,10 @@
 - Macaw's Suite
 - OpenBlocks Elevator
 - Rechiseled
-  - Chipped
-  - Rechiseled: AE2
-  - Rechiseled: Chipped
-  - Rechiseled: Create
+	- Chipped
+	- Rechiseled: AE2
+	- Rechiseled: Chipped
+	- Rechiseled: Create
 - Scaffolding Drops Nearby
 
 ### Decoration & Furniture
@@ -239,11 +239,11 @@
 - DarkSleep
 - Let Me Sleep
 - Pufferfish's Skills
-  - Default Skill Trees
-  - Pufferfish's Attributes
-  - Skill Tree (RPG Series)
-  - More RPG Classes - Skill Tree
-  - Iron's Spells 'n Spellbooks Dynamic Skill Trees
+	- Default Skill Trees
+	- Pufferfish's Attributes
+	- Skill Tree (RPG Series)
+	- More RPG Classes - Skill Tree
+	- Iron's Spells 'n Spellbooks Dynamic Skill Trees
 
 ### Death & Respawning
 - Corail Tombstone
@@ -286,10 +286,10 @@
 - Botany Pots
 - Croptopia
 - Farmer's Delight
-  - Create: Central Kitchen
-  - Create: Food
-  - Create: Integrated Farming
-  - Create: Slice & Dice
+	- Create: Central Kitchen
+	- Create: Food
+	- Create: Integrated Farming
+	- Create: Slice & Dice
 - Pam's Harvestcraft 2 Suite
 - Hey Berry! SHUT UP
 - Keep My Soil Tilled
@@ -324,21 +324,21 @@
 
 ### Loot Tables
 - Loot Integrations
-  - Loot Integrations: Adventure Dungeons
-  - Loot Integrations: Better Archeology
-  - Loot Integrations: Bygone Nether & Eternal Nether & It Takes a Pillage
-  - Loot Integrations: ChoiceTheorem's Overhauled Village
-  - Loot Integrations: Dungeon Crawl
-  - Loot Integrations: Dungeons and Taverns
-  - Loot Integrations: Hopo Better Mineshaft, Ruins & Portals
-  - Loot Integrations: L_Ender's Cataclysm
-  - Loot Integrations: Medieval Buildings & End & Nether
-  - Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
-  - Loot Integrations: Philip's Ruins
-  - Loot Integrations: Randomized Loot compatibility
-  - Loot Integrations: Structory & Towers
-  - Loot Integrations: When Dungeons Arise & Co
-  - Yung Structures Addon for Loot Integrations
+	- Loot Integrations: Adventure Dungeons
+	- Loot Integrations: Better Archeology
+	- Loot Integrations: Bygone Nether & Eternal Nether & It Takes a Pillage
+	- Loot Integrations: ChoiceTheorem's Overhauled Village
+	- Loot Integrations: Dungeon Crawl
+	- Loot Integrations: Dungeons and Taverns
+	- Loot Integrations: Hopo Better Mineshaft, Ruins & Portals
+	- Loot Integrations: L_Ender's Cataclysm
+	- Loot Integrations: Medieval Buildings & End & Nether
+	- Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
+	- Loot Integrations: Philip's Ruins
+	- Loot Integrations: Randomized Loot compatibility
+	- Loot Integrations: Structory & Towers
+	- Loot Integrations: When Dungeons Arise & Co
+	- Yung Structures Addon for Loot Integrations
 
 ### Treasure & Rewards
 - Better Archeology
@@ -363,7 +363,7 @@
 - Iron's Spells 'n Spellbooks
 	- Alshanex's Familiars
 	- Cataclysm: Spellbooks
-    - Create: Wizardry
+		- Create: Wizardry
 	- Dark Doppelganger
 	- Crystal Chronicles - Iron's Spells 'n Spellbooks
 	- Iron's Gems 'n Jewelry
@@ -432,9 +432,9 @@
 ### Chests & Containers
 - Bank Storage
 - Ender Storage 1.8+
-  - Create Ender STorage
+	- Create Ender STorage
 - Functional Storage
-  - More Functional Storage
+	- More Functional Storage
 - Sophisticated Storage
 	- Sophisticated Storage in Motion
 	- Sophisticated Storage Create Integration
@@ -453,23 +453,23 @@
 	- Applied Schematicannon
 	- Ars Énergistique
 	- Create Stock Bridge
-    - Create: AE2 Recipes
+		- Create: AE2 Recipes
 	- Mega Cells
 - Tom's Simple Storage
-  - Create Contraption Terminals
+	- Create Contraption Terminals
 
 ### Item Sorting
 - Trash Cans
 
 ### Bulk Storage
 - Crate Delight
-  - Crate Delight: Croptopia
+	- Crate Delight: Croptopia
 
 ### Backpacks
 - Backpacked
 - Ender Pack
 - Sophisticated Backpacks
-  - Sophisticated Backpacks Create Integration
+	- Sophisticated Backpacks Create Integration
 - Traveler's Backpack
 
 ## Technology
@@ -479,18 +479,18 @@
 ### Machinery
 - Compact Machines
 - Mekanism
-  - Just Enough Mekanism Multiblocks
-  - MekaGenJei
-  - MekaJadeUpgrades
-  - Mekanism Additions
-  - Mekanism Covers
-  - Mekanism Generators
-  - Mekanism Tools
-  - More Mekanism Processing
+	- Just Enough Mekanism Multiblocks
+	- MekaGenJei
+	- MekaJadeUpgrades
+	- Mekanism Additions
+	- Mekanism Covers
+	- Mekanism Generators
+	- Mekanism Tools
+	- More Mekanism Processing
 - Oritech
-  - Create Oritech Compat
-  - Extended Oritech
-  - Oritech Things
+	- Create Oritech Compat
+	- Extended Oritech
+	- Oritech Things
 
 ### Automation
 
@@ -555,7 +555,7 @@
 ### Flight
 - Easy Elytra Takeoff
 - Immersive Aircraft
-  - Man of Many Planes
+	- Man of Many Planes
 
 ### Ships & Boats
 
@@ -595,7 +595,7 @@
 - Oh The Biomes We've Gone
 - Regions Unexplored
 - Terralith
-  - Terralith Restoned
+	- Terralith Restoned
 
 ### Caves
 - YUNG's Better Caves
@@ -617,7 +617,7 @@
 - Moog's Soaring Structures
 - Philip's Ruins
 - Structory
-  - Structory: Towers
+	- Structory: Towers
 - Underground Bunkers
 - YUNG's Bridges
 - YUNG's Extras
@@ -672,11 +672,11 @@
 
 #### New Dimensions
 - The Aether
-  - Aether Addon: Protect Your Moa
-  - Aether Ruined Portals
-  - Aether Villages
-  - Deep Aether
-  - Explore Ruins: The Aether - Dungeons & Structures
+	- Aether Addon: Protect Your Moa
+	- Aether Ruined Portals
+	- Aether Villages
+	- Deep Aether
+	- Explore Ruins: The Aether - Dungeons & Structures
 - Deeper and Darker
 
 ## Cosmetics & Customization
@@ -687,16 +687,16 @@
 
 ### Origins & Races
 - Dragon Survival
-  - Additional Dragons
-  - Aether Dragon - Dragon Survival addon
-  - Astral Dragon
-  - Be Bee Queen - Dragon Survival Addon
-  - Brain Stealer Dragon - Addon
-  - Crystcursed Dragon (Dragon Survival Add-On)
-  - Desert Claw - Dragon Survival Addon
-  - Dragon Survival - Griffin Addon
-  - Tundra Dragon (Dragon Survival Add-On)
-  - Wing Kirin - Dragon Survival Addon
+	- Additional Dragons
+	- Aether Dragon - Dragon Survival addon
+	- Astral Dragon
+	- Be Bee Queen - Dragon Survival Addon
+	- Brain Stealer Dragon - Addon
+	- Crystcursed Dragon (Dragon Survival Add-On)
+	- Desert Claw - Dragon Survival Addon
+	- Dragon Survival - Griffin Addon
+	- Tundra Dragon (Dragon Survival Add-On)
+	- Wing Kirin - Dragon Survival Addon
 
 ### Emotes & Animations
 
@@ -728,14 +728,14 @@
 
 #### Interface & HUD
 - Mandala's GUI - Dark Mode
-  - (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
-  - (Unofficial) Mandala's GUI - Dark Mode Compatibility Neo
-  - Overflowing Bars + Mandala's GUI Compat
-  - Mandala's GUI - Vending Block Compat
-  - Mandala's GUI - Dark mode - Utopia extension
+	- (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
+	- (Unofficial) Mandala's GUI - Dark Mode Compatibility Neo
+	- Overflowing Bars + Mandala's GUI Compat
+	- Mandala's GUI - Vending Block Compat
+	- Mandala's GUI - Dark mode - Utopia extension
 - Colourful Containers Dark Mode GUI
-  - Colourful Containers Text Extension
-  - Colourful Containers: Modded Dark Mode GUI Compat
+	- Colourful Containers Text Extension
+	- Colourful Containers: Modded Dark Mode GUI Compat
 - Low Fire Pack
 - Zero's Modern Crosshair
 

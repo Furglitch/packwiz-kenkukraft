@@ -3670,6 +3670,11 @@ hash = "faaf75bdd7f1be640a588ac684529f7a25e2454e40ea915fbf1acc46dfd3e162"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vending-block-restocked-mandalas-gui.pw.toml"
+hash = "8987b59ced195e0067f1a9f1c605cb78a73043d47e4085c94423c13c96458e38"
+metafile = true
+
+[[files]]
 file = "resourcepacks/zeros-modern-crosshair.pw.toml"
 hash = "37981702ececf97cafcbe4f5e9a5e8109724450ef3185f6f1501d02ddc92ac5d"
 metafile = true

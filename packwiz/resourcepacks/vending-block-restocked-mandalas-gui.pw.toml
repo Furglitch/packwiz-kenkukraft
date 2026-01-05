@@ -1,0 +1,13 @@
+name = "Vending Block: Restocked - Mandala's GUI"
+filename = "MandalasGUI-Dark-VendingBlock.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ca206814a14eea7f62b56c28fd36915a68418a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7417473
+project-id = 1420707

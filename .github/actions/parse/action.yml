@@ -24,9 +24,6 @@ runs:
 
   steps:
 
-    - name: Check Out Git Repository
-      uses: actions/checkout@v3
-
 
     - name: Parse the pack.toml
       id: parse

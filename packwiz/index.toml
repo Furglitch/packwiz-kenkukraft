@@ -13,10 +13,6 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "5e8063bc20d6652022fbeee40031874ea7d44971fe397aee92de678c75a0ac78"
 
 [[files]]
-file = "config/PMWA_Config.toml"
-hash = "be03de692c5a1fe2c8423d628b0c9bdb6dadb8c678dd85ac01e5c9934910eeb5"
-
-[[files]]
 file = "config/aether-client.toml"
 hash = "0bbab77f988bfb166b20e0ce217e55c39dbe5146e57a024f0506e3809a0a6b1e"
 
@@ -223,6 +219,10 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "00595a3c221baef72833f686a2fd6ccd0e8f1b56f5d31cacf976290b08d8e107"
+
+[[files]]
+file = "config/mobcontrol.toml"
+hash = "86aeebd4a3523f6d3cf810b6b6a915311379bcf8a6f194da3a58fa83ea21d647"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -2622,6 +2622,11 @@ hash = "df3d76e31b1eac6927713c77421275d8fd1858ad1f86fa6986fe5f74fdac13a6"
 metafile = true
 
 [[files]]
+file = "mods/ohaydens-mob-control.pw.toml"
+hash = "780bf903b36ca1a10bd61c4e20925e38442e2e72c601c97301b866cae4750a0c"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "ef34117249cbd90203a1b7453338edc707fb35d426dc930e2404111f5f714327"
 metafile = true
@@ -2714,11 +2719,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
-metafile = true
-
-[[files]]
-file = "mods/pmwa.pw.toml"
-hash = "90b6744e28948103394bb02b20f049f526ad6e0fe8ba2850aa2121851861c270"
 metafile = true
 
 [[files]]
@@ -3480,6 +3480,50 @@ metafile = true
 file = "pointblank/vics-point-blank-trauma.pw.toml"
 hash = "a95b42aa5e5d1b6f9ed31db24292f5a6e7e706384873f4bb1cad7c51ebe9c9d2"
 metafile = true
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg"
+hash = "c4625e02983d006dd1aed2e8f002ebb6c1d8d805d39221f5a50cd9082dc8e981"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg.source.txt"
+hash = "31b8273b3eb38e289daba2e8b9fa8c2de8f2ac7b75b305528d31bd33db82958d"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/credits.json"
+hash = "220258dd169da06be297eedcc2460c25c810371dae354b26f5048262ee0ce44a"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/end.txt"
+hash = "4a0126875d416a40a16e8bb299ada667ab73083be427a1cf529040aaf1c165d3"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/postcredits.txt"
+hash = "55022cd988548561902d735ee0cc75b41cd8d455d30a08e12f578acc5aa3f632"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"
+hash = "21835c51670aa1d527aa2b772f4d2a92ac307fe36ee8d2b4495114ecc8e138cb"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "1ae2fabb1fab3f34fa135c0425ff32f74021df6b58f49aca8604fa93cb749bb1"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "8ba28eb4dc41c81cb409c1bd07713ef49ab3c17433fa958ac5f8dbf339f70cc6"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png"
+hash = "4d5fa9cce6853c8e693686fa316c95b5132ac3435a89f05fe7860066ca85682c"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/pack.mcmeta"
+hash = "efa833d07c178da5a91d1cf17fb3079cc7dc779d166b43b5e6c117787d72894c"
+
+[[files]]
+file = "resourcepacks/KenkuKraft Resources/pack.png"
+hash = "5e8bf688be8a7c6f1c471b6c5a2207119009e258dd933fa284a994f8181b2506"
 
 [[files]]
 file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"

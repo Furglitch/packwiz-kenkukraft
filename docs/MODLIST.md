@@ -378,7 +378,7 @@
 - Iron's Spells 'n Spellbooks
 	- Alshanex's Familiars
 	- Cataclysm: Spellbooks
-		- Create: Wizardry
+	- Create: Wizardry
 	- Dark Doppelganger
 	- Crystal Chronicles - Iron's Spells 'n Spellbooks
 	- Iron's Gems 'n Jewelry
@@ -436,7 +436,7 @@
 
 ### Mob Behavior
 - Despawning Eggs Hatch
-- Progressive Mob Wave Activations
+- Mob Control
 - Respawning Animals
 - Respawning Shulkers
 

@@ -161,13 +161,52 @@ jobs:
       - name: Debug PR body output
         run: |
           echo "${{ steps.parse_updates.outputs.body }}"
+      
+      - name: Check for existing PR
+        id: check_pr
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: pullRequests } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              head: `${context.repo.owner}:update-mods`
+            });
+            
+            if (pullRequests.length > 0) {
+              core.setOutput('exists', 'true');
+              core.setOutput('number', pullRequests[0].number);
+              console.log(`Found existing PR #${pullRequests[0].number}`);
+            } else {
+              core.setOutput('exists', 'false');
+              console.log('No existing PR found');
+            }
 
-      - name: Create Pull Request
+      - name: Create or Update Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: update mods'
           title: 'Update mods to latest versions'
           body: ${{ steps.parse_updates.outputs.body }}
-          branch: update-mods-${{ github.run_number }}
-          delete-branch: true
+          branch: update-mods
+          delete-branch: false
+      
+      - name: Comment on existing PR with new updates
+        if: steps.check_pr.outputs.exists == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const prNumber = ${{ steps.check_pr.outputs.number }};
+            const body = `## New Updates (${new Date().toISOString().split('T')[0]})\n\n${{ steps.parse_updates.outputs.body }}`;
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              body: body
+            });

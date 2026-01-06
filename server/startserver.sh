@@ -1,6 +1,5 @@
 #!/bin/sh
 set -eu
-NEOFORGE_VERSION=21.1.215
 # To use a specific Java runtime, set an environment variable named CUSTOM_JAVA to the full path of java.exe.
 # To disable automatic restarts, set an environment variable named AUTO_RESTART to false.
 # To install the pack without starting the server, set an environment variable named INSTALL_ONLY to true.

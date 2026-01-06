@@ -65,6 +65,10 @@ jobs:
       - name: Build server modpack
         working-directory: ./packwiz
         run: |
+          # Parse NeoForge version from pack.toml
+          NEOFORGE_VERSION=$(grep '^neoforge = ' pack.toml | cut -d '"' -f 2)
+          echo "NeoForge version: $NEOFORGE_VERSION"
+          
           # Install packwiz-installer
           wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar
           
@@ -73,6 +77,13 @@ jobs:
           
           # Copy configs
           cp -r config ../modpack-server/
+          
+          # Copy server files (startup scripts, properties, icon)
+          cp -r ../server/* ../modpack-server/
+          
+          # Replace NeoForge version in startup scripts
+          sed -i "s/\\\$NEOFORGE_VERSION/${NEOFORGE_VERSION}/g" ../modpack-server/startserver.sh
+          sed -i "s/%NEOFORGE_VERSION%/${NEOFORGE_VERSION}/g" ../modpack-server/startserver.bat
           
           # Download all mods using packwiz (first pass - collect excluded files)
           cd ../modpack-server
@@ -113,6 +124,10 @@ jobs:
           # Run packwiz-installer again to complete installation
           echo "Running second pass to complete installation..."
           java -jar ../packwiz/packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/${{ github.repository }}/main/packwiz/pack.toml
+          
+          # Download and install NeoForge server
+          echo "Downloading NeoForge server $NEOFORGE_VERSION..."
+          wget https://maven.neoforged.net/releases/net/neoforged/neoforge/${NEOFORGE_VERSION}/neoforge-${NEOFORGE_VERSION}-installer.jar -O neoforge-$NEOFORGE_VERSION-installer.jar
 
       - name: Upload server modpack artifact
         uses: actions/upload-artifact@v6

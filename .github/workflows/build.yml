@@ -15,6 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+      
       - name: Download packwiz artifact
         uses: dawidd6/action-download-artifact@v6
         with:
@@ -51,22 +57,65 @@ jobs:
           unzip packwiz/*.zip -d modpack-client
       
       - name: Upload client modpack artifact
-        uses: actions/upload-artifact@v6.0.0
+        uses: actions/upload-artifact@v6
         with:
           name: ${{ steps.pack_info.outputs.name }}-${{ steps.pack_info.outputs.version }}-client
           path: modpack-client/
-      
-      - name: Export server modpack
+
+      - name: Build server modpack
         working-directory: ./packwiz
-        run: packwiz curseforge export --side server
-      
-      - name: Extract server modpack
         run: |
-          mkdir -p modpack-server
-          unzip packwiz/*.zip -d modpack-server
-      
+          # Install packwiz-installer
+          wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar
+          
+          # Create server directory structure
+          mkdir -p ../modpack-server
+          
+          # Copy configs
+          cp -r config ../modpack-server/
+          
+          # Download all mods using packwiz (first pass - collect excluded files)
+          cd ../modpack-server
+          echo "Running first pass to collect CurseForge-excluded files..."
+          java -jar ../packwiz/packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/${{ github.repository }}/main/packwiz/pack.toml 2>&1 | tee install.log || true
+          
+          # Parse and download excluded files from CDN
+          echo "Downloading CurseForge-excluded files from CDN..."
+          grep "Please go to" install.log | while read -r line; do
+            # Extract the CurseForge URL
+            cf_url=$(echo "$line" | grep -oP 'https://www\.curseforge\.com[^ ]+')
+            # Extract the file ID from the URL (e.g., /files/7403631 -> 7403631)
+            file_id=$(echo "$cf_url" | grep -oP '/files/\K[0-9]+')
+            # Extract the destination path
+            dest_path=$(echo "$line" | grep -oP 'save this file to \K.+')
+            
+            if [ -n "$file_id" ] && [ -n "$dest_path" ]; then
+              # Convert file ID to CDN URL format: edge.forgecdn.net/files/XXXX/YYY/filename
+              # Split file_id into groups (e.g., 7403631 -> 7403/631)
+              id_part1=$(echo "$file_id" | sed 's/\(.*\)\(...\)/\1/')
+              id_part2=$(echo "$file_id" | sed 's/.*\(...\)/\1/')
+              
+              # Get filename from destination path
+              filename=$(basename "$dest_path")
+              
+              # URL-encode the filename
+              encoded_filename=$(echo "$filename" | sed 's/ /%20/g' | sed "s/'/%27/g")
+              
+              # Construct CDN URL
+              cdn_url="https://edge.forgecdn.net/files/${id_part1}/${id_part2}/${encoded_filename}"
+              
+              echo "Downloading: $cdn_url -> $dest_path"
+              mkdir -p "$(dirname "$dest_path")"
+              wget -q "$cdn_url" -O "$dest_path" || echo "Failed to download $cdn_url"
+            fi
+          done
+          
+          # Run packwiz-installer again to complete installation
+          echo "Running second pass to complete installation..."
+          java -jar ../packwiz/packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/${{ github.repository }}/main/packwiz/pack.toml
+
       - name: Upload server modpack artifact
-        uses: actions/upload-artifact@v6.0.0
+        uses: actions/upload-artifact@v6
         with:
           name: ${{ steps.pack_info.outputs.name }}-${{ steps.pack_info.outputs.version }}-server
           path: modpack-server/

@@ -8,15 +8,29 @@ on:
   schedule:
     - cron: '0 6 */5 * *'
   workflow_dispatch:
-        
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Pull existing PR branch
+        id: check_branch
+        run: |
+          if git ls-remote --heads origin update-mods | grep -q update-mods; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            git fetch origin update-mods
+            git merge origin/update-mods --no-edit || echo "Merge conflict or no changes to merge"
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Download packwiz artifact
         uses: dawidd6/action-download-artifact@v6
         with:
@@ -25,16 +39,16 @@ jobs:
           repo: packwiz/packwiz
           name: Linux 64-bit x86
           path: ./packwiz-bin
-        
+
       - name: Setup packwiz
         run: |
           chmod +x ./packwiz-bin/packwiz
           sudo mv ./packwiz-bin/packwiz /usr/local/bin/
-        
+
       - name: Update mods
         working-directory: ./packwiz
         run: packwiz update --all --yes | tee $GITHUB_WORKSPACE/packwiz_update.out
-      
+
       - name: Parse updates and build PR body
         id: parse_updates
         run: |
@@ -128,7 +142,7 @@ jobs:
             echo "No updates found (file not found)." >> /tmp/pr_body.txt
             else
             echo "## Updated:" > /tmp/pr_body.txt
-            
+
             sed -n '/Updates found:/,/Do you want to update\? /p' "$GITHUB_WORKSPACE/packwiz_update.out" | \
             grep ' -> ' | \
             while IFS= read -r line; do
@@ -151,18 +165,31 @@ jobs:
               fi
             done | sort -f >> /tmp/pr_body.txt
             fi
-            
+
             {
             echo "body<<EOF"
             cat /tmp/pr_body.txt
             echo "EOF"
             } >> $GITHUB_OUTPUT
-      
+
+      - name: Check if updates were found
+        id: check_updates
+        run: |
+          if grep -q ' -> ' "$GITHUB_WORKSPACE/packwiz_update.out" 2>/dev/null; then
+            echo "has_updates=true" >> $GITHUB_OUTPUT
+            echo "Updates found, proceeding with PR creation/update"
+          else
+            echo "has_updates=false" >> $GITHUB_OUTPUT
+            echo "No updates found, skipping PR steps"
+          fi
+
       - name: Debug PR body output
+        if: steps.check_updates.outputs.has_updates == 'true'
         run: |
           echo "${{ steps.parse_updates.outputs.body }}"
-      
+
       - name: Check for existing PR
+        if: steps.check_updates.outputs.has_updates == 'true'
         id: check_pr
         uses: actions/github-script@v7
         with:
@@ -186,6 +213,7 @@ jobs:
 
       - name: Create or Update Pull Request
         id: cpr
+        if: steps.check_updates.outputs.has_updates == 'true'
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -194,9 +222,10 @@ jobs:
           body: ${{ steps.parse_updates.outputs.body }}
           branch: update-mods
           delete-branch: false
-      
+
       - name: Comment on existing PR with new updates
-        if: steps.check_pr.outputs.exists == 'true'
+        id: comment_pr
+        if: steps.check_updates.outputs.has_updates == 'true' && steps.check_pr.outputs.exists == 'true' && steps.cpr.outputs.pull-request-operation == 'updated'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -210,3 +239,43 @@ jobs:
               issue_number: prNumber,
               body: body
             });
+
+      ### LOCAL TEST STEPS - uncomment below for local testing, and comment out `check_pr`, `cpr`, and `comment_pr` from above ###
+      
+      # - name: Check for existing PR (LOCAL TEST)
+      #   id: check_pr_local
+      #   if: steps.check_updates.outputs.has_updates == 'true'
+      #   run: |
+      #     echo "Would check for existing PR with head: update-mods"
+      #     echo "exists=${{ steps.check_branch.outputs.exists }}" >> $GITHUB_OUTPUT
+      #     echo "number=123" >> $GITHUB_OUTPUT
+
+      # - name: Create or Update Pull Request (LOCAL TEST)
+      #   id: cpr_local
+      #   if: steps.check_updates.outputs.has_updates == 'true'
+      #   run: |
+      #     if [ "${{ steps.check_branch.outputs.exists }}" == "true" ]; then
+      #       echo "=== Would UPDATE existing PR #123 with: ==="
+      #       echo "pull-request-operation=updated" >> $GITHUB_OUTPUT
+      #     else
+      #       echo "=== Would CREATE new PR with: ==="
+      #       echo "pull-request-operation=created" >> $GITHUB_OUTPUT
+      #     fi
+      #     echo "Branch: update-mods"
+      #     echo "Title: Update mods to latest versions"
+      #     echo ""
+      #     echo "Body:"
+      #     echo "${{ steps.parse_updates.outputs.body }}"
+      #     echo ""
+      #     echo "pull-request-number=123" >> $GITHUB_OUTPUT
+
+      # - name: Comment on existing PR with new updates (LOCAL TEST)
+      #   id: comment_pr_local
+      #   if: steps.check_updates.outputs.has_updates == 'true' && steps.check_pr_local.outputs.exists == 'true' && steps.cpr_local.outputs.pull-request-operation == 'updated'
+      #   run: |
+      #     echo ""
+      #     echo "=== Would post comment on PR #${{ steps.check_pr_local.outputs.number }}: ==="
+      #     echo ""
+      #     echo "## New Updates ($(date -I))"
+      #     echo ""
+      #     echo "${{ steps.parse_updates.outputs.body }}"

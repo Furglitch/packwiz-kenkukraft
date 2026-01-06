@@ -2697,11 +2697,6 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
-file = "mods/pathfinding-edition-for-minecolonies.pw.toml"
-hash = "94ec314e06b3cdf72e62897ddec0861ff3641823682b3c6a0f9afe85e04d7925"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "245c7944a8fdc3729cf62065a3f42e42fe8e6e573a0557fed43b5b5525f9029b"
 metafile = true

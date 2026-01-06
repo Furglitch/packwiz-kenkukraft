@@ -210,6 +210,7 @@
 - Double Doors
 - FramedBlocks
 - Macaw's Suite
+- More Decorative Blocks - BlackWolf Design
 - OpenBlocks Elevator
 - Rechiseled
 	- Chipped
@@ -224,6 +225,7 @@
 - Armor Statues
 - Comforts
 - Etched
+- Furnitury
 - Handcrafted
 - Lucky's Showcase
 - MmmMmmMmmMmm (Target Dummy)
@@ -236,6 +238,7 @@
 ### Minecolonies
 - Minecolonies
 	- Framed Colonies
+	- JadeColonies
 	- Pathfinding Edition for Minecolonies
 	- Project Resonance
 	- Small Colonies
@@ -348,7 +351,7 @@
 	- Loot Integrations: Medieval Buildings & End & Nether
 	- Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
 	- Loot Integrations: Philip's Ruins
-	- Loot Integrations: Randomized Loot compatibility
+	- Loot Integrations: Randomized Loot Compatibility
 	- Loot Integrations: Structory & Towers
 	- Loot Integrations: When Dungeons Arise & Co
 	- Yung Structures Addon for Loot Integrations

@@ -1,0 +1,13 @@
+name = "Furnitury - Vanilla Styled Furniture"
+filename = "furnitury-2.3512-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e649f40525b1492bdd729eabe6d678fb0d66d66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7412598
+project-id = 399025

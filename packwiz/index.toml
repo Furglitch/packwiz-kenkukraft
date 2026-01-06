@@ -882,6 +882,11 @@ hash = "8d1256e9a5f2022ca0f49cca2d6a2609eacc41a00800e0d419217c9a328110e2"
 metafile = true
 
 [[files]]
+file = "mods/blackwolf-library.pw.toml"
+hash = "494085aa69b507bfc95cdad935a5eb005740de59c0052d0ac0bed1405fbab7b8"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "925953631ee34a79f4dc5cf9ff9b9cb642435be0eccbf3184510659002bbda4d"
 metafile = true
@@ -1927,6 +1932,11 @@ hash = "87c111d2a61cf5bebcbd755596a97962856c443e8afccd48eb8b5a152bb23263"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "68c48eeaee34bdd0d22981a4f85105bc1037d558be74d2c115696430049f839d"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
@@ -1994,6 +2004,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "6b3f722168fa57e23fca5441d9b74a11194d9252625d6bf0898c4d212f99380a"
+metafile = true
+
+[[files]]
+file = "mods/jadecolonies.pw.toml"
+hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
 metafile = true
 
 [[files]]
@@ -2247,6 +2262,11 @@ hash = "30195663aa46907f6f3254fdd7db1ab5359e39d608abd61343902462c4ad819f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "964a932d5ea6c63b79b89693438a37d729e205e015500289e272f4d5aba38bde"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "d1917dab5c28f8792bfab752788d612ea21fa407f091a2e30ca0c4594fc902ec"
 metafile = true
@@ -2419,6 +2439,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "1d49d388cd1a4317c1663672b41acbf11cb4c5c2c731b231308a3ed655f555ae"
+metafile = true
+
+[[files]]
+file = "mods/more-decorative-blocks-blackwolf-design.pw.toml"
+hash = "04c443e9333991ab380e698e2aa33a6517810b52e96f7beecbed29137d68a972"
 metafile = true
 
 [[files]]
@@ -2794,6 +2819,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+metafile = true
+
+[[files]]
+file = "mods/reeves-furniture.pw.toml"
+hash = "51c05ab216d67b492d1f56bd0e4de7c88bd1f5e91ebeab5390f613a138502fc9"
 metafile = true
 
 [[files]]
@@ -3279,6 +3309,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "5722d877113b104ccdfc8e1cc966dab31a71bc1559e0646911d279c0bd42bc7f"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
 metafile = true
 
 [[files]]

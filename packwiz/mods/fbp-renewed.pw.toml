@@ -1,6 +1,6 @@
 name = "Fancy Block Particles - Renewed"
 filename = "FancyBlockParticles-1.21.1-neoforge-21.1.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

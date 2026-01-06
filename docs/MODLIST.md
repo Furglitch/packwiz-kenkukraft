@@ -1,7 +1,7 @@
 # KenkuKraft Mod List
 **Minecraft Version:** 1.21.1 <br/>
 **Mod Loader:** NeoForge <br/>
-**Last Updated:** 29 December 2025 <br/>
+**Last Updated:** 6 Jan 2025 <br/>
 
 > Ⓒ - Client-Side Only <br/>
 > Ⓢ - Server-Side Only <br/>
@@ -10,7 +10,6 @@
 
 ## Base
 - More FPS [FORGE]
-	- Version: 31.0.0
 	- URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
 	- Removed Mods:
 			- FancyMenu
@@ -36,17 +35,16 @@
 - Counter (Day & Death)
 - Jade
 	- Jade Addons
-- Leave My Bars Alone
-- Overflowing Bars
+- Leave My Bars Alone Ⓒ
+- Overflowing Bars Ⓒ
 - Scholar
-- Stylish Effects
+- Stylish Effects Ⓒ
 
 ### Menus
 - Cursors Extended Ⓒ
 - Configured Defaults Ⓒ
 - Fadeless Ⓒ
 - Packed Packs Ⓒ
-- Seamless Loading Screen Ⓒ
 
 ### Inventory & Crafting
 - EMI
@@ -470,7 +468,7 @@
 	- Applied Schematicannon
 	- Ars Énergistique
 	- Create Stock Bridge
-		- Create: AE2 Recipes
+	- Create: AE2 Recipes
 	- Mega Cells
 - Tom's Simple Storage
 	- Create Contraption Terminals

@@ -1,6 +1,6 @@
 name = "Gaura's 2D Projectiles"
 filename = "twod_projectiles-neoforge-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

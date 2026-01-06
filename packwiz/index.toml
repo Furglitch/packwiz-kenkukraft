@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "b3bf7a7f409e023bb40a6d07baf543c132a79740ddda17623710315bce4123e0"
+hash = "771314b9770f3e0440b01573397e7b151f6a29a88e2313e1c08ff5a1b3801374"
 metafile = true
 
 [[files]]
@@ -563,12 +563,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "2a927b4361d09500f17075c2bd01e3b0c031bae9cd04c04472648ce3a621191f"
+hash = "edfdc75fd970599b6b3bf0d9455c04d6e97293989a9406a19aff9f5747e1c37a"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "386d27ed05a5b6009046fe2dc10f1d60803859f1f53400989826f552461b32bb"
+hash = "9345bfa965743ea68c6db0580c0ea51662fe26596794a6e2c7ded4835c7807d4"
 metafile = true
 
 [[files]]
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
-hash = "48e86845338e9e6127ff6bb6e3c34563717d7a883719b82824720ff1c5948464"
+hash = "d7bad25e76c56a24b353822636b63ff08624e58272e10927fcd2f505da573298"
 metafile = true
 
 [[files]]
@@ -1723,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "ece74e07bd00096b80d134cfd9fafb1090c3e7cb70c4e66a5bb4f874c397f2d0"
+hash = "25d93b6a58606789343b866c006f89cb2b774d5604d3def9decb82fcec380083"
 metafile = true
 
 [[files]]
@@ -1773,7 +1773,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "b99e201df15b7c097266476147a51609ba4a00fd2ad2c8128d977f4dbc8394f4"
+hash = "2120300501fd5b044841b2e5bcbde6adbf58815d96d97c60c0dc8f0cb0900a02"
 metafile = true
 
 [[files]]
@@ -1993,7 +1993,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic-lite.pw.toml"
-hash = "bcc93c628aba3bf54ed4d19c7943e1f49138643644b41d6dcb748b1a4ea31c0a"
+hash = "4a53767e46cf933efcb5dbace9fcb2d944586b434743ee60fca1d0c9a6b3bd60"
 metafile = true
 
 [[files]]
@@ -2123,7 +2123,7 @@ metafile = true
 
 [[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
-hash = "f6edefa60427039b2253f5aa3166ab7d19dc445004f7f781321d8e0f70437d19"
+hash = "e64b844bba321f90b915452e486945f54107f65c3416b1ca5b1f1ef63d8ce572"
 metafile = true
 
 [[files]]
@@ -2403,7 +2403,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
-hash = "e8090f80b8f3e7827b7db95c90018520e3b7d57b19e7a3e4760078acd20086dd"
+hash = "f00cc04edaaa975afc3f3f4dd8f2ea9016b13f940ac23e0dbdab4853f2b105b0"
 metafile = true
 
 [[files]]
@@ -2478,7 +2478,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-sound.pw.toml"
-hash = "ae8c13410a282db0dbe54b2217b791f082c83368e771a099eb03a918165004dc"
+hash = "a8c49c6ac8404c1c9382fddf95e1c545a4607c2ebbcd4a5bf26aad0bb00e6c98"
 metafile = true
 
 [[files]]
@@ -2643,7 +2643,7 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
+hash = "5f217056eed94ecf5037f7bfb1555b26a76815cb8930fe5b4207799a1c6a69fa"
 metafile = true
 
 [[files]]
@@ -3068,7 +3068,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "36bc1bb632d1203c91d99298214b08b6babc7da301fff00fded2a1f705592f17"
+hash = "a3060b1d5a7b39e084cad66292d2258cc78d6e028b3e3d1a5925636cac5472c4"
 metafile = true
 
 [[files]]
@@ -3158,7 +3158,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylish-effects.pw.toml"
-hash = "d78e398b4aba90aed9d90b8b1d48e5f551932eac0e0691f30d257bc218979374"
+hash = "b9f1b510c0f0a488bf0b1a3d6de26cad1a6c66d372f357c5c3ab2324852364a1"
 metafile = true
 
 [[files]]
@@ -3273,7 +3273,7 @@ metafile = true
 
 [[files]]
 file = "mods/twod-projectiles.pw.toml"
-hash = "b170801396355efdb4e8a87124b75218c9226b944ef680927e2737c06bbb8b82"
+hash = "8e34dc13b6f114fd9811fc414feeb3a8ffab28cd56c1a341e596823c5e74be58"
 metafile = true
 
 [[files]]

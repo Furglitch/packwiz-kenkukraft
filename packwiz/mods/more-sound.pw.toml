@@ -1,6 +1,6 @@
 name = "More Sound"
 filename = "more_sounds-0.1.1-beta.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

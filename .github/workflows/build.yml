@@ -1,0 +1,57 @@
+name: Build Modpack
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+        
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download packwiz artifact
+        uses: dawidd6/action-download-artifact@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          workflow: go.yml
+          repo: packwiz/packwiz
+          name: Linux 64-bit x86
+          path: ./packwiz-bin
+        
+      - name: Setup packwiz
+        run: |
+          chmod +x ./packwiz-bin/packwiz
+          sudo mv ./packwiz-bin/packwiz /usr/local/bin/
+      
+      - name: Parse pack info
+        id: pack_info
+        run: |
+          NAME=$(grep '^name = ' packwiz/pack.toml | cut -d '"' -f 2)
+          VERSION=$(grep '^version = ' packwiz/pack.toml | cut -d '"' -f 2)
+          echo "name=$NAME" >> $GITHUB_OUTPUT
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+        
+      - name: Refresh modpack
+        working-directory: ./packwiz
+        run: packwiz refresh
+      
+      - name: Export CurseForge modpack
+        working-directory: ./packwiz
+        run: packwiz curseforge export
+      
+      - name: Extract modpack
+        run: |
+          mkdir -p modpack-extracted
+          unzip packwiz/*.zip -d modpack-extracted
+      
+      - name: Upload modpack artifact
+        uses: actions/upload-artifact@v6.0.0
+        with:
+          name: ${{ steps.pack_info.outputs.name }}-${{ steps.pack_info.outputs.version }}
+          path: modpack-extracted/

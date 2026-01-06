@@ -270,11 +270,11 @@ hash = "a079c3f512d1315278d7214314cf93a109477fcb50111e76426aeb94040ebe57"
 
 [[files]]
 file = "config/packed_packs/config.json"
-hash = "30a6ddc4da1e63bee01ba66d6a2c14ed0e43fcacaed7d349d9baa1a121fcbfb7"
+hash = "7955f6ff6adf30ff348214e1cfb0c1972ad8d49357b6b8fad6d3a47fd6af4324"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
-hash = "1367d4bbd74d93a05ad5ca0a881a3c0de5d48106565441bd2f08a0ffefccd522"
+hash = "6be26314c5ac29c5fcd8914daf0f13e7d97fdbd2f844a96cd5bf6098bfda5abb"
 
 [[files]]
 file = "config/placebo.cfg"

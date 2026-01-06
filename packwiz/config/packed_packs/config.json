@@ -8,8 +8,8 @@
     "replaceOriginal": true,
     "hideIncompatibleWarnings": true,
     "additionalFolders": [],
-    "rememberLastViewedProfile": true,
-    "lastViewedProfile": "kenku_default",
+    "rememberLastViewedProfile": false,
+    "lastViewedProfile": "",
     "profileOrder": [
       "kenku_default"
     ]

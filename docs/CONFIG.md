@@ -372,3 +372,69 @@
 ### Emotes & Animations 
 
 ### Skins & Models 
+
+
+## Resource Pack Order
+(Remember, reverse order in selection menus)
+- Stay True
+- Noticably Suspicious
+- Fancy Crops
+- Living Dragon
+- Obscuria's Tools
+- AmongstReality's Bow
+- Low Shield
+- Mobs Refreshed
+- AL's Boss Rush
+- Bibliophilia
+- Beautiful Enchanted Books
+- Modded Omelet
+- (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
+- (Unofficial) Mandala's GUI - Dark Mode Compatibility Neo
+- Mandala's GUI - Dark mode - Utopia extension
+- Mandala's GUI - Dark Mode
+- Colourful Containers: Modded Dark Mode GUI Compat
+- Colourful Containers Dark Mode GUI
+- Colourful Containers Text Extension
+- Low Fire Pack
+- Zero's Modern Crosshair
+- Der's Smooth Shaded Font
+- Semos Animations Lib
+- Fresh Animations
+- Fresh Moves (with Eyes)
+- Mobs Refreshed FA
+- AL's Boss Rush FA
+- F.M.R.P
+- Fresh Aether
+- Ars Nouveau Refresh
+- Ars Nouveau Brass-ified Create-Style - ANBICS
+- BB's Bosses Of Mass Destruction Tweaks
+- BB's Toolbelt
+- Comforts Modernized
+- Corail Tombstones Redux
+- Create Lootr
+- Create Style Sophisticated Backpacks
+- Create Touch-Ups
+- Create v6 SolidSails Soft
+- Excalibur | Magnum Torch Support
+- Fresh EndRem Textures
+- Fresh Waystones Texture
+- Iron's Spells 'n Spellbooks Icon's
+- Iron's Spells Armor Reimagined
+- Iron's Spells Weapons Reimagined
+- L_Ender's Cataclysm Reimagined
+- L_Ender's Cataclysm Reimagined 2D Model
+- Modernized Mekanism
+- Moonsu Better GUI for FarmingForBlockheads
+- Nature's & Explorer's Compass Retexture
+- Naturier Compass
+- Oritech Laboratory
+- Overflowing Bars + Mandala's GUI Compat
+- Ping Wheel - Portal 2 Sound
+- Pretty x Smart Pipez
+- Pretty Pretty Pipes
+- Suren's FTB Quests
+- Suren's Sophisticated Storage
+- Updated Aquaculture
+- Utilitarian Upgraded
+- Mandala's GUI - Vending Block Compat
+- Nitpicks

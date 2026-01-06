@@ -710,11 +710,11 @@
 ## Resource Packs
 
 ### Textures
-- Paxi
 - KenkuKraft Resources
 
 #### Base Textures
 - Stay True
+- Nitpicks
 
 #### Blocks & Environment
 - Noticably Suspicious

@@ -1,0 +1,46 @@
+name: Update Modlist
+
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  schedule:
+    - cron: '0 6 */5 * *'
+  workflow_dispatch:
+        
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download packwiz artifact
+        uses: dawidd6/action-download-artifact@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          workflow: go.yml
+          repo: packwiz/packwiz
+          name: Linux 64-bit x86
+          path: ./packwiz-bin
+        
+      - name: Setup packwiz
+        run: |
+          chmod +x ./packwiz-bin/packwiz
+          sudo mv ./packwiz-bin/packwiz /usr/local/bin/
+        
+      - name: Update mods
+        working-directory: ./packwiz
+        run: packwiz update --all --yes
+      
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore: update mods'
+          title: 'Update mods to latest versions'
+          body: 'Automated mod update via packwiz'
+          branch: update-mods
+          delete-branch: true

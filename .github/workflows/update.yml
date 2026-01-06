@@ -33,14 +33,141 @@ jobs:
         
       - name: Update mods
         working-directory: ./packwiz
-        run: packwiz update --all --yes
+        run: packwiz update --all --yes | tee $GITHUB_WORKSPACE/packwiz_update.out
       
+      - name: Parse updates and build PR body
+        id: parse_updates
+        run: |
+          cat > /tmp/extract_version.sh <<'EXTRACT_SCRIPT'
+          #!/bin/bash
+
+          extract_version() {
+            local filename="$1"
+            local version=""
+            local cleaned="$filename"
+
+            cleaned=$(echo "$cleaned" | sed -E 's/\.(jar|zip)$//')
+
+            cleaned="${cleaned//-signed/}"
+            cleaned="${cleaned//-all/}"
+            cleaned="${cleaned//-universal/}"
+            cleaned="${cleaned//-dev/}"
+            cleaned="${cleaned//-api/}"
+            cleaned="${cleaned//-lib/}"
+            cleaned="${cleaned//-snapshot/}"
+            cleaned="${cleaned//-FINAL/}"
+            cleaned="${cleaned//-hotfix/}"
+            cleaned="${cleaned//-patch/}"
+
+            cleaned=$(echo "$cleaned" | sed -E 's/-[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}//g')
+
+            cleaned="${cleaned//-neoforge/}"
+            cleaned="${cleaned//-forge/}"
+            cleaned="${cleaned//-fabric/}"
+            cleaned="${cleaned//-quilt/}"
+            cleaned="${cleaned//_neoforge/}"
+            cleaned="${cleaned//_forge/}"
+            cleaned="${cleaned//_fabric/}"
+            cleaned="${cleaned//_quilt/}"
+
+            cleaned=$(echo "$cleaned" | sed -E 's/^[a-zA-Z_-]+//')
+
+            cleaned=$(echo "$cleaned" | sed -E 's/^mc1\.[0-9]+(\.[0-9]+)?[-_]//')
+            cleaned=$(echo "$cleaned" | sed -E 's/\+minecraft-1\.[0-9]+(\.[0-9]+)?//g')
+            cleaned=$(echo "$cleaned" | sed -E 's/\+mc1\.[0-9]+(\.[0-9]+)?//g')
+            cleaned=$(echo "$cleaned" | sed -E 's/[-_]mc1\.[0-9]+(\.[0-9]+)?//g')
+            cleaned=$(echo "$cleaned" | sed -E 's/[-_]minecraft1\.[0-9]+(\.[0-9]+)?//g')
+            cleaned=$(echo "$cleaned" | sed -E 's/-minecraft-1\.[0-9]+(\.[0-9]+)?//g')
+            cleaned=$(echo "$cleaned" | sed -E 's/^1\.(1[0-9]|20|21)(\.[0-9]+)?[-_]//')
+            cleaned=$(echo "$cleaned" | sed -E 's/[-_]1\.(1[0-9]|20|21)(\.[0-9]+)?$//')
+            cleaned=$(echo "$cleaned" | sed -E 's/-v1\.(1[0-9]|20|21)(\.[0-9]+)?[-_]//')
+            cleaned=$(echo "$cleaned" | sed -E 's/-for-1\.[0-9]+(\.[0-9]+)?//g')
+
+            cleaned="${cleaned//minecraft-/}"
+            cleaned="${cleaned//-minecraft/}"
+            cleaned="${cleaned//minecraft/}"
+            cleaned="${cleaned//mc-/}"
+            cleaned="${cleaned//-mc/}"
+
+            cleaned=$(echo "$cleaned" | sed -E 's/^[_+.\-]+//')
+            cleaned=$(echo "$cleaned" | sed -E 's/[_+.\-]+$//')
+
+            if [[ "$cleaned" =~ _v([0-9]+\.[0-9]+(\.[0-9]+)?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
+              version="${BASH_REMATCH[1]}"
+              echo "$version"
+              return 0
+            fi
+
+            if [[ "$cleaned" =~ -?[Vv]([0-9]+\.[0-9]+(\.[0-9]+)?) ]]; then
+              version="${BASH_REMATCH[1]}"
+              echo "$version"
+              return 0
+            fi
+
+            if [[ "$cleaned" =~ ^([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+[a-z]?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
+              version="${BASH_REMATCH[1]}"
+            elif [[ "$cleaned" =~ ^([0-9]+\.[0-9]+\.[0-9]+[a-z]?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
+              version="${BASH_REMATCH[1]}"
+            elif [[ "$cleaned" =~ ^([0-9]+\.[0-9]+[a-z]?(-[a-zA-Z]+\.[0-9]+[a-z]?)?) ]]; then
+              version="${BASH_REMATCH[1]}"
+            elif [[ "$cleaned" =~ ^v([0-9]+\.[0-9]+(\.[0-9]+)?[a-z]?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
+              version="${BASH_REMATCH[1]}"
+            fi
+
+            echo "$filename -> $version" >&2
+            echo "$version"
+          }
+
+          extract_version "$1"
+          EXTRACT_SCRIPT
+
+          chmod +x /tmp/extract_version.sh
+
+            if [ ! -f "$GITHUB_WORKSPACE/packwiz_update.out" ]; then
+            echo "## Updated:" > /tmp/pr_body.txt
+            echo "No updates found (file not found)." >> /tmp/pr_body.txt
+            else
+            echo "## Updated:" > /tmp/pr_body.txt
+            
+            sed -n '/Updates found:/,/Do you want to update\? /p' "$GITHUB_WORKSPACE/packwiz_update.out" | \
+            grep ' -> ' | \
+            while IFS= read -r line; do
+              mod_name=$(echo "$line" | sed -E 's/(.*): [^[:space:]]+ -> .*/\1/')
+              files=$(echo "$line" | sed -E 's/.*: ([^[:space:]]+ -> [^[:space:]]+)/\1/')
+              old_file=$(echo "$files" | awk -F' -> ' '{print $1}')
+              new_file=$(echo "$files" | awk -F' -> ' '{print $2}')
+
+              mod_name=$(echo "$mod_name" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+              old_file=$(echo "$old_file" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+              new_file=$(echo "$new_file" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+
+              old_version=$(/tmp/extract_version.sh "$old_file")
+              new_version=$(/tmp/extract_version.sh "$new_file")
+
+              if [ -n "$old_version" ] && [ -n "$new_version" ]; then
+              echo "**${mod_name}:** ${old_version} ➜ ${new_version}"
+              else
+              echo "**${mod_name}:** ${old_file} ➜ ${new_file}"
+              fi
+            done | sort -f >> /tmp/pr_body.txt
+            fi
+            
+            {
+            echo "body<<EOF"
+            cat /tmp/pr_body.txt
+            echo "EOF"
+            } >> $GITHUB_OUTPUT
+      
+      - name: Debug PR body output
+        run: |
+          echo "${{ steps.parse_updates.outputs.body }}"
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: update mods'
           title: 'Update mods to latest versions'
-          body: 'Automated mod update via packwiz'
-          branch: update-mods
+          body: ${{ steps.parse_updates.outputs.body }}
+          branch: update-mods-${{ github.run_number }}
           delete-branch: true

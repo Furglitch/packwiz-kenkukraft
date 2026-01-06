@@ -150,10 +150,10 @@ jobs:
             sed -n '/Updates found:/,/Do you want to update\? /p' "$GITHUB_WORKSPACE/packwiz_update.out" | \
             grep ' -> ' | \
             while IFS= read -r line; do
-              mod_name=$(echo "$line" | sed -E 's/(.*): [^[:space:]]+ -> .*/\1/')
-              files=$(echo "$line" | sed -E 's/.*: ([^[:space:]]+ -> [^[:space:]]+)/\1/')
-              old_file=$(echo "$files" | awk -F' -> ' '{print $1}')
-              new_file=$(echo "$files" | awk -F' -> ' '{print $2}')
+              mod_name=$(echo "$line" | sed -E 's/^[[:space:]]*(.*): .* -> .*/\1/')
+              files=$(echo "$line" | sed -E 's/^.*: (.*)/\1/')
+              old_file=$(echo "$files" | sed -E 's/(.*) -> .*/\1/')
+              new_file=$(echo "$files" | sed -E 's/.* -> (.*)/\1/')
 
               mod_name=$(echo "$mod_name" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
               old_file=$(echo "$old_file" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')

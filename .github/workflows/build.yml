@@ -41,17 +41,32 @@ jobs:
         working-directory: ./packwiz
         run: packwiz refresh
       
-      - name: Export CurseForge modpack
+      - name: Export client modpack
         working-directory: ./packwiz
-        run: packwiz curseforge export
+        run: packwiz curseforge export --side client
       
-      - name: Extract modpack
+      - name: Extract client modpack
         run: |
-          mkdir -p modpack-extracted
-          unzip packwiz/*.zip -d modpack-extracted
+          mkdir -p modpack-client
+          unzip packwiz/*.zip -d modpack-client
       
-      - name: Upload modpack artifact
+      - name: Upload client modpack artifact
         uses: actions/upload-artifact@v6.0.0
         with:
-          name: ${{ steps.pack_info.outputs.name }}-${{ steps.pack_info.outputs.version }}
-          path: modpack-extracted/
+          name: ${{ steps.pack_info.outputs.name }}-${{ steps.pack_info.outputs.version }}-client
+          path: modpack-client/
+      
+      - name: Export server modpack
+        working-directory: ./packwiz
+        run: packwiz curseforge export --side server
+      
+      - name: Extract server modpack
+        run: |
+          mkdir -p modpack-server
+          unzip packwiz/*.zip -d modpack-server
+      
+      - name: Upload server modpack artifact
+        uses: actions/upload-artifact@v6.0.0
+        with:
+          name: ${{ steps.pack_info.outputs.name }}-${{ steps.pack_info.outputs.version }}-server
+          path: modpack-server/

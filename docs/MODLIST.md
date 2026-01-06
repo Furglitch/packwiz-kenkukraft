@@ -69,7 +69,9 @@
 
 ### Camera & Controls
 - OK Zoomer Ⓒ
+- KeybindsPurger Ⓒ
 - Ping Wheel
+- Rebind Narrator Ⓒ
 
 ### Tooltips & Info
 - Durability Tooltip Ⓒ

@@ -2087,6 +2087,11 @@ hash = "3b9b041723f3fb0a02b0e162f994b1ae373ca2e3da0979835fcd91d34b3f2508"
 metafile = true
 
 [[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "0c2947e796289e57f8b70e74f3e2e944e4ea799d2e8d5676b993dceab8d0acd4"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "137a3c86a2e5298bf73b4b6aa2b38c35bbacec7654906fa307ddf692451b8f8f"
 metafile = true
@@ -2789,6 +2794,11 @@ metafile = true
 [[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "68d7d2cbeb93c10f99b3985c96b098aed7dc64f5d08e4855fdd9f37a759f7072"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "79e2f176e10b8a0d400842814aa48f26e7ba24cd1da1eef1dfdde8631c9843c3"
 metafile = true
 
 [[files]]

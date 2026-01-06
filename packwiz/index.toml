@@ -447,6 +447,11 @@ hash = "a15f3ab51e3a138c7ea0ff93513b09d5cda22418ca83a14eb09ab38ca0945c3d"
 metafile = true
 
 [[files]]
+file = "mods/accessorify.pw.toml"
+hash = "d265ac189584179fe5ec32151e57f4ea4a1bd3ffda02a1f7c47e778266639eba"
+metafile = true
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "fb660a11b66564299ce72d4926be5cdd42b38298c3f68200db52da1e881656d7"
 metafile = true
@@ -727,6 +732,11 @@ hash = "0b8a0117ded523876d15e861b537740bd385232185739dbb3f26cd41a3504a18"
 metafile = true
 
 [[files]]
+file = "mods/ars-technica.pw.toml"
+hash = "7299e8c5d8352ec4690c046ae9279905e3af2531f0edf341d5399e2f3ee32e3b"
+metafile = true
+
+[[files]]
 file = "mods/ars-unification.pw.toml"
 hash = "d6d8fea85d3c7448f5cb7e5cb6a563c5a7a5cd1b20c7baceebf42f5614f9bd9b"
 metafile = true
@@ -819,6 +829,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
+metafile = true
+
+[[files]]
+file = "mods/berserker-rpg-class.pw.toml"
+hash = "3f01c774ca419415a1a5823e996d7ee0078eef3f8c54a33f350849c5985768bf"
 metafile = true
 
 [[files]]
@@ -1664,6 +1679,11 @@ metafile = true
 [[files]]
 file = "mods/extended-oritech.pw.toml"
 hash = "bf7c284a6f1f669cc4d1c0492a720fd19ff52360ae0dd4e5bc69ef8a656e2c44"
+metafile = true
+
+[[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "9b4c91f19dabe65a7f70baa14190ae570d87ffbc881adb0bec4eb751d39692f4"
 metafile = true
 
 [[files]]

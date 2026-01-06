@@ -362,6 +362,7 @@
 	- Ars Elemancy
 	- Ars Elemental
 	- Ars Polymorphia
+	- Ars Technica
 	- Ars Unification
 	- Not Enough Glyphs
 	- StarbuncleMania

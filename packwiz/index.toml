@@ -3680,3 +3680,48 @@ metafile = true
 file = "resourcepacks/zeros-modern-crosshair.pw.toml"
 hash = "37981702ececf97cafcbe4f5e9a5e8109724450ef3185f6f1501d02ddc92ac5d"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "49c4f8541dfc148a992d36e2ebbda896ded176164558a2979dd2e04de11a46e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "c56428a71db8293fd244fa479e4b2984c8348009078c76d1e86a8c17109a1536"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "09c8e6752fe02ae348923b6038bc1c3d4b06f452886a1d42c90d72adcc2e40ef"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-enhanced-default.pw.toml"
+hash = "87bd04dc9b823ec30f54f14a402ab25f0e9c9f554960b523ed0ee50083ba5ce5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "570ff81f327de76e6949c83432ee128a04dce476564e410e4d834c15ac50da90"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "fac0589a093ee63393db58dab25bd95624be5423ba232a12a4a9ca4f67407c3d"
+metafile = true

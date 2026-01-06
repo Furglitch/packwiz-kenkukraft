@@ -795,5 +795,14 @@
 - Utilitarian Upgraded
 
 ## Shader Packs
+- Bliss Shader
+- BSL Shaders
+- Complementary Reimagined
+- Complementary Unbound
+- MakeUp Ultra Fast
+- Photon Shader
+- Sildur's Enhanced Default
+- Sildur's Vibrant Shaders
+- Solas Shader
 
 ## Data Packs

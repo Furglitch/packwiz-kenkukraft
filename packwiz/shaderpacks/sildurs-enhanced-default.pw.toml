@@ -1,0 +1,13 @@
+name = "Sildur's Enhanced Default"
+filename = "Sildur's Enhanced Default v1.18 Fancy.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adeee0c22920c71450a7c14c80524a64ec4c1ef0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6902019
+project-id = 544140

@@ -51,7 +51,7 @@ jobs:
 
       - name: Update mods
         working-directory: ./packwiz
-        run: packwiz update --all --yes | tee $GITHUB_WORKSPACE/packwiz_update.out
+        run: packwiz update --all --yes | tee /tmp/packwiz_update.out
 
       - name: Parse updates and build PR body
         id: parse_updates
@@ -141,13 +141,13 @@ jobs:
 
           chmod +x /tmp/extract_version.sh
 
-            if [ ! -f "$GITHUB_WORKSPACE/packwiz_update.out" ]; then
+            if [ ! -f "/tmp/packwiz_update.out" ]; then
             echo "## Updated:" > /tmp/pr_body.txt
             echo "No updates found (file not found)." >> /tmp/pr_body.txt
             else
             echo "## Updated:" > /tmp/pr_body.txt
 
-            sed -n '/Updates found:/,/Do you want to update\? /p' "$GITHUB_WORKSPACE/packwiz_update.out" | \
+            sed -n '/Updates found:/,/Do you want to update\? /p' "/tmp/packwiz_update.out" | \
             grep ' -> ' | \
             while IFS= read -r line; do
               mod_name=$(echo "$line" | sed -E 's/^[[:space:]]*(.*): .* -> .*/\1/')
@@ -179,7 +179,7 @@ jobs:
       - name: Check if updates were found
         id: check_updates
         run: |
-          if grep -q ' -> ' "$GITHUB_WORKSPACE/packwiz_update.out" 2>/dev/null; then
+          if grep -q ' -> ' "/tmp/packwiz_update.out" 2>/dev/null; then
             echo "has_updates=true" >> $GITHUB_OUTPUT
             echo "Updates found, proceeding with PR creation/update"
           else

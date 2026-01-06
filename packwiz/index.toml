@@ -3712,6 +3712,11 @@ hash = "2bcfc64cc505cd093f8e1c5493673f087f551850350553ce0757a7eae679fb8d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/nitpicks.pw.toml"
+hash = "2fd4ade536d09a0f02a5aff0b994b3dd1f97f8ce424be2785c6f270a9b52339a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/noticably-suspicious.pw.toml"
 hash = "830808b7758e0a7de08d837516fd56c1bfd4e0c7779f6760a644f5979da30dbe"
 metafile = true

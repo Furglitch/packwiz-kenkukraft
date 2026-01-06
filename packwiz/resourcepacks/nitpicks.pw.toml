@@ -1,0 +1,13 @@
+name = "Nitpicks"
+filename = "nitpicks.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "590811ed7c5c4cdb210dd885f49cc0a040e1fa9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7423143
+project-id = 1421790

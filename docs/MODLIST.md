@@ -233,6 +233,14 @@
 - Supplementaries
 - The Block Box
 
+### Minecolonies
+- Minecolonies
+	- Framed Colonies
+	- Pathfinding Edition for Minecolonies
+	- Project Resonance
+	- Small Colonies
+	- StyleColonies
+
 ## Combat
 
 ### Combat Mechanics
@@ -782,6 +790,7 @@
 - Iron's Spells Weapons Reimagined
 - L_Ender's Cataclysm Reimagined
 - L_Ender's Cataclysm Reimagined 2D Model
+- MineColonies Refreshed
 - Modernized Mekanism
 - Moonsu Better GUI for FarmingForBlockheads
 - Nature's & Explorer's Compass Retexture

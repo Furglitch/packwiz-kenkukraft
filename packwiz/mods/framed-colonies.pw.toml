@@ -1,0 +1,13 @@
+name = "Framed Colonies"
+filename = "framedcolonies-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6987ab744a6bf28cddd5d44942e4976ee61f63f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6954794
+project-id = 1337509

@@ -23,6 +23,10 @@ jobs:
       - name: Pull existing PR branch
         id: check_branch
         run: |
+          # Configure git identity for merge
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
           if git ls-remote --heads origin update-mods | grep -q update-mods; then
             echo "exists=true" >> $GITHUB_OUTPUT
             git fetch origin update-mods

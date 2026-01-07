@@ -221,6 +221,10 @@ file = "config/lootr-common.toml"
 hash = "00595a3c221baef72833f686a2fd6ccd0e8f1b56f5d31cacf976290b08d8e107"
 
 [[files]]
+file = "config/memorysettings.json"
+hash = "093067b9f857c14f7e4e092aee6620b3f865a2f9f410da1ec923f071d92af17f"
+
+[[files]]
 file = "config/mobcontrol.toml"
 hash = "86aeebd4a3523f6d3cf810b6b6a915311379bcf8a6f194da3a58fa83ea21d647"
 
@@ -274,7 +278,55 @@ hash = "7955f6ff6adf30ff348214e1cfb0c1972ad8d49357b6b8fad6d3a47fd6af4324"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
-hash = "9fcaa9e39fd15122da6e4b0dff34bd7f34f3f9d8dbe97eef1cc0d259c2ff4fd8"
+hash = "afb30201d11f4a1933159663e619bfbe2bdfccb3e0deca772012cd962dca3fc7"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg"
+hash = "c4625e02983d006dd1aed2e8f002ebb6c1d8d805d39221f5a50cd9082dc8e981"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg.source.txt"
+hash = "31b8273b3eb38e289daba2e8b9fa8c2de8f2ac7b75b305528d31bd33db82958d"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/credits.json"
+hash = "220258dd169da06be297eedcc2460c25c810371dae354b26f5048262ee0ce44a"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/end.txt"
+hash = "4a0126875d416a40a16e8bb299ada667ab73083be427a1cf529040aaf1c165d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/postcredits.txt"
+hash = "55022cd988548561902d735ee0cc75b41cd8d455d30a08e12f578acc5aa3f632"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"
+hash = "21835c51670aa1d527aa2b772f4d2a92ac307fe36ee8d2b4495114ecc8e138cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "1ae2fabb1fab3f34fa135c0425ff32f74021df6b58f49aca8604fa93cb749bb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "8ba28eb4dc41c81cb409c1bd07713ef49ab3c17433fa958ac5f8dbf339f70cc6"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png"
+hash = "4d5fa9cce6853c8e693686fa316c95b5132ac3435a89f05fe7860066ca85682c"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.mcmeta"
+hash = "efa833d07c178da5a91d1cf17fb3079cc7dc779d166b43b5e6c117787d72894c"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.png"
+hash = "5e8bf688be8a7c6f1c471b6c5a2207119009e258dd933fa284a994f8181b2506"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -390,7 +442,7 @@ hash = "e8e84f93abb4e7fa542d18fb01062167ee350eb73f7fc6981c7cf0b697e9bdc3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "3a6cb48aaecc8da635bff7030d207d32ac201960481bc64b41c0aeb05cbab4fe"
+hash = "542c9051469608d42f2bccb5d7be6bd6585ef43bc817a13bf18d693861c2a8d7"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"
@@ -2404,6 +2456,11 @@ hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
 metafile = true
 
 [[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "4019b59fb1b100d65fec27b52d913f2343d9f7b066ef8819bcbf67bf80dc9542"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "42de5c012b3bc70be2de2aa8b9987d642cfed7318a0da11f9878d7126ded2b21"
 metafile = true
@@ -2711,6 +2768,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
+metafile = true
+
+[[files]]
+file = "mods/paxi-neoforge.pw.toml"
+hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
 
 [[files]]
@@ -3494,50 +3556,6 @@ hash = "a95b42aa5e5d1b6f9ed31db24292f5a6e7e706384873f4bb1cad7c51ebe9c9d2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg"
-hash = "c4625e02983d006dd1aed2e8f002ebb6c1d8d805d39221f5a50cd9082dc8e981"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg.source.txt"
-hash = "31b8273b3eb38e289daba2e8b9fa8c2de8f2ac7b75b305528d31bd33db82958d"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/credits.json"
-hash = "220258dd169da06be297eedcc2460c25c810371dae354b26f5048262ee0ce44a"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/end.txt"
-hash = "4a0126875d416a40a16e8bb299ada667ab73083be427a1cf529040aaf1c165d3"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/postcredits.txt"
-hash = "55022cd988548561902d735ee0cc75b41cd8d455d30a08e12f578acc5aa3f632"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"
-hash = "21835c51670aa1d527aa2b772f4d2a92ac307fe36ee8d2b4495114ecc8e138cb"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/edition.png"
-hash = "1ae2fabb1fab3f34fa135c0425ff32f74021df6b58f49aca8604fa93cb749bb1"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "8ba28eb4dc41c81cb409c1bd07713ef49ab3c17433fa958ac5f8dbf339f70cc6"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png"
-hash = "4d5fa9cce6853c8e693686fa316c95b5132ac3435a89f05fe7860066ca85682c"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/pack.mcmeta"
-hash = "efa833d07c178da5a91d1cf17fb3079cc7dc779d166b43b5e6c117787d72894c"
-
-[[files]]
-file = "resourcepacks/KenkuKraft Resources/pack.png"
-hash = "5e8bf688be8a7c6f1c471b6c5a2207119009e258dd933fa284a994f8181b2506"
-
-[[files]]
 file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
 hash = "d00268b4d83335336737cc42bb3f75c8728dcd323742746726f14ae20a39b796"
 metafile = true
@@ -3610,6 +3628,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
 hash = "4174ff254d053615e70fad47e0f2844deb1076d7b699491e16224006b7ee5f34"
+metafile = true
+
+[[files]]
+file = "resourcepacks/construction-wands-retexture.pw.toml"
+hash = "85a73267bea063c7d89fddc6915c8884106597905449dbd21379aefac040c0b0"
 metafile = true
 
 [[files]]

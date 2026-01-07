@@ -1,0 +1,58 @@
+{
+  "minimumClient": {
+    "minimumClient": 6144
+  },
+  "maximumClient": {
+    "maximumClient": 12288
+  },
+  "minimumServer": {
+    "minimumServer": 8192
+  },
+  "maximumServer": {
+    "maximumServer": 12288
+  },
+  "disableWarnings": {
+    "disableWarnings": false
+  },
+  "earlyWarningMinimumMemory": {
+    "earlyWarningMinimumMemory": "You have allocated less memory( %d MB) than the recommended minimum for this pack: %d MB.\nThe suggested amount for your system is: %d mb.\n Click OK to visit a wiki with instructions on how to allocate more memory, or Cancel to ignore this warning."
+  },
+  "howtolink": {
+    "howtolink": "https://shockbyte.com/en-au/blog/how-to-allocate-more-ram-to-minecraft"
+  },
+  "warningTolerance": {
+    "desc:": "Set how many percent the memory is allowed to deviate from the recommended for the system before warning about it, default: 30, max 100",
+    "warningTolerance": 30
+  },
+  "recommendedMemory": {
+    "desc:": "Set the recommended memory values based off system memory in MB. [\"system memory:recommended\"]",
+    "memory values": [
+      "3000:2048",
+      "3072:2048",
+      "4000:3072",
+      "4096:3072",
+      "5000:3584",
+      "5120:3584",
+      "6000:3700",
+      "6144:3700",
+      "7000:4096",
+      "7168:4096",
+      "8000:4300",
+      "8192:4300",
+      "10000:5120",
+      "10240:5120",
+      "12000:6144",
+      "12288:6144",
+      "16000:7168",
+      "16384:7168",
+      "20000:8192",
+      "20480:8192",
+      "24000:9216",
+      "24576:9216",
+      "32000:9728",
+      "32768:9728",
+      "64000:10240",
+      "65536:10240"
+    ]
+  }
+}

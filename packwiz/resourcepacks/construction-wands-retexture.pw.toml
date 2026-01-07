@@ -1,0 +1,13 @@
+name = "Construction Wand Retexture"
+filename = "Construction Wand Retexture.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81cea90a4e0203e33cc19938d491c9f015e36fce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6100079
+project-id = 1182138

@@ -22,9 +22,13 @@
 			- Recipe Essentials
 	- Removed Resource Packs
 
+## Modpack Development
+- Paxi
+
 ## Performance
 - Create: Threaded Trains
 - Concurrent Chunk Management Engine
+- Memory Settings Ⓒ
 
 ## Interface
 
@@ -780,6 +784,7 @@
 - BB's Bosses Of Mass Destruction Tweaks
 - BB's Toolbelt
 - Comforts Modernized
+- Construction Wand Retexture
 - Corail Tombstones Redux
 - Create Lootr
 - Create Style Sophisticated Backpacks

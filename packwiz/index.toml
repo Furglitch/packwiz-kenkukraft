@@ -381,6 +381,18 @@ file = "config/waystones-common.toml"
 hash = "d265fabfaa54f3fe719fbc48ea2d3b3cc86eb2e4c14b24dd8e90d444b2dd77ad"
 
 [[files]]
+file = "configureddefaults/config/iris.properties"
+hash = "3f301ab4b10ce777290cb7dec9f025881ad372bbe83ae1183ef032c68741c6fa"
+
+[[files]]
+file = "configureddefaults/config/lambdynlights.toml"
+hash = "e8e84f93abb4e7fa542d18fb01062167ee350eb73f7fc6981c7cf0b697e9bdc3"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "3a6cb48aaecc8da635bff7030d207d32ac201960481bc64b41c0aeb05cbab4fe"
+
+[[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"
 hash = "232ae45e522c3efed494fc78b32d8ec771f783596095febd0e15025eb7b6deda"
 

@@ -2,11 +2,11 @@
   <img src="packwiz/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
   </br></br>
   <p>
-    <img src="https://img.shields.io/static/v1?label=Version&message=2.0.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.0">
+    <a href="https://www.curseforge.com/minecraft/modpacks/create-chronicles-the-endventure/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.0.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.0"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
-    <img src="https://img.shields.io/static/v1?label=Mods&message=600%2B&color=920000&labelColor=874161&style=for-the-badge" alt="600+ Mods">
+    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=600%2B&color=920000&labelColor=874161&style=for-the-badge" alt="600+ Mods"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=920000&labelColor=874161&style=for-the-badge" alt="8-10GB RAM">
   </p>
@@ -47,7 +47,9 @@ With hundreds of decorative blocks and building tools, your creativity knows no 
 The world generation has been completely transformed. **[Continents](https://www.curseforge.com/minecraft/mc-mods/continents)** and **[Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)** create realistic, massive continents with diverse biomes. Discover countless structures and dungeons from **[Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)**, and **[Luki's Crazy Chambers](https://www.curseforge.com/minecraft/mc-mods/lukis-crazy-chambers)**. The **Nether** and **End** have been overhauled. Venture into new dimensions - explore **[The Aether's](https://www.curseforge.com/minecraft/mc-mods/the-aether)** floating islands or brave **[Arda's Sculk](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)** dimension. Encounter hundreds of new mobs and legendary bosses.
 
 #### ⚡ **Optimized Performance**
-Despite having 600+ mods, KenkuKraft is heavily optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
+Despite having 600+ mods, KenkuKraft is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
+
+<sub>For the full modlist, see [MODLIST.md](https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md)</sub>
 
 ---
 

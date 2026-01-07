@@ -125,9 +125,13 @@ jobs:
           echo "Running second pass to complete installation..."
           java -jar ../packwiz/packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/${{ github.repository }}/main/packwiz/pack.toml
           
-          # Download and install NeoForge server
+          # Download NeoForge server
           echo "Downloading NeoForge server $NEOFORGE_VERSION..."
           wget https://maven.neoforged.net/releases/net/neoforged/neoforge/${NEOFORGE_VERSION}/neoforge-${NEOFORGE_VERSION}-installer.jar -O neoforge-$NEOFORGE_VERSION-installer.jar
+          
+          # Remove client-only folders
+          echo "Removing client-only folders (resourcepacks, shaderpacks)..."
+          rm -rf resourcepacks shaderpacks
 
       - name: Upload server modpack artifact
         uses: actions/upload-artifact@v6

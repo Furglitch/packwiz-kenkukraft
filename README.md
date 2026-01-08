@@ -2,7 +2,7 @@
   <img src="packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
   </br></br>
   <p>
-    <a href="https://www.curseforge.com/minecraft/modpacks/create-chronicles-the-endventure/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.0.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.0"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/create-chronicles-the-endventure/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.0.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.0"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;

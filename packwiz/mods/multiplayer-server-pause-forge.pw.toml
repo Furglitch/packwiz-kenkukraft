@@ -1,0 +1,13 @@
+name = "Multiplayer Server Pause (Forge)"
+filename = "MultiplayerServerPause-1.21-NeoForge-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2bc6d3bf8d0f88b8a27fef084d3ddec8f3cdc6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6409019
+project-id = 556491

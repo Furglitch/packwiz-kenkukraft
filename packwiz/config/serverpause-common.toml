@@ -1,0 +1,7 @@
+[general]
+	pauseWhenAllPlayersPaused = true
+	pauseWhenNoPlayers = true
+	sendChatMessageWhenPauseStateChanges = true
+	sendChatMessageWhenPlayerPauseStateChanges = true
+	commandPermissionLevel = 4
+	disabledCompatibilities = []

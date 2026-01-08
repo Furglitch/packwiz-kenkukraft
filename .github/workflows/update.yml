@@ -30,7 +30,17 @@ jobs:
           if git ls-remote --heads origin update-mods | grep -q update-mods; then
             echo "exists=true" >> $GITHUB_OUTPUT
             git fetch origin update-mods
-            git merge origin/update-mods --no-edit || echo "Merge conflict or no changes to merge"
+
+            if git merge -X theirs --no-edit origin/update-mods; then
+              echo "Merged origin/update-mods (preferred incoming changes)"
+            else
+              echo "Merge produced conflicts — auto-resolving by taking incoming changes..."
+              git ls-files -u | awk '{print $4}' | sort -u | while read -r f; do
+                git checkout --theirs -- "$f" || true
+                git add "$f" || true
+              done
+              git commit -m "Merge origin/update-mods (auto-resolved conflicts preferring incoming changes)" || true
+            fi
           else
             echo "exists=false" >> $GITHUB_OUTPUT
           fi

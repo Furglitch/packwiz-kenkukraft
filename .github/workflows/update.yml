@@ -35,6 +35,21 @@ jobs:
             echo "exists=false" >> $GITHUB_OUTPUT
           fi
 
+      # - name: Pull existing PR branch
+      #   id: check_branch_local
+      #   run: |
+      #     # Configure git identity for merge
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      #     git config --global user.name "github-actions[bot]"
+
+      #     if git ls-remote --heads origin main | grep -q main; then
+      #       echo "exists=true" >> $GITHUB_OUTPUT
+      #       git fetch origin main
+      #       git merge origin/main --no-edit || echo "Merge conflict or no changes to merge"
+      #     else
+      #       echo "exists=false" >> $GITHUB_OUTPUT
+      #     fi
+
       - name: Download packwiz artifact
         uses: dawidd6/action-download-artifact@v6
         with:
@@ -107,21 +122,37 @@ jobs:
             cleaned="${cleaned//mc-/}"
             cleaned="${cleaned//-mc/}"
 
+            cleaned=$(echo "$cleaned" | sed -E 's/\[[^]]*\]//g')
             cleaned=$(echo "$cleaned" | sed -E 's/^[_+.\-]+//')
             cleaned=$(echo "$cleaned" | sed -E 's/[_+.\-]+$//')
 
+            cleaned=$(echo "$cleaned" | sed -E "s/[’']+//g" | sed -E 's/[[:space:]]+/ /g')
+
+            if [[ "$cleaned" =~ ([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+[a-z]?) ]]; then
+              version="${BASH_REMATCH[1]}"
+              echo "$version"
+              return 0
+            fi
+            if [[ "$cleaned" =~ ([0-9]+\.[0-9]+\.[0-9]+[a-z]?) ]]; then
+              version="${BASH_REMATCH[1]}"
+              echo "$version"
+              return 0
+            fi
+            if [[ "$cleaned" =~ ([0-9]+\.[0-9]+[a-z]?) ]]; then
+              version="${BASH_REMATCH[1]}"
+              echo "$version"
+              return 0
+            fi
             if [[ "$cleaned" =~ _v([0-9]+\.[0-9]+(\.[0-9]+)?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
               version="${BASH_REMATCH[1]}"
               echo "$version"
               return 0
             fi
-
             if [[ "$cleaned" =~ -?[Vv]([0-9]+\.[0-9]+(\.[0-9]+)?) ]]; then
               version="${BASH_REMATCH[1]}"
               echo "$version"
               return 0
             fi
-
             if [[ "$cleaned" =~ ^([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+[a-z]?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
               version="${BASH_REMATCH[1]}"
             elif [[ "$cleaned" =~ ^([0-9]+\.[0-9]+\.[0-9]+[a-z]?(-[a-zA-Z]+\.[0-9]+[a-z]?)?(-[a-zA-Z]+\.[0-9]+)?) ]]; then
@@ -216,6 +247,14 @@ jobs:
               console.log('No existing PR found');
             }
       
+      # - name: Check for existing PR (LOCAL TEST)
+      #   id: check_pr_local
+      #   if: steps.check_updates.outputs.has_updates == 'true'
+      #   run: |
+      #     echo "Would check for existing PR with head: update-mods"
+      #     echo "exists=${{ steps.check_branch.outputs.exists }}" >> $GITHUB_OUTPUT
+      #     echo "number=123" >> $GITHUB_OUTPUT
+      
       - name: Prepare PR body
         if: steps.check_updates.outputs.has_updates == 'true'
         id: prepare_body
@@ -237,6 +276,28 @@ jobs:
             cat /tmp/final_body.txt
             echo "EOF"
           } >> $GITHUB_OUTPUT
+      
+      # - name: Prepare PR body
+      #   if: steps.check_updates.outputs.has_updates == 'true'
+      #   id: prepare_body_local
+      #   run: |
+      #     if [ "${{ steps.check_pr_local.outputs.exists }}" == "true" ]; then
+      #       # PR exists, keep the existing body unchanged
+      #       cat > /tmp/final_body.txt <<'EXISTING_BODY'
+      #     ${{ steps.check_pr_local.outputs.existing_body }}
+      #     EXISTING_BODY
+      #     else
+      #       # New PR, use the parsed body
+      #       cat > /tmp/final_body.txt <<'NEW_BODY'
+      #     ${{ steps.parse_updates.outputs.body }}
+      #     NEW_BODY
+      #     fi
+          
+      #     {
+      #       echo "body<<EOF"
+      #       cat /tmp/final_body.txt
+      #       echo "EOF"
+      #     } >> $GITHUB_OUTPUT
 
       - name: Create or Update Pull Request
         id: cpr
@@ -249,33 +310,6 @@ jobs:
           body: ${{ steps.prepare_body.outputs.body }}
           branch: update-mods
           delete-branch: false
-
-      - name: Comment on existing PR with new updates
-        id: comment_pr
-        if: steps.check_updates.outputs.has_updates == 'true' && steps.check_pr.outputs.exists == 'true' && steps.cpr.outputs.pull-request-operation == 'updated'
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const prNumber = ${{ steps.check_pr.outputs.number }};
-            const body = `## New Updates (${new Date().toISOString().split('T')[0]})\n\n${{ steps.parse_updates.outputs.body }}`;
-            
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: prNumber,
-              body: body
-            });
-
-      ### LOCAL TEST STEPS - uncomment below for local testing, and comment out `check_pr`, `cpr`, and `comment_pr` from above ###
-      
-      # - name: Check for existing PR (LOCAL TEST)
-      #   id: check_pr_local
-      #   if: steps.check_updates.outputs.has_updates == 'true'
-      #   run: |
-      #     echo "Would check for existing PR with head: update-mods"
-      #     echo "exists=${{ steps.check_branch.outputs.exists }}" >> $GITHUB_OUTPUT
-      #     echo "number=123" >> $GITHUB_OUTPUT
 
       # - name: Create or Update Pull Request (LOCAL TEST)
       #   id: cpr_local
@@ -295,6 +329,23 @@ jobs:
       #     echo "${{ steps.parse_updates.outputs.body }}"
       #     echo ""
       #     echo "pull-request-number=123" >> $GITHUB_OUTPUT
+
+      - name: Comment on existing PR with new updates
+        id: comment_pr
+        if: steps.check_updates.outputs.has_updates == 'true' && steps.check_pr.outputs.exists == 'true' && steps.cpr.outputs.pull-request-operation == 'updated'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const prNumber = ${{ steps.check_pr.outputs.number }};
+            const body = `## New Updates (${new Date().toISOString().split('T')[0]})\n\n${{ steps.parse_updates.outputs.body }}`;
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              body: body
+            });
 
       # - name: Comment on existing PR with new updates (LOCAL TEST)
       #   id: comment_pr_local

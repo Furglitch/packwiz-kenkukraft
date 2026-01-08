@@ -3,8 +3,6 @@
   "name": "KenkuKraft Default",
   "overrides": {},
   "packIds": [
-    "obscure_tooltips/packs/vibrant_tooltips",
-    "file/nitpicks.zip",
     "file/Fresh Aether 1.2.zip",
     "file/Freshly Modded 2.0.3.zip",
     "file/AL\u0027s Boss Rush+FA 1.2.zip",
@@ -12,6 +10,8 @@
     "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
     "file/FreshAnimations_v1.10.3.zip",
     "file/Semos Animation Lib 1.1.5.zip",
+    "obscure_tooltips/packs/vibrant_tooltips",
+    "file/nitpicks.zip",
     "file/MandalasGUI-Dark-VendingBlock.zip",
     "file/Utilitarian Upgraded.zip",
     "file/updated_aquaculture-1.1.zip",

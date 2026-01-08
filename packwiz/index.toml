@@ -282,7 +282,7 @@ hash = "7955f6ff6adf30ff348214e1cfb0c1972ad8d49357b6b8fad6d3a47fd6af4324"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
-hash = "9ccbd088e92c1ecf0d976bdbfae6aaed3b19567d11287dfd1c451b1deb016422"
+hash = "82cfa545080f3d596ec6498fcadaf36fbe449eec00e3e9a52d968d7e84c6ee28"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"

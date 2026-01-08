@@ -282,7 +282,7 @@ hash = "7955f6ff6adf30ff348214e1cfb0c1972ad8d49357b6b8fad6d3a47fd6af4324"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
-hash = "55169e47b27a9e592c59cbd49ae7391d870c7d280c1557da683ded94432ca248"
+hash = "9ccbd088e92c1ecf0d976bdbfae6aaed3b19567d11287dfd1c451b1deb016422"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -450,7 +450,7 @@ hash = "542c9051469608d42f2bccb5d7be6bd6585ef43bc817a13bf18d693861c2a8d7"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"
-hash = "232ae45e522c3efed494fc78b32d8ec771f783596095febd0e15025eb7b6deda"
+hash = "ac1c6977c0651a24239d595c6e41b16360f78d6f95c3275117f5e6d2a6bad079"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"

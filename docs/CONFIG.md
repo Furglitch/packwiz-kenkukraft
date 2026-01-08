@@ -12,6 +12,9 @@
 		- Loading Backgrounds
 
 ## Performance 
+- Memory Settings
+    - Set client range to 6-12GB
+	- Set server range to 8-12GB
 
 ## Interface 
 
@@ -79,7 +82,11 @@
 
 ## Audio & Visuals 
 - Distant Horizons
-  - Set cave culling distance to Y=128
+  - Disable self-updating
+  - Disable generation by default
+  - Disable cave culling
+  - Set default cave culling distance to Y=128
+  - Disable beacon culling
   - Add progress overlay
 
 ### Sound Enhancements 
@@ -254,7 +261,7 @@
 ### Bosses 
 
 ### Mob Behavior
-- Progressive Mob Wave Activations
+- Mob Control
   - Delay Spore mob spawning by 5 days
 
 ### Pet & Companion Mods 
@@ -398,18 +405,13 @@
 - Low Fire Pack
 - Zero's Modern Crosshair
 - Der's Smooth Shaded Font
-- Semos Animations Lib
-- Fresh Animations
-- Fresh Moves (with Eyes)
-- Mobs Refreshed FA
-- AL's Boss Rush FA
-- F.M.R.P
-- Fresh Aether
 - Ars Nouveau Refresh
 - Ars Nouveau Brass-ified Create-Style - ANBICS
 - BB's Bosses Of Mass Destruction Tweaks
 - BB's Toolbelt
 - Comforts Modernized
+- Construction Sticks Grips
+- Construction Wand Retexture
 - Corail Tombstones Redux
 - Create Lootr
 - Create Style Sophisticated Backpacks
@@ -439,3 +441,10 @@
 - Utilitarian Upgraded
 - Mandala's GUI - Vending Block Compat
 - Nitpicks
+- Semos Animations Lib
+- Fresh Animations
+- Fresh Moves (with Eyes)
+- Mobs Refreshed FA
+- AL's Boss Rush FA
+- F.M.R.P
+- Fresh Aether

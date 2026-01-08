@@ -9,17 +9,17 @@
 
 ## Base
 - More FPS [FORGE] (Modpack)
-	- URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
 	- Removed Mods:
-			- FancyMenu
-			- AutoMessage
-			- Awesome 3D Mace
-			- BisectHosting Server Integration Menu
-			- Default Options
-			- Elemental Maces
-			- Loading Backgrounds
-			- Recipe Essentials
+    	- AutoMessage
+    	- Awesome 3D Mace
+    	- BisectHosting Server Integration Menu
+    	- Default Options
+    	- Elemental Maces
+    	- FancyMenu
+    	- Loading Backgrounds
+    	- Recipe Essentials
 	- Removed Resource Packs
+	- URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
 
 ## Modpack Development
 - Crash Assistant Ⓒ
@@ -29,8 +29,8 @@
 - Paxi
 
 ## Performance
-- Create: Threaded Trains
 - Concurrent Chunk Management Engine
+- Create: Threaded Trains
 - FastBoot
 - FastSuite
 - Load My F***ing Tags
@@ -56,19 +56,19 @@
 
 ### Menus
 - Better Compatibility Checker
-- Cursors Extended Ⓒ
 - Configured Defaults Ⓒ
+- Cursors Extended Ⓒ
 - Fadeless Ⓒ
 - Packed Packs Ⓒ
-- Startup Time Ⓒ
 - Startup / Loading Profiler Ⓒ
+- Startup Time Ⓒ
 
 ### Inventory & Crafting
 - EMI
-	- EMI: Create Schematics
 	- EMI Enchanting
 	- EMI Extra Integrations
 	- EMI Professions
+	- EMI: Create Schematics
 	- EMIffect
 	- JEI
 	- Just Enough Archaeology
@@ -114,9 +114,9 @@
 - Patchouli
 
 ### Advancements & Quests
+- Advancements Reloaded Ⓒ
 - Clickable Advancements
 - Fancy Toasts
-- Advancements Reloaded Ⓒ
 - FTB Quests
 	- Certain Questing Additions
 	- ExtraQuests
@@ -173,26 +173,22 @@
 - Arsenal (RPG Series)
 
 #### Melee Weapons
-- Simply Swords
 - Axes Are Weapons
+- Simply Swords
 
 #### Ranged Weapons
 
 #### Firearms
 - PointBlank: Jelly
-  - Point Blank Official Extension || Half Life Pack
   - Cyberpunk 2077 Guns for Vic's Point Blank
-  - Vic's Point Blank || qrosshair
-  - Vic's Point Blank - Trauma
   - Point Blank Official Extension || Doom Pack
+  - Point Blank Official Extension || Half Life Pack
+  - Vic's Point Blank - Trauma
+  - Vic's Point Blank || qrosshair
 
 ### Accessories
 
 #### Baubles & Trinkets
-- Jewelry (RPG Series)
-	- Additional Jewelry
-- Relics (RPG Series)
-	- More Relics (More RPG Content)
 - Accessories
 	- Accessories Compatibility Layer
 	- Accessorify
@@ -205,6 +201,10 @@
 	- Relics: Artifacts Compat
 	- Reliquified Ars Nouveau
 	- Reliquified L_Ender's Cataclysm
+- Jewelry (RPG Series)
+	- Additional Jewelry
+- Relics (RPG Series)
+	- More Relics (More RPG Content)
 
 #### Cosmetics
 - Cosmetic Armor Reworked
@@ -285,10 +285,10 @@
 - Let Me Sleep
 - Pufferfish's Skills
 	- Default Skill Trees
+	- Iron's Spells 'n Spellbooks Dynamic Skill Trees
+	- More RPG Classes - Skill Tree
 	- Pufferfish's Attributes
 	- Skill Tree (RPG Series)
-	- More RPG Classes - Skill Tree
-	- Iron's Spells 'n Spellbooks Dynamic Skill Trees
 
 ### Death & Respawning
 - Corail Tombstone
@@ -311,9 +311,9 @@
 - Storage Delight
 
 #### Food Variety
+- Aquaculture Delight
 - Arbitrary Delight
 - Ars Nouveau's Flavors and Delight
-- Aquaculture Delight
 - Barbeque's Delight
 - Brewin' And Chewin'
 - Cocktails Delight
@@ -335,11 +335,11 @@
 	- Create: Food
 	- Create: Integrated Farming
 	- Create: Slice & Dice
-- Pam's Harvestcraft 2 Suite
 - Hey Berry! SHUT UP
 - Keep My Soil Tilled
 - Kelp Fertilizer
 - No Feather Trample
+- Pam's Harvestcraft 2 Suite
 
 ### Forestry
 - Botany Trees
@@ -410,10 +410,10 @@
 	- Alshanex's Familiars
 	- Cataclysm: Spellbooks
 	- Create: Wizardry
-	- Dark Doppelganger
 	- Crystal Chronicles - Iron's Spells 'n Spellbooks
-	- Iron's Gems 'n Jewelry
+	- Dark Doppelganger
 	- GTBC's Spellbooks - Iron's Spells Addon
+	- Iron's Gems 'n Jewelry
 	- T.O Magic 'n Extras - Iron's Spells Addon
 
 ### Magical Items
@@ -486,15 +486,15 @@
 - Functional Storage
 	- More Functional Storage
 - Sophisticated Storage
-	- Sophisticated Storage in Motion
 	- Sophisticated Storage Create Integration
+	- Sophisticated Storage in Motion
 - Tank Storage
 
 ### Storage Networks
 - Applied Energistics 2
-	- AE2: Crafting Tree
 	- AE2 JEI Integration
 	- AE2 QoL Recipes
+	- AE2: Crafting Tree
 	- AEInfinityBooster
 	- Applied Energistics 2 Wireless Terminals
 	- Applied Experienced
@@ -506,8 +506,8 @@
 	- Create: AE2 Recipes
 	- Mega Cells
 - Refined Storage
-    - ExtraStorage
     - Extra Disks
+    - ExtraStorage
 	- Refined Storage - Curios Integration
 	- Refined Storage - EMI Integration
 	- Refined Storage - Mekanism Integration
@@ -559,8 +559,8 @@
 
 ### Pipes & Transport
 - Cable Facades
-- Pipez
 - Pipe Connector
+- Pipez
 - Pretty Pipes
 
 ### Create Addons
@@ -575,8 +575,8 @@
 - Create: Bells & Whistles
 - Create: Bitterballen
 - Create: Blocks & Bogies
-- Create: Cardboarded Conveynience
 - Create: Cardboard Things
+- Create: Cardboarded Conveynience
 - Create: Chimneys
 - Create: Connected
 - Create: Copycats+
@@ -654,8 +654,8 @@
 
 ### Compasses & Maps
 - Areas
-- Nature's Compass
 - Explorer's Compass
+- Nature's Compass
 
 ## World Generation
 - Chunky
@@ -688,8 +688,8 @@
 - Dungeons and Taverns
 - Hopo Better Ruined Portals
 - Hopo Better Underwater Ruins
-- Moog's Voyager Structures
 - Moog's Soaring Structures
+- Moog's Voyager Structures
 - Philip's Ruins
 - Structory
 	- Structory: Towers
@@ -715,8 +715,8 @@
 - YUNG's Better Witch Huts
 
 #### Villages
-- It Takes a Pillage Continuation
 - ChoiceTheorem's Overhauled Village
+- It Takes a Pillage Continuation
 
 #### The Nether
 - Medieval Buildings - Nether Edition
@@ -732,12 +732,12 @@
 
 #### The Nether
 - Crying Portals
-- NetherPortalFix
-- Nether Portal Spread
-- Smaller Nether Portals
 - Eternal Nether
 - Incendium
+- Nether Portal Spread
 - NetherEx
+- NetherPortalFix
+- Smaller Nether Portals
 
 #### The End
 - End Remastered
@@ -746,20 +746,20 @@
 - Unusual End
 
 #### New Dimensions
+- Arda's Sculks
+- JAMD (Just Another Mining Dimension)
 - The Aether
 	- Aether Addon: Protect Your Moa
 	- Aether Ruined Portals
 	- Aether Villages
 	- Deep Aether
 	- Explore Ruins: The Aether - Dungeons & Structures
-- Arda's Sculks
-- JAMD (Just Another Mining Dimension)
 
 ## Cosmetics & Customization
 
 ### Player Skins and Models
-- Skin Layers 3D Ⓒ
 - Shrink
+- Skin Layers 3D Ⓒ
 
 ### Origins & Races
 - Dragon Survival

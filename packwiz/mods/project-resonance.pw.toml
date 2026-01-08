@@ -1,13 +1,13 @@
 name = "Project Resonance for MineColonies"
-filename = "projectresonance-1.21.1 v1.5.jar"
+filename = "projectresonance-1.21.1 v1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "31a1097eab4f6743a19d6dd6ccc576cfad6003cd"
+hash = "a9880085a31bb25552eec97a15bd6fe33c5400c3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7423274
+file-id = 7424295
 project-id = 1415077

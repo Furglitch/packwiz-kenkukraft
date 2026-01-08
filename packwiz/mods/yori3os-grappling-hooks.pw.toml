@@ -1,13 +1,13 @@
 name = "Yori3o's Grappling Hooks"
-filename = "yo_hooks-neoforge-3.6.0.jar"
+filename = "yo_hooks-neoforge-3.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "429bd5573094552a2d4a5684902d30b6f8d4365e"
+hash = "0a6f252ef2806eb84f5c4f104f1bf0c39ad1fd43"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7416724
+file-id = 7425183
 project-id = 1376009

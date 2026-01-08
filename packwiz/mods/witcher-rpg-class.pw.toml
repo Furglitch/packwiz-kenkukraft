@@ -1,13 +1,13 @@
 name = "Witcher (More RPG Classes)"
-filename = "witcher-class-mod-neoforge-2.6.3+1.21.1.jar"
+filename = "witcher-class-mod-neoforge-2.7.1+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2b5511451c35353aed9c406e455b89d5bbae4356"
+hash = "9aed68263b7147df125143bad7b76231b93bbe14"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7317752
+file-id = 7417459
 project-id = 992290

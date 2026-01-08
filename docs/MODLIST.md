@@ -5,11 +5,10 @@
 
 > Ⓒ - Client-Side Only <br/>
 > Ⓢ - Server-Side Only <br/>
-> Ⓕ - Fabric Mod (via Sinytra Connector) <br/>
 > Ⓞ - Optional <br/>
 
 ## Base
-- More FPS [FORGE]
+- More FPS [FORGE] (Modpack)
 	- URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
 	- Removed Mods:
 			- FancyMenu
@@ -23,12 +22,20 @@
 	- Removed Resource Packs
 
 ## Modpack Development
+- Crash Assistant Ⓒ
+- KubeJS
+    - LootJS: KubeJS Addon
 - Paxi
 
 ## Performance
 - Create: Threaded Trains
 - Concurrent Chunk Management Engine
+- FastSuite
+- Load My F***ing Tags
 - Memory Settings Ⓒ
+- Neruina - Ticking Entity Fixer
+- Packet Fixer
+- Too Fast Ⓢ
 
 ## Interface
 
@@ -36,6 +43,7 @@
 - AppleSkin
 - Better Creative Mode Tabs Ⓒ
 - Better F1 Reborn Ⓒ
+- CleanView Ⓒ
 - Counter (Day & Death)
 - Jade
 	- Jade Addons
@@ -45,6 +53,7 @@
 - Stylish Effects Ⓒ
 
 ### Menus
+- Better Compatibility Checker
 - Cursors Extended Ⓒ
 - Configured Defaults Ⓒ
 - Fadeless Ⓒ
@@ -72,10 +81,10 @@
 	- Journeymap Waypoint Syncing
 
 ### Camera & Controls
+- Inventory Essentials
 - OK Zoomer Ⓒ
-- KeybindsPurger Ⓒ
 - Ping Wheel
-- Rebind Narrator Ⓒ
+- RightClickHarvest
 
 ### Tooltips & Info
 - Durability Tooltip Ⓒ
@@ -91,6 +100,12 @@
 - What Are They Up To?
 
 ### Keybinding Management
+- KeybindsPurger Ⓒ
+- Rebind Narrator Ⓒ
+
+### Commands
+- FTB Essentials
+- WITS (What Is This Structure?)
 
 ## Utility & Tools
 - Patchouli
@@ -102,6 +117,8 @@
 - FTB Quests
 	- Certain Questing Additions
 	- ExtraQuests
+	- FTB Filter System
+	- Quests Kill Task Tweaks
 
 ## Audio & Visuals
 - Distant Horizons
@@ -203,14 +220,18 @@
 - Underlay
 
 ### Tools
+- Building Gadgets
+- Construction Sticks
 - Construction Wands Revived
-- Sawmill
 - Magnum Torch
-- Utilitarian
-- Tool Belt
+- Mech Trowel
+- Sawmill
 - Stack Refill
+- Tool Belt
+- Utilitarian
 
 ### Building Blocks
+- Connected Glass
 - Double Doors
 - FramedBlocks
 - Macaw's Suite
@@ -222,6 +243,7 @@
 	- Rechiseled: Chipped
 	- Rechiseled: Create
 - Scaffolding Drops Nearby
+- Sooty Chimneys
 
 ### Decoration & Furniture
 - Amendments
@@ -322,8 +344,8 @@
 ## Crafting
 
 ### Recipe Mods
-- Just Better Recipes
 - DarkSmithing
+- Just Better Recipes
 
 ### Crafting Systems
 - Crafting Tweaks
@@ -407,6 +429,7 @@
 
 ## Mining
 - FTB Ultimine
+    - Create Ultimine
 - GravelMiner
 - Leaves Be Gone
 - Separated Leaves
@@ -441,12 +464,15 @@
 - Savage Ender Dragon
 
 ### Mob Behavior
+- AttributeFix
 - Despawning Eggs Hatch
+- Let Me Despawn
 - Mob Control
 - Respawning Animals
 - Respawning Shulkers
 
 ### Pets & Companions
+- Pet Cemetery
 
 ## Storage
 
@@ -476,10 +502,20 @@
 	- Create Stock Bridge
 	- Create: AE2 Recipes
 	- Mega Cells
+- Refined Storage
+    - ExtraStorage
+    - Extra Disks
+	- Refined Storage - Curios Integration
+	- Refined Storage - EMI Integration
+	- Refined Storage - Mekanism Integration
+	- Refined Storage - Quartz Arsenal
+	- Refined Types
+	- RSInfinityBooster
 - Tom's Simple Storage
 	- Create Contraption Terminals
 
 ### Item Sorting
+- Storage Labels
 - Trash Cans
 
 ### Bulk Storage
@@ -519,10 +555,13 @@
 ### Computers & Programming
 
 ### Pipes & Transport
+- Cable Facades
 - Pipez
+- Pipe Connector
 - Pretty Pipes
 
 ### Create Addons
+- Create Cobblestone
 - Create Crafts & Additions
 - Create Encased
 - Create Goggles (Create Plus)
@@ -532,16 +571,24 @@
 - Create Stuff 'N Additions
 - Create: Bells & Whistles
 - Create: Bitterballen
+- Create: Blocks & Bogies
+- Create: Cardboarded Conveynience
+- Create: Cardboard Things
 - Create: Chimneys
 - Create: Connected
+- Create: Copycats+
 - Create: Curios Jetpack & Backtank
+- Create: Deep Dark
+- Create: Delivery Director
 - Create: Design n' Decor
 - Create: Dragons Plus
 - Create: Dreams n' Desires
 - Create: EasyFilling
 - Create: Enchantment Industry
 - Create: Ender Link
+- Create: Escalated
 - Create: Extended Wrenches
+- Create: Extra Gauges
 - Create: Filters Anywhere
 - Create: Fishing Bobber Detector
 - Create: Let The Adventure Begin
@@ -555,8 +602,10 @@
 - Create: Randomize Filters
 - Create: Simple Generator
 - Create: Sound of Steam
+- Create: Stam1o Tweaks
 - Create: The Factory Must Grow
 - Create: Trading Floor
+- Create: Transmission!
 - Create: Ultimate Factory
 - Create: Vibrant Vaults
 
@@ -701,6 +750,7 @@
 	- Deep Aether
 	- Explore Ruins: The Aether - Dungeons & Structures
 - Arda's Sculks
+- JAMD (Just Another Mining Dimension)
 
 ## Cosmetics & Customization
 
@@ -784,6 +834,7 @@
 - BB's Bosses Of Mass Destruction Tweaks
 - BB's Toolbelt
 - Comforts Modernized
+- Construction Sticks Grips
 - Construction Wand Retexture
 - Corail Tombstones Redux
 - Create Lootr

@@ -3,7 +3,7 @@
   "name": "KenkuKraft Default",
   "overrides": {},
   "packIds": [
-    "file/KenkuKraft Resources",
+    "obscure_tooltips/packs/vibrant_tooltips",
     "file/nitpicks.zip",
     "file/MandalasGUI-Dark-VendingBlock.zip",
     "file/Utilitarian Upgraded.zip",
@@ -35,6 +35,7 @@
     "file/Create LootR Chest.zip",
     "file/Tombstones redux 1.20 v3.zip",
     "file/Construction Wand Retexture.zip",
+    "file/Construction Sticks Grips.zip",
     "file/Comforts Modernized - V1.1.zip",
     "file/BB\u0027sToolbelt0.1.zip",
     "file/BB\u0027sBOMDTweaks0.5.zip",

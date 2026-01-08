@@ -1,0 +1,13 @@
+name = "Pipe Connector"
+filename = "pipe_connector-neoforge-0.5.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0c490342122a7b2b5524384f116e101214e8332"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7389706
+project-id = 846168

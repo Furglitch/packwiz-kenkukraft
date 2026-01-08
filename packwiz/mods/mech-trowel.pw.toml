@@ -1,0 +1,13 @@
+name = "Mech Trowel"
+filename = "mechtrowel-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c1dee44cafb4a609acb653f99381405a7700eb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7386105
+project-id = 1288799

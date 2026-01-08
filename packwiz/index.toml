@@ -58,7 +58,7 @@ hash = "6ba00dedf7e25c5aa60d138daeb9fa24221705a2b4111e475aa6f713d414d0ad"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+hash = "1a6eacae63e5a8c5fbed8584064a91127ff9115490c0b09a6ac1b5449036f0ed"
 
 [[files]]
 file = "config/balm-client.toml"
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
+hash = "8b4cb33940d2a5771439131c9b80d68b099efaf5c957ced3ab5ba6c59a0e85ae"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
+hash = "d0af80a62f96d2ac0cdb344757673103c63704bd6786c0f31818b16a4194341e"
 metafile = true
 
 [[files]]
@@ -1201,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
 
 [[files]]
@@ -1726,7 +1726,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4fa1d6b802032c2335bd0f2263e2977b376fd22ee07dc5f57dae9797d0c267d3"
+hash = "cc3295d41a237e4167cc1e3253a3a2f1f17d2e971c4a8f61f2374925002ad02f"
 metafile = true
 
 [[files]]
@@ -1831,17 +1831,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0f6c676be62bc696e11fc14a01f4e193e78e4f395ad5b03e771ea9fba81e9f97"
+hash = "085064b12ddfcceed2993f67297fb0e18f8d35da11a7e9700da446084376e55c"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "4ca4a4c7f9980e890449d743322cb9eaac944909a91c502ff3bdf82393826d0a"
+hash = "6375f1f6491f73a8bd591efe37ae6c823a701ac60f1deb45b3c02d38d3871cf9"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "18e03661898661bb4434f28c838cbd1ca610c2db9ecd78fc698830bea90e8341"
+hash = "e561c5e2ae638d9e71326ccbfae45d59b145e18be5942d00ecaf9cbdfb2a70da"
 metafile = true
 
 [[files]]
@@ -1941,7 +1941,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
-hash = "3d986266a6f1f884d3786a2354b3458c9999728001e1961da63f31bdede735d8"
+hash = "fd9306f3d4da483cbfdb3adcae857cc2ecd0549e841e4e0a53f2b6da1a7816d7"
 metafile = true
 
 [[files]]
@@ -1966,7 +1966,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "5961d4df1656f866ef9f003093d822e7396db716064c1d44bb30e8936de6ce88"
+hash = "0f4100c2edffe26d206562da1de1765e6342825a2a3c9fcca9e6ac31eb6ff4dd"
 metafile = true
 
 [[files]]
@@ -2001,7 +2001,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
@@ -2166,7 +2166,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6c275f621e7c3895ed34ee0e5bf847916a4285ac0f6452982ad6dccd5dd59851"
+hash = "9a560ab86f575aa15320b20c15b484d9477a6bbec8a112dc01bfa032a5b2d553"
 metafile = true
 
 [[files]]
@@ -2186,7 +2186,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
@@ -2766,7 +2766,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -2861,7 +2861,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
+hash = "84153f0d953a29e1a720e477699c96abe193179d747c9ce44e1fcf596fe5913d"
 metafile = true
 
 [[files]]
@@ -3055,6 +3055,11 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/pro-placer.pw.toml"
+hash = "8945c9e121969a55b63a2fe7ef37875e0661667aa850f49a0c30533fe09b4aab"
+metafile = true
+
+[[files]]
 file = "mods/project-resonance.pw.toml"
 hash = "11634a8415204c8054d15131765f46642025926aa77905316e260c2e59ae9db0"
 metafile = true
@@ -3126,7 +3131,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
@@ -3162,11 +3167,6 @@ metafile = true
 [[files]]
 file = "mods/refined-types.pw.toml"
 hash = "a7f92905ad748372a4c555d972d975137b2f07630eaf897dfd49ae57243e66f9"
-metafile = true
-
-[[files]]
-file = "mods/reforged-accurate-block-placement.pw.toml"
-hash = "efc2aa72f373c5bcbeeeaab12f7882f86d2ad13ab6f47df71163260681e82b98"
 metafile = true
 
 [[files]]
@@ -3326,7 +3326,7 @@ metafile = true
 
 [[files]]
 file = "mods/shut-up-gl-error.pw.toml"
-hash = "7791080b71ec48acc714f00438a44f224292582063750d63bc9225533519686a"
+hash = "f0ecaea959e3342034edac9b288e871aa3271e59796625677161d3a457876d6c"
 metafile = true
 
 [[files]]
@@ -3371,12 +3371,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+hash = "40e1fdc8c58f72bb947b978a773cf963b2d28bb49832500c2bd886f7ac6629bb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
@@ -3582,11 +3582,6 @@ metafile = true
 [[files]]
 file = "mods/to-tweaks-irons-spells.pw.toml"
 hash = "ac467acc6a07a1fffa874c6ee7027734c8d57a21054735a1d31aeaada75b855d"
-metafile = true
-
-[[files]]
-file = "mods/toast-control.pw.toml"
-hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]

@@ -33,7 +33,7 @@ enable_debug_renderer_disable_if_not_needed: true
 # and its calculations if there are no particles.
 enable_particle_manager_optimization: true
 # Whether we should avoid calling the toast manager if there are no toasts.
-enable_toast_optimizations: true
+enable_toast_optimizations: false
 # Whether the result of getSkyAngle should be cached
 # for the entire frame during rendering.
 enable_sky_angle_caching_in_worldrenderer: true

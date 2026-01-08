@@ -53,13 +53,11 @@ Despite having 500+ mods, KenkuKraft is optimized for smooth gameplay. Built on 
 
 ---
 
-### 🎮 Getting Started
+### Getting Started
 
 #### Installation
 
 Download the modpack from [CurseForge](https://www.curseforge.com/minecraft/modpacks/kenkukraft) and install with your preferred launcher (e.g. Prism Launcher, MultiMC, GDLauncher).
-
-***NOTE:*** It is common for the first launch to either crash, freeze, or take a while. Launching again usually resolves this, since the assets will be cached after the first run.
 
 ##### Server Installation
 
@@ -78,13 +76,19 @@ There are two scripts included to start the server:
 
 ---
 
-### 📝 Configuration
+### Known Issues
+- It is common for the first launch to either crash, freeze, or take a while. Launching again usually resolves this, since the assets will be cached after the first run.
+- If you are able to launch, but see missing textures on the title screen or in-game, restart. It's likely that the game crashed but was "recovered" by Not Enough Crashes.
+
+---
+
+### Configuration
 
 For detailed configuration changes, see [CONFIG.md](./docs/CONFIG.md).
 
 ---
 
-### 📄 License
+### License
 
 Modpack and repo distributed under the CC0 1.0 Universal License.
 See [LICENSE](LICENSE) for details.

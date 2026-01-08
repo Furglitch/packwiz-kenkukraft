@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="packwiz/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
+  <img src="packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
   </br></br>
   <p>
     <a href="https://www.curseforge.com/minecraft/modpacks/create-chronicles-the-endventure/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.0.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.0"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
-    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=700%2B&color=920000&labelColor=874161&style=for-the-badge" alt="700+ Mods"></a>
+    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=500%2B&color=920000&labelColor=874161&style=for-the-badge" alt="500+ Mods"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=920000&labelColor=874161&style=for-the-badge" alt="8-10GB RAM">
   </p>
@@ -14,7 +14,7 @@
 
 ---
 
-**KenkuKraft is a comprehensive kitchen sink modpack built for playing with friends.** With over 700 mods, this pack gives you complete freedom to play however you want - whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or simply creating your dream base with friends.
+**KenkuKraft is a comprehensive kitchen sink modpack built for playing with friends.** With over 500 mods, this pack gives you complete freedom to play however you want - whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or simply creating your dream base with friends.
 
 **No forced progression. No recipe restrictions. No limitations.** This is YOUR world to shape. Automate everything with Create and Mekanism. Cast devastating spells with Ars Nouveau and Iron's Spells. Build thriving colonies with Minecolonies. Or just explore the vast, overhauled world filled with new dimensions, structures, and creatures.
 
@@ -47,7 +47,7 @@ With hundreds of decorative blocks and building tools, your creativity knows no 
 The world generation has been completely transformed. **[Continents](https://www.curseforge.com/minecraft/mc-mods/continents)** and **[Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)** create realistic, massive continents with diverse biomes. Discover countless structures and dungeons from **[Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)**, and **[Luki's Crazy Chambers](https://www.curseforge.com/minecraft/mc-mods/lukis-crazy-chambers)**. The **Nether** and **End** have been overhauled. Venture into new dimensions - explore **[The Aether's](https://www.curseforge.com/minecraft/mc-mods/the-aether)** floating islands or brave **[Arda's Sculk](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)** dimension. Encounter hundreds of new mobs and legendary bosses.
 
 #### ⚡ **Optimized Performance**
-Despite having 700+ mods, KenkuKraft is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
+Despite having 500+ mods, KenkuKraft is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
 
 <sub>For the full modlist, see [MODLIST.md](https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md)</sub>
 
@@ -57,7 +57,9 @@ Despite having 700+ mods, KenkuKraft is optimized for smooth gameplay. Built on 
 
 #### Installation
 
-Download the modpack from [CurseForge](https://www.curseforge.com/minecraft/modpacks/kenkukraft) and install with your preferred launcher (e.g. Prism Launcher, MultiMC, GDLauncher)
+Download the modpack from [CurseForge](https://www.curseforge.com/minecraft/modpacks/kenkukraft) and install with your preferred launcher (e.g. Prism Launcher, MultiMC, GDLauncher).
+
+***NOTE:*** It is common for the first launch to either crash, freeze, or take a while. Launching again usually resolves this, since the assets will be cached after the first run.
 
 ##### Server Installation
 

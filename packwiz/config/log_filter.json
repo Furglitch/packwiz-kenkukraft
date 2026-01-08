@@ -1,0 +1,131 @@
+{
+  "logEvents": "NONE",
+  "rules": [
+    {
+      "level": [
+        {
+          "relation": "EQUAL",
+          "value": "WARN"
+        }
+      ],
+      "loggerName": [
+        {
+          "relation": "CONTAINS",
+          "value": "BlockStateModelLoader"
+        }
+      ],
+      "message": [
+        {
+          "relation": "CONTAINS",
+          "value": "Exception loading blockstate definition"
+        }
+      ],
+      "logRuleFiring": false
+    },
+    {
+      "level": [
+        {
+          "relation": "EQUAL",
+          "value": "INFO"
+        }
+      ],
+      "loggerName": [
+        {
+          "relation": "CONTAINS",
+          "value": "SoundEngine"
+        }
+      ],
+      "message": [
+        {
+          "relation": "CONTAINS",
+          "value": "Missing sound for event"
+        }
+      ],
+      "logRuleFiring": false
+    },
+    {
+      "level": [
+        {
+          "relation": "EQUAL",
+          "value": "INFO"
+        }
+      ],
+      "loggerName": [
+        {
+          "relation": "CONTAINS",
+          "value": "ModelBakery"
+        }
+      ],
+      "message": [
+        {
+          "relation": "CONTAINS",
+          "value": "Unable to load model"
+        }
+      ],
+      "logRuleFiring": false
+    },
+    {
+      "level": [
+        {
+          "relation": "EQUAL",
+          "value": "INFO"
+        }
+      ],
+      "loggerName": [
+        {
+          "relation": "CONTAINS",
+          "value": "pointblank"
+        }
+      ],
+      "message": [
+        {
+          "relation": "CONTAINS",
+          "value": "Found jar"
+        }
+      ],
+      "logRuleFiring": false
+    },
+    {
+      "level": [
+        {
+          "relation": "EQUAL",
+          "value": "ERROR"
+        }
+      ],
+      "loggerName": [
+        {
+          "relation": "CONTAINS",
+          "value": "Cristel"
+        }
+      ],
+      "message": [
+        {
+          "relation": "REGEX",
+          "value": ".*"
+        }
+      ],
+      "logRuleFiring": false
+    },
+    {
+      "level": [
+        {
+          "relation": "EQUAL",
+          "value": "INFO"
+        }
+      ],
+      "loggerName": [
+        {
+          "relation": "CONTAINS",
+          "value": "Configured Defaults"
+        }
+      ],
+      "message": [
+        {
+          "relation": "CONTAINS",
+          "value": "Setting new option"
+        }
+      ],
+      "logRuleFiring": false
+    }
+  ]
+}

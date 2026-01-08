@@ -25,11 +25,13 @@
 - Crash Assistant Ⓒ
 - KubeJS
     - LootJS: KubeJS Addon
+- Log Filter
 - Paxi
 
 ## Performance
 - Create: Threaded Trains
 - Concurrent Chunk Management Engine
+- FastBoot
 - FastSuite
 - Load My F***ing Tags
 - Memory Settings Ⓒ
@@ -58,6 +60,8 @@
 - Configured Defaults Ⓒ
 - Fadeless Ⓒ
 - Packed Packs Ⓒ
+- Startup Time Ⓒ
+- Startup / Loading Profiler Ⓒ
 
 ### Inventory & Crafting
 - EMI
@@ -97,7 +101,6 @@
 ### Chat & Social
 - Chat Heads Ⓒ
 - Showcase Item
-- What Are They Up To?
 
 ### Keybinding Management
 - KeybindsPurger Ⓒ
@@ -655,6 +658,7 @@
 - Explorer's Compass
 
 ## World Generation
+- Chunky
 
 ### Terrain
 - Continents
@@ -674,7 +678,6 @@
 - YUNG's Cave Biomes
 
 ### Ore Generation
-- Large Ore Deposits
 
 ### Structures
 - Structurify

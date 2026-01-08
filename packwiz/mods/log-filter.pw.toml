@@ -1,0 +1,13 @@
+name = "Log Filter"
+filename = "log_filter-neoforge-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d422352e609ab0ef7d597b547178ba7d0841b0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5809497
+project-id = 1120671

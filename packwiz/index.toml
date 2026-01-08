@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "2e3f9cce79ec0de2a99d156924d18a65e2fd042ffc242e35a9526a45c0c180eb"
+hash = "5d1d3c57f41e44742c7006e4c0b60e9fd8f3a257d66dddaa129b3abb265445e9"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -215,6 +215,10 @@ hash = "1a5929cfa7c9ad1b2842fd5ea9aa0d107785a1d4b9e92ba62ffac9e3f7245947"
 [[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/log_filter.json"
+hash = "8e558c3cae47895df966de2dd228185265b52cb20783a7107d8c42d363c36442"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -1088,6 +1092,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
@@ -1966,6 +1975,11 @@ hash = "0f871a463cc9f10ba812d7e7cbdbfb119535d1a683c8eb85d06af35d7c726953"
 metafile = true
 
 [[files]]
+file = "mods/fastboot.pw.toml"
+hash = "04be8ab614602a3d15d51ac196964e520aaf36573eb24f9750cf3d4d2a922363"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "3df033738bcbc1b37713cb7a26d6fc64064c8dbc7eb4134b6a891c847a3e5414"
 metafile = true
@@ -1993,11 +2007,6 @@ metafile = true
 [[files]]
 file = "mods/forcemaster-rpg-class.pw.toml"
 hash = "02c1d44b123ff9be9ba33cd89a77d2fe3136cb25b2dd037838d87cea600da355"
-metafile = true
-
-[[files]]
-file = "mods/forgeendertech.pw.toml"
-hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
 metafile = true
 
 [[files]]
@@ -2351,11 +2360,6 @@ hash = "ff056ce8d4f6621a6e30e0cc6e05ae3ab2a1c07b34ea9ccfe3fe3473d83721f8"
 metafile = true
 
 [[files]]
-file = "mods/large-ore-deposits.pw.toml"
-hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
-metafile = true
-
-[[files]]
 file = "mods/leaky.pw.toml"
 hash = "62574e74c238814dee84398b1caa0f19f7e3f381041b4f17cb1853815047ab5d"
 metafile = true
@@ -2411,8 +2415,18 @@ hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
 metafile = true
 
 [[files]]
+file = "mods/loading-profiler-forge-neoforge.pw.toml"
+hash = "7987274116332328a712e5fd3d708541a0f5c39698072cb8da085d4c3eeae51e"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "0b41566dd30a36d375860ce7e5443b46b08380ffd3c3b9eee4db8cd476c30eb6"
+metafile = true
+
+[[files]]
+file = "mods/log-filter.pw.toml"
+hash = "836784d866898081030d73bf0919d91d42655c0c5643e640ec427cdbfd042612"
 metafile = true
 
 [[files]]
@@ -3446,6 +3460,11 @@ hash = "4318e9916b0168dad46b26b007e9f986fc27f72099bbcb99222f8fa7d5d34a27"
 metafile = true
 
 [[files]]
+file = "mods/startup-time.pw.toml"
+hash = "8f33c3fd08e54b5f2afcd70570c141c72b7451b074a8a5da1fcc49c2dcd08c60"
+metafile = true
+
+[[files]]
 file = "mods/stick-it.pw.toml"
 hash = "0be4e56ec8d58a8190251d267c4baf6df7e93dc21ba637473ba9ce893b5c5a51"
 metafile = true
@@ -3708,11 +3727,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "aab0477b3088e321845e2ca11dc7480d2a032012016b60f40de84be8709921f6"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]

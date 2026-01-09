@@ -206,7 +206,7 @@ hash = "093067b9f857c14f7e4e092aee6620b3f865a2f9f410da1ec923f071d92af17f"
 
 [[files]]
 file = "config/mobcontrol.toml"
-hash = "86aeebd4a3523f6d3cf810b6b6a915311379bcf8a6f194da3a58fa83ea21d647"
+hash = "b7ee54c9366a236b20f2e59be7f6f2e5f62d337aeddd89f4bfe177d5cf98e676"
 
 [[files]]
 file = "config/modernfix-common.toml"

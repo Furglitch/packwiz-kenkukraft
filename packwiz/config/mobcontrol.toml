@@ -623,11 +623,11 @@ name="spore:*"
 [[mob.rule]]
 type="all"
 run=0
-day="<6"
+day="<31"
 [[mob.rule]]
 type="all"
 run=100
-day=">5"
+day=">30"
 
 ################################################################################
 # Add your custom rules above the previous line

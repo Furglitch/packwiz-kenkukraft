@@ -23,7 +23,7 @@
 ---
 
 #### 🍄 **The Infection Spreads**
-One of the central features of this pack is **[Fungal Infection: Spore](https://www.curseforge.com/minecraft/mc-mods/fungal-infection-spore)**. The infection begins in just 5 days, spreading across the world and transforming everything in its path. Will you fight back, adapt, or coexist?
+One of the central features of this pack is **[Fungal Infection: Spore](https://www.curseforge.com/minecraft/mc-mods/fungal-infection-spore)**. The infection begins in just 30 (in-game) days, spreading across the world and transforming everything in its path. Will you fight back, adapt, or coexist?
 
 #### ⚙️ **Build Incredible Machines**
 Automation is at the heart of KenkuKraft. **[Create](https://www.curseforge.com/minecraft/mc-mods/create)** and its massive collection of addons let you build stunning contraptions. **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)** provides advanced processing, power generation, and ore multiplication. **[Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)** adds even more technological progression. 

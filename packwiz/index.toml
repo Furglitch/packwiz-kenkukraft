@@ -3162,6 +3162,11 @@ hash = "1814d9eddb2f028002c9fd0684d43a5c99a3da1e10c94004baba2195b9c8dadf"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "2322e7e1c2c8d6a1e841ebe73dc3b78c3037435806f85fe48c62f68d26ed7667"
+metafile = true
+
+[[files]]
 file = "mods/startinv.pw.toml"
 hash = "4318e9916b0168dad46b26b007e9f986fc27f72099bbcb99222f8fa7d5d34a27"
 metafile = true
@@ -3885,3 +3890,11 @@ metafile = true
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "fac0589a093ee63393db58dab25bd95624be5423ba232a12a4a9ca4f67407c3d"
 metafile = true
+
+[[files]]
+file = "starterkit/descriptions/Default.txt"
+hash = "646d26946c86884831b2796fb54f1144e68bd4619913fcbe9195e1bfdafba015"
+
+[[files]]
+file = "starterkit/kits/Default.txt"
+hash = "00e8a7ab41cabf3fb8a311ce25af14bfd372d9204cd1a082cd6320a5f128b7e2"

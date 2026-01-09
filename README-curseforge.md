@@ -1,7 +1,7 @@
-<p><center>
-  <img src="packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
+<p style="text-align:center">
+  <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft%20Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
   </br></br>
-  <p><center>
+  <p style="text-align:center">
     <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.0.2&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.2"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
@@ -9,8 +9,8 @@
     <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=500%2B&color=920000&labelColor=874161&style=for-the-badge" alt="500+ Mods"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=920000&labelColor=874161&style=for-the-badge" alt="8-10GB RAM">
-  </center></p>
-</center></p>
+  </p>
+</p>
 
 ---
 
@@ -49,7 +49,7 @@ The world generation has been completely transformed. **[Continents](https://www
 #### ⚡ **Optimized Performance**
 Despite having 500+ mods, KenkuKraft is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
 
-<sub>For the full modlist, see [MODLIST.md](docs/MODLIST.md)</sub>
+For the full modlist, see [MODLIST.md](https://github.com/Furglitch/packwiz-kenkukraft/tree/main/docs/MODLIST.md)
 
 ---
 
@@ -84,14 +84,14 @@ There are two scripts included to start the server:
 
 ### Configuration
 
-For detailed configuration changes, see [CONFIG.md](docs/CONFIG.md).
+For detailed configuration changes, see [CONFIG.md](https://github.com/Furglitch/packwiz-kenkukraft/tree/main/docs/CONFIG.md).
 
 ---
 
 ### License
 
 Modpack and repo distributed under the CC0 1.0 Universal License.
-See [LICENSE](LICENSE) for details.
+See [LICENSE](https://github.com/Furglitch/packwiz-kenkukraft/tree/main/LICENSE) for details.
 
 ---
 
@@ -101,6 +101,6 @@ Description layout inspired by **[Create Chronicles: The Endventure](https://www
 
 ---
 
-<p><center>
-    <a href="https://github.com/packwiz/packwiz"><sub>Built with ❤️ using Packwiz</sub></a>
-</center></p>
+<p style="text-align:center">
+    <a href="https://github.com/packwiz/packwiz">Built with ❤️ using Packwiz</a>
+</p>

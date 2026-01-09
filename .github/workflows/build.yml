@@ -46,6 +46,20 @@ jobs:
       - name: Refresh modpack
         working-directory: ./packwiz
         run: packwiz refresh
+
+      - name: Commit refresh to main
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh packwiz index"
+            git push origin HEAD:main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Export client modpack
         working-directory: ./packwiz

@@ -73,6 +73,10 @@ jobs:
         run: |
           chmod +x ./packwiz-bin/packwiz
           sudo mv ./packwiz-bin/packwiz /usr/local/bin/
+        
+      - name: Refresh modpack
+        working-directory: ./packwiz
+        run: packwiz refresh
 
       - name: Update mods
         working-directory: ./packwiz

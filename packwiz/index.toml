@@ -69,6 +69,10 @@ file = "config/balm-common.toml"
 hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "00f130aedae39139dd81c79c7ffa29ac9e98345a23bd9724d780e667e8a0915f"
+
+[[files]]
 file = "config/betterf3.toml"
 hash = "1a8d0c828599473af0f926c1660a8a58dd2b1122acf034a7aac489cb88317ab1"
 

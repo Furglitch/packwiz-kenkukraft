@@ -1,13 +1,13 @@
 name = "Ars Affinity"
-filename = "ars_affinity-1.21.1-1.1.0.jar"
+filename = "ars_affinity-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65cf14fa635a510b0caabec68d091b5b247686a9"
+hash = "ecb08d69e18e07c8cdf9f2806c05cb814a406e86"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7252879
+file-id = 7416588
 project-id = 1319260

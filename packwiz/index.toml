@@ -406,7 +406,7 @@ hash = "d265fabfaa54f3fe719fbc48ea2d3b3cc86eb2e4c14b24dd8e90d444b2dd77ad"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "5d1d3c57f41e44742c7006e4c0b60e9fd8f3a257d66dddaa129b3abb265445e9"
+hash = "2297e5d54234d2b950fa9fe1911bc015242ce5691a793becd0541dc1fb3ebd9f"
 
 [[files]]
 file = "configureddefaults/config/fancytoasts/toast.json"

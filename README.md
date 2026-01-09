@@ -1,7 +1,7 @@
-<p><center>
+<div align="center">
   <img src="packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
   </br></br>
-  <p><center>
+  <div align="center">
     <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.1.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.1.0"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
@@ -9,8 +9,8 @@
     <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=500%2B&color=920000&labelColor=874161&style=for-the-badge" alt="500+ Mods"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=920000&labelColor=874161&style=for-the-badge" alt="8-10GB RAM">
-  </center></p>
-</center></p>
+  </div>
+</div>
 
 ---
 
@@ -96,6 +96,6 @@ Description layout inspired by **[Create Chronicles: The Endventure](https://www
 
 ---
 
-<p><center>
+<div align="center">
     <a href="https://github.com/packwiz/packwiz"><sub>Built with ❤️ using Packwiz</sub></a>
-</center></p>
+</div>

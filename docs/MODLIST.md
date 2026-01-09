@@ -96,7 +96,6 @@
 - Equipment Compare Ⓒ
 - Loot Journal Ⓒ
 - Obscure Tooltips Ⓒ
-- Shulker Box Tooltip
 
 ### Chat & Social
 - Chat Heads Ⓒ
@@ -155,15 +154,6 @@
 ### Skybox
 
 ## Armory
-- Archers (RPG Series)
-	- Archers Expansion (More RPG Classes)
-- Berserker (More RPG Classes)
-- Elemental Wizards (More RPG Classes)
-- Forcemaster (More RPG Classes)
-- Paladins and Priests (RPG Series)
-- Rogues and Warriors (RPG Series)
-- Witcher (More RPG Classes)
-- Wizards (RPG Series)
 
 ### Armor
 - Advanced Netherite
@@ -197,14 +187,9 @@
 	- Elytra Slot
 	- More Relics
 	- Relics
-	- Relics: Arcane Abilities
 	- Relics: Artifacts Compat
 	- Reliquified Ars Nouveau
 	- Reliquified L_Ender's Cataclysm
-- Jewelry (RPG Series)
-	- Additional Jewelry
-- Relics (RPG Series)
-	- More Relics (More RPG Content)
 
 #### Cosmetics
 - Cosmetic Armor Reworked
@@ -224,22 +209,17 @@
 
 ### Tools
 - Building Gadgets
-- Construction Sticks
 - Construction Wands Revived
 - Magnum Torch
 - Mech Trowel
 - Sawmill
-- Stack Refill
 - Tool Belt
 - Utilitarian
 
 ### Building Blocks
-- Connected Glass
 - Double Doors
 - FramedBlocks
 - Macaw's Suite
-- More Decorative Blocks - BlackWolf Design
-- OpenBlocks Elevator
 - Rechiseled
 	- Chipped
 	- Rechiseled: AE2
@@ -252,17 +232,12 @@
 - Amendments
 - Another Furniture
 - Armor Statues
-- Comforts
 - Etched
 - Furnitury
-- Handcrafted
-- Lucky's Showcase
-- MmmMmmMmmMmm (Target Dummy)
-- MultiBeds
 - Paintings ++
+- Storage Delight
 - Straw Statues
 - Supplementaries
-- The Block Box
 
 ### Minecolonies
 - Minecolonies
@@ -277,7 +252,6 @@
 
 ### Combat Mechanics
 - Better Combat
-- Combat Roll
 - Critical Strike
 
 ### Skills & Abilities
@@ -285,10 +259,7 @@
 - Let Me Sleep
 - Pufferfish's Skills
 	- Default Skill Trees
-	- Iron's Spells 'n Spellbooks Dynamic Skill Trees
-	- More RPG Classes - Skill Tree
 	- Pufferfish's Attributes
-	- Skill Tree (RPG Series)
 
 ### Death & Respawning
 - Corail Tombstone
@@ -307,8 +278,6 @@
 #### Recipes & Cooking Systems
 - Cooking for Blockheads
 - Delightful Creators
-- Farming for Blockheads
-- Storage Delight
 
 #### Food Variety
 - Aquaculture Delight
@@ -328,7 +297,6 @@
 - Veggies Delight
 
 ### Farming
-- Botany Pots
 - Croptopia
 - Farmer's Delight
 	- Create: Central Kitchen
@@ -337,12 +305,8 @@
 	- Create: Slice & Dice
 - Hey Berry! SHUT UP
 - Keep My Soil Tilled
-- Kelp Fertilizer
-- No Feather Trample
-- Pam's Harvestcraft 2 Suite
 
 ### Forestry
-- Botany Trees
 
 ## Crafting
 
@@ -353,10 +317,8 @@
 ### Crafting Systems
 - Crafting Tweaks
 - Farmer's Cutting Collection
-- Stoneworks
 
 ### Tools
-- Anvil Restoration
 - Crafting on a Stick
 - Easy Anvils
 - Iron Furnaces
@@ -386,7 +348,6 @@
 	- Yung Structures Addon for Loot Integrations
 
 ### Treasure & Rewards
-- Better Archeology
 - Clavis
 - Dragon Drops Elytra
 - Lootr
@@ -422,7 +383,7 @@
 
 ### Enchanting
 
-#### Enchantment Expansion
+#### Enchantments
 - NeoEnchant+
 	- BeyondEnchant
 
@@ -452,7 +413,6 @@
 - Fungal Infection: Spore
 - Illager Invasion
 - Mowzie's Mobs
-- Variants & Ventures
 
 ### Villagers
 - Chef's Delight
@@ -483,7 +443,7 @@
 ### Chests & Containers
 - Bank Storage
 - Ender Storage 1.8+
-	- Create Ender STorage
+	- Create Ender Storage
 - Functional Storage
 	- More Functional Storage
 - Sophisticated Storage
@@ -506,15 +466,6 @@
 	- Create Stock Bridge
 	- Create: AE2 Recipes
 	- Mega Cells
-- Refined Storage
-    - Extra Disks
-    - ExtraStorage
-	- Refined Storage - Curios Integration
-	- Refined Storage - EMI Integration
-	- Refined Storage - Mekanism Integration
-	- Refined Storage - Quartz Arsenal
-	- Refined Types
-	- RSInfinityBooster
 - Tom's Simple Storage
 	- Create Contraption Terminals
 
@@ -527,7 +478,6 @@
 	- Crate Delight: Croptopia
 
 ### Backpacks
-- Backpacked
 - Ender Pack
 - Sophisticated Backpacks
 	- Sophisticated Backpacks Create Integration
@@ -570,6 +520,7 @@
 - Create Encased
 - Create Goggles (Create Plus)
 - Create Jetpack
+    - Create: Curios Jetpack & Backtank
 - Create Mechanical Extruder
 - Create Mechanical Spawner
 - Create Stuff 'N Additions
@@ -581,7 +532,6 @@
 - Create: Chimneys
 - Create: Connected
 - Create: Copycats+
-- Create: Curios Jetpack & Backtank
 - Create: Deep Dark
 - Create: Delivery Director
 - Create: Design n' Decor
@@ -590,13 +540,11 @@
 - Create: EasyFilling
 - Create: Enchantment Industry
 - Create: Ender Link
-- Create: Escalated
 - Create: Extended Wrenches
 - Create: Extra Gauges
 - Create: Filters Anywhere
 - Create: Fishing Bobber Detector
 - Create: Let The Adventure Begin
-- Create: Metalwork
 - Create: Misc & Things
 - Create: Mobile Packages
 - Create: New Beginnings
@@ -604,7 +552,6 @@
 - Create: Pattern Schematics
 - Create: Power Loader
 - Create: Randomize Filters
-- Create: Simple Generator
 - Create: Sound of Steam
 - Create: Stam1o Tweaks
 - Create: The Factory Must Grow
@@ -619,7 +566,6 @@
 - Carry On
 - Jump Over Fences
 - Softer Hay Bales
-- Yori3o's Grappling Hooks
 
 ### Mounts & Vehicles
 
@@ -639,6 +585,7 @@
 
 ### Villager Trading
 - Trade Cycling
+- Farming for Blockheads
 
 ### Economy Systems
 
@@ -837,8 +784,6 @@
 - Ars Nouveau Refresh
 - BB's Bosses Of Mass Destruction Tweaks
 - BB's Toolbelt
-- Comforts Modernized
-- Construction Sticks Grips
 - Construction Wand Retexture
 - Corail Tombstones Redux
 - Create Lootr

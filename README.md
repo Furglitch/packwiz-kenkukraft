@@ -2,7 +2,7 @@
   <img src="packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
   </br></br>
   <p><center>
-    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.0.2&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.0.2"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.1.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.1.0"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
@@ -74,11 +74,6 @@ There are two scripts included to start the server:
 - **Minecraft Version:** 1.21.1
 - **Mod Loader:** Neoforge 21.1.217
 
----
-
-### Known Issues
-- It is common for the first launch to either crash, freeze, or take a while. Launching again usually resolves this, since the assets will be cached after the first run.
-- If you are able to launch, but see missing textures on the title screen or in-game, restart. It's likely that the game crashed but was "recovered" by Not Enough Crashes.
 
 ---
 

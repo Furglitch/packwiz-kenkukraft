@@ -135,9 +135,6 @@
 #### Baubles & Trinkets
 
 #### Backpacks
-- Backpacked
-	- Disabled Pickpocketing
-	- Disable wandering trader backpacks
 - Sophisticated Backpacks
 	- Disable entity backpacks
 - Traveler's Backpack
@@ -151,22 +148,15 @@
 ### Placement
 
 ### Tools
-- TorchMaster
-	- Double torch radius
-	- Double lamp radius
-	- Quadruple flare radius
 - Utilitarian
     - Disable no raider module
 	- Increase ranges to factors of 8
 	- Disable better sleep module in favor of LetMeSleep
-	- Disable no trampling module in favor of No Feathered Trample
 	- Enable recipe advancements
 
 ### Building Blocks
 
 ### Decoration & Furniture
-- The Block Box
-	- Move to separate tab
 
 ## Combat 
 
@@ -409,8 +399,6 @@
 - Ars Nouveau Brass-ified Create-Style - ANBICS
 - BB's Bosses Of Mass Destruction Tweaks
 - BB's Toolbelt
-- Comforts Modernized
-- Construction Sticks Grips
 - Construction Wand Retexture
 - Corail Tombstones Redux
 - Create Lootr

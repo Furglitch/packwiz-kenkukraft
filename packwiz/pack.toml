@@ -1,12 +1,12 @@
 name = "KenkuKraft"
 author = "furglitch"
-version = "2.0.2"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "75372b8e4b21c39d892490ee0774b685000a2dac670cd7602d71713f58c63f9e"
+hash = "994f3e2529805d0b97d67f4d71b64ae0c794eff76ca9c54d9ac271646f9589b8"
 
 [versions]
 minecraft = "1.21.1"

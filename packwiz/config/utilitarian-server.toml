@@ -6,5 +6,4 @@ noRaiderEnabled = false
 additionalGrowthHeight = 8
 additionalGrowthTicks = 8
 betterSleepEnabled = false
-
-noTramplingEnabled = false
+noTramplingEnabled = true

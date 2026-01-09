@@ -62,7 +62,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ca09d109eddbf1fd88874531b99e1868f3f790b7dc5646f122e3123eeae7c494"
+hash = "a2336828abb6ac8b481ea4722bd7bd2afee72e769333cc459efcf352713adda9"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -1028,11 +1028,6 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
-metafile = true
-
-[[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]

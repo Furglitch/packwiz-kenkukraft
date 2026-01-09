@@ -62,7 +62,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "00f130aedae39139dd81c79c7ffa29ac9e98345a23bd9724d780e667e8a0915f"
+hash = "ca09d109eddbf1fd88874531b99e1868f3f790b7dc5646f122e3123eeae7c494"
 
 [[files]]
 file = "config/betterf3.toml"

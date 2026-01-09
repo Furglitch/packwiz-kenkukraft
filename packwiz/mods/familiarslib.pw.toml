@@ -1,13 +1,13 @@
 name = "FamiliarsLib"
-filename = "familiarslib-1.0.0.jar"
+filename = "familiarslib-1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "137401cb0a7501d1c461b6d42fe2192ed2566ad3"
+hash = "aa874eca2741121d2363d407487adf4744f21988"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6824093
+file-id = 7430919
 project-id = 1316458

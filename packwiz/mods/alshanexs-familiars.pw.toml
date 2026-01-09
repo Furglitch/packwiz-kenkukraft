@@ -1,13 +1,13 @@
 name = "Alshanex's Familiars"
-filename = "alshanex_familiars-1.21.1_v3.0.jar"
+filename = "alshanex_familiars-1.21.1_v3.7_HF.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "792950d801ba571c1974b398e376a19ec239ffa0"
+hash = "6c2fa2f5bc4ccb76608c457ca86fe848e32d267e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6825732
+file-id = 7431222
 project-id = 1171602

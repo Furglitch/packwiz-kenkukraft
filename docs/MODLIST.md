@@ -471,6 +471,7 @@
 - Despawning Eggs Hatch
 - Let Me Despawn
 - Mob Control
+  - Multiplayer Server Pause
 - Respawning Animals
 - Respawning Shulkers
 

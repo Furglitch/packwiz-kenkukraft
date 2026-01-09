@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "5d1d3c57f41e44742c7006e4c0b60e9fd8f3a257d66dddaa129b3abb265445e9"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -145,24 +141,12 @@ file = "config/euphoria_patcher.properties"
 hash = "45f29fcdee25c1e7c5196524aca8555743672792a29fb0d7a9343d47b890c8e6"
 
 [[files]]
-file = "config/fancytoasts/toast.json"
-hash = "aa5535b90f8deb20b3f214be9233eb04b567d623a4bcb5129b996e256f8be7d4"
-
-[[files]]
-file = "config/fancytoasts/toast_filtering.json"
-hash = "2176df9d8e34dc9b2100062b63ec17be80b0fb9ea86d4b206f461b25b777d61e"
-
-[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "3a42e2688df188d44a796417191b171e52552a143e335ce4f6aa94130b78b0c5"
 
 [[files]]
 file = "config/fastpaintings-common.toml"
 hash = "d0b4c0e85822735c3cc9800108204225e1f8e4fd17a17fff9ecfd4ab045e5f03"
-
-[[files]]
-file = "config/fbp/config.json"
-hash = "a5d5d84ccd39cb93ef2787b9c6b677312a749e8078aa01a07f9c6bf41706e828"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -333,10 +317,6 @@ file = "config/pointblank-common.toml"
 hash = "3cd6cd2d09348806874211310de0f66916d1f3bce2b03230c5197d77a5a2da06"
 
 [[files]]
-file = "config/serverpause-common.toml"
-hash = "b3f96323deac517356a3e92d5f3bea576d8ca4ab4ef051abccbf61c618fba011"
-
-[[files]]
 file = "config/smoothchunk.json"
 hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
 
@@ -381,16 +361,8 @@ file = "config/structurify.json"
 hash = "81b84f7ef86ca5636e2bce809962b6aa7ecec27ed94134ede25c3b2c9084d77c"
 
 [[files]]
-file = "config/stylisheffects-client.toml"
-hash = "53bfe7670049bb0fd44e37994669b588ba09dea29c536534d1947704cd922428"
-
-[[files]]
 file = "config/time_on_display.toml"
 hash = "3ab3a842d6ee3cf8f2e5a5975f46a01db553ca6111249ccea96206ea0cd6dabf"
-
-[[files]]
-file = "config/toastcontrol-client.toml"
-hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
 file = "config/tombstone-common.toml"
@@ -433,12 +405,36 @@ file = "config/waystones-common.toml"
 hash = "d265fabfaa54f3fe719fbc48ea2d3b3cc86eb2e4c14b24dd8e90d444b2dd77ad"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "5d1d3c57f41e44742c7006e4c0b60e9fd8f3a257d66dddaa129b3abb265445e9"
+
+[[files]]
+file = "configureddefaults/config/fancytoasts/toast.json"
+hash = "aa5535b90f8deb20b3f214be9233eb04b567d623a4bcb5129b996e256f8be7d4"
+
+[[files]]
+file = "configureddefaults/config/fancytoasts/toast_filtering.json"
+hash = "2176df9d8e34dc9b2100062b63ec17be80b0fb9ea86d4b206f461b25b777d61e"
+
+[[files]]
+file = "configureddefaults/config/fbp/config.json"
+hash = "a5d5d84ccd39cb93ef2787b9c6b677312a749e8078aa01a07f9c6bf41706e828"
+
+[[files]]
 file = "configureddefaults/config/iris.properties"
 hash = "3f301ab4b10ce777290cb7dec9f025881ad372bbe83ae1183ef032c68741c6fa"
 
 [[files]]
 file = "configureddefaults/config/lambdynlights.toml"
 hash = "e8e84f93abb4e7fa542d18fb01062167ee350eb73f7fc6981c7cf0b697e9bdc3"
+
+[[files]]
+file = "configureddefaults/config/serverpause-common.toml"
+hash = "b3f96323deac517356a3e92d5f3bea576d8ca4ab4ef051abccbf61c618fba011"
+
+[[files]]
+file = "configureddefaults/config/stylisheffects-client.toml"
+hash = "53bfe7670049bb0fd44e37994669b588ba09dea29c536534d1947704cd922428"
 
 [[files]]
 file = "configureddefaults/options.txt"

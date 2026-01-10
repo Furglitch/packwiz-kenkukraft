@@ -1772,11 +1772,6 @@ hash = "bf7c284a6f1f669cc4d1c0492a720fd19ff52360ae0dd4e5bc69ef8a656e2c44"
 metafile = true
 
 [[files]]
-file = "mods/extended-wrenches.pw.toml"
-hash = "9b4c91f19dabe65a7f70baa14190ae570d87ffbc881adb0bec4eb751d39692f4"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true

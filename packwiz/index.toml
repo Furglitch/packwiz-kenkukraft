@@ -366,7 +366,7 @@ hash = "646d26946c86884831b2796fb54f1144e68bd4619913fcbe9195e1bfdafba015"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "00e8a7ab41cabf3fb8a311ce25af14bfd372d9204cd1a082cd6320a5f128b7e2"
+hash = "795f5ef085cb54234bfedc9ca8bb5a453cd9933f91df311aa0efc13746b5eb09"
 
 [[files]]
 file = "config/startinv.json"
@@ -614,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "0d2c4b8cda4d14deb8c4076f01cac447fddf4eb09057baf9d1926b290f05b9f8"
 metafile = true
 
 [[files]]

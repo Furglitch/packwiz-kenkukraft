@@ -9,7 +9,7 @@
 3 : '',
 4 : '',
 5 : '',
-6 : '',
+6 : '{components:{"akashictome:tool_content":[{components:{"akashictome:defined_mod":"simplyswords","patchouli:book":"simplyswords:runic_grimoire"},count:1,id:"patchouli:guide_book"},{components:{"akashictome:defined_mod":"ancientcity","patchouli:book":"ancientcity:resonanceguide"},count:1,id:"patchouli:guide_book"},{components:{"akashictome:defined_mod":"buildinggadgets2","patchouli:book":"buildinggadgets2:buildinggadgets2book"},count:1,id:"patchouli:guide_book"},{components:{"akashictome:defined_mod":"irons_jewelry"},count:1,id:"irons_jewelry:jewelcrafting_guide"},{components:{"akashictome:defined_mod":"ae2"},count:1,id:"ae2:guide"},{components:{"akashictome:defined_mod":"ftbquests"},count:1,id:"ftbquests:book"},{components:{"akashictome:defined_mod":"aether"},count:1,id:"aether:book_of_lore"},{components:{"akashictome:defined_mod":"cookingforblockheads"},count:1,id:"cookingforblockheads:recipe_book"},{components:{"akashictome:defined_mod":"cookingforblockheads_0"},count:1,id:"cookingforblockheads:crafting_book"},{components:{"akashictome:defined_mod":"ars_nouveau"},count:1,id:"ars_nouveau:worn_notebook"},{components:{"akashictome:defined_mod":"croptopia"},count:1,id:"croptopia:guide"}]},count:1,id:"akashictome:tome"}',
 7 : '{count:16,id:"minecraft:torch"}',
 8 : '{count:16,id:"minecraft:bread"}',
 9 : '',

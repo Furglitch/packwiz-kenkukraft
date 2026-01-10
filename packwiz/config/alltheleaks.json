@@ -10,8 +10,8 @@
   "logIntervalInMinutes": 10,
   "showSummaryOnDebugScreen": true,
   "memoryUsageWarningPercentage": 90,
-  "debugChunkLoading": true,
-  "debugThreadsStuck": true,
+  "debugChunkLoading": false,
+  "debugThreadsStuck": false,
   "disableEternalStarlightProgress": false,
   "skipTickingUnloadedFluxNetworks": false
 }

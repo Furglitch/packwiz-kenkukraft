@@ -58,7 +58,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a2336828abb6ac8b481ea4722bd7bd2afee72e769333cc459efcf352713adda9"
+hash = "10f8a9ca0dd737f2a0f46687f264c1fd84a8b99eaa018695357401dbc71a021e"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -347,6 +347,14 @@ hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "0967f5354048326b7a6ae91cd1beead5ecbd087133027a174c743be5dbdcf547"
+
+[[files]]
+file = "config/starterkit/descriptions/Default.txt"
+hash = "646d26946c86884831b2796fb54f1144e68bd4619913fcbe9195e1bfdafba015"
+
+[[files]]
+file = "config/starterkit/kits/Default.txt"
+hash = "00e8a7ab41cabf3fb8a311ce25af14bfd372d9204cd1a082cd6320a5f128b7e2"
 
 [[files]]
 file = "config/startinv.json"
@@ -3885,11 +3893,3 @@ metafile = true
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "fac0589a093ee63393db58dab25bd95624be5423ba232a12a4a9ca4f67407c3d"
 metafile = true
-
-[[files]]
-file = "starterkit/descriptions/Default.txt"
-hash = "646d26946c86884831b2796fb54f1144e68bd4619913fcbe9195e1bfdafba015"
-
-[[files]]
-file = "starterkit/kits/Default.txt"
-hash = "00e8a7ab41cabf3fb8a311ce25af14bfd372d9204cd1a082cd6320a5f128b7e2"

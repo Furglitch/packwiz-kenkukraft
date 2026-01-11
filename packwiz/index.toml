@@ -1005,11 +1005,6 @@ hash = "7fce973e30d15d219b6dd64f609a5019dce268e1dfd63f4fc0d338587925c015"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
-metafile = true
-
-[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "f0e21888cc48a0fc9edfe701c28b91e0d57e81d6d2384f3e4e3af2ff80d7fec2"
 metafile = true
@@ -1290,11 +1285,6 @@ hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
-metafile = true
-
-[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "f08869433cc78065b425ce127d9549dca7bc794eebea20481183457745545a05"
 metafile = true
@@ -1462,11 +1452,6 @@ metafile = true
 [[files]]
 file = "mods/crystcursed-dragon.pw.toml"
 hash = "fece5c9d8b82a49a84882c50edca2065f39a641d83047f89f835d4654c896735"
-metafile = true
-
-[[files]]
-file = "mods/ctm.pw.toml"
-hash = "e0b7b35b16b7bd9bd494a4e32c2b5058bb67fa4b0979e33551fe40247ea937ef"
 metafile = true
 
 [[files]]
@@ -1727,11 +1712,6 @@ metafile = true
 [[files]]
 file = "mods/extended-oritech.pw.toml"
 hash = "bf7c284a6f1f669cc4d1c0492a720fd19ff52360ae0dd4e5bc69ef8a656e2c44"
-metafile = true
-
-[[files]]
-file = "mods/extradelight.pw.toml"
-hash = "3ffab7dc15ea683bcb5617ab69429ad8e42496af63340a80f6743eda77a6a75d"
 metafile = true
 
 [[files]]
@@ -2355,23 +2335,8 @@ hash = "33ff6177b5e19c7ef130b6076ff6166a3994b511df06f3afcbc02af9212f29c8"
 metafile = true
 
 [[files]]
-file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "37e96fec653b3a8463d08eec8264fb8f97a9497b8a50723dd659c193a70f021f"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
-metafile = true
-
-[[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "749bf8f43a3b49b103685b1d1c8c39a2ca7bcd796818dc7aad226711760f0857"
-metafile = true
-
-[[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "ed2fb750e3b70e31756408d1d6b6007c6fb39e80091cbaa0e60117a434821473"
 metafile = true
 
 [[files]]
@@ -2691,7 +2656,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech-things.pw.toml"
-hash = "254a5c35d90a03ba4ac2537fa48aea12cde8c8ab00f39f606bdd429cf7464796"
+hash = "5aa76ca4e8fc41eb0c54992a2167ae3257ac5680a71696ce5ef24f8a08bb6f45"
 metafile = true
 
 [[files]]
@@ -2847,11 +2812,6 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "79e2f176e10b8a0d400842814aa48f26e7ba24cd1da1eef1dfdde8631c9843c3"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-chipped.pw.toml"
-hash = "3fc53d0db465b65b77424d1465b8a7e3969bdfbd34d4fb1f3add4230700bfd72"
 metafile = true
 
 [[files]]

@@ -215,10 +215,14 @@
 - Double Doors
 - FramedBlocks
 - Macaw's Suite
+    - Macaw's Bridges
+    - Macaw's Doors
+    - Macaw's Fences and Walls
+    - Macaw's Lights and Lamps
+    - Macaw's Stairs
+    - Macaw's Windows
 - Rechiseled
-	- Chipped
 	- Rechiseled: AE2
-	- Rechiseled: Chipped
 	- Rechiseled: Create
 - Scaffolding Drops Nearby
 - Sooty Chimneys
@@ -284,7 +288,6 @@
 - Croptopia Delight
 - Cultural Delights
 - Ender's Delight
-- Extra Delight
 - More Delight
 - My Nether's Delight
 - Ocean's Delight
@@ -547,7 +550,6 @@
 - Create: Randomize Filters
 - Create: Sound of Steam
 - Create: Stam1o Tweaks
-- Create: The Factory Must Grow
 - Create: Trading Floor
 - Create: Transmission!
 - Create: Ultimate Factory

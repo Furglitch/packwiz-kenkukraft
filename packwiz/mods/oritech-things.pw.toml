@@ -1,13 +1,13 @@
 name = "Oritech Things"
-filename = "oritechthings-0.0.39.jar"
+filename = "oritechthings-0.0.40.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "682db016008af33ca76d4545da2465390e398024"
+hash = "036ac225b624584e1c66adab5926dc32620ac181"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7436368
+file-id = 7445345
 project-id = 1166849

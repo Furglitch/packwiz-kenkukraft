@@ -66,16 +66,16 @@
 
 ### Inventory & Crafting
 - JEI
-- Just Enough Archaeology
-- Just Enough Breeding
-- Just Enough Effect Descriptions
-  - Moderately Enough Effect Descriptions
-- Just Enough Professions
-- Just Enough Resources
+  - Just Enough Archaeology
+  - Just Enough Breeding
+  - Just Enough Effect Descriptions
+    - Moderately Enough Effect Descriptions
+  - Just Enough Professions
+  - Just Enough Resources
 - More Enchantment Info
-- Not Enough Recipe Book
 - Nemo's Inventory Sorting
 
+- Not Enough Recipe Book
 ### Minimap & Navigation
 - JourneyMap
 	- FTB Chunks
@@ -578,8 +578,8 @@
 ## Trading
 
 ### Villager Trading
-- Trade Cycling
 - Farming for Blockheads
+- Trade Cycling
 
 ### Economy Systems
 

@@ -65,18 +65,15 @@
 - Startup Time Ⓒ
 
 ### Inventory & Crafting
-- EMI
-	- EMI Enchanting
-	- EMI Extra Integrations
-	- EMI Professions
-	- EMI: Create Schematics
-	- EMIffect
-	- JEI
-	- Just Enough Archaeology
-	- Just Enough Breeding
-	- Just Enough Effect Descriptions
-	- Just Enough Resources
-	- Not Enough Recipe Book
+- JEI
+- Just Enough Archaeology
+- Just Enough Breeding
+- Just Enough Effect Descriptions
+  - Moderately Enough Effect Descriptions
+- Just Enough Professions
+- Just Enough Resources
+- More Enchantment Info
+- Not Enough Recipe Book
 - Nemo's Inventory Sorting
 
 ### Minimap & Navigation
@@ -93,7 +90,6 @@
 
 ### Tooltips & Info
 - Durability Tooltip Ⓒ
-- Enchantment Descriptions
 - Equipment Compare Ⓒ
 - Loot Journal Ⓒ
 - Obscure Tooltips Ⓒ
@@ -158,10 +154,8 @@
 
 ### Armor
 - Advanced Netherite
-- Armory (RPG Series)
 
 ### Weapons
-- Arsenal (RPG Series)
 
 #### Melee Weapons
 - Axes Are Weapons
@@ -370,9 +364,7 @@
 	- StarbuncleMania
 - Iron's Spells 'n Spellbooks
 	- Alshanex's Familiars
-	- Cataclysm: Spellbooks
 	- Create: Wizardry
-	- Crystal Chronicles - Iron's Spells 'n Spellbooks
 	- Dark Doppelganger
 	- GTBC's Spellbooks - Iron's Spells Addon
 	- Iron's Gems 'n Jewelry

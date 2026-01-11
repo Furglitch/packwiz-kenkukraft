@@ -742,11 +742,6 @@ hash = "4f5e2e271bc23583ad0e46b951d69497ef744895491447597c77dcd9e6aaa01f"
 metafile = true
 
 [[files]]
-file = "mods/armory-rpg-series.pw.toml"
-hash = "2c9ae5acea28af7527a17d6c1e17a0b1d52e5acfd9f7b97ba3af515cff2bb288"
-metafile = true
-
-[[files]]
 file = "mods/ars-additions.pw.toml"
 hash = "967449279987357bbdd339b391dc4271bed832a161be61fcb964057af7943f72"
 metafile = true
@@ -807,11 +802,6 @@ hash = "1efcd69ae7422468b9cd3683db7a1f16547331fd8ee473f61dfd275276621934"
 metafile = true
 
 [[files]]
-file = "mods/arsenal-rpg-series.pw.toml"
-hash = "c8a0e45d299ff196985ace80b33547c0156ad94e280aedaa2314e800d66c6668"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "730498992eb3dad74a9bf9d9cd0cc104e4e205230bf76851f605c2d1a2b16bff"
 metafile = true
@@ -844,16 +834,6 @@ metafile = true
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "ad54fd8e6a6d7d4aceef3ca3311aab279053ae46d7303836fe6c8f5097db5c60"
-metafile = true
-
-[[files]]
-file = "mods/azurelib-armor.pw.toml"
-hash = "3edf2d2e08e81d62d7ddb8508a343a563e3e863946c5c616e9edbcb576ae9da9"
-metafile = true
-
-[[files]]
-file = "mods/azurelib.pw.toml"
-hash = "81e399350b1510d2c9dc82c0fdec1fe6a7b6b0bd69ad9ca6ffc139f6232ff21e"
 metafile = true
 
 [[files]]
@@ -1004,11 +984,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
-metafile = true
-
-[[files]]
-file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "91ee26814273ff3f2527f9a793cf29d3d18f31e1042d3a6703c4a888b919bcfe"
 metafile = true
 
 [[files]]
@@ -1492,11 +1467,6 @@ hash = "b53bfffa1bc7ca63fc5d757dee5068f43d967bbd667132c577135fd453ed510f"
 metafile = true
 
 [[files]]
-file = "mods/crystal-chronicles.pw.toml"
-hash = "02b3807ec14472960fd0f5bc2ca19506392d44bcc75b3f3767e852642a546de4"
-metafile = true
-
-[[files]]
 file = "mods/crystcursed-dragon.pw.toml"
 hash = "fece5c9d8b82a49a84882c50edca2065f39a641d83047f89f835d4654c896735"
 metafile = true
@@ -1672,38 +1642,8 @@ hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
 
 [[files]]
-file = "mods/emi-create-schematics.pw.toml"
-hash = "a43d0597e69a3f62bf9667eb7514d7819489dff8a48f016b27604d972d5a62d3"
-metafile = true
-
-[[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
-metafile = true
-
-[[files]]
-file = "mods/emi-professions-emip.pw.toml"
-hash = "754913a9771c3c3a550773c59d7d8c04536585b17ddc8b045ad3af9a11080cf9"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "08b5fe6bbf5980820af8addc37e5ee41e48756400d86f9f554222f27b3ccecb5"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "3e8a9ec415629e8eb74f8755b62cc9551fe2411ea14664507f865b26987c67c9"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
 
 [[files]]
@@ -1794,11 +1734,6 @@ metafile = true
 [[files]]
 file = "mods/extended-oritech.pw.toml"
 hash = "bf7c284a6f1f669cc4d1c0492a720fd19ff52360ae0dd4e5bc69ef8a656e2c44"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
 
 [[files]]
@@ -2164,6 +2099,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-mekanism-multiblocks.pw.toml"
 hash = "74021b36457eb31ff79c6dd0974b1d624c15fec5416833273b4f7a621946270f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "fc938f58fda1614b0bd4c88546b4c37c660777600b7b63479f1022f90b16f407"
 metafile = true
 
 [[files]]
@@ -2552,6 +2492,11 @@ hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
 
 [[files]]
+file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
+hash = "eb0d3f1248171d822c816f422d3c95c946d1f67c95c6802bfbfded50457b2479"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
 metafile = true
@@ -2579,6 +2524,11 @@ metafile = true
 [[files]]
 file = "mods/more-delight-forge.pw.toml"
 hash = "0b8eedf9c3e3e7da662a4f2678e8ce8551121999b1302a29b143aabf09d7dd37"
+metafile = true
+
+[[files]]
+file = "mods/more-enchantment-info.pw.toml"
+hash = "4abe7369da141f1d15ed5b44cc54b1e840d78d582eeb87c856d0cfb07ed241ac"
 metafile = true
 
 [[files]]
@@ -2944,11 +2894,6 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "c3bc546cd55b172df1c08fdad6dc70b33718a1e96238eb96512e0f1fb028a4b2"
-metafile = true
-
-[[files]]
-file = "mods/relics-rpg.pw.toml"
-hash = "dcd71ef78fdb45a674114f12ad2c48a40b5feecb7d8286a6d095c40263d435b9"
 metafile = true
 
 [[files]]

@@ -22,6 +22,7 @@
 	- URL: https://www.curseforge.com/minecraft/modpacks/more-fps-modpack
 
 ## Modpack Development
+- Akashic Tome
 - Crash Assistant Ⓒ
 - KubeJS
     - LootJS: KubeJS Addon
@@ -824,3 +825,4 @@
 - Solas Shader
 
 ## Data Packs
+- Project Resonance Patchouli Book Removal

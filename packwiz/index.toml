@@ -261,16 +261,9 @@ file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
 hash = "82cfa545080f3d596ec6498fcadaf36fbe449eec00e3e9a52d968d7e84c6ee28"
 
 [[files]]
-file = "config/paxi/datapacks/ProjectResonance-NoBook/data/ancientcity/loot_table/grant_book_on_first_join.json"
-hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
-
-[[files]]
-file = "config/paxi/datapacks/ProjectResonance-NoBook/pack.mcmeta"
-hash = "3e600a0aac8e1083486c11278395645cf893a025eebceb2fc332da914d588c08"
-
-[[files]]
-file = "config/paxi/datapacks/ProjectResonance-NoBook/pack.png"
-hash = "137d1207961effd2803ba4a7d50c84a878ecead6254a21e34f847f7093fb659d"
+file = "config/paxi/datapacks/project-resonance-book-removal.pw.toml"
+hash = "eeb766af413bde63ac4e6a7505f72caee4bbd8736e3b6417eb186e075c352c78"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"

@@ -600,7 +600,6 @@
 - Nature's Compass
 
 ## World Generation
-- Chunky
 
 ### Terrain
 - Continents

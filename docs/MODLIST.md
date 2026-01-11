@@ -126,7 +126,6 @@
 - Ambient Sounds 6 Ⓒ
 - Extreme Sound Muffler Ⓒ
 - Lazyboy's No Global Sounds Ⓢ
-- Sound Physics Remastered
 - Sounds Ⓒ
 	- More Sound Ⓒ
 

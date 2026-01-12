@@ -58,7 +58,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dfdcc23ff0d135aa63a50f806c58db3cc2fc20aabac8dc84a08bdc4cdb4820de"
+hash = "b4d0e772c5bcf5b04a51afa46f6c4b5246a98419eae2bc03ae44b2bade62db9d"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -270,28 +270,68 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds.json"
+hash = "0a8f03fc2e01e60f47bf6ca0a7aecf252253703ad1bee5d940679bd536749160"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/CREDITS"
+hash = "4c44e3351f0f7e9c46bf91860dc3bb0a668d1e592ad1931db334bafde233fd78"
+
+[[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg"
-hash = "c4625e02983d006dd1aed2e8f002ebb6c1d8d805d39221f5a50cd9082dc8e981"
+hash = "ef129cf5c56c8081048c7060d707cef9aff1347a38101fa6b48e9785f3b111e8"
 
 [[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg.source.txt"
-hash = "31b8273b3eb38e289daba2e8b9fa8c2de8f2ac7b75b305528d31bd33db82958d"
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/menu/menu1.ogg"
+hash = "e85e23a953a178e7ba86fc01d88061561db249991c3a02082ad439817f1dfeb4"
 
 [[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/credits.json"
-hash = "220258dd169da06be297eedcc2460c25c810371dae354b26f5048262ee0ce44a"
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/menu/menu2.ogg"
+hash = "8da8ee61daf7e87be16a5f780e4c912f588bb6e2f7a3682ee8e7e97bad06381c"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/menu/menu3.ogg"
+hash = "b632dbc649fab1d4721ddebf0c0b7f578f0e9c36223f7f0b63eec93edfba27bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/menu/menu4.ogg"
+hash = "3123c052f7e7696833f15296843b5a94f33402ea834b2f5fa2d8088ecfdf30ba"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/end.txt"
-hash = "4a0126875d416a40a16e8bb299ada667ab73083be427a1cf529040aaf1c165d3"
-
-[[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/postcredits.txt"
-hash = "55022cd988548561902d735ee0cc75b41cd8d455d30a08e12f578acc5aa3f632"
+hash = "84ab782e6c7ed6ee3eff9c89935f4e7faefadd7a72ffb5f6e34326c2ecd44b07"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"
 hash = "21835c51670aa1d527aa2b772f4d2a92ac307fe36ee8d2b4495114ecc8e138cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama.shader"
+hash = "48b2b7c09cf7dc92748aac4b906a9a3dd0e59624d4e3f0d1b5a105fd2d5554d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "287a32fe7af7b6031f8f9195fdaa0e7d0fcc44f2710a1bed8a71d80d68f91036"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "c8c98421a05972c3cbf13bd83421307ad2b8c3c3fd2df9adff5c9778aa01e9e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "56332a7f62e96a32d15189489f43417d62f742617e8dc1f4f50d0d2b9a85af9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "bc9ae43e62f744a38272010a0242c0be0373c06ad637d35f6411a7e09dc9e326"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "30cbe9a7f45da1beed4ee2e5177fb70e82561c16a8aa2ad719ad0d1f8254db47"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "42ee30bba5a76b2c8b0ae338ef914125d7b5c3d5be645c4c756a67e46a03ce85"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/edition.png"
@@ -299,19 +339,23 @@ hash = "1ae2fabb1fab3f34fa135c0425ff32f74021df6b58f49aca8604fa93cb749bb1"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "8ba28eb4dc41c81cb409c1bd07713ef49ab3c17433fa958ac5f8dbf339f70cc6"
+hash = "ec1271a2c33c74c3e7f6f690189ccde626f6049a6def7e5b27ea610197194159"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png"
-hash = "4d5fa9cce6853c8e693686fa316c95b5132ac3435a89f05fe7860066ca85682c"
+hash = "fc1a7320cd9f3a1e8cc778d44473d59577747e0366d899d2a1b2877fee2dd165"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.mcmeta"
-hash = "efa833d07c178da5a91d1cf17fb3079cc7dc779d166b43b5e6c117787d72894c"
+hash = "a39dbc2aebca498420b5c54b1523ed10c72fe8922d1d5e1dea60aade77a69d68"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.png"
-hash = "5e8bf688be8a7c6f1c471b6c5a2207119009e258dd933fa284a994f8181b2506"
+hash = "9f622aa692a16768b27c498657c7c14c25db3ed08d920d454d2bbf3ff20a0d47"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/pack_transparent.png"
+hash = "e8c08e7538465e2d770286c9f9f42128b7ab869e31340538b89b14401fa7951f"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -359,7 +403,7 @@ hash = "646d26946c86884831b2796fb54f1144e68bd4619913fcbe9195e1bfdafba015"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "795f5ef085cb54234bfedc9ca8bb5a453cd9933f91df311aa0efc13746b5eb09"
+hash = "c83e83ebeba6b26677d2780383b7a352b77f5610ee77a8b991e73d0b8cb93d07"
 
 [[files]]
 file = "config/startinv.json"

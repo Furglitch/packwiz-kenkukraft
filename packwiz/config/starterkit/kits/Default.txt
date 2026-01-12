@@ -5,7 +5,7 @@
 'offhand' : '',
 0 : '{count:1,id:"minecraft:wooden_axe"}',
 1 : '{count:1,id:"minecraft:wooden_pickaxe"}',
-2 : '{components:{"minecraft:written_book_content":{author:"Unknown",generation:3,pages:[{raw:‵"If you\‵re reading this, then I\‵ve failed. The bioweapon has reawakened, but perhaps my research can still help you survive."‵},{raw:‵"I managed to delay the outbreak with chemical suppressants I released before... before I couldn\‵t continue. The suppressants will degrade naturally, and when they do, the infected will rise. There\‵s no stopping it—only delaying the inevitable."‵},{raw:‵{"extra":[{"bold":true,"text":"30 days"}," before the infection fully reanimates its hosts. The creatures you encounter now are uninfected, but this won\‵t last."],"text":"You have approximately "}‵}],resolved:1b,title:{raw:"Note"}}},count:1,id:"minecraft:written_book"}',
+2 : '{components:{"minecraft:written_book_content":{author:"Unknown",generation:3,pages:[{raw:‵"If you\‵re reading this,\\nI\‵ve failed.\\n\\nThey had us make a bio-weapon, and released it... Perhaps my research can help you survive.\\n\\nI released chemical suppressants to delay the outbreak before I... before I couldn\‵t continue."‵},{raw:‵"But they won\‵t last forever, and the infected will rise again.\\n\\nYou have roughly 30 days before full reanimation.\\n\\nThe creatures you see now are clean, uninfected.\\nThis wont last.\\n"‵},{raw:‵"§lSurvive.§r"‵}],resolved:1b,title:{raw:"Note"}}},count:1,id:"minecraft:written_book"}',
 3 : '',
 4 : '',
 5 : '',

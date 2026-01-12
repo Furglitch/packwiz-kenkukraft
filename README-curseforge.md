@@ -1,8 +1,8 @@
 <p style="text-align:center">
-  <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft%20Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft" width="600">
+  <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft%20Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft: Infected" width="600">
   </br></br>
   <p style="text-align:center">
-    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.1.3&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.1.3"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.0"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
@@ -14,7 +14,7 @@
 
 ---
 
-**KenkuKraft is a comprehensive kitchen sink modpack built for playing with friends.** With over 500 mods, this pack gives you complete freedom to play however you want - whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or simply creating your dream base with friends.
+**KenkuKraft: Infected is a comprehensive kitchen sink modpack built for playing with friends.** With over 500 mods, this pack gives you complete freedom to play however you want - whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or simply creating your dream base with friends.
 
 **No forced progression. No recipe restrictions. No limitations.** This is YOUR world to shape. Automate everything with Create and Mekanism. Cast devastating spells with Ars Nouveau and Iron's Spells. Build thriving colonies with Minecolonies. Or just explore the vast, overhauled world filled with new dimensions, structures, and creatures.
 
@@ -47,7 +47,7 @@ With hundreds of decorative blocks and building tools, your creativity knows no 
 The world generation has been completely transformed. **[Continents](https://www.curseforge.com/minecraft/mc-mods/continents)** and **[Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)** create realistic, massive continents with diverse biomes. Discover countless structures and dungeons from **[Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)**, and **[Luki's Crazy Chambers](https://www.curseforge.com/minecraft/mc-mods/lukis-crazy-chambers)**. The **Nether** and **End** have been overhauled. Venture into new dimensions - explore **[The Aether's](https://www.curseforge.com/minecraft/mc-mods/the-aether)** floating islands or brave **[Arda's Sculk](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)** dimension. Encounter hundreds of new mobs and legendary bosses.
 
 #### ⚡ **Optimized Performance**
-Despite having 500+ mods, KenkuKraft is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
+Despite having 500+ mods, KenkuKraft: Infected is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
 
 For the full modlist, see [MODLIST.md](https://github.com/Furglitch/packwiz-kenkukraft/tree/main/docs/MODLIST.md)
 
@@ -68,9 +68,8 @@ There are two scripts included to start the server:
 
 
 #### System Requirements
-- **Minimum RAM:** 8GB
-- **Recommended RAM:** 10GB
-- **Recommended Server RAM:** 10GB+
+- **Recommended RAM:** 8GB
+- **Recommended Server RAM:** 8GB+
 - **Minecraft Version:** 1.21.1
 - **Mod Loader:** Neoforge 21.1.217
 

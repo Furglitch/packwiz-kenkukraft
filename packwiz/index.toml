@@ -58,7 +58,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "10f8a9ca0dd737f2a0f46687f264c1fd84a8b99eaa018695357401dbc71a021e"
+hash = "dfdcc23ff0d135aa63a50f806c58db3cc2fc20aabac8dc84a08bdc4cdb4820de"
 
 [[files]]
 file = "config/betterf3.toml"

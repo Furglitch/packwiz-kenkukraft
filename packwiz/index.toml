@@ -3472,16 +3472,6 @@ hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
-file = "mods/terralith-restoned.pw.toml"
-hash = "95c8b6156f2f6b9d7d138babfa2c3ec6223052a70224ee4d6eb67f58315a20ce"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
-metafile = true
-
-[[files]]
 file = "mods/time-on-display.pw.toml"
 hash = "c90a1540ee877c337ad39079fd2e36a16e6bf1b768f8598938baf0eb9dce0422"
 metafile = true

@@ -1,0 +1,39 @@
+{
+	autofocus_id: "47909E1A1D7A4075"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_nouveau"
+	group: "1C11D673425850BD"
+	icon: {
+		id: "ars_nouveau:archmage_spell_book"
+	}
+	id: "64F715D6B01A1866"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "47909E1A1D7A4075"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "680BE15ADD1D2E4F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "55F624A0E785DA87"
+			tasks: [{
+				id: "3480AA9808CC6949"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

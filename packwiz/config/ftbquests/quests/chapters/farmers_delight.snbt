@@ -1,0 +1,39 @@
+{
+	autofocus_id: "2F51EC5675EE5F9D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmers_delight"
+	group: "6D50590D3E0277A6"
+	icon: {
+		id: "farmersdelight:stove"
+	}
+	id: "7CF25A5016DDAD3D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "2F51EC5675EE5F9D"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "1C886A2F2690D087"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "43FFDB3E2BA5D18D"
+			tasks: [{
+				id: "330270F100FBCC7E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

@@ -1,0 +1,1212 @@
+{
+	autofocus_id: "2769A20F47086ED7"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "weapons__tools"
+	group: "21D8B170AEFCC120"
+	icon: {
+		id: "minecraft:diamond_axe"
+	}
+	id: "71949D909F88D487"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "0AE4149A882E6EA3"
+			tasks: [{
+				disable_toast: true
+				id: "58880AC69FE27A8F"
+				item: { count: 1, id: "minecraft:iron_sword" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "1A7AC35C30C82A94"
+			tasks: [{
+				disable_toast: true
+				id: "07C20D88BCBB599D"
+				item: { count: 1, id: "minecraft:diamond_sword" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1A7AC35C30C82A94"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "42F042E7614DBB56"
+			tasks: [{
+				disable_toast: true
+				id: "76E0A42034298A15"
+				item: { count: 1, id: "minecraft:netherite_sword" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["42F042E7614DBB56"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "71EA90BC8DB048EC"
+			tasks: [{
+				disable_toast: true
+				id: "3685ECCE5133C3B4"
+				item: { count: 1, id: "advancednetherite:netherite_iron_sword" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["71EA90BC8DB048EC"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "4BE057C2662B3FE3"
+			tasks: [{
+				disable_toast: true
+				id: "156EC2B44FAE097C"
+				item: { count: 1, id: "advancednetherite:netherite_gold_sword" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4BE057C2662B3FE3"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "1066FA417C78755F"
+			tasks: [{
+				disable_toast: true
+				id: "297EBF7E205C3714"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_sword" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1066FA417C78755F"]
+			disable_toast: true
+			id: "7A6A6D9B55641AB5"
+			tasks: [{
+				disable_toast: true
+				id: "1E2573B343FD3A87"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_sword" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			disable_toast: true
+			id: "2938DF6988269525"
+			tasks: [{
+				disable_toast: true
+				id: "3ACCFB352C114A0F"
+				item: { count: 1, id: "minecraft:iron_axe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "2637FE33DF3D7E8A"
+			tasks: [{
+				disable_toast: true
+				id: "7B2A2B4BF8C88278"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "1E7AA42B601F989F"
+			tasks: [{
+				disable_toast: true
+				id: "43C3E839A2AB4FFB"
+				item: { count: 1, id: "minecraft:iron_shovel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "2D3E9B35C02DF218"
+			tasks: [{
+				disable_toast: true
+				id: "1FC1825EE02B6F69"
+				item: { count: 1, id: "minecraft:iron_hoe" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "155AF6EF4777D70A"
+			tasks: [{
+				disable_toast: true
+				id: "682976ED73E2EFD0"
+				item: { count: 1, id: "minecraft:golden_axe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "2ED608CCE92B6F79"
+			tasks: [{
+				disable_toast: true
+				id: "0D07074591320D1A"
+				item: { count: 1, id: "minecraft:golden_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "60CE8969B5C1B473"
+			tasks: [{
+				disable_toast: true
+				id: "174CA8DE0B3D8BEA"
+				item: { count: 1, id: "minecraft:golden_shovel" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "3E78C4803217FFF1"
+			tasks: [{
+				disable_toast: true
+				id: "2CD3FA2389F27F0E"
+				item: { count: 1, id: "minecraft:golden_hoe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "31E38F24AAA16AB1"
+			tasks: [{
+				disable_toast: true
+				id: "350131B83769CE5D"
+				item: { count: 1, id: "minecraft:diamond_axe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "15149E881F27EDBF"
+			tasks: [{
+				disable_toast: true
+				id: "046A37C4A32BB884"
+				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "65B067EC69551CA0"
+			tasks: [{
+				disable_toast: true
+				id: "1259EF1404DBD529"
+				item: { count: 1, id: "minecraft:diamond_shovel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "4572C5F3BC288A09"
+			tasks: [{
+				disable_toast: true
+				id: "2EAC964B987932F0"
+				item: { count: 1, id: "minecraft:diamond_hoe" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["31E38F24AAA16AB1"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "458BE571A24FB535"
+			tasks: [{
+				disable_toast: true
+				id: "06601DAFFC128214"
+				item: { count: 1, id: "minecraft:netherite_axe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["15149E881F27EDBF"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "05A06DDEA53EF5E3"
+			tasks: [{
+				disable_toast: true
+				id: "3624511E0FFD5BB5"
+				item: { count: 1, id: "minecraft:netherite_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["65B067EC69551CA0"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "4A871F9F6A867D9B"
+			tasks: [{
+				disable_toast: true
+				id: "30DC5386E2E41F87"
+				item: { count: 1, id: "minecraft:netherite_shovel" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4572C5F3BC288A09"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "2C6DCD88679522E3"
+			tasks: [{
+				disable_toast: true
+				id: "3ECFB6069B99AFE9"
+				item: { count: 1, id: "minecraft:netherite_hoe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["458BE571A24FB535"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "23F76EE8CEC480F0"
+			tasks: [{
+				disable_toast: true
+				id: "3B45771C0C8B2C1E"
+				item: { count: 1, id: "advancednetherite:netherite_iron_axe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["05A06DDEA53EF5E3"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "017F9C508EA7FE7F"
+			tasks: [{
+				disable_toast: true
+				id: "3836D9C4BAC0AA0C"
+				item: { count: 1, id: "advancednetherite:netherite_iron_pickaxe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4A871F9F6A867D9B"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "21DA158E138DF06A"
+			tasks: [{
+				disable_toast: true
+				id: "47351E84F756790E"
+				item: { count: 1, id: "advancednetherite:netherite_iron_shovel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C6DCD88679522E3"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "1FAE44EC3101BCBE"
+			tasks: [{
+				disable_toast: true
+				id: "3358B16709030346"
+				item: { count: 1, id: "advancednetherite:netherite_iron_hoe" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["23F76EE8CEC480F0"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "641DDEBD23667E59"
+			tasks: [{
+				disable_toast: true
+				id: "4B866A218413A26E"
+				item: { count: 1, id: "advancednetherite:netherite_gold_axe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["017F9C508EA7FE7F"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "771B3550F0E54B99"
+			tasks: [{
+				disable_toast: true
+				id: "7053AF2AD73C7120"
+				item: { count: 1, id: "advancednetherite:netherite_gold_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["21DA158E138DF06A"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "75A9AFEB68A21438"
+			tasks: [{
+				disable_toast: true
+				id: "2D5D2E69523BAA26"
+				item: { count: 1, id: "advancednetherite:netherite_gold_shovel" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1FAE44EC3101BCBE"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "40E2B38C4D149DE6"
+			tasks: [{
+				disable_toast: true
+				id: "4040107358E2FDF0"
+				item: { count: 1, id: "advancednetherite:netherite_gold_hoe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["641DDEBD23667E59"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "754E21188490DB0E"
+			tasks: [{
+				disable_toast: true
+				id: "153B628B962DEA88"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_axe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["771B3550F0E54B99"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "5C6172FBE09280F7"
+			tasks: [{
+				disable_toast: true
+				id: "5EEB0BBF5C00E44A"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_pickaxe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["75A9AFEB68A21438"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "6CB5E302DB59B260"
+			tasks: [{
+				disable_toast: true
+				id: "4754F53CBF8F11DD"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_shovel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["40E2B38C4D149DE6"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "0CC7842199755AF0"
+			tasks: [{
+				disable_toast: true
+				id: "0560B67E1FC9458C"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_hoe" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["754E21188490DB0E"]
+			disable_toast: true
+			id: "39B35CF9693A0A2A"
+			tasks: [{
+				disable_toast: true
+				id: "66C97C8F0F17BB0D"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_axe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["5C6172FBE09280F7"]
+			disable_toast: true
+			id: "6A087F380AD96F48"
+			tasks: [{
+				disable_toast: true
+				id: "3CFF6DDFF5ECAF9D"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["6CB5E302DB59B260"]
+			disable_toast: true
+			id: "4A3FD7ACD645DA81"
+			tasks: [{
+				disable_toast: true
+				id: "47723398363D5BAA"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_shovel" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0CC7842199755AF0"]
+			disable_toast: true
+			id: "5DA4B66B57A7A920"
+			tasks: [{
+				disable_toast: true
+				id: "1FA1CCC215003565"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_hoe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 10.0d
+		}
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "2769A20F47086ED7"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "362C193B2BE8F2F5"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "56787FE5BE296174"
+			tasks: [
+				{
+					disable_toast: true
+					id: "5CB94D19AC02FF73"
+					item: { count: 1, id: "minecraft:iron_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "04B63AA9902AB3F1"
+					item: { count: 1, id: "minecraft:iron_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "48943CD1F6595965"
+					item: { count: 1, id: "minecraft:iron_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "21F1D26B2F3723B3"
+					item: { count: 1, id: "minecraft:iron_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "63A5298F65755DDE"
+					item: { count: 1, id: "minecraft:iron_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "42492E94027EAEAE"
+			tasks: [
+				{
+					disable_toast: true
+					id: "464DDCD0F6889D4F"
+					item: { count: 1, id: "minecraft:golden_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3109E68CFEB329E8"
+					item: { count: 1, id: "minecraft:golden_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "1CE4450CEDA8C21C"
+					item: { count: 1, id: "minecraft:golden_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0A8C7065BD6EAF99"
+					item: { count: 1, id: "minecraft:golden_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "155C7028D0C5AC9B"
+					item: { count: 1, id: "minecraft:golden_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			hide_dependent_lines: true
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "5CA0808F9868264D"
+			tasks: [
+				{
+					disable_toast: true
+					id: "30CD76CB6B8A965C"
+					item: { count: 1, id: "minecraft:diamond_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "2C5D1463EBDBA845"
+					item: { count: 1, id: "minecraft:diamond_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "79B3CE1D397E24F2"
+					item: { count: 1, id: "minecraft:diamond_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "471B439958822AA7"
+					item: { count: 1, id: "minecraft:diamond_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "393766E148984C6F"
+					item: { count: 1, id: "minecraft:diamond_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5CA0808F9868264D"]
+			hide_dependent_lines: true
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "4EFAF8DD0AC49822"
+			tasks: [
+				{
+					disable_toast: true
+					id: "6D31134D0E1E9C43"
+					item: { count: 1, id: "minecraft:netherite_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0F2174F6F274EEF9"
+					item: { count: 1, id: "minecraft:netherite_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0804D91B30CE8E15"
+					item: { count: 1, id: "minecraft:netherite_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3C93E0D42D539410"
+					item: { count: 1, id: "minecraft:netherite_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "08C87E7CB2CF282B"
+					item: { count: 1, id: "minecraft:netherite_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EFAF8DD0AC49822"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_iron_ingot"
+			}
+			id: "56A5B1EC0E26238B"
+			tasks: [
+				{
+					disable_toast: true
+					id: "77644BFCAEE45024"
+					item: { count: 1, id: "advancednetherite:netherite_iron_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "55332DC55F26591B"
+					item: { count: 1, id: "advancednetherite:netherite_iron_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "720235D59EF5099B"
+					item: { count: 1, id: "advancednetherite:netherite_iron_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0F5985D9F32533E0"
+					item: { count: 1, id: "advancednetherite:netherite_iron_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "6CE330E8539E94B2"
+					item: { count: 1, id: "advancednetherite:netherite_iron_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["56A5B1EC0E26238B"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_gold_ingot"
+			}
+			id: "746CB64C65CD9709"
+			tasks: [
+				{
+					disable_toast: true
+					id: "56A0DA42A92A95BB"
+					item: { count: 1, id: "advancednetherite:netherite_gold_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7F6BB418F5925714"
+					item: { count: 1, id: "advancednetherite:netherite_gold_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "384333342B8D5499"
+					item: { count: 1, id: "advancednetherite:netherite_gold_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5514EADDB57D99E4"
+					item: { count: 1, id: "advancednetherite:netherite_gold_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "68E5974DE67BC0D7"
+					item: { count: 1, id: "advancednetherite:netherite_gold_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["746CB64C65CD9709"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_emerald_ingot"
+			}
+			id: "59D3D025C3D11E34"
+			tasks: [
+				{
+					disable_toast: true
+					id: "6866217237512FCC"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "50CCDBBA89C07577"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "43A0A1FF0FADDA13"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "26588A198D0F39CC"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "6790F208AA008441"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["59D3D025C3D11E34"]
+			icon: {
+				id: "advancednetherite:netherite_diamond_ingot"
+			}
+			id: "11F41FA9148F5378"
+			tasks: [
+				{
+					disable_toast: true
+					id: "202F09DBF71B71AA"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7200BBCA092A3523"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "690F85827882FDF1"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "45B356BE2FCBCAC6"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "56033469B1806CFC"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["6EC888A46272DD02"]
+			disable_toast: true
+			icon: {
+				id: "pointblank:ammo556"
+			}
+			id: "113C764056A8B5D2"
+			tasks: [{
+				disable_toast: true
+				id: "23983713D2231F04"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(kenkukraft:filters_pointblank_ammo))", "minecraft:custom_name": "\"Point Blank Ammo\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6EC888A46272DD02"]
+			disable_toast: true
+			icon: {
+				id: "pointblank:holographic"
+			}
+			id: "371F5577BBDFE54C"
+			tasks: [{
+				disable_toast: true
+				id: "543F37DDD2706CFE"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(kenkukraft:filters_pointblank_attachments))", "minecraft:custom_name": "\"Point Blank Attachments\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6EC888A46272DD02"]
+			disable_toast: true
+			icon: {
+				id: "pointblank:mp5"
+			}
+			id: "1F06CEBA82A02303"
+			tasks: [{
+				disable_toast: true
+				id: "44ECD6FD69024EFC"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(kenkukraft:filters_pointblank_guns))", "minecraft:custom_name": "\"Point Blank Guns\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			id: "6EC888A46272DD02"
+			tasks: [{
+				disable_toast: true
+				id: "0279EFAEECDC55EB"
+				item: { count: 1, id: "pointblank:printer" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			id: "4E12D290A99C4C65"
+			tasks: [{
+				disable_toast: true
+				id: "58E71297EAB18FC1"
+				item: { count: 1, id: "minecraft:golden_sword" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:cobblestone"
+			}
+			id: "13384B5804FF4162"
+			tasks: [
+				{
+					disable_toast: true
+					id: "37E7F4371618C2E2"
+					item: { count: 1, id: "minecraft:stone_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "49A36B518632B1B7"
+					item: { count: 1, id: "minecraft:stone_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "54442DDB07F49341"
+					item: { count: 1, id: "minecraft:stone_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "21B88C6A3BC4E79F"
+					item: { count: 1, id: "minecraft:stone_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "61342692D4A59271"
+					item: { count: 1, id: "minecraft:stone_hoe" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_planks"
+			}
+			id: "4F0443D10EB13433"
+			tasks: [
+				{
+					disable_toast: true
+					id: "3C6312E29BD41A59"
+					item: { count: 1, id: "minecraft:iron_sword" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "51C1ED2B73C46AC7"
+					item: { count: 1, id: "minecraft:iron_axe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0CE6D4ED2A9B7635"
+					item: { count: 1, id: "minecraft:iron_pickaxe" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "695008B9873021E4"
+					item: { count: 1, id: "minecraft:iron_shovel" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "06EBFAA2ABCE5779"
+					item: { count: 1, id: "minecraft:iron_hoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "2718FEDF9F4EA273"
+			tasks: [{
+				disable_toast: true
+				id: "5153E37FBFD53E80"
+				item: { count: 1, id: "minecraft:stone_sword" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "31454A01FFC1635A"
+			tasks: [{
+				disable_toast: true
+				id: "535FD559056A9DF6"
+				item: { count: 1, id: "minecraft:wooden_sword" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "70CA8BFC1494B46D"
+			tasks: [{
+				disable_toast: true
+				id: "25500E50A82EF1D5"
+				item: { count: 1, id: "minecraft:stone_axe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "58F24095FE70CA4A"
+			tasks: [{
+				disable_toast: true
+				id: "7EB2F88D088C9EC0"
+				item: { count: 1, id: "minecraft:wooden_axe" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "6C142672747E6278"
+			tasks: [{
+				disable_toast: true
+				id: "64263B6A2A3FD2A8"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "7F90267588844BD4"
+			tasks: [{
+				disable_toast: true
+				id: "0095C9D91406D4D9"
+				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "7FEE3CA373D5C146"
+			tasks: [{
+				disable_toast: true
+				id: "39DBC545DEF810E6"
+				item: { count: 1, id: "minecraft:stone_shovel" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "0E83DB5115163C63"
+			tasks: [{
+				disable_toast: true
+				id: "2CAD1755142BE538"
+				item: { count: 1, id: "minecraft:wooden_shovel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "644575EA5527B9F3"
+			tasks: [{
+				disable_toast: true
+				id: "09BDC8AB7D5882F6"
+				item: { count: 1, id: "minecraft:stone_hoe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "7CC0894A1AC6A867"
+			tasks: [{
+				disable_toast: true
+				id: "43A8AFF58D8B942B"
+				item: { count: 1, id: "minecraft:wooden_hoe" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3EB917027A59CE5D"]
+			disable_toast: true
+			id: "02F6414D280868C7"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "3AD4B8B600E7B619"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(simplyswords:netherite_gear))", "minecraft:custom_name": "\"Netherite Weapons\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "3EB917027A59CE5D"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "40629E36AAE38AF1"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(simplyswords:diamond_gear))", "minecraft:custom_name": "\"Diamond Weapons\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			id: "1CC242D15E94396B"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "5DEAA30DF743BB74"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(simplyswords:gold_gear))", "minecraft:custom_name": "\"Golden Weapons\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "752E043285C57803"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "7250BB55362E6983"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(simplyswords:iron_gear))", "minecraft:custom_name": "\"Iron Weapons\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+	]
+}

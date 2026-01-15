@@ -11,3 +11,4 @@ packwiz/*.mrpack
 .pre-commit-config.yaml
 
 docs/ORIGINAL_*.md
+.probe

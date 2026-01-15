@@ -1,0 +1,36 @@
+{
+	autofocus_id: "220BDFBBD27B9E81"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farming__food"
+	group: "6D50590D3E0277A6"
+	id: "6606A85DA09AE1EE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "220BDFBBD27B9E81"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "0B8C1FD12E63DC7F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "23DA61BFDFBD8D1E"
+			tasks: [{
+				id: "27AE185759FD8403"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

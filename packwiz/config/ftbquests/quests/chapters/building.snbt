@@ -1,0 +1,331 @@
+{
+	autofocus_id: "464A821A02F91EC6"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "building"
+	group: ""
+	icon: {
+		id: "minecraft:scaffolding"
+	}
+	id: "59761B60303C905F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon: {
+				id: "minecraft:scaffolding"
+			}
+			id: "464A821A02F91EC6"
+			size: 4.0d
+			tasks: [{
+				disable_toast: true
+				id: "1350F93ACC6AD956"
+				item: { components: { "ftbfiltersystem:filter": "block()" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["464A821A02F91EC6"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:oak_planks"
+			}
+			id: "07407E8E84A9CCA6"
+			size: 3.0d
+			tasks: [{
+				disable_toast: true
+				id: "443F31E56C685EBC"
+				item: { components: { "ftbfiltersystem:filter": "block()" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["464A821A02F91EC6"]
+			disable_toast: true
+			icon: {
+				id: "mcwfurnitures:oak_modern_chair"
+			}
+			id: "1B49475F24292188"
+			size: 3.0d
+			tasks: [{
+				disable_toast: true
+				id: "483FDD351BD707C6"
+				item: { components: { "ftbfiltersystem:filter": "block()" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "57BBE8CD071C8A32"
+			tasks: [
+				{
+					disable_toast: true
+					id: "10D960FAB8BBDDBE"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:logs)", "minecraft:custom_name": "\"Logs\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0205F83CF3FFE1CD"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:planks))", "minecraft:custom_name": "\"Planks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:glass"
+			}
+			id: "67F5498DF9B9C4D2"
+			tasks: [{
+				disable_toast: true
+				id: "3119AD0DD7F314AB"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:glass_blocks)item_tag(c:glass_panes))", "minecraft:custom_name": "\"Glass Blocks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			id: "28A49033590DCD55"
+			tasks: [{
+				disable_toast: true
+				id: "3F897485DB50EE68"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:stones)item_tag(c:cobblestones))not(item_tag(c:cobblestones/infested))", "minecraft:custom_name": "\"Stone Blocks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			icon: {
+				id: "framedblocks:framed_cube"
+			}
+			id: "232F6659D4B3DAF5"
+			tasks: [
+				{
+					disable_toast: true
+					id: "284AA7E5D79AB624"
+					item: { count: 1, id: "framedblocks:framed_cube" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7E8D0234CF836B64"
+					item: { components: { "ftbfiltersystem:filter": "or(mod(framedblocks))not(or(item(framedblocks:framing_saw)item(framedblocks:powered_framing_saw)))block()", "minecraft:custom_name": "\"Framed Blocks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "66239A6D7483B35D"
+					item: { components: { "ftbfiltersystem:filter": "or(item(framedblocks:framing_saw)item(framedblocks:powered_framing_saw))", "minecraft:custom_name": "\"Framing Saw\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "3725C66184C25699"
+			tasks: [{
+				disable_toast: true
+				id: "7D3C058D16B27236"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_macaw_bridges)", "minecraft:custom_name": "\"Macaw's Bridges\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "6EB76C752CBDFFAD"
+			tasks: [{
+				disable_toast: true
+				id: "61F24DD725F252D5"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_macaw_fences)", "minecraft:custom_name": "\"Macaw's Fences and Walls\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "5E4EC044B5068D46"
+			tasks: [{
+				disable_toast: true
+				id: "7B61F7A702DDE827"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwwindows)block()", "minecraft:custom_name": "\"Macaw's Windows\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "55578BCA9D2BDB1E"
+			tasks: [{
+				disable_toast: true
+				id: "19B64319A01FDD1A"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_macaw_stairs)", "minecraft:custom_name": "\"Macaw's Stairs\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "78113FC5607C04A0"
+			tasks: [{
+				disable_toast: true
+				id: "296C2DF16B1C707D"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwdoors)block()", "minecraft:custom_name": "\"Macaw's Doors\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "05DFB8B441CE561D"
+			tasks: [{
+				disable_toast: true
+				id: "5BBE528824DF14FF"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_macaw_lights)", "minecraft:custom_name": "\"Macaw's Lights and Lamps\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			id: "20785A532B6367D0"
+			tasks: [{
+				disable_toast: true
+				id: "5CBE2064ED42EB3B"
+				item: { components: { "ftbfiltersystem:filter": "mod(rechiseled)block()", "minecraft:custom_name": "\"Rechiseled Blocks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			id: "459D273589DFED39"
+			tasks: [{
+				disable_toast: true
+				id: "0A070FAC446C798A"
+				item: { count: 1, id: "utilitarian:angel_block" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "321A1AB7AC260BDE"
+			tasks: [{
+				disable_toast: true
+				id: "629A3DD518214BD8"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(kenkukraft:filters_utilitarian_soliciting))", "minecraft:custom_name": "\"Trader Carpets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "7643ABEA75AFC4A0"
+			tasks: [{
+				disable_toast: true
+				id: "7175C49BCBDE1199"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwfurnitures)block()", "minecraft:custom_name": "\"Macaw's Furniture\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "022528218D090199"
+			tasks: [{
+				disable_toast: true
+				id: "222B280C392BB5D2"
+				item: { components: { "ftbfiltersystem:filter": "mod(another_furniture)block()", "minecraft:custom_name": "\"Another Furniture\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "59DE2B9A8DF1C9FA"
+			tasks: [{
+				disable_toast: true
+				id: "3ACC72C64E4E0FA7"
+				item: { components: { "ftbfiltersystem:filter": "mod(furnitury)block()", "minecraft:custom_name": "\"Furnitury\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "34CF09CA932FA4A4"
+			tasks: [{
+				disable_toast: true
+				id: "79E58A3EA732F47C"
+				item: { components: { "ftbfiltersystem:filter": "mod(sootychimneys)", "minecraft:custom_name": "\"Sooty Chimneys\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B49475F24292188"]
+			disable_toast: true
+			id: "2CD57F50212ACCC3"
+			tasks: [{
+				disable_toast: true
+				id: "6049C1AF01492133"
+				item: { count: 1, id: "strawstatues:straw_statue" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.0d
+		}
+	]
+}

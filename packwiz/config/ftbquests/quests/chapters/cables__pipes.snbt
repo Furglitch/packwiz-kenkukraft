@@ -1,0 +1,340 @@
+{
+	autofocus_id: "0DD3EAFC044CFB62"
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "cables__pipes"
+	group: "48A51F824460B56F"
+	icon: {
+		id: "pipez:item_pipe"
+	}
+	id: "5DD088861903C6EA"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "790495039E70A8F0"
+			tasks: [{
+				disable_toast: true
+				id: "3A98C1A0EB8E730E"
+				item: { count: 1, id: "prettypipes:pipe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["790495039E70A8F0"]
+			disable_toast: true
+			id: "11AE9B5901D81AA8"
+			tasks: [{
+				disable_toast: true
+				id: "2505FB9751CC687A"
+				item: { count: 1, id: "ppfluids:fluid_pipe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["285C1FB5C6A66044"]
+			disable_toast: true
+			id: "56C4549444A5C9AB"
+			tasks: [{
+				disable_toast: true
+				id: "7275244C4CD9ECD4"
+				item: { count: 1, id: "prettypipes:crafting_terminal" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["58372D39F9D8CAA4"]
+			disable_toast: true
+			id: "285C1FB5C6A66044"
+			tasks: [{
+				disable_toast: true
+				id: "7BCE86153A4D6540"
+				item: { count: 1, id: "prettypipes:item_terminal" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["58372D39F9D8CAA4"]
+			disable_toast: true
+			id: "504D46FA4E9A5029"
+			tasks: [{
+				disable_toast: true
+				id: "6CC921F88A2EB0A8"
+				item: { count: 1, id: "prettypipes:pressurizer" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["790495039E70A8F0"]
+			disable_toast: true
+			id: "58372D39F9D8CAA4"
+			tasks: [
+				{
+					disable_toast: true
+					id: "3A405728548E6A2E"
+					item: { count: 1, id: "prettypipes:blank_module" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "6EEE6AC89890A2EB"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_prettypipes_upgrades)not(item(prettypipes:blank_module))", "minecraft:custom_name": "\"Pretty Pipes Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["11AE9B5901D81AA8"]
+			disable_toast: true
+			id: "5F165DF4C7D440D0"
+			tasks: [
+				{
+					disable_toast: true
+					id: "11601EACEF9F1AA7"
+					item: { count: 1, id: "prettypipes:blank_module" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "35646A107A0DA47D"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_prettypipes_upgrades_fluid)not(item(prettypipes:blank_module))", "minecraft:custom_name": "\"Fluid Pipes Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "0EEE50CDF19AC112"
+			tasks: [{
+				disable_toast: true
+				id: "6EA57A33E2910CD4"
+				item: { count: 1, id: "pipez:item_pipe" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			disable_toast: true
+			id: "642AADDB1ECE901D"
+			tasks: [{
+				disable_toast: true
+				id: "1F3BA3E7ECA5407F"
+				item: { count: 1, id: "pipez:fluid_pipe" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4A22E75999092DF2"
+				"642AADDB1ECE901D"
+				"0EEE50CDF19AC112"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			id: "35EB398BBCA34A8E"
+			tasks: [{
+				disable_toast: true
+				id: "616894BEDCA42465"
+				item: { count: 1, id: "pipez:universal_pipe" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "55E5DFF182593689"
+			tasks: [{
+				disable_toast: true
+				id: "549A8E0E26E59046"
+				item: { count: 1, id: "pipez:gas_pipe" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			disable_toast: true
+			id: "4A22E75999092DF2"
+			tasks: [{
+				disable_toast: true
+				id: "4EEBCE22D8013498"
+				item: { count: 1, id: "pipez:energy_pipe" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "0DD3EAFC044CFB62"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "6462037F1AEDAD09"
+				item: { count: 1, id: "pipe_connector:pipe_connector" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "09D994210BB222EA"
+			tasks: [{
+				disable_toast: true
+				id: "7FD767BC0E3E2925"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(pipez:upgrades)", "minecraft:custom_name": "\"Pipez Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "cable_facades:facade"
+			}
+			id: "23CD143A2F7DF5FB"
+			tasks: [
+				{
+					disable_toast: true
+					id: "7C30E8FD12315650"
+					item: { count: 1, id: "cable_facades:facade" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7F212CBBA84C9423"
+					item: { count: 1, id: "cable_facades:facade_wrench" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "mekanism:ultimate_universal_cable"
+			}
+			id: "0B7BD79EE7374622"
+			tasks: [
+				{
+					disable_toast: true
+					id: "6AA6116CEB2A2814"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_mekanism_pipes_logistical)", "minecraft:custom_name": "\"Logistical Transporters\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "39AAE7312759FE07"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_mekanism_pipes_mechanical)", "minecraft:custom_name": "\"Mechanical Pipes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "1B957FAE7C1B376B"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_mekanism_pipes_pressurized)", "minecraft:custom_name": "\"Pressurized Tubes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "33C3E40A04615B5C"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_mekanism_pipes_thermodynamic)", "minecraft:custom_name": "\"Thermodynamic Conductors\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5C545DF9EACB3AA0"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_mekanism_pipes_universal)", "minecraft:custom_name": "\"Universal Cables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "ae2:fluix_smart_cable"
+			}
+			id: "54C85E8D425D9F38"
+			tasks: [
+				{
+					disable_toast: true
+					id: "37216BE06724AE75"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:glass_cable)", "minecraft:custom_name": "\"Glass Cables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "42FEE189A6C779CB"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:covered_cable)", "minecraft:custom_name": "\"Covered Cables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7756CE041526F852"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:smart_cable)", "minecraft:custom_name": "\"Smart Cables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "421D1C40619EC65C"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:covered_dense_cable)", "minecraft:custom_name": "\"Dense Covered Cables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "6F67EAD834FC63DC"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:smart_dense_cable)", "minecraft:custom_name": "\"Dense Smart Cables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "create:belt_connector"
+			}
+			id: "0A338217EF1657E0"
+			tasks: [
+				{
+					disable_toast: true
+					id: "1BB992CE5C3310E8"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_create_belts)", "minecraft:custom_name": "\"Belts\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7D6E5ECBDA376655"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:filters_create_pipes)", "minecraft:custom_name": "\"Pipes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.5d
+		}
+	]
+}

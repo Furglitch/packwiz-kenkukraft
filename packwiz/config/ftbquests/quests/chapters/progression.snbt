@@ -1,0 +1,416 @@
+{
+	autofocus_id: "1E18D1F47EE9687B"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "progression"
+	group: ""
+	icon: {
+		id: "minecraft:diamond_pickaxe"
+	}
+	id: "20A961268D1928BD"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["07407E8E84A9CCA6"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "0C921EB9D612C9D4"
+			tasks: [{
+				disable_toast: true
+				id: "17B8D7045C8C6219"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:logs)", "minecraft:custom_name": "\"Logs\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C921EB9D612C9D4"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "6F10E6E7A08718C2"
+			tasks: [{
+				disable_toast: true
+				id: "1B433B04754F75AC"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:player_workstations/crafting_tables))", "minecraft:custom_name": "\"Crafting Tables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F10E6E7A08718C2"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:wooden_pickaxe"
+			}
+			id: "18E3A69ABAB80688"
+			tasks: [{
+				disable_toast: true
+				id: "517F011BD0981548"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:pickaxes))", "minecraft:custom_name": "\"Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["18E3A69ABAB80688"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:furnace"
+			}
+			id: "1E18D1F47EE9687B"
+			tasks: [{
+				disable_toast: true
+				id: "1AC5FCB65B5709B0"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E18D1F47EE9687B"]
+			disable_toast: true
+			id: "4435606B50DA72C1"
+			tasks: [{
+				disable_toast: true
+				id: "722805547478D267"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:coals))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E18D1F47EE9687B"]
+			disable_toast: true
+			id: "479FA03EF88E57B5"
+			tasks: [
+				{
+					disable_toast: true
+					id: "4037FEDCB247D8D5"
+					item: { count: 1, id: "minecraft:blast_furnace" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3A2108EB2C0E8393"
+					item: { count: 1, id: "minecraft:smoker" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1E18D1F47EE9687B"]
+			disable_toast: true
+			icon: {
+				id: "ironfurnaces:iron_furnace"
+			}
+			id: "031DC8C2BB1214EC"
+			tasks: [
+				{
+					disable_toast: true
+					id: "046019BBDDE533AD"
+					item: { components: { "ftbfiltersystem:filter": "mod(ironfurnaces)block()not(item(ironfurnaces:heater))", "minecraft:custom_name": "\"Iron Furnaces\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5C843159012DF737"
+					item: { components: { "ftbfiltersystem:filter": "mod(ironfurnaces)not(or(block()))", "minecraft:custom_name": "\"Furnace Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1E18D1F47EE9687B"]
+			disable_toast: true
+			id: "52EC4607C33A9C5E"
+			tasks: [{
+				disable_toast: true
+				id: "42D4BEB04A8319B5"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52EC4607C33A9C5E"]
+			disable_toast: true
+			id: "6BEB6E3F4F9F6E7B"
+			tasks: [{
+				disable_toast: true
+				id: "0E5796C2EF31E036"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52EC4607C33A9C5E"]
+			disable_toast: true
+			id: "000FDC543FAC266A"
+			tasks: [{
+				disable_toast: true
+				id: "4E5CEBB1E20B9744"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["52EC4607C33A9C5E"]
+			disable_toast: true
+			id: "014B7220CA3FA090"
+			tasks: [{
+				disable_toast: true
+				id: "2D7359C63B8E211F"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["52EC4607C33A9C5E"]
+			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "supplementaries:textures/map/decorations/nether_portal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "202541923EFA7ED0"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				disable_toast: true
+				id: "0D71DEB084518FD3"
+				type: "dimension"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["202541923EFA7ED0"]
+			disable_toast: true
+			id: "743E5D826EF421E1"
+			tasks: [{
+				disable_toast: true
+				id: "64164BA18A057C55"
+				item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"000FDC543FAC266A"
+				"202541923EFA7ED0"
+			]
+			disable_toast: true
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "575B2C445B4C9167"
+			tasks: [
+				{
+					disable_toast: true
+					id: "5BED4C0984673362"
+					item: { count: 1, id: "minecraft:netherite_ingot" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "03289F62BE8DEAAD"
+					item: { count: 1, id: "minecraft:ancient_debris" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"014B7220CA3FA090"
+				"575B2C445B4C9167"
+				"743E5D826EF421E1"
+			]
+			disable_toast: true
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "62AF72D521EFABE9"
+			tasks: [{
+				disable_toast: true
+				id: "50800F100400BAFE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:netherite_helmet)item(minecraft:netherite_chestplate)item(minecraft:netherite_leggings)item(minecraft:netherite_boots)item(aether:netherite_gloves)item(minecraft:netherite_sword)item(minecraft:netherite_axe)item(minecraft:netherite_pickaxe)item(minecraft:netherite_shovel)item(minecraft:netherite_hoe))", "minecraft:custom_name": "\"Netherite Armor & Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52EC4607C33A9C5E"]
+			disable_recipe_mod: false
+			disable_toast: true
+			icon: {
+				id: "minecraft:sculk_catalyst"
+			}
+			id: "31C6823F4E945EC2"
+			tasks: [{
+				disable_toast: true
+				id: "237BD94432A1288E"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52EC4607C33A9C5E"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "7A4A07C79E7AA128"
+			tasks: [{
+				disable_toast: true
+				id: "0FD831AF65030EFA"
+				structure: "minecraft:stronghold"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6BC973FEF99DFDA8"]
+			disable_toast: true
+			id: "3318AC4DE74A0686"
+			tasks: [{
+				dimension: "sculks_of_arda:sculk_world"
+				disable_toast: true
+				icon: {
+					id: "minecraft:sculk"
+				}
+				id: "158696C6183E67CD"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["460D4773F335DC9E"]
+			disable_toast: true
+			id: "61DCD4DADE27B75C"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				disable_toast: true
+				icon: {
+					id: "minecraft:end_stone"
+				}
+				id: "64530417E5954FE4"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["31C6823F4E945EC2"]
+			disable_toast: true
+			id: "18CC4E42C557968F"
+			tasks: [{
+				disable_toast: true
+				id: "17AE3EB2A5FECAF0"
+				item: { count: 1, id: "sculks_of_arda:sculk_world" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"18CC4E42C557968F"
+				"31C6823F4E945EC2"
+			]
+			disable_toast: true
+			id: "6BC973FEF99DFDA8"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "minecraft:reinforced_deepslate"
+				}
+				id: "6FF3078C5F8573AA"
+				observe_type: 0
+				timer: 0L
+				to_observe: "sculks_of_arda:sculk_world_portal"
+				type: "observation"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7A4A07C79E7AA128"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "14A50C7ABC63B909"
+			tasks: [
+				{
+					disable_toast: true
+					icon: {
+						id: "minecraft:ender_eye"
+					}
+					id: "554046209DE82984"
+					type: "custom"
+				}
+				{
+					disable_toast: true
+					id: "3428C03D69520C90"
+					item: { components: { "ftbfiltersystem:filter": "or(mod(endrem))not(or(item(endrem:witch_pupil)item(endrem:undead_soul)))", "minecraft:custom_name": "\"Portal Eyes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"14A50C7ABC63B909"
+				"7A4A07C79E7AA128"
+			]
+			disable_toast: true
+			id: "460D4773F335DC9E"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "minecraft:end_portal_frame"
+				}
+				id: "0EC930451B8C4A87"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:end_portal"
+				type: "observation"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	autofocus_id: "12A5B78FC4F7B80C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "croptopia"
+	group: "6D50590D3E0277A6"
+	icon: {
+		id: "croptopia:frying_pan"
+	}
+	id: "5FC51B698616C472"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "12A5B78FC4F7B80C"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "35D2EC633CC38381"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "67F34FEF240D2537"
+			tasks: [{
+				id: "5D08C6CBB0B3D8C3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

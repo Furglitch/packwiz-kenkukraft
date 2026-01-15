@@ -1,0 +1,46 @@
+{
+	autofocus_id: "0BDF530897331095"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_aether"
+	group: "1500059CA7CB7A29"
+	id: "0B8427CE5EC2DB2B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "aether:item/miscellaneous/aether_portal_frame"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0BDF530897331095"
+			size: 3.0d
+			tasks: [{
+				dimension: "aether:the_aether"
+				disable_toast: true
+				icon: {
+					components: {
+						"ftbquests:icon": "aether:block/miscellaneous/aether_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "04456A5B68E8A822"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "3B2A63436BDDB8FA"
+			tasks: [{
+				id: "2A5017E2A1CAA870"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+}

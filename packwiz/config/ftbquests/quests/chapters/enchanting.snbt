@@ -1,0 +1,39 @@
+{
+	autofocus_id: "22BA30692016EBD1"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchanting"
+	group: "1C11D673425850BD"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "0186D42CA5F5D196"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "22BA30692016EBD1"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "104E7FD0AE11AADA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "214011711CDCCDEC"
+			tasks: [{
+				id: "77844F18FE617CF7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

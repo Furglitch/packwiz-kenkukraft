@@ -165,6 +165,130 @@ file = "config/ftbchunks-world.snbt"
 hash = "aea711c136c5035bf951d9d18649d25ce8ac8fe4758de08f989205948cc995ab"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "3c6577aa0d4f052c14739cd0f48fcc6b66e0feea1912e4f23a9126bea4c6e6a2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/accessories.snbt"
+hash = "4dc8f4a0f656529983ee25e59335468b079d17bed8083a79ad354636faeb816b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/applied_energistics.snbt"
+hash = "e88ed5e0ed23c223c89bc42f4fe00577f3a2f2f9eeb51e1580c78f340317a6fc"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/armor.snbt"
+hash = "bcc7606dcf03401c12a0b6f87c2a9573e4acd4ffa18a80cbf6df7aa74624a923"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
+hash = "5a7c65ac7a7e3b1c9fb61d6f0f1c2b726688d33642575904b39b7798e3924b17"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/basic_storage.snbt"
+hash = "88cdcb3514c5b975c4b2124bf3fb305e4d9a7dc7377d82278da93b23b79b399f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/building.snbt"
+hash = "d4be9e2f4e762066cb82da469be4eed72922f7601ce880541a4b60f7ccfe4fd4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/cables__pipes.snbt"
+hash = "a18ad7801af1e9f077a1871cbfb61159df6caea54fc5e6250c75062edbb0ce85"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "ccb8af512df163917e871e459c3d8cdd9828a0d52b03d9e13b91b54ab0f3e8ca"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_addons.snbt"
+hash = "b22d49d436e714093c409289f55d991ae5c4c58440957ccd8e426722b2db7bd9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/croptopia.snbt"
+hash = "05c19684414c14b460bade03f0b1fd9366a77887a7e8a355d6f7dc43b02851d7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/dragons.snbt"
+hash = "55bccd499084a2e7ddc23b84669529af69616b55363d188fc7fecb585bf4bc25"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/enchanting.snbt"
+hash = "1550ec2826b15a483ca9167dd5fc3db30ef4700067de542405f68a02e9ea294c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
+hash = "da5844aa4642a38a2e9e76534233085c86cce07ea1ad84710417d8a80f5aa76e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farming__food.snbt"
+hash = "4d22b6989867fa8d9e82717745e2abfa00ddd5007daeb08fed4acda1b457e463"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/foes.snbt"
+hash = "f39abf2e1ec71b464b08fde59b8fd0b91d86b4a4c89afe68bd79e4697bf6424d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/friends.snbt"
+hash = "f482bce24324878e477e3844448f6d346775e3921f484b8627d6c355a7899bb8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/gear.snbt"
+hash = "42fe7c9d8c7e759699e14425767e53cd77981cfbf1c1631c6f359eb91b7feab9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/irons_spells.snbt"
+hash = "85aafd72e28d28799494cbc22f1753dc50abfe7cc9de39db4d825462c6bcb15c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/kenkukraft.snbt"
+hash = "9f58e275d754202f907a41a23cf41f625104c1ffdcc0671187a01d899a4d094b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "a68a4ab977cc770833f6b73df9e527c0b85a259de56b36f497704abce9df0d44"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/oritech.snbt"
+hash = "3f2c912f78b8120583c085776f61e1861b641e2e684f1f4c256964d5e458ffd5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/progression.snbt"
+hash = "332c40ebe7155b647b453e7b55d8f41980cfc04fc895dd2ceca6089cc8a85983"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/spore.snbt"
+hash = "69c270fd9d24412f5469a9a405f06e75ea19f7e28e8cdf1bb43d0b1ef05f0e98"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_aether.snbt"
+hash = "f52c8a9da566fb58cf07830ceb5b2fe302eaa103937ecfbcef6010dadc9e9c02"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_deep_dark.snbt"
+hash = "4d53ea61aeccb72494a3a6e23cb2183f3240a6acdc144fb224f9010c9a117a92"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/toms_simple_storage.snbt"
+hash = "0cf24cb082b1ba95a1e68fb190dc78674e848d66954600407fefa07bd16430bb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/transportation.snbt"
+hash = "ee6b9e922ab59ce01b4af664d6cc4c98275eb717986773bf0735db74d52e7dec"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/weapons__tools.snbt"
+hash = "7943724b9c5b1af25d2be41ec2fdbe63f47683835f214d143ed144dae3706159"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "514bf559907a6948e42f645148460b4bf47c0c8dc9d059fcf67a21216af0cf4b"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
 
@@ -261,13 +385,97 @@ file = "config/packed_packs/profiles/resourcepacks/kenku_default.profile.json"
 hash = "82cfa545080f3d596ec6498fcadaf36fbe449eec00e3e9a52d968d7e84c6ee28"
 
 [[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/colossal.json"
+hash = "2c748fb992dcef9cda81a0f520b921e5f199f85df6151efabc5a61d18f4b06c7"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/farming.json"
+hash = "0d6dd878abe61932bf7c4177d50037bc74f005153c3253da5b47b1d048dda6fa"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/giant.json"
+hash = "d37b5004288f628d694fb5125d93eadb6731dfa8f5e5aec1d75cd1ad01354e0a"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/large.json"
+hash = "4c463b79d8bc174cd501a02604783e32611e954430f8f475818ac997862701d0"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/normal.json"
+hash = "1aec342de44f997fcabe7b09d5dba14080137ade65779f41dbdf48660933d577"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/small.json"
+hash = "7c4f9267bf8dd6697e38c08132f364c95cfd6c85ead29ab5351588720026b6e6"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/compactmachines/room_templates/tiny.json"
+hash = "afd82b64178bf2601c42ebb92c44013b53a965ce77b4aec0f0fe4ed265404693"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_colossal.json"
+hash = "93055065a34444b2779f0d572ea29e4bb61beea96bb7478b2554f247f3b473aa"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_farming.json"
+hash = "12a365a279e7081789b7bffe5776a7b52a3d7a69525ba152ada39647a6058d88"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_giant.json"
+hash = "305f8966c1524ec7424c72f884dfa1640563487e4004efb87994883e63f85021"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_large.json"
+hash = "b0e362a83e555a067860bb99f681ca7d94d060240c7582bea1cf919a71eef783"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_normal.json"
+hash = "a90ab29b7be62d73af77a388448082e866bcd500c81ac5998ec965ccae0c34a4"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_small.json"
+hash = "28b3d7ab1d182e3dfd278ed49998681d428887cbf29f64af7d823b8ee21a4fa5"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/data/compactmachines/recipe/new_machine_tiny.json"
+hash = "4642f835cebdc5a12fdd60dd983c16737388a6b8a8c7c83ef53897bfb1728035"
+
+[[files]]
+file = "config/paxi/datapacks/KenkuKraft CompactMachines/pack.mcmeta"
+hash = "a39dbc2aebca498420b5c54b1523ed10c72fe8922d1d5e1dea60aade77a69d68"
+
+[[files]]
 file = "config/paxi/datapacks/project-resonance-book-removal.pw.toml"
 hash = "eeb766af413bde63ac4e6a7505f72caee4bbd8736e3b6417eb186e075c352c78"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/compactmachines/lang/en_us.json"
+hash = "06d5d7232893a4cbb5bf4ab53e44da5b1a58ecfa295debb2019706a8b039a3c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/arsnouveau.png"
+hash = "43fdc66d01103d4c9ba82b1e9365ab3785b6e30fe0f1a67fe5e5d24cf912c682"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/artifacts.png"
+hash = "176d0ff371b0f561f58cbc40c2dd6ffb0304a1ee0a6129fc71c1d925dbcfbe12"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/create.png"
+hash = "bf1ae725bb6f0a7f0a66194dd6836e75115e6f4eec111cc143341b372cc7f44c"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/oritech.png"
+hash = "37c754aae7e6a6122080ed92f2bb6b05643582fc34296d7e11acabc98052823e"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/relics.png"
+hash = "0f2b9f3cbfd1517f06876cd41a16cdddfb4c37559346341182cc635d776617ab"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/spore.png"
+hash = "8b9972658fd3b4a459660b96d23b0b17d6982e08a3df6651d3919c9845a3ef4c"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds.json"
@@ -495,7 +703,7 @@ hash = "53bfe7670049bb0fd44e37994669b588ba09dea29c536534d1947704cd922428"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "542c9051469608d42f2bccb5d7be6bd6585ef43bc817a13bf18d693861c2a8d7"
+hash = "535ca4fc5f7f892c53eaeb8067a65097194b97f2f76a8b8ceb31711c2b3f6f91"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"
@@ -552,6 +760,46 @@ hash = "559108b430776b44994617fd88e2e25d400446a7f142e18bfd7cd448b758d03f"
 [[files]]
 file = "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
 hash = "56a2ce3a2c347d543a4c53e48878c369b3c5cac3ab4b0da06913e2e92f9e4297"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/filters/buildinggadgets.js"
+hash = "f6965e659a8affe092fe3ed5528211f62d77db54555f1740652f3fdaf6427116"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/filters/macaws.js"
+hash = "0f1d916ae20aff0a116b347083c3067314e8f21a01315cd675dadae0424836ce"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/filters/pipes.js"
+hash = "099c8e04512de5e26933842e2334b11bf68dd6d9d70bf9cd31049fa58442a75e"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/filters/pointblank.js"
+hash = "e38d0f08dc54f8a183dab3c6f8a4b34f08364bef6c634db333f2d91c13868657"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/filters/utilitarian.js"
+hash = "99d557a742cf2acb50a99d174367bb0aacf997b8443f878b259641127fa12929"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/tasks/dragonsurvival.js"
+hash = "ac9da70f68607d6ee3d6a948a5add18ccf4cccbe4b8739fee98c4be50f32122e"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/tasks/endrem.js"
+hash = "e7923f98fd4781911d2dfa6e42e9a7abd106a83806ca7d7dc601bdcc67451404"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/tasks/spore-days.js"
+hash = "85cd00f3767760c41de0a1e5dbdd57c250dd5b37a21050323a2d2bf243ba63ff"
+
+[[files]]
+file = "kubejs/server_scripts/ftbquests/tasks/spore-status.js"
+hash = "287badb5997e6404c5e5ead462b9a8eb85af8dd91442d5f83523be14bfad0886"
+
+[[files]]
+file = "kubejs/server_scripts/infodump.js"
+hash = "c3383d4004dcea9c5f3f91c2070d79977efa9d135578e9945bb470e12f94c08c"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -1906,6 +2154,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3b077d8a8344ab91ca90551a781ad1eadc99c119a387ce7481e141322b6b8951"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "35012b26cae6348c3385cf8f0a14e47590b6f82c25a50cf56de0df3ac46bbbfb"
 metafile = true
 
 [[files]]

@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
 lastServer:
-lang:en_us-mod
+lang:en_us
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0

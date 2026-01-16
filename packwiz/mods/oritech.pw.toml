@@ -1,13 +1,13 @@
 name = "Oritech"
-filename = "oritech-neoforge-1.21.1-1.0.0-rc1.jar"
+filename = "oritech-neoforge-1.21.1-1.0.0-rc2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5034447257a73760a03cf4e5ff6379b90e304416"
+hash = "635f41860302077434924c37b0008c9da4fd641c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7434653
+file-id = 7465437
 project-id = 1030830

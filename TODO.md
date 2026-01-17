@@ -1,35 +1,28 @@
 # TODO List
 
-- [ ] Compact Machines
+- [X] Compact Machines
 
-- [ ] Cooking for Blockheads
+- [X] Cooking for Blockheads
 
-- [ ] Farmer's Delight
-    - [ ] Aquaculture Delight
-    - [ ] Arbitrary Delight
-    - [ ] Ars Nouveau's Flavors and Delight
-    - [ ] Barbeque's Delight
-    - [ ] Brewin' And Chewin'
-    - [ ] Cocktails Delight
-    - [ ] Crate Delign
-        - [ ] Crate Delight: Croptopia
-    - [ ] Create: Central Kitchen
-    - [ ] Create: Food
-    - [ ] Create: Integrated Farming
-    - [ ] Create: Slice & Dice
-    - [ ] Croptopia Delight
-    - [ ] Cultural Delights
-    - [ ] Ender's Delight
-    - [ ] More Delight
-    - [ ] My Nether's Delight
-    - [ ] Ocean's Delight
-    - [ ] Rustic Delight
-    - [ ] Veggies Delight
-    - [ ] Storage Delight
-- [ ] Farmer's Cutting
-
-- [ ] Croptopia
-    - [ ] Croptopia Delight
+- [X] Farmer's Delight
+    - [X] Aquaculture Delight (aquaculturedelight)
+    - [X] Arbitrary Delight (arbitrarydelight)
+    - [X] Ars Nouveau's Flavors and Delight (arsdelight)
+    - [X] Barbeque's Delight (barbequesdelight)
+    - [X] Brewin' And Chewin' (brewinandchewin)
+    - [X] Cocktails Delight (cocktailsdelight)
+    - [ ] Crate Delight (cratedelight)
+    - [X] Create: Food (createfood)
+    - [X] Create: Integrated Farming (create_integrated_farming)
+    - [X] Cultural Delights (culturaldelights)
+    - [ ] Ender's Delight (endersdelight)
+    - [X] More Delight (moredelight)
+    - [X] My Nether's Delight (mynethersdelight)
+    - [X] Ocean's Delight (oceansdelight)
+    - [ ] Rustic Delight (rusticdelight)
+    - [ ] Veggies Delight (veggiesdelight)
+-
+- [X] Croptopia
 
 - [ ] Vanilla Enchanting
     - [ ] Enchanting Infuser
@@ -125,12 +118,12 @@
     - [ ] Mekanism Tools
     - [ ] More Mekanism Processing
 
+- [ ] Refine Oritech Quests
+
 - [ ] Oritech Addons
     - [ ] Create Oritech Compat
     - [ ] Extended Oritech
     - [ ] Oritech Tings
-
-- [ ] Refine Oritech Quests
 
 
 ```
@@ -144,3 +137,18 @@ EntityEvents.spawned('spore:*', event => {
     }
 })
 ```
+- [ ] Replace 'Mob Control' with above script
+- [ ] Move KubeJS scripts to Smart Filters (after mod update)
+- [ ] Update 'Update' workflow to 3 days instead of 5
+- [ ] Disable /locate in favor of compasses
+- [ ] Update splashes
+- [ ] Create Issue Templates
+
+## Mods to Consider Adding
+- [ ] Modpack Update Checker
+- [ ] Figura
+- [ ] Customizable Player Models
+- [ ] Drippy Loading Screen
+- [ ] CreateJS
+- [ ] Ponder for KubeJS
+- [ ] Create Easy Stone Generator <- Replacing Create Cobblestone

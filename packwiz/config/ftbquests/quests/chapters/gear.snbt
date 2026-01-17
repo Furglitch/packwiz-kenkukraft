@@ -121,13 +121,23 @@
 		}
 		{
 			disable_toast: true
+			icon: {
+				id: "compactmachines:personal_shrinking_device"
+			}
 			id: "6E63C73551BF3EDD"
-			tasks: [{
-				disable_toast: true
-				id: "521327F775C40741"
-				item: { count: 1, id: "compactmachines:personal_shrinking_device" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					disable_toast: true
+					id: "521327F775C40741"
+					item: { count: 1, id: "compactmachines:personal_shrinking_device" }
+					type: "item"
+				}
+				{
+					id: "01D50C7C6281B45E"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(compactmachines:machine))", "minecraft:custom_name": "\"Compact Machines\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: 1.5d
 		}

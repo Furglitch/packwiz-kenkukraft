@@ -18,8 +18,7 @@ function dumpModRegistries(modId, server) {
     const Registries = Java.loadClass('net.minecraft.core.registries.Registries');
     const registryAccess = server.registryAccess();
     
-    dumpRegistry(modId, registryAccess, Registries.ITEM, 'items');
-    dumpRegistry(modId, registryAccess, Registries.BLOCK, 'blocks');
+    dumpCombinedRegistry(modId, registryAccess, Registries.ITEM, Registries.BLOCK, 'items_blocks');
     dumpRegistry(modId, registryAccess, Registries.ENTITY_TYPE, 'entities');
     dumpRegistry(modId, registryAccess, Registries.BIOME, 'biomes');
     dumpRegistry(modId, registryAccess, Registries.MOB_EFFECT, 'status_effects');
@@ -41,6 +40,31 @@ function dumpRegistry(modId, registryAccess, registryKey, filename) {
             }
         });
         
+        if (entries.length > 0) {
+            JsonIO.write(`kubejs/${modId}_${filename}.txt`, entries);
+            console.log(`Exported ${entries.length} ${filename} from ${modId}`);
+        } else {
+            console.log(`No ${filename} found for ${modId}`);
+        }
+    } catch (e) {
+        console.log(`Could not dump ${filename}: ${e}`);
+    }
+}
+
+function dumpCombinedRegistry(modId, registryAccess, registryKeyA, registryKeyB, filename) {
+    try {
+        let entries = [];
+
+        [registryKeyA, registryKeyB].forEach(regKey => {
+            let targetRegistry = registryAccess.registryOrThrow(regKey);
+            targetRegistry.keySet().forEach(key => {
+                const entryId = key.toString();
+                if (entryId.startsWith(modId + ':') && entries.indexOf(entryId) === -1) {
+                    entries.push(entryId);
+                }
+            });
+        });
+
         if (entries.length > 0) {
             JsonIO.write(`kubejs/${modId}_${filename}.txt`, entries);
             console.log(`Exported ${entries.length} ${filename} from ${modId}`);

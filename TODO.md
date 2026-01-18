@@ -142,7 +142,7 @@ EntityEvents.spawned(event => {
     - [X] Bosses
 
 ## Mods to Consider Adding
-- [ ] Modpack Update Checker
+- [X] Modpack Update Checker
 - [X] Figura
 - [X] Customizable Player Models
 - [ ] Drippy Loading Screen

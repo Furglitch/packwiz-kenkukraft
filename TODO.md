@@ -133,7 +133,7 @@ EntityEvents.spawned(event => {
 - [X] Replace 'Mob Control' with above script
 - [ ] Move KubeJS scripts to Smart Filters (after mod update)
 - [X] Update 'Update' workflow to 3 days instead of 5
-- [ ] Disable /locate in favor of compasses
+- [X] Disable /locate in favor of compasses
 - [ ] Update splashes
 - [ ] Create Issue Templates
 - [ ] CarryOn Disabling

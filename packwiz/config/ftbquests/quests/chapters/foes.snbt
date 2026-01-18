@@ -1145,13 +1145,75 @@
 			y: 11.5d
 		}
 		{
-			id: "35F587EE1D601C9F"
+			id: "0DB1689F2E4EF7DB"
+			size: 1.5d
 			tasks: [{
-				id: "7885ACB4F1EB53AD"
-				item: { count: 1, id: "minecraft:oak_log" }
-				type: "item"
+				entity: "cataclysm:ignited_revenant"
+				id: "2AE6145616231B1A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 13.5d
+		}
+		{
+			id: "6C24D1994CEA351D"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "432D8932459CB53D"
+				type: "kill"
+				value: 1L
 			}]
 			x: -1.0d
+			y: 13.5d
+		}
+		{
+			id: "07075BA70D3D7921"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "2899F2F5E6B57C5A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 13.5d
+		}
+		{
+			id: "74D463A1EC4DF76D"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "40B3EFC86188B22A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			id: "313C25C51965902F"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "2769305CC6331C92"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 13.5d
+		}
+		{
+			id: "169C5077882F6649"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				id: "6B108F57F5E46306"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
 			y: 13.5d
 		}
 	]

@@ -29,6 +29,7 @@
 		}
 		{
 			id: "0BB9E16B4AA4C91D"
+			optional: true
 			tasks: [{
 				id: "01721CCD9C8745E6"
 				item: { count: 1, id: "tradingpost:trading_post" }
@@ -41,6 +42,7 @@
 			dependencies: ["3A0D94D14FFA33B2"]
 			hide_until_deps_complete: true
 			id: "24A87FB8930BD9B8"
+			optional: true
 			tasks: [{
 				id: "6FEA5D724EEDDF8C"
 				item: { count: 1, id: "trading_floor:trading_depot" }
@@ -51,6 +53,7 @@
 		}
 		{
 			id: "2286399E10668FD3"
+			optional: true
 			tasks: [{
 				id: "4FDD59B665208FC3"
 				item: { count: 1, id: "barteringstation:bartering_station" }
@@ -61,6 +64,7 @@
 		}
 		{
 			id: "21F806D4B526E0F6"
+			optional: true
 			tasks: [{
 				id: "57D1D0CAC10EDB35"
 				item: { count: 1, id: "farmingforblockheads:market" }
@@ -71,6 +75,7 @@
 		}
 		{
 			id: "72F1441F7CE76230"
+			optional: true
 			tasks: [{
 				id: "75EF3671F8C94078"
 				item: { count: 1, id: "vendingblock:vending_block" }
@@ -227,6 +232,7 @@
 		}
 		{
 			id: "1B49C34D2BE233BA"
+			optional: true
 			tasks: [{
 				id: "69F24C17032CA216"
 				item: { count: 1, id: "morevillagers:gardening_table" }
@@ -237,6 +243,7 @@
 		}
 		{
 			id: "66937DE7C119AEF2"
+			optional: true
 			tasks: [{
 				id: "195589E410DB40D2"
 				item: { count: 1, id: "morevillagers:hunting_post" }
@@ -247,6 +254,7 @@
 		}
 		{
 			id: "614A1EFED3B2DC28"
+			optional: true
 			tasks: [{
 				id: "6BE81951CD299882"
 				item: { count: 1, id: "morevillagers:purpur_altar" }
@@ -257,6 +265,7 @@
 		}
 		{
 			id: "613C488E0C148F52"
+			optional: true
 			tasks: [{
 				id: "1809F152BAAF4E25"
 				item: { count: 1, id: "morevillagers:mining_bench" }
@@ -267,6 +276,7 @@
 		}
 		{
 			id: "6479FEBC76A79A59"
+			optional: true
 			tasks: [{
 				id: "57D51343384E3386"
 				item: { count: 1, id: "morevillagers:decayed_workbench" }
@@ -277,6 +287,7 @@
 		}
 		{
 			id: "2CCF053832A3CB10"
+			optional: true
 			tasks: [{
 				id: "2207D80866C4568B"
 				item: { count: 1, id: "morevillagers:oceanography_table" }
@@ -287,6 +298,7 @@
 		}
 		{
 			id: "256EB1EA64A3CEEA"
+			optional: true
 			tasks: [{
 				id: "7E0F6A16CCE2CA84"
 				item: { count: 1, id: "morevillagers:woodworking_table" }
@@ -297,6 +309,7 @@
 		}
 		{
 			id: "3A49F2E48EE017E9"
+			optional: true
 			tasks: [{
 				id: "5D1DB7F06DD46261"
 				item: { count: 1, id: "morevillagers:gilded_station" }
@@ -307,6 +320,7 @@
 		}
 		{
 			id: "4F0FFBE46C65510C"
+			optional: true
 			tasks: [{
 				id: "21518B1BAD8C6F67"
 				item: { count: 1, id: "morevillagers:chiller" }
@@ -317,6 +331,7 @@
 		}
 		{
 			id: "35CAC3C7D57F51B2"
+			optional: true
 			tasks: [{
 				id: "24E87002683B29B9"
 				item: { count: 1, id: "morevillagers:blueprint_table" }
@@ -327,6 +342,7 @@
 		}
 		{
 			id: "0DAD96D84BB49BD4"
+			optional: true
 			tasks: [{
 				id: "563835ECCFA09589"
 				item: { count: 1, id: "pointblank:workstation" }
@@ -337,6 +353,7 @@
 		}
 		{
 			id: "3CD35ED27BC45664"
+			optional: true
 			tasks: [{
 				id: "4F4E192051623E76"
 				item: { count: 1, id: "biomeswevegone:foragers_table" }
@@ -347,6 +364,7 @@
 		}
 		{
 			id: "3F2A62425E272FCA"
+			optional: true
 			tasks: [{
 				id: "744A79F3FA413608"
 				item: { count: 1, id: "farmersdelight:cooking_pot" }
@@ -357,6 +375,7 @@
 		}
 		{
 			id: "6A2FEA8B9DACA19D"
+			optional: true
 			tasks: [{
 				id: "4A128E0F8914D559"
 				item: { count: 1, id: "farmersdelight:skillet" }
@@ -388,6 +407,90 @@
 			}]
 			x: 0.0d
 			y: 1.0d
+		}
+		{
+			id: "18A49A89E2A7206F"
+			tasks: [{
+				icon: {
+					id: "minecraft:wolf_spawn_egg"
+				}
+				id: "5DE1AF4AE84A5938"
+				type: "custom"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "52C10DF5944FAB88"
+			tasks: [{
+				icon: {
+					id: "minecraft:cat_spawn_egg"
+				}
+				id: "23495EDE2A92BC50"
+				type: "custom"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "259D78853CDC5363"
+			tasks: [{
+				icon: {
+					id: "minecraft:horse_spawn_egg"
+				}
+				id: "4B46E8B042B5DB9B"
+				type: "custom"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "4ADDDE3A3EE9226E"
+			tasks: [{
+				icon: {
+					id: "minecraft:parrot_spawn_egg"
+				}
+				id: "3DEEFB0F126C600D"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "57723120D50F37CC"
+			invisible: true
+			tasks: [{
+				id: "057D373F80CDE214"
+				item: { count: 1, id: "pet_cemetery:pet_collar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["57723120D50F37CC"]
+			icon: {
+				id: "pet_cemetery:zombie_wolf_spawn_egg"
+			}
+			id: "2366E7D0CEDE316B"
+			tasks: [
+				{
+					id: "6907FED7C2CC05FE"
+					item: { count: 1, id: "minecraft:respawn_anchor" }
+					type: "item"
+				}
+				{
+					advancement: "pet_cemetery:nether/respawned_pet"
+					criterion: ""
+					icon: {
+						id: "pet_cemetery:zombie_wolf_spawn_egg"
+					}
+					id: "13FAAF4512B39EC3"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
 		}
 	]
 }

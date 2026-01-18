@@ -48,14 +48,9 @@
     - [ ] Iron's Gems 'n Jewelry
     - [ ] T.O Magic 'n Extras - Iron's Spells Addon
 
-- [ ] Friendly Mobs
-    - [ ] Vanilla
-    - [ ] Aquaculture 2
-    - [ ] Earth Mobs
-    - [ ] Friends and Foes
-    - [ ] Koopa's Critters
-    - [ ] Pets (Dog, Cat, Parrot, Horse/Donkey/Mule/Llama)
-        - [ ] Pet Cemetery
+- [X] Friendly Mobs
+    - [X] Pets (Dog, Cat, Parrot, Horse/Donkey/Mule/Llama)
+        - [X] Pet Cemetery
 
 - [ ] Hostile Mobs
     - [ ] Friends & Foes

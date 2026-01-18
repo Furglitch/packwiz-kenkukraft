@@ -19,14 +19,11 @@
 				item: { count: 1, id: "oritech:nickel_ingot" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -3.0d
 			y: 7.5d
 		}
 		{
-			dependencies: [
-				"1BC470495E770BFA"
-				"4E9AE0CDEDB89DA0"
-			]
+			dependencies: ["4E9AE0CDEDB89DA0"]
 			disable_toast: true
 			id: "11E9055B624C4CEB"
 			tasks: [{
@@ -36,7 +33,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 7.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["1BC470495E770BFA"]
@@ -87,7 +84,7 @@
 				item: { count: 1, id: "oritech:machine_core_1" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -3.0d
 			y: 9.5d
 		}
 		{
@@ -100,7 +97,7 @@
 				item: { count: 1, id: "oritech:machine_core_2" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -3.5d
 			y: 10.0d
 		}
 		{
@@ -113,7 +110,7 @@
 				item: { count: 1, id: "oritech:machine_core_3" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -2.5d
 			y: 10.0d
 		}
 		{
@@ -126,7 +123,7 @@
 				item: { count: 1, id: "oritech:machine_core_4" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -3.0d
 			y: 10.5d
 		}
 		{
@@ -139,7 +136,7 @@
 				item: { count: 1, id: "oritech:machine_core_5" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -3.5d
 			y: 11.0d
 		}
 		{
@@ -152,7 +149,7 @@
 				item: { count: 1, id: "oritech:machine_core_6" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -2.5d
 			y: 11.0d
 		}
 		{
@@ -165,7 +162,7 @@
 				item: { count: 1, id: "oritech:machine_core_7" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -3.0d
 			y: 11.5d
 		}
 		{
@@ -221,7 +218,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 7.5d
+			y: 8.5d
 		}
 		{
 			dependencies: [
@@ -250,7 +247,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 8.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["74D2BCD7FB539896"]
@@ -295,7 +292,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 6.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["6D29565C6E71D636"]
@@ -308,7 +305,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["5D8983C338A61777"]
@@ -321,7 +318,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 4.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["49EAF4AAC2FF6590"]
@@ -334,7 +331,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 4.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["402A7020F16BB3A2"]
@@ -347,7 +344,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0394297201073FF8"]
@@ -373,7 +370,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: 5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1BC470495E770BFA"]
@@ -385,8 +382,8 @@
 				item: { count: 1, id: "oritech:pulverizer_block" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 3.0d
+			x: -3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -401,8 +398,8 @@
 				item: { count: 1, id: "oritech:carbon_fibre_strands" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 4.0d
+			x: -2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["0A092469A50AED30"]
@@ -414,8 +411,8 @@
 				item: { count: 1, id: "oritech:fragment_forge_block" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: -3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["0394297201073FF8"]
@@ -427,8 +424,8 @@
 				item: { count: 1, id: "oritech:machine_fluid_addon" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: -2.0d
+			y: 3.5d
 		}
 		{
 			dependencies: [
@@ -443,7 +440,7 @@
 				item: { count: 1, id: "oritech:platinum_gem" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: -2.5d
 			y: 2.5d
 		}
 	]

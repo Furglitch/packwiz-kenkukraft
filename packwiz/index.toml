@@ -182,7 +182,7 @@ hash = "bcc7606dcf03401c12a0b6f87c2a9573e4acd4ffa18a80cbf6df7aa74624a923"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
-hash = "5a7c65ac7a7e3b1c9fb61d6f0f1c2b726688d33642575904b39b7798e3924b17"
+hash = "63f3bc5a34807eba2d5066a4128dbe1219c1303c86b3f334dfd3d3351bd6a8f9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/basic_storage.snbt"
@@ -197,16 +197,20 @@ file = "config/ftbquests/quests/chapters/cables__pipes.snbt"
 hash = "a18ad7801af1e9f077a1871cbfb61159df6caea54fc5e6250c75062edbb0ce85"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/cooking_for_blockheads.snbt"
+hash = "3d4f16414b6f34b10465cc9080ee419c8b5a087cd8e5d749741ba85cae42161e"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "ccb8af512df163917e871e459c3d8cdd9828a0d52b03d9e13b91b54ab0f3e8ca"
+hash = "9237fa05907a2c915310b5abbdaaf8c91fe64bfd9170b614e6a62247ecd19506"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_addons.snbt"
-hash = "b22d49d436e714093c409289f55d991ae5c4c58440957ccd8e426722b2db7bd9"
+hash = "aa3918a3e10ba26493a8b3388e900736086c71937c645f6112c5162abf62f2c4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/croptopia.snbt"
-hash = "05c19684414c14b460bade03f0b1fd9366a77887a7e8a355d6f7dc43b02851d7"
+hash = "ee325f231da92cfabe37ac5e0c29c65ae6730614a2b1901c76c242c534c1304d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/dragons.snbt"
@@ -214,35 +218,31 @@ hash = "55bccd499084a2e7ddc23b84669529af69616b55363d188fc7fecb585bf4bc25"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/enchanting.snbt"
-hash = "1550ec2826b15a483ca9167dd5fc3db30ef4700067de542405f68a02e9ea294c"
+hash = "b1b7cece82a12a912005b9b49e3afe9dc0978d3badd8d74dce9e06f64de54323"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
-hash = "da5844aa4642a38a2e9e76534233085c86cce07ea1ad84710417d8a80f5aa76e"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/farming__food.snbt"
-hash = "4d22b6989867fa8d9e82717745e2abfa00ddd5007daeb08fed4acda1b457e463"
+hash = "de91bb15b308339ac5a53bd39ae5b004cd6e37c36d88c487f6f729d65e077430"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/foes.snbt"
-hash = "f39abf2e1ec71b464b08fde59b8fd0b91d86b4a4c89afe68bd79e4697bf6424d"
+hash = "ad3af5366446fdf6c69875953c0565b5d413f515f39fca4421e5979a41ce12b9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/friends.snbt"
-hash = "f482bce24324878e477e3844448f6d346775e3921f484b8627d6c355a7899bb8"
+hash = "ec90ceb72f781e6815afe42427a071ad320e661e85704ef8575d31fa1071b7ec"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gear.snbt"
-hash = "42fe7c9d8c7e759699e14425767e53cd77981cfbf1c1631c6f359eb91b7feab9"
+hash = "70123f640878aa6ec1ea3340c6768f269e228b7f18f7bf17f515f71c8193110c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/irons_spells.snbt"
-hash = "85aafd72e28d28799494cbc22f1753dc50abfe7cc9de39db4d825462c6bcb15c"
+hash = "bc92d8635b08098d7e8562747c332a68a57f0d57a4ea598d5f79a28e11cd5fc0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kenkukraft.snbt"
-hash = "9f58e275d754202f907a41a23cf41f625104c1ffdcc0671187a01d899a4d094b"
+hash = "d38b02f098419cdbb2eb22f6fefc33882ddaf954a9979c3e43576c062d1a6f63"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mekanism.snbt"
@@ -250,7 +250,7 @@ hash = "a68a4ab977cc770833f6b73df9e527c0b85a259de56b36f497704abce9df0d44"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/oritech.snbt"
-hash = "3f2c912f78b8120583c085776f61e1861b641e2e684f1f4c256964d5e458ffd5"
+hash = "2aea6d925c9a89873d9165f57c3fbe96e7e8b771785669c0b3db0c3d77a69182"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -262,11 +262,7 @@ hash = "69c270fd9d24412f5469a9a405f06e75ea19f7e28e8cdf1bb43d0b1ef05f0e98"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_aether.snbt"
-hash = "f52c8a9da566fb58cf07830ceb5b2fe302eaa103937ecfbcef6010dadc9e9c02"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/the_deep_dark.snbt"
-hash = "4d53ea61aeccb72494a3a6e23cb2183f3240a6acdc144fb224f9010c9a117a92"
+hash = "962ec9aa8f4bb739990feff9fa7ef59a4cc4fbda8db16fa84620659393b2056c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/toms_simple_storage.snbt"
@@ -286,7 +282,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "514bf559907a6948e42f645148460b4bf47c0c8dc9d059fcf67a21216af0cf4b"
+hash = "f3d64ef73e3cca52e2543138d450809287aa3e82742942db73e297b000be06c5"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -799,7 +795,7 @@ hash = "287badb5997e6404c5e5ead462b9a8eb85af8dd91442d5f83523be14bfad0886"
 
 [[files]]
 file = "kubejs/server_scripts/infodump.js"
-hash = "c3383d4004dcea9c5f3f91c2070d79977efa9d135578e9945bb470e12f94c08c"
+hash = "fca0dbba0809c64909ea705c8751d7c3f66369caa19681e6fa2aff7cd2f47904"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"

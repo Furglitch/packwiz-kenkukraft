@@ -52,9 +52,6 @@
     - [X] Pets (Dog, Cat, Parrot, Horse/Donkey/Mule/Llama)
         - [X] Pet Cemetery
 
-- [ ] Hostile Mobs
-    - [ ] Friends & Foes
-
 - [X] Bosses
     - [X] Bosses of Mass Destruction
     - [X] Bosses'Rise
@@ -108,7 +105,7 @@
     - [ ] Mekanism Tools
     - [ ] More Mekanism Processing
 
-- [ ] Refine Oritech Quests
+- [X] Refine Oritech Quests
 
 - [ ] Oritech Addons
     - [ ] Create Oritech Compat
@@ -133,12 +130,15 @@ EntityEvents.spawned('spore:*', event => {
 - [ ] Disable /locate in favor of compasses
 - [ ] Update splashes
 - [ ] Create Issue Templates
+- [ ] CarryOn Disabling
+    - [ ] Spore mobs
+    - [ ] Lootr chests
+    - [ ] Bosses
 
 ## Mods to Consider Adding
 - [ ] Modpack Update Checker
 - [ ] Figura
 - [ ] Customizable Player Models
 - [ ] Drippy Loading Screen
-- [ ] CreateJS
 - [ ] Ponder for KubeJS
 - [ ] Create Easy Stone Generator <- Replacing Create Cobblestone

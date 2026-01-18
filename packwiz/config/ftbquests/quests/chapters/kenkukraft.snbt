@@ -48,6 +48,15 @@
 				item: { count: 1, id: "akashictome:tome" }
 				type: "item"
 			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "48A46771BC7333F9"
+			tasks: [{
+				id: "68F20B2B2DDBC037"
+				type: "checkmark"
+			}]
 			x: 1.5d
 			y: 0.0d
 		}

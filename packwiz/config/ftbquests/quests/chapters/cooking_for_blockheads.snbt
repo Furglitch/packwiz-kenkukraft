@@ -4,8 +4,11 @@
 	default_quest_shape: ""
 	filename: "cooking_for_blockheads"
 	group: "6D50590D3E0277A6"
+	icon: {
+		id: "cookingforblockheads:cooking_table"
+	}
 	id: "6455ED7743A85094"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

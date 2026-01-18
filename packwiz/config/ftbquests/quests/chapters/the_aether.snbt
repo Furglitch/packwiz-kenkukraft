@@ -4,6 +4,9 @@
 	default_quest_shape: ""
 	filename: "the_aether"
 	group: "1500059CA7CB7A29"
+	icon: {
+		id: "aether:skyroot_log"
+	}
 	id: "0B8427CE5EC2DB2B"
 	order_index: 1
 	quest_links: [ ]

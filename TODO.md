@@ -136,15 +136,15 @@ EntityEvents.spawned(event => {
 - [X] Disable /locate in favor of compasses
 - [X] Update splashes
 - [X] Create Issue Templates
-- [ ] CarryOn Disabling
-    - [ ] Spore mobs
-    - [ ] Lootr chests
-    - [ ] Bosses
+- [X] CarryOn Disabling
+    - [X] Spore mobs
+    - [X] Lootr chests
+    - [X] Bosses
 
 ## Mods to Consider Adding
 - [ ] Modpack Update Checker
-- [ ] Figura
-- [ ] Customizable Player Models
+- [X] Figura
+- [X] Customizable Player Models
 - [ ] Drippy Loading Screen
 - [ ] Ponder for KubeJS
 - [ ] Create Easy Stone Generator <- Replacing Create Cobblestone

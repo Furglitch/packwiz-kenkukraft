@@ -1763,6 +1763,11 @@ hash = "dcc2615adce2babd45d4a14720fd918fb0dec3422e59d00d50ef800205632014"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "e4d1ea5dfc2b357edbcd2812d9031a62979cdac9d8c3adf595d9e6a1b958500f"
+metafile = true
+
+[[files]]
 file = "mods/dark-doppelganger.pw.toml"
 hash = "b9539aa689ae884165439ac694634eeb26c9d6f5cbf0f309f9de4893a1b05969"
 metafile = true
@@ -2080,6 +2085,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "f154c5b1f6f99d962a4f1b63172038e3941b068278e5827263c8273b05ad3f5f"
 metafile = true
 
 [[files]]

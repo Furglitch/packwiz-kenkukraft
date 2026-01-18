@@ -728,8 +728,8 @@
 				item: { count: 1, id: "farmersdelight:chocolate_pie_slice" }
 				type: "item"
 			}]
-			x: 30.5d
-			y: 14.0d
+			x: 30.0d
+			y: 13.0d
 		}
 		{
 			id: "200698F0A567C0C6"
@@ -998,8 +998,8 @@
 				item: { count: 1, id: "farmersdelight:sweet_berry_cheesecake" }
 				type: "item"
 			}]
-			x: 30.0d
-			y: 13.0d
+			x: 30.5d
+			y: 14.0d
 		}
 		{
 			id: "5316579F197A09E4"
@@ -1072,13 +1072,220 @@
 			y: 13.0d
 		}
 		{
+			hide_dependent_lines: true
 			id: "246DF38E05AC12C7"
 			tasks: [{
 				id: "06D36C9DEF1EB1B5"
 				type: "checkmark"
 			}]
-			x: 27.0d
+			x: 36.5d
 			y: 5.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "14BADEEDD344CAAE"
+			optional: true
+			tasks: [{
+				id: "7DADD00237ABE00C"
+				item: { components: { "ftbfiltersystem:filter": "mod(aquaculturedelight)not(or(item(aquaculturedelight:neptunium_knife)))", "minecraft:custom_name": "\"Aquaculture Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "597CBCAFFF8FF989"
+			optional: true
+			tasks: [{
+				id: "63B448CDB16F1ECC"
+				item: { components: { "ftbfiltersystem:filter": "mod(arbitrarydelight)not(or(item(arbitrarydelight:amethyst_knife)))", "minecraft:custom_name": "\"Arbitrary Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "24562954777A9513"
+			optional: true
+			tasks: [{
+				id: "6BE1C48168BCAEFB"
+				item: { components: { "ftbfiltersystem:filter": "mod(arsdelight)not(or(item(arsdelight:enchanters_knife)item(arsdelight:flourishing_bark)item(arsdelight:vexing_bark)item(arsdelight:cascading_bark)item(arsdelight:blazing_bark)item(arsdelight:archwood_cabinet)))", "minecraft:custom_name": "\"Ars Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "634771C769166BD4"
+			optional: true
+			tasks: [{
+				id: "097F09EBD1F7271A"
+				item: { components: { "ftbfiltersystem:filter": "mod(barbequesdelight)not(or())", "minecraft:custom_name": "\"Barbeque's Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "774742CFD24477BF"
+			optional: true
+			tasks: [{
+				id: "7F44050D016BDF00"
+				item: { components: { "ftbfiltersystem:filter": "mod(brewinandchewin)not(or(item(brewinandchewin:keg)item(brewinandchewin:heating_cask)item(brewinandchewin:coaster)))", "minecraft:custom_name": "\"Brewin' and Chewin'\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "00F83280FA163534"
+			optional: true
+			tasks: [{
+				id: "30EC0C65EEEAA28B"
+				item: { components: { "ftbfiltersystem:filter": "mod(cocktailsdelight)not(or())", "minecraft:custom_name": "\"Cocktails Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "557897108E6CF5DB"
+			optional: true
+			tasks: [
+				{
+					id: "59EE59AFE68B1459"
+					item: { components: { "ftbfiltersystem:filter": "mod(cratedelight)not(or())", "minecraft:custom_name": "\"Crate Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "089C777E3765499D"
+					item: { components: { "ftbfiltersystem:filter": "mod(cratedelightcroptopia)not(or())", "minecraft:custom_name": "\"Croptopia Crates\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 38.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"246DF38E05AC12C7"
+				"3A0D94D14FFA33B2"
+			]
+			hide_until_deps_complete: true
+			id: "044DD692461CD241"
+			optional: true
+			tasks: [{
+				id: "4C29CFD8EE10C0A5"
+				item: { components: { "ftbfiltersystem:filter": "mod(createfood)not(or())", "minecraft:custom_name": "\"Create: Food\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "51E116EDA4A62352"
+			optional: true
+			tasks: [{
+				id: "4E438F0E7DDF485B"
+				item: { components: { "ftbfiltersystem:filter": "mod(culturaldelights)not(or(item(culturaldelights:wild_cucumbers)item(culturaldelights:wild_corn)item(culturaldelights:wild_eggplants)item(culturaldelights:avocado_pit)item(culturaldelights:avocado_sapling)item(culturaldelights:avocado_log)item(culturaldelights:avocado_wood)item(culturaldelights:avocado_leaves)item(culturaldelights:fruiting_avocado_leaves)))", "minecraft:custom_name": "\"Cultural Delights\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "1CE27AD89C3BC780"
+			optional: true
+			tasks: [{
+				id: "5E533472F9B48281"
+				item: { components: { "ftbfiltersystem:filter": "mod(endersdelight)not(or(item(endersdelight:endstone_stove)))", "minecraft:custom_name": "\"Ender's Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "163BA25681214909"
+			optional: true
+			tasks: [{
+				id: "1CDAE32B6B8982D3"
+				item: { components: { "ftbfiltersystem:filter": "mod(moredelight)not(or(item(moredelight:wooden_knife)item(moredelight:stone_knife)))", "minecraft:custom_name": "\"More Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "30593AF28533D3E2"
+			optional: true
+			tasks: [{
+				id: "4FC1AEEFF7CA4C59"
+				item: { components: { "ftbfiltersystem:filter": "mod(mynethersdelight)not(or(item(supplementaries:mynethersdelight/way_sign_powdery)item(mynethersdelight:nether_bricks_stove)item(mynethersdelight:nether_bricks_cabinet)item(mynethersdelight:blackstone_bricks_cabinet)item(mynethersdelight:powdery_cabinet)item(mynethersdelight:letios_compost)item(mynethersdelight:resurgent_soil)item(mynethersdelight:resurgent_soil_farmland)item(mynethersdelight:powder_cannon)item(mynethersdelight:powdery_torch)item(mynethersdelight:powdery_block)item(mynethersdelight:stripped_powdery_block)item(mynethersdelight:powdery_planks)item(mynethersdelight:powdery_stairs)item(mynethersdelight:powdery_slab)item(mynethersdelight:powdery_mosaic)item(mynethersdelight:powdery_mosaic_stairs)item(mynethersdelight:powdery_mosaic_slab)item(mynethersdelight:powdery_fence)item(mynethersdelight:powdery_fence_gate)item(mynethersdelight:powdery_door)item(mynethersdelight:powdery_trapdoor)item(mynethersdelight:powdery_pressure_plate)item(mynethersdelight:powdery_button)item(mynethersdelight:powdery_hanging_sign)item(mynethersdelight:powdery_sign)item(mynethersdelight:crimson_fungus_colony)item(mynethersdelight:warped_fungus_colony)item(mynethersdelight:golden_trophy)item(mynethersdelight:hoglin_trophy)item(mynethersdelight:zoglin_trophy)item(mynethersdelight:skoglin_trophy)item(mynethersdelight:waxed_hoglin_trophy)item(mynethersdelight:hoglin_hide)item(mynethersdelight:red_nether_bricks_cabinet)))", "minecraft:custom_name": "\"My Nether's Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "5C44B60E78608C1D"
+			optional: true
+			tasks: [{
+				id: "18EABA864544B530"
+				item: { components: { "ftbfiltersystem:filter": "mod(oceansdelight)not(or())", "minecraft:custom_name": "\"Ocean's Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "4B2D36E48EB496EC"
+			optional: true
+			tasks: [{
+				id: "09DF7DE6E7C2A89B"
+				item: { components: { "ftbfiltersystem:filter": "mod(rusticdelight)not(or(item(rusticdelight:wild_cotton)item(rusticdelight:wild_bell_peppers)item(rusticdelight:wild_coffee)))", "minecraft:custom_name": "\"Rustic Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["246DF38E05AC12C7"]
+			hide_until_deps_complete: true
+			id: "31243608C88C7CA1"
+			optional: true
+			tasks: [{
+				id: "32F2977868D04DFD"
+				item: { components: { "ftbfiltersystem:filter": "mod(veggiesdelight)not(or(item(veggiesdelight:mature_dandelion)item(veggiesdelight:wild_bellpeppers)item(veggiesdelight:wild_broccoli)item(veggiesdelight:wild_cauliflowers)item(veggiesdelight:wild_garlic)item(veggiesdelight:wild_sweet_potatoes)item(veggiesdelight:wild_turnips)item(veggiesdelight:wild_zucchinis)item(veggiesdelight:dandelion_leaf)))", "minecraft:custom_name": "\"Veggies Delight\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 38.0d
+			y: 12.0d
 		}
 	]
 }

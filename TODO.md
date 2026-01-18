@@ -5,22 +5,21 @@
 - [X] Cooking for Blockheads
 
 - [X] Farmer's Delight
-    - [ ] Aquaculture Delight (aquaculturedelight)
-    - [ ] Arbitrary Delight (arbitrarydelight)
-    - [ ] Ars Nouveau's Flavors and Delight (arsdelight)
-    - [ ] Barbeque's Delight (barbequesdelight)
-    - [ ] Brewin' And Chewin' (brewinandchewin)
-    - [ ] Cocktails Delight (cocktailsdelight)
-    - [ ] Crate Delight (cratedelight)
-    - [ ] Create: Food (createfood)
-    - [ ] Create: Integrated Farming (create_integrated_farming)
-    - [ ] Cultural Delights (culturaldelights)
-    - [ ] Ender's Delight (endersdelight)
-    - [ ] More Delight (moredelight)
-    - [ ] My Nether's Delight (mynethersdelight)
-    - [ ] Ocean's Delight (oceansdelight)
-    - [ ] Rustic Delight (rusticdelight)
-    - [ ] Veggies Delight (veggiesdelight)
+    - [X] Aquaculture Delight (aquaculturedelight)
+    - [X] Arbitrary Delight (arbitrarydelight)
+    - [X] Ars Nouveau's Flavors and Delight (arsdelight)
+    - [X] Barbeque's Delight (barbequesdelight)
+    - [X] Brewin' And Chewin' (brewinandchewin)
+    - [X] Cocktails Delight (cocktailsdelight)
+    - [X] Crate Delight (cratedelight)
+    - [X] Create: Food (createfood)
+    - [X] Cultural Delights (culturaldelights)
+    - [X] Ender's Delight (endersdelight)
+    - [X] More Delight (moredelight)
+    - [X] My Nether's Delight (mynethersdelight)
+    - [X] Ocean's Delight (oceansdelight)
+    - [X] Rustic Delight (rusticdelight)
+    - [X] Veggies Delight (veggiesdelight)
 -
 - [X] Croptopia
 

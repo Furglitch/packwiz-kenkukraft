@@ -26,8 +26,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -8.0d
+			x: 2.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["0E1B8716AE4E54DA"]
@@ -39,8 +39,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: -3.5d
-			y: -6.0d
+			x: -1.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["33AFEE2DC7A5D4F5"]
@@ -52,8 +52,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: -2.5d
-			y: -6.0d
+			x: -0.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["04C1A8CCFBE7FC91"]
@@ -65,8 +65,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: -1.5d
-			y: -6.0d
+			x: 0.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["66F19CD3A4E06772"]
@@ -78,8 +78,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: -0.5d
-			y: -6.0d
+			x: 1.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["68F0B38A76FB4B48"]
@@ -91,8 +91,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: 0.5d
-			y: -6.0d
+			x: 2.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["338AF2E787725427"]
@@ -104,8 +104,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: 1.5d
-			y: -6.0d
+			x: 3.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["678DC17D15C81342"]
@@ -117,8 +117,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: 2.5d
-			y: -6.0d
+			x: 4.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["0E55B32201494B90"]
@@ -130,8 +130,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: 3.5d
-			y: -6.0d
+			x: 5.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["7698F1157A626697"]
@@ -143,8 +143,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 3.5d
-			y: -4.5d
+			x: 5.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["36C25678BDDA8977"]
@@ -156,8 +156,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 2.5d
-			y: -4.5d
+			x: 4.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["0ADEDD1E289C73B2"]
@@ -169,8 +169,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 1.5d
-			y: -4.5d
+			x: 3.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["5C3E339B7086268F"]
@@ -182,8 +182,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 0.5d
-			y: -4.5d
+			x: 2.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["41C3414EFF496497"]
@@ -195,8 +195,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -0.5d
-			y: -4.5d
+			x: 1.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["7ECAAC68A033C25C"]
@@ -208,8 +208,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -1.5d
-			y: -4.5d
+			x: 0.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["49213B5264BD6D29"]
@@ -221,8 +221,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -2.5d
-			y: -4.5d
+			x: -0.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["31A478C6578CC876"]
@@ -234,8 +234,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -3.5d
-			y: -4.5d
+			x: -1.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["27C0E1204513157C"]
@@ -248,8 +248,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: -3.5d
-			y: -3.0d
+			x: -1.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["05909579289EBC07"]
@@ -262,8 +262,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: -2.5d
-			y: -3.0d
+			x: -0.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["699C3578CB13134A"]
@@ -276,8 +276,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: 0.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["02C8F709A1449134"]
@@ -290,8 +290,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: -0.5d
-			y: -3.0d
+			x: 1.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4D301D79BDE84FC4"]
@@ -304,8 +304,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: 0.5d
-			y: -3.0d
+			x: 2.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["2F5AACA278722048"]
@@ -318,8 +318,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: 1.5d
-			y: -3.0d
+			x: 3.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["35A394EB70B1704D"]
@@ -332,8 +332,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: 2.5d
-			y: -3.0d
+			x: 4.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["34F030ABA6F3AB7B"]
@@ -346,8 +346,8 @@
 				type: "kill"
 				value: 10L
 			}]
-			x: 3.5d
-			y: -3.0d
+			x: 5.5d
+			y: -4.0d
 		}
 		{
 			disable_toast: true
@@ -359,8 +359,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: -1.5d
+			x: 5.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -372,8 +372,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 2.5d
-			y: -1.5d
+			x: 4.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -385,8 +385,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 1.5d
-			y: -1.5d
+			x: 3.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -398,8 +398,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.5d
-			y: -1.5d
+			x: 2.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -411,8 +411,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -0.5d
-			y: -1.5d
+			x: 1.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -424,8 +424,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -1.5d
-			y: -1.5d
+			x: 0.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -437,8 +437,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -2.5d
-			y: -1.5d
+			x: -0.5d
+			y: -2.5d
 		}
 		{
 			disable_toast: true
@@ -450,8 +450,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -3.5d
-			y: -1.5d
+			x: -1.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["202541923EFA7ED0"]
@@ -467,8 +467,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -2.0d
-			y: 1.5d
+			x: 0.0d
+			y: 5.25d
 		}
 		{
 			dependencies: ["61DCD4DADE27B75C"]
@@ -484,8 +484,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 2.0d
+			y: 5.25d
 		}
 		{
 			disable_toast: true
@@ -498,8 +498,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 4.0d
+			y: 5.25d
 		}
 		{
 			disable_toast: true
@@ -512,8 +512,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 1.75d
-			y: 3.75d
+			x: 4.0d
+			y: 7.5d
 		}
 		{
 			disable_toast: true
@@ -526,8 +526,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 3.75d
+			x: 2.0d
+			y: 7.5d
 		}
 		{
 			disable_toast: true
@@ -540,8 +540,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -1.75d
-			y: 3.75d
+			x: 0.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["3120C584B2C0577E"]
@@ -560,8 +560,8 @@
 				type: "kill"
 				value: 100L
 			}]
-			x: 0.0d
-			y: 6.0d
+			x: 2.0d
+			y: 1.5d
 		}
 		{
 			id: "67F142064F6C6245"
@@ -571,8 +571,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 0.0d
+			x: 7.5d
+			y: -2.0d
 		}
 		{
 			id: "7F00086277DDA115"
@@ -582,8 +582,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 1.0d
+			x: 7.5d
+			y: -1.0d
 		}
 		{
 			id: "59F41A38E61C8C6D"
@@ -593,8 +593,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 2.0d
+			x: 7.5d
+			y: 0.0d
 		}
 		{
 			id: "110102849238FF8C"
@@ -604,8 +604,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 3.0d
+			x: 7.5d
+			y: 1.0d
 		}
 		{
 			id: "128A07621551BF0D"
@@ -615,8 +615,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 4.0d
+			x: 7.5d
+			y: 2.0d
 		}
 		{
 			id: "23252E79BCF939F4"
@@ -626,8 +626,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 5.0d
+			x: 7.5d
+			y: 3.0d
 		}
 		{
 			id: "3367B958F9C0E501"
@@ -637,8 +637,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 6.0d
+			x: 7.5d
+			y: 4.0d
 		}
 		{
 			id: "725B51FBC9998754"
@@ -648,8 +648,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 0.5d
+			x: 8.5d
+			y: -1.5d
 		}
 		{
 			id: "474CF9E216B5F361"
@@ -659,8 +659,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 6.5d
+			x: 8.5d
+			y: 4.5d
 		}
 		{
 			id: "4FB0505C303830CD"
@@ -670,8 +670,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 5.5d
+			x: 8.5d
+			y: 3.5d
 		}
 		{
 			id: "5A39CA82057E74C5"
@@ -681,8 +681,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 4.5d
+			x: 8.5d
+			y: 2.5d
 		}
 		{
 			id: "44C2DDA6D020A022"
@@ -692,8 +692,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 3.5d
+			x: 8.5d
+			y: 1.5d
 		}
 		{
 			id: "24ED3925696A93A0"
@@ -703,8 +703,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 2.5d
+			x: 8.5d
+			y: 0.5d
 		}
 		{
 			id: "5AB5479E9AA78613"
@@ -714,8 +714,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.5d
-			y: 1.5d
+			x: 8.5d
+			y: -0.5d
 		}
 		{
 			id: "2008C5B5FC9E14C2"
@@ -725,8 +725,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.5d
-			y: 7.0d
+			x: 7.5d
+			y: 5.0d
 		}
 		{
 			id: "7380920A6409BC91"
@@ -736,8 +736,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 0.5d
+			x: 10.0d
+			y: -1.5d
 		}
 		{
 			id: "453E6ADC537AFDBC"
@@ -747,8 +747,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 1.5d
+			x: 10.0d
+			y: -0.5d
 		}
 		{
 			id: "35B0DC76FE4757CB"
@@ -758,8 +758,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 2.5d
+			x: 10.0d
+			y: 0.5d
 		}
 		{
 			id: "3DC316E85B1775B2"
@@ -769,8 +769,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 3.5d
+			x: 10.0d
+			y: 1.5d
 		}
 		{
 			id: "7D43AE3C564184FD"
@@ -780,8 +780,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 4.5d
+			x: 10.0d
+			y: 2.5d
 		}
 		{
 			id: "2C987B749EB2F494"
@@ -791,8 +791,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 5.5d
+			x: 10.0d
+			y: 3.5d
 		}
 		{
 			id: "5E5B31548768E850"
@@ -802,8 +802,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 6.5d
+			x: 10.0d
+			y: 4.5d
 		}
 		{
 			id: "2F52C9DCB82CC7D5"
@@ -813,8 +813,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.0d
-			y: 1.0d
+			x: 11.0d
+			y: -1.0d
 		}
 		{
 			id: "209FC894909E873B"
@@ -824,8 +824,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 11.0d
-			y: 3.5d
+			x: 12.0d
+			y: 1.5d
 		}
 		{
 			id: "5321512C3AA91F5C"
@@ -835,8 +835,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 11.0d
-			y: 2.5d
+			x: 12.0d
+			y: 0.5d
 		}
 		{
 			id: "29AE5DC32E921C3F"
@@ -846,8 +846,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 11.0d
-			y: 1.5d
+			x: 12.0d
+			y: -0.5d
 		}
 		{
 			id: "2B02B8FCFA573081"
@@ -857,8 +857,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.0d
-			y: 6.0d
+			x: 11.0d
+			y: 4.0d
 		}
 		{
 			id: "7E51EA7CD7044E28"
@@ -868,8 +868,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.0d
-			y: 5.0d
+			x: 11.0d
+			y: 3.0d
 		}
 		{
 			id: "3C1A46FB358DAF4F"
@@ -879,8 +879,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.0d
-			y: 4.0d
+			x: 11.0d
+			y: 2.0d
 		}
 		{
 			id: "27A7332F12AF483E"
@@ -890,8 +890,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.0d
-			y: 3.0d
+			x: 11.0d
+			y: 1.0d
 		}
 		{
 			id: "4318451AB88AD15E"
@@ -901,8 +901,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.0d
-			y: 2.0d
+			x: 11.0d
+			y: 0.0d
 		}
 		{
 			id: "2BE7EE12371D72C0"
@@ -912,8 +912,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 11.0d
-			y: 4.5d
+			x: 12.0d
+			y: 2.5d
 		}
 		{
 			id: "28F96F77AF7EE501"
@@ -923,8 +923,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 11.0d
-			y: 5.5d
+			x: 12.0d
+			y: 3.5d
 		}
 		{
 			id: "52B45EAAF38CDAC8"
@@ -934,8 +934,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.5d
-			y: 1.5d
+			x: -3.5d
+			y: 0.0d
 		}
 		{
 			id: "31C0361905381A4E"
@@ -945,8 +945,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.5d
-			y: 2.5d
+			x: -3.5d
+			y: 1.0d
 		}
 		{
 			id: "0985DFE47EE6FDEB"
@@ -956,8 +956,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.5d
-			y: 3.5d
+			x: -3.5d
+			y: 2.0d
 		}
 		{
 			id: "532D366501D45854"
@@ -967,8 +967,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.5d
-			y: 4.5d
+			x: -3.5d
+			y: 3.0d
 		}
 		{
 			id: "144B302CAA57D530"
@@ -978,8 +978,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.5d
-			y: 5.5d
+			x: -3.5d
+			y: 4.0d
 		}
 		{
 			id: "0D09EB224C250147"
@@ -989,8 +989,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.5d
-			y: 1.5d
+			x: -4.5d
+			y: 0.0d
 		}
 		{
 			id: "0828A8CF48A864E9"
@@ -1000,8 +1000,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.5d
-			y: 2.5d
+			x: -4.5d
+			y: 1.0d
 		}
 		{
 			id: "59508397544B2C43"
@@ -1011,8 +1011,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.5d
-			y: 3.5d
+			x: -4.5d
+			y: 2.0d
 		}
 		{
 			id: "6361E7043834BFFD"
@@ -1022,8 +1022,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.5d
-			y: 4.5d
+			x: -4.5d
+			y: 3.0d
 		}
 		{
 			id: "0908828704D69F75"
@@ -1033,8 +1033,126 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.5d
-			y: 5.5d
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			id: "1BD5664353408156"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				icon: {
+					id: "bosses_of_mass_destruction:blazing_eye"
+				}
+				id: "0843EE19C0ECF0E2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			id: "1B9AB525E50A1FD9"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				icon: {
+					id: "bosses_of_mass_destruction:ancient_anima"
+				}
+				id: "6E18D70F8FFC98B4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			id: "482C65F3687138C5"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				icon: {
+					id: "bosses_of_mass_destruction:obsidian_heart"
+				}
+				id: "6EAF84C27D4D6F3A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			id: "27A58B5B682DF7DF"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				icon: {
+					id: "bosses_of_mass_destruction:crystal_fruit"
+				}
+				id: "0B83A598929C6927"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: 9.5d
+		}
+		{
+			id: "5C1C3E23B90A387B"
+			size: 1.5d
+			tasks: [{
+				entity: "block_factorys_bosses:infernal_dragon"
+				id: "6D961DEAC37C4D0A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 11.5d
+		}
+		{
+			id: "24611461BDED7387"
+			size: 1.5d
+			tasks: [{
+				entity: "block_factorys_bosses:yeti"
+				id: "2C1868E42A6B31E2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 11.5d
+		}
+		{
+			id: "451998E1F40C38F7"
+			size: 1.5d
+			tasks: [{
+				entity: "block_factorys_bosses:sandworm"
+				id: "58B403F225E710AD"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 11.5d
+		}
+		{
+			id: "69AD22005C6585A3"
+			size: 1.5d
+			tasks: [{
+				entity: "block_factorys_bosses:underworld_knight"
+				id: "3DAD539E45BEA4C2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: 11.5d
+		}
+		{
+			id: "35F587EE1D601C9F"
+			tasks: [{
+				id: "7885ACB4F1EB53AD"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 13.5d
 		}
 	]
 }

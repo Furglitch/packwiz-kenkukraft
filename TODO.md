@@ -60,11 +60,10 @@
 - [ ] Hostile Mobs
     - [ ] Friends & Foes
 
-- [ ] Bosses
-    - [ ] Bosses of Mass Destruction
-    - [ ] Bosses'Rise
-    - [ ] L_Ender's Cataclysm
-    - [ ] Mowzie's Mobs
+- [X] Bosses
+    - [X] Bosses of Mass Destruction
+    - [X] Bosses'Rise
+    - [X] L_Ender's Cataclysm
 
 - [X] Aether
     - [X] Deep Aether

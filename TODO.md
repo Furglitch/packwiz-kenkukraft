@@ -27,7 +27,7 @@
     - [X] BeyondEnchant
     - [X] Enchanting Infuser
 
-- [ ] Ars Nouveau
+- [X] Ars Nouveau
     - [ ] Ars Additions
     - [ ] Ars Affinity
     - [ ] Ars Artillery
@@ -49,6 +49,7 @@
     - [ ] T.O Magic 'n Extras - Iron's Spells Addon
 
 - [ ] Friendly Mobs
+    - [ ] Vanilla
     - [ ] Aquaculture 2
     - [ ] Earth Mobs
     - [ ] Friends and Foes
@@ -72,6 +73,8 @@
     - [ ] Oh The Biomes You'll Go
     - [ ] Regions Unexplored
 - [ ] Vanilla Dimensions (?)
+- [ ] Aether
+- [ ] Deep Dark
 
 - [ ] Create Addons
     - [ ] Create Cobblestone

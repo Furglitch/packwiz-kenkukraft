@@ -134,7 +134,7 @@ EntityEvents.spawned(event => {
 - [ ] Move KubeJS scripts to Smart Filters (after mod update)
 - [X] Update 'Update' workflow to 3 days instead of 5
 - [X] Disable /locate in favor of compasses
-- [ ] Update splashes
+- [X] Update splashes
 - [X] Create Issue Templates
 - [ ] CarryOn Disabling
     - [ ] Spore mobs

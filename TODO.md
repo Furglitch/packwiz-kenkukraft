@@ -66,14 +66,8 @@
     - [ ] L_Ender's Cataclysm
     - [ ] Mowzie's Mobs
 
-- [ ] Structures(?)
-- [ ] Biomes (?)
-    - [ ] Vanilla
-    - [ ] Biomes O' Plenty
-    - [ ] Oh The Biomes You'll Go
-    - [ ] Regions Unexplored
-- [ ] Vanilla Dimensions (?)
-- [ ] Aether
+- [X] Aether
+    - [X] Deep Aether
 - [ ] Deep Dark
 
 - [ ] Create Addons

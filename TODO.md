@@ -23,8 +23,9 @@
 -
 - [X] Croptopia
 
-- [ ] Vanilla Enchanting
-    - [ ] Enchanting Infuser
+- [X] Vanilla Enchanting
+    - [X] BeyondEnchant
+    - [X] Enchanting Infuser
 
 - [ ] Ars Nouveau
     - [ ] Ars Additions

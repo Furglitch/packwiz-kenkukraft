@@ -40,7 +40,7 @@
     - [ ] Not Enough Glyphs
     - [ ] StarbuncleMania
 
-- [ ] Iron's Spells
+- [X] Iron's Spells
     - [ ] Alshanex's Familiars
     - [ ] Create: Wizardry
     - [ ] Dark Doppelganger

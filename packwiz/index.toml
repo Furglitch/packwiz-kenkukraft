@@ -70,7 +70,7 @@ hash = "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "4ede967ffb8d7578ec88b286338ea0a2b631c2d8503db523a7081d244b6ce089"
+hash = "facc8db1f76064b6f78738692b018011d73f0cc9ad5514c51e50c02f5aae40c7"
 
 [[files]]
 file = "config/catalogue.properties"
@@ -258,7 +258,7 @@ hash = "332c40ebe7155b647b453e7b55d8f41980cfc04fc895dd2ceca6089cc8a85983"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/spore.snbt"
-hash = "69c270fd9d24412f5469a9a405f06e75ea19f7e28e8cdf1bb43d0b1ef05f0e98"
+hash = "008e0117cf224b06d070f2a3cadb15b1aad62c2229f877197a01073d717efc46"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_aether.snbt"
@@ -335,6 +335,10 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "622658ab12d4c1b249b8fcbe1ec68b7424a66b45ddb1e52f447e690c23d1d960"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "4a087377267687e0d41272204e6f6980520d8cc0bfc184ca0197efacee30992c"
 
 [[files]]
 file = "config/monolib-common.toml"
@@ -507,7 +511,7 @@ hash = "84ab782e6c7ed6ee3eff9c89935f4e7faefadd7a72ffb5f6e34326c2ecd44b07"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"
-hash = "21835c51670aa1d527aa2b772f4d2a92ac307fe36ee8d2b4495114ecc8e138cb"
+hash = "65492d17e99bd9254e47f36a67a496a6d83999bec64d947ba417b56536dc5420"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/background/panorama.shader"
@@ -758,6 +762,10 @@ file = "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
 hash = "56a2ce3a2c347d543a4c53e48878c369b3c5cac3ab4b0da06913e2e92f9e4297"
 
 [[files]]
+file = "kubejs/server_scripts/commands/locate.js"
+hash = "df48476a4c30c1b7a079d86a4607a61f4468befdef55e278bd45938d7b677fee"
+
+[[files]]
 file = "kubejs/server_scripts/ftbquests/filters/buildinggadgets.js"
 hash = "f6965e659a8affe092fe3ed5528211f62d77db54555f1740652f3fdaf6427116"
 
@@ -787,7 +795,7 @@ hash = "e7923f98fd4781911d2dfa6e42e9a7abd106a83806ca7d7dc601bdcc67451404"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/tasks/spore-days.js"
-hash = "85cd00f3767760c41de0a1e5dbdd57c250dd5b37a21050323a2d2bf243ba63ff"
+hash = "29387d1055cfcbdb45e579907ef7fb5d8d65d050f641419f80fd18cb1bdbc389"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/tasks/spore-status.js"
@@ -2760,6 +2768,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "675849cd30fa48bd0a413ad3bf605eb614a979e220bcd51faef397739471487f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "2.2.0",
+  "modpackName": "KenkuKraft",
+  "modpackAuthor": "Furglitch",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/",
+  "advanced": {
+    "bccEnabled": true,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

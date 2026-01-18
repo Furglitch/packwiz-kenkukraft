@@ -135,7 +135,7 @@ EntityEvents.spawned(event => {
 - [X] Update 'Update' workflow to 3 days instead of 5
 - [X] Disable /locate in favor of compasses
 - [ ] Update splashes
-- [ ] Create Issue Templates
+- [X] Create Issue Templates
 - [ ] CarryOn Disabling
     - [ ] Spore mobs
     - [ ] Lootr chests

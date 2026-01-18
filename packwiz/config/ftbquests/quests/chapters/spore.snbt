@@ -19,10 +19,7 @@
 			hide_dependent_lines: true
 			hide_details_until_startable: true
 			icon: {
-				components: {
-					"ftbquests:icon": "spore:textures/gui/creatures/knight.png"
-				}
-				id: "ftbquests:custom_icon"
+				id: "spore:blomfung"
 			}
 			id: "3120C584B2C0577E"
 			invisible: true

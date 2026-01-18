@@ -2938,11 +2938,6 @@ hash = "df3d76e31b1eac6927713c77421275d8fd1858ad1f86fa6986fe5f74fdac13a6"
 metafile = true
 
 [[files]]
-file = "mods/ohaydens-mob-control.pw.toml"
-hash = "780bf903b36ca1a10bd61c4e20925e38442e2e72c601c97301b866cae4750a0c"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "ef34117249cbd90203a1b7453338edc707fb35d426dc930e2404111f5f714327"
 metafile = true

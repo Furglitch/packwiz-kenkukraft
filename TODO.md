@@ -115,16 +115,22 @@
 
 ```
 // Prevent spore entities from spawning for 30 days
-EntityEvents.spawned('spore:*', event => {
-    let world = event.level
-    let worldTime = world.getDayTime() / 24000
+EntityEvents.spawned(event => {
+    let entity = event.entity
+    let entityType = entity.type
     
-    if (worldTime < 30) {
-        event.cancel()
+    // Check if entity is from the spore mod
+    if (entityType.toString().startsWith('spore:')) {
+        let world = event.level
+        let worldTime = world.getDayTime() / 24000
+        
+        if (worldTime < 30) {
+            event.cancel()
+        }
     }
 })
 ```
-- [ ] Replace 'Mob Control' with above script
+- [X] Replace 'Mob Control' with above script
 - [ ] Move KubeJS scripts to Smart Filters (after mod update)
 - [ ] Update 'Update' workflow to 3 days instead of 5
 - [ ] Disable /locate in favor of compasses

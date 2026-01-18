@@ -7,28 +7,16 @@
 	id: "61557D890416AFDE"
 	order_index: 1
 	quest_links: [ ]
-	quests: [
-		{
-			dependencies: ["2B7CC147AA723B1B"]
-			disable_toast: true
-			icon: {
-				id: "create_connected:fan_smoking_catalyst"
-			}
-			id: "46B91E7620FA77A4"
-			shape: "gear"
-			size: 3.0d
-			x: 0.0d
-			y: 0.0d
+	quests: [{
+		dependencies: ["2B7CC147AA723B1B"]
+		disable_toast: true
+		icon: {
+			id: "create_connected:fan_smoking_catalyst"
 		}
-		{
-			dependencies: ["46B91E7620FA77A4"]
-			id: "1E1CC4375552C66E"
-			tasks: [{
-				id: "253CC63D1A9DA278"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: 2.0d
-		}
-	]
+		id: "46B91E7620FA77A4"
+		shape: "gear"
+		size: 3.0d
+		x: 0.0d
+		y: 0.0d
+	}]
 }

@@ -68,7 +68,6 @@
 
 - [X] Aether
     - [X] Deep Aether
-- [ ] Deep Dark
 
 - [ ] Create Addons
     - [ ] Create Cobblestone

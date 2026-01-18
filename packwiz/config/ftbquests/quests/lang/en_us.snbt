@@ -49,6 +49,8 @@
 	quest.070BE1244126FB19.quest_desc: ["Slows down a dragon's growth"]
 	quest.07407E8E84A9CCA6.title: "Blocks"
 	quest.0770AC37F4B27219.title: "Trowel"
+	quest.081ED0ADF4FF0665.quest_desc: ["BeyondEnchant raises the limits of Vanilla enchants by up to 7 levels!"]
+	quest.081ED0ADF4FF0665.title: "BeyondEnchant"
 	quest.0A338217EF1657E0.title: "Create Logistics"
 	quest.0B681CBB80194B87.title: "You Monster..."
 	quest.0B7BD79EE7374622.title: "Mekanism Pipes"
@@ -73,7 +75,6 @@
 	quest.1EDD1948176D1F13.title: "Relics"
 	quest.1F06CEBA82A02303.title: "Guns"
 	quest.1FCF1F2FB7DF2B29.title: "Toolsmith"
-	quest.214011711CDCCDEC.title: "under construction"
 	quest.221484876AC2D5BC.title: "Reliquified Ars Nouveau"
 	quest.223AF887C859E96D.title: "Weaponsmith"
 	quest.22AACE1D712B7E41.quest_desc: ["Pauses a dragon's growth"]
@@ -120,9 +121,9 @@
 	quest.35AE486793BC0A22.title: "Relics"
 	quest.371F5577BBDFE54C.title: "Gun Attachments"
 	quest.3725C66184C25699.quest_desc: [""]
+	quest.383755000972D087.quest_subtitle: "For Symmetry :D"
+	quest.383755000972D087.title: "Placeholder"
 	quest.3A0D94D14FFA33B2.quest_desc: ["This will reveal another chapter with quests for Create Addons"]
-	quest.3B2A63436BDDB8FA.title: "under construction"
-	quest.3CA9AD663BB93462.title: "under construction"
 	quest.3CE56B70A421B2F4.title: "Blaze Burner"
 	quest.3EB917027A59CE5D.title: "More Diamond Weapons"
 	quest.42492E94027EAEAE.title: "Golden Tools"
@@ -133,6 +134,7 @@
 	quest.464A821A02F91EC6.quest_desc: [""]
 	quest.464A821A02F91EC6.quest_subtitle: "Get to building!"
 	quest.464A821A02F91EC6.title: "Under Construction"
+	quest.46B91E7620FA77A4.quest_subtitle: "under construction"
 	quest.46B91E7620FA77A4.title: "Create Addons"
 	quest.46D6880D60412C91.title: "Butcher"
 	quest.47D8E21DA2C94AF5.title: "Armorer"
@@ -149,7 +151,6 @@
 	quest.55578BCA9D2BDB1E.quest_desc: [""]
 	quest.5580380B6F40CEE4.quest_desc: [""]
 	quest.5585D16187585357.title: "Leatherworker"
-	quest.55F624A0E785DA87.title: "under construction"
 	quest.56787FE5BE296174.title: "Iron Tools"
 	quest.56A5B1EC0E26238B.title: "Netherite-Iron Tools"
 	quest.575B2C445B4C9167.title: "Netherite!"
@@ -161,6 +162,8 @@
 	quest.5B723E74678BC2E8.title: "Mason"
 	quest.5C6FB919E09B6A12.title: "MoreRelics"
 	quest.5CA0808F9868264D.title: "Diamond Tools"
+	quest.5D19A7EC1EFE7828.quest_desc: ["Croptopia is fully compatible with Farmer's Delight, thanks to &oCroptopia Delight&r!"]
+	quest.5D19A7EC1EFE7828.title: "Compatibility"
 	quest.5D4A30444906455C.title: "Diamond Armor"
 	quest.5E273D4B26ED3E85.title: "Golden Armor"
 	quest.5F165DF4C7D440D0.title: "Fluid Pipes Upgrades"
@@ -214,19 +217,21 @@
 	quest.79BB612059CB8117.title: "Biomagical"
 	quest.7AF3AC2E656AC27E.quest_subtitle: "Don't worry, if you die, your body will survive"
 	quest.7AF3AC2E656AC27E.title: "Infected"
-	quest.7B05CBEFFDB99B92.title: "under construction"
 	quest.7F82D1AF7EA179D5.title: "Ribbit"
 	quest.7FE42E408EFACD96.quest_subtitle: "Caution: Wet Floor"
 	quest.7FE42E408EFACD96.title: "The Copper Age"
 	task.0073C2E960301107.title: "Center"
 	task.04456A5B68E8A822.title: "Enter the Aether"
+	task.06D36C9DEF1EB1B5.title: "Show Addons"
 	task.0804D91B30CE8E15.title: "Netherite Tools"
+	task.0CD8AE5D8392B610.title: "Find a Gold Dungeon"
 	task.0D71DEB084518FD3.title: "Enter the Nether"
 	task.0EC930451B8C4A87.title: "Light the End Gateway"
 	task.0FD831AF65030EFA.title: "Find a Stronghold"
 	task.1350F93ACC6AD956.title: "Blocks"
 	task.136B197090BCE94A.title: "Hallucinate"
 	task.158696C6183E67CD.title: "Enter the Deep Dark"
+	task.1830D3581526B4A9.title: "Find a Bronze Dungeon"
 	task.18BF498E95684155.title: "Become Infected"
 	task.1A81BA9350B2B38B.title: "Day Counter"
 	task.1E6BFBB81E5E17C3.title: "Framing Saws"
@@ -242,9 +247,11 @@
 	task.44409E6178ACA35B.title: "Go Mad"
 	task.46AC6F6E49E58695.title: "See Addons"
 	task.483FDD351BD707C6.title: "Blocks"
+	task.4CBE98B1E73B0574.title: "Find a Silver Dungeon"
 	task.5022ECD835E020BD.title: "Blocks"
 	task.50BBBE66652A2EDC.title: "Wear Their Flesh"
 	task.554046209DE82984.title: "Collect 12 Eyes"
+	task.5F63F15D41175E5B.title: "Beyond Enchant"
 	task.5F6FC72649EEE521.title: "dependency"
 	task.62A189DEB046122F.title: "Find a Ribbit Village"
 	task.64530417E5954FE4.title: "Enter the End"
@@ -252,6 +259,7 @@
 	task.711DB8D70C2E1F3E.title: "Wings of Fire"
 	task.71C219C4CF850883.title: "Kill: 100x Infected"
 	task.722805547478D267.title: "Coals"
+	task.763E7EDC0418FD9F.title: "Find a Brass Dungeon"
 	task.76C6FA163D435390.title: "Exist"
 	task.7FEF41ACC28A8ECD.title: "Enter the Deep Dark"
 }

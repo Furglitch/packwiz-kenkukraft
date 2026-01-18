@@ -20,6 +20,11 @@
 			id: "6494AB2FAAAB47FC"
 			shape: "gear"
 			size: 3.0d
+			tasks: [{
+				id: "6340681AC9451DCA"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 0.0d
 		}

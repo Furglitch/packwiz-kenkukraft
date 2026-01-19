@@ -147,4 +147,4 @@ EntityEvents.spawned(event => {
 - [X] Customizable Player Models
 - [ ] Drippy Loading Screen
 - [ ] Ponder for KubeJS
-- [ ] Create Easy Stone Generator <- Replacing Create Cobblestone
+- [X] Create Easy Stone Generator <- Replacing Create Cobblestone

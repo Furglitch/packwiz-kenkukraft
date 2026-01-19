@@ -2041,6 +2041,11 @@ hash = "fd9306f3d4da483cbfdb3adcae857cc2ecd0549e841e4e0a53f2b6da1a7816d7"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2847aa88f18c7ded7801f7dd707ac660670e81e2ab4ca8b67209100aea8d814c"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-collection.pw.toml"
 hash = "2ed339b82e58d108dc184aed110477b99c55be17288740aa58ad9637e825bb21"
 metafile = true
@@ -2728,6 +2733,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]

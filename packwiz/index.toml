@@ -723,7 +723,7 @@ hash = "a5d5d84ccd39cb93ef2787b9c6b677312a749e8078aa01a07f9c6bf41706e828"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "3f301ab4b10ce777290cb7dec9f025881ad372bbe83ae1183ef032c68741c6fa"
+hash = "3b2ab5f9f96f7116b63d0574e2441ca0c54633c6801ea57bdf6ba1bffdbabfc2"
 
 [[files]]
 file = "configureddefaults/config/lambdynlights.toml"
@@ -739,7 +739,7 @@ hash = "53bfe7670049bb0fd44e37994669b588ba09dea29c536534d1947704cd922428"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "535ca4fc5f7f892c53eaeb8067a65097194b97f2f76a8b8ceb31711c2b3f6f91"
+hash = "17427c7be1907d65d26a0e2473a1b08bb1a2b5be1b961ef04b1190968dd9d4e8"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"

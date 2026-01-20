@@ -1,0 +1,449 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "oritech"
+	group: "48A51F824460B56F"
+	icon: {
+		id: "oritech:wrench"
+	}
+	id: "61ED03AB96C943BD"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "1BC470495E770BFA"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				id: "2A14E49907E0D223"
+				item: { count: 1, id: "oritech:nickel_ingot" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4E9AE0CDEDB89DA0"]
+			disable_toast: true
+			id: "11E9055B624C4CEB"
+			tasks: [{
+				disable_toast: true
+				id: "592586BF5C736D79"
+				item: { count: 1, id: "oritech:assembler_block" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1BC470495E770BFA"]
+			disable_toast: true
+			id: "4E9AE0CDEDB89DA0"
+			tasks: [{
+				disable_toast: true
+				id: "0F18B27C0527E4AC"
+				item: { count: 1, id: "oritech:motor" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1BC470495E770BFA"]
+			disable_toast: true
+			id: "74D2BCD7FB539896"
+			tasks: [{
+				disable_toast: true
+				id: "58DB20779EDE96E7"
+				item: { count: 1, id: "oritech:adamant_ingot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["74D2BCD7FB539896"]
+			disable_toast: true
+			id: "28C905D90C69CE90"
+			tasks: [{
+				disable_toast: true
+				id: "083F5AAC23756A8D"
+				item: { count: 1, id: "oritech:duratium_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1BC470495E770BFA"]
+			disable_toast: true
+			id: "4D5510742FDA7789"
+			tasks: [{
+				disable_toast: true
+				id: "35D3233EDDB0AB2D"
+				item: { count: 1, id: "oritech:machine_core_1" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4D5510742FDA7789"]
+			disable_toast: true
+			id: "5E574F5DDD96A84B"
+			tasks: [{
+				disable_toast: true
+				id: "558979578B27EEA8"
+				item: { count: 1, id: "oritech:machine_core_2" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["5E574F5DDD96A84B"]
+			disable_toast: true
+			id: "45C74CA9DDE427D4"
+			tasks: [{
+				disable_toast: true
+				id: "386F7339364E34DF"
+				item: { count: 1, id: "oritech:machine_core_3" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["45C74CA9DDE427D4"]
+			disable_toast: true
+			id: "0392F5FB0AFBD9DD"
+			tasks: [{
+				disable_toast: true
+				id: "13A9B865820DD3D9"
+				item: { count: 1, id: "oritech:machine_core_4" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["0392F5FB0AFBD9DD"]
+			disable_toast: true
+			id: "73D65598B9BD6EA4"
+			tasks: [{
+				disable_toast: true
+				id: "6B57D69EA250C7F9"
+				item: { count: 1, id: "oritech:machine_core_5" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["73D65598B9BD6EA4"]
+			disable_toast: true
+			id: "6E9F267F7D19DDDF"
+			tasks: [{
+				disable_toast: true
+				id: "3D4B3A7846353B08"
+				item: { count: 1, id: "oritech:machine_core_6" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6E9F267F7D19DDDF"]
+			disable_toast: true
+			id: "3F3E40D9468A7CEA"
+			tasks: [{
+				disable_toast: true
+				id: "7B26B488EE218AF5"
+				item: { count: 1, id: "oritech:machine_core_7" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 11.5d
+		}
+		{
+			dependencies: [
+				"74D2BCD7FB539896"
+				"11E9055B624C4CEB"
+			]
+			disable_toast: true
+			id: "5065FEEE774C1EDB"
+			tasks: [{
+				disable_toast: true
+				id: "2B99F46B508624D1"
+				item: { count: 1, id: "oritech:target_designator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5065FEEE774C1EDB"]
+			disable_toast: true
+			id: "3247F362B0859DE7"
+			tasks: [{
+				disable_toast: true
+				id: "35B5F31264F318C9"
+				item: { count: 1, id: "oritech:machine_hunter_addon" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5065FEEE774C1EDB"]
+			disable_toast: true
+			id: "21F8B83CE91C9D1D"
+			tasks: [{
+				disable_toast: true
+				id: "163540E9161D1590"
+				item: { count: 1, id: "oritech:plutonium_dust" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5065FEEE774C1EDB"]
+			disable_toast: true
+			id: "1CCEFD14BF7F4FDC"
+			tasks: [{
+				disable_toast: true
+				id: "75A79AAB2372B139"
+				item: { count: 1, id: "oritech:fluxite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"145963424382F74A"
+				"1CCEFD14BF7F4FDC"
+			]
+			disable_toast: true
+			id: "5986C7E4B6A0B6C5"
+			tasks: [{
+				disable_toast: true
+				id: "79C7ED7B93EE273D"
+				item: { count: 1, id: "oritech:flux_gate" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["11E9055B624C4CEB"]
+			disable_toast: true
+			id: "145963424382F74A"
+			tasks: [{
+				disable_toast: true
+				id: "60643401ED6708F7"
+				item: { count: 1, id: "oritech:processing_unit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["74D2BCD7FB539896"]
+			disable_toast: true
+			id: "2BB38BA6D60BE005"
+			tasks: [{
+				disable_toast: true
+				id: "3B5034E58C310EDE"
+				item: { count: 1, id: "oritech:plutonium_pellet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"28C905D90C69CE90"
+				"1D3EE5590F481860"
+			]
+			disable_toast: true
+			id: "49EAF4AAC2FF6590"
+			tasks: [{
+				disable_toast: true
+				id: "1E50B4F1A265E138"
+				item: { count: 1, id: "oritech:atomic_forge_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"196B834BE5B0B49A"
+				"2BB38BA6D60BE005"
+			]
+			disable_toast: true
+			id: "0E8A8B87C229A4B6"
+			tasks: [{
+				disable_toast: true
+				id: "7F5036650B859C11"
+				item: { count: 1, id: "oritech:nuke" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6D29565C6E71D636"]
+			disable_toast: true
+			id: "196B834BE5B0B49A"
+			tasks: [{
+				disable_toast: true
+				id: "10BAE9A05877AAD4"
+				item: { count: 1, id: "oritech:heisenberg_compensator" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5D8983C338A61777"]
+			disable_toast: true
+			id: "6D29565C6E71D636"
+			tasks: [{
+				disable_toast: true
+				id: "563396855C2E04DE"
+				item: { count: 1, id: "oritech:super_ai_chip" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["49EAF4AAC2FF6590"]
+			disable_toast: true
+			id: "402A7020F16BB3A2"
+			tasks: [{
+				disable_toast: true
+				id: "463CD69D7BDFB402"
+				item: { count: 1, id: "oritech:silicon_wafer" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["402A7020F16BB3A2"]
+			disable_toast: true
+			id: "5D8983C338A61777"
+			tasks: [{
+				disable_toast: true
+				id: "7563EDB1C0D51271"
+				item: { count: 1, id: "oritech:advanced_computing_engine" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0394297201073FF8"]
+			disable_toast: true
+			id: "1D3EE5590F481860"
+			tasks: [{
+				disable_toast: true
+				id: "34F7B4E61DA5489D"
+				item: { count: 1, id: "oritech:enderic_compound" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1BC470495E770BFA"]
+			disable_toast: true
+			id: "0394297201073FF8"
+			tasks: [{
+				disable_toast: true
+				id: "15B4C8D5391C663F"
+				item: { count: 1, id: "oritech:centrifuge_block" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1BC470495E770BFA"]
+			disable_toast: true
+			id: "0A092469A50AED30"
+			tasks: [{
+				disable_toast: true
+				id: "30BCE79BDBC0827A"
+				item: { count: 1, id: "oritech:pulverizer_block" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0394297201073FF8"
+				"0A092469A50AED30"
+			]
+			disable_toast: true
+			id: "7552CBD3BA5FD127"
+			tasks: [{
+				disable_toast: true
+				id: "1DCD99C2ABBB5932"
+				item: { count: 1, id: "oritech:carbon_fibre_strands" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0A092469A50AED30"]
+			disable_toast: true
+			id: "2A72F6EBB0C40AE4"
+			tasks: [{
+				disable_toast: true
+				id: "1E405AE844749C9E"
+				item: { count: 1, id: "oritech:fragment_forge_block" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0394297201073FF8"]
+			disable_toast: true
+			id: "223302343098B729"
+			tasks: [{
+				disable_toast: true
+				id: "386F4F32C985236A"
+				item: { count: 1, id: "oritech:machine_fluid_addon" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"223302343098B729"
+				"2A72F6EBB0C40AE4"
+			]
+			disable_toast: true
+			id: "0B3644C25A056366"
+			tasks: [{
+				disable_toast: true
+				id: "0D393E780A13B75E"
+				item: { count: 1, id: "oritech:platinum_gem" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+	]
+}

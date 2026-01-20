@@ -1,0 +1,1047 @@
+{
+	autofocus_id: "3120C584B2C0577E"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "spore"
+	group: "30139823639D80EC"
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"ftbquests:icon": "spore:textures/mob_effect/marker.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "32F8B67559CA3FE0"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependent_lines: true
+			hide_details_until_startable: true
+			icon: {
+				id: "spore:blomfung"
+			}
+			id: "3120C584B2C0577E"
+			invisible: true
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "deep_aether:sun_core"
+				}
+				id: "1A81BA9350B2B38B"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "52B9AE2D79BF3604"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_human"
+				id: "6D781D0E98F7335A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "508EF423A94783E5"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_husk"
+				id: "662347AD29D43E9E"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "774F7C74EFC00F8C"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_drowned"
+				id: "7670E1F79239DAE2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "39B35ACE70A2E823"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_villager"
+				id: "6941620EA4FCF272"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6974A828EFA2304D"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_diseased_villager"
+				id: "64DF6BDA6C63D40D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "4391942E76DEF947"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_wanderer"
+				id: "742CD24641D0FA3F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "1522131524C03BD1"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_witch"
+				id: "6D91439926BB22A4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "18C1130C90E6066C"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_pillager"
+				id: "548B21D68904AB47"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6F1B0B85D3F7D8C0"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_player"
+				id: "6AF5839D258FE9E9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "31A5582828F29CFF"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_hazmat"
+				id: "6396912468B7DE75"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "3125F9BC57A88E35"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:knight"
+				id: "33BEA8DC66675A5F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "45961D30563CC618"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:griefer"
+				id: "681396EA848A39E3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "078D1B5023BD0CCD"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:braiomil"
+				id: "7A14AC988142647D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6D3C77368E2208D2"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:thorn"
+				id: "1EA6CFC6415F2A54"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "330F68EC4F0F14AC"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:busser"
+				id: "4D227D18C444EB58"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6B287D707BB93BE5"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:jagd"
+				id: "4A295DA991178CB8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "7A990A5F253BD3E0"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:bloater"
+				id: "752D37E745836639"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "64A4B796532E5757"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:naiad"
+				id: "7CA648957AB8F853"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "67E725CB096C4115"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:scavenger"
+				id: "5EEA2C5932F3F833"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "0D1944FA2AABAE35"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:leaper"
+				id: "4D06E8354AAB14FA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "5B7F77DD73FA0EDD"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:mephitic"
+				id: "0C2C1C0E8835D8A7"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "37441FE07AC7D70E"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:slasher"
+				id: "37943F1261E9BB14"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "15C715891DF1923B"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:volatile"
+				id: "3F339D42C93CEA3D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "1BF40AD584A7B504"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:spitter"
+				id: "1C736E67B4DDF69B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "615E734F03D99881"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:howler"
+				id: "4E6276F0ED719D54"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "484CE012B772FEB6"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:brute"
+				id: "500CE48675882C25"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "5ADB7D6FBA7B786D"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:stalker"
+				id: "6B950C0A241766BD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "2E7BCA35CAED22F3"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:nuclea"
+				id: "2A80221AAA09C7B2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "38DA635A705ADFA6"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:protector"
+				id: "6EDFB659A1A62564"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "0A4661AA095968BD"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_vindicator"
+				id: "4835AF21F1005C17"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "10C73ACB946340D8"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:chemist"
+				id: "4A79850332F64D03"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "5C9793A28F74A837"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_evoker"
+				id: "475FCA08FAE4F387"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "3A7D803CB28BB4BC"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inebriater"
+				id: "1F7E6661B3BB3CD5"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "1A94F50B0561DAFF"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inquisitor"
+				id: "0C44FA49DA05089A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6C2FB262C5292F93"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:brot"
+				id: "340514C509954987"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "3E9DFB29A4A5548A"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:wendigo"
+				id: "23A1A40CC8CF7B88"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "2656DDADFB41E6AE"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:ogre"
+				id: "67110931237CD061"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "46FDD25E0EEC4815"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:hvindicator"
+				id: "6F29751142859709"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "0EB817CB40D7E5E7"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:hevoker"
+				id: "17A4E84F9483401E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "799F8AC34E0B9CF3"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:bairn"
+				id: "69EF428473CABA15"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6D4DEB233EE0D527"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:scamper"
+				id: "39BF8FE3E83D8063"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "6AB0898A2F767F5B"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:gastgaber"
+				id: "0554932DD7CBE880"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "49A3B25B4960EDE1"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:specter"
+				id: "42679E4E6969A344"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "0348C3584E80BE4A"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:vanguard"
+				id: "19245DA7E02CF9F0"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "550F1C2B3520DF6D"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:inf_contruct"
+				id: "2C2F95F631F6B942"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			id: "608C7235E0CCDCED"
+			invisible: true
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "spore:illusion_spawnegg"
+				}
+				id: "136B197090BCE94A"
+				observe_type: 5
+				timer: 0L
+				to_observe: "spore:illusion"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "39024D2C2D286A4A"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:umarmed"
+				id: "2956692E60D6A63D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "75870B52198C9E59"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:usurper"
+				id: "3974FA2EA9BB5323"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "1040C146F7E7A5E4"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:vigil"
+				id: "3CD108F016BA5C16"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "2E5DE4387B39065B"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:braurei"
+				id: "0B1A680AD29B1E26"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "3D2758ED80233953"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:verva"
+				id: "1077F51EEDA7D30B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "1CF88179E4D1F9A0"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:delusioner"
+				id: "78684D0C0B90F5AE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "0D0FE177CB154C53"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:reconstructor"
+				id: "7259CFA6F90667CC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "66F0BD6805905B1D"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:proto"
+				id: "452E7D9EC30090A8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "7144E2A5F89A6757"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:mound"
+				id: "0FDDA7F06172C58D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "75414A184750D591"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:sieger"
+				id: "4A629DE896255A76"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "02B4C1B6A220AFF2"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:howitzer"
+				id: "7451FD0242C84FFB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "5AA05A032682DC4E"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:hohlfresser"
+				id: "503BBCEC11E6E624"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "216109C11FA4A6AF"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:gazenbreacher"
+				id: "12A901AFC6B8A3F6"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "2DD43F99BD4CC090"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:kraken"
+				id: "5275ABF9DB224817"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "49F6F27EBDA6D255"
+			tasks: [{
+				disable_toast: true
+				entity: "spore:hindenburg"
+				id: "3AC8467CC56DB65D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			id: "7AF3AC2E656AC27E"
+			invisible: true
+			optional: true
+			tasks: [{
+				disable_toast: true
+				icon: {
+					components: {
+						"ftbquests:icon": "spore:textures/mob_effect/mycelium_ef.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "18BF498E95684155"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			id: "22DFCB8538654849"
+			invisible: true
+			optional: true
+			tasks: [{
+				disable_toast: true
+				icon: {
+					components: {
+						"ftbquests:icon": "spore:textures/mob_effect/madness.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "44409E6178ACA35B"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			id: "6472E793795F1AEF"
+			invisible: true
+			optional: true
+			tasks: [{
+				disable_toast: true
+				icon: {
+					components: {
+						"ftbquests:icon": "spore:textures/mob_effect/symbiosis.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "50BBBE66652A2EDC"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3C7E3EAEC9ADB7D1"]
+			id: "27DCB787817FB2E6"
+			tasks: [{
+				disable_toast: true
+				id: "14EF7F8EBE2A451F"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(spore:weapons))", "minecraft:custom_name": "\"Infected Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27DCB787817FB2E6"]
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
+			id: "79BB612059CB8117"
+			tasks: [{
+				disable_toast: true
+				id: "12B38735C513132D"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(spore:reagents))", "minecraft:custom_name": "\"Reagents\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["27DCB787817FB2E6"]
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
+			id: "509408D446D71587"
+			tasks: [{
+				disable_toast: true
+				id: "207E0386A0F53C86"
+				item: { components: { "ftbfiltersystem:filter": "or(item(spore:vampiric_syringe)item(spore:calcified_syringe)item(spore:bezerk_syringe)item(spore:toxic_syringe)item(spore:rotten_syringe)item(spore:reinforced_syringe)item(spore:skeletal_syringe)item(spore:drowned_syringe)item(spore:charred_syringe)item(spore:syringe)item(spore:mutation_syringe))", "minecraft:custom_name": "\"Blood Samples\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			id: "65E166D9E3B5E57F"
+			tasks: [{
+				disable_toast: true
+				id: "01C2E9EF56847192"
+				item: { count: 1, id: "spore:container" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["10415AE7AC504855"]
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
+			id: "3286E44EA851FA9E"
+			tasks: [{
+				disable_toast: true
+				id: "044522AD6BD62298"
+				item: { count: 1, id: "spore:cdu" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "10415AE7AC504855"
+			tasks: [{
+				disable_toast: true
+				id: "195AA3D117A5440A"
+				item: { count: 1, id: "spore:ice_canister" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			id: "3C7E3EAEC9ADB7D1"
+			tasks: [{
+				disable_toast: true
+				id: "20FDEDE2822E88FB"
+				item: { count: 1, id: "spore:surgery_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

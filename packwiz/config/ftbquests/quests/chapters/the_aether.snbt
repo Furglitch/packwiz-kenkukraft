@@ -1,0 +1,295 @@
+{
+	autofocus_id: "0BDF530897331095"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_aether"
+	group: "1500059CA7CB7A29"
+	icon: {
+		id: "aether:skyroot_log"
+	}
+	id: "0B8427CE5EC2DB2B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "aether:item/miscellaneous/aether_portal_frame"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0BDF530897331095"
+			size: 3.0d
+			tasks: [{
+				dimension: "aether:the_aether"
+				disable_toast: true
+				icon: {
+					components: {
+						"ftbquests:icon": "aether:block/miscellaneous/aether_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "04456A5B68E8A822"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0BDF530897331095"]
+			disable_toast: true
+			icon: {
+				id: "aether:bronze_dungeon_key"
+			}
+			id: "6E7C290EFBEA2D41"
+			tasks: [
+				{
+					disable_toast: true
+					id: "3292B73399DD92CA"
+					item: { count: 1, id: "aether:bronze_dungeon_key" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "1830D3581526B4A9"
+					structure: "aether:bronze_dungeon"
+					type: "structure"
+				}
+			]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6E7C290EFBEA2D41"]
+			id: "412B17AF6786BAA6"
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				entity: "aether:slider"
+				id: "53205E148086806C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0BDF530897331095"]
+			disable_toast: true
+			icon: {
+				id: "aether:silver_dungeon_key"
+			}
+			id: "5CF9B9BB0305CC0D"
+			tasks: [
+				{
+					disable_toast: true
+					id: "32C7A56696766FCF"
+					item: { count: 1, id: "aether:silver_dungeon_key" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "4CBE98B1E73B0574"
+					structure: "aether:silver_dungeon"
+					type: "structure"
+				}
+			]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0BDF530897331095"]
+			disable_toast: true
+			icon: {
+				id: "aether:gold_dungeon_key"
+			}
+			id: "1923F5373BAC5326"
+			tasks: [
+				{
+					disable_toast: true
+					id: "2412151CEBADA7B5"
+					item: { count: 1, id: "aether:gold_dungeon_key" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0CD8AE5D8392B610"
+					structure: "aether:gold_dungeon"
+					type: "structure"
+				}
+			]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5CF9B9BB0305CC0D"]
+			id: "0885E0D20E59B8A2"
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				entity: "aether:valkyrie_queen"
+				id: "0E5AF9C822D7113D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1923F5373BAC5326"]
+			id: "4583ED9CE52C266C"
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				entity: "aether:sun_spirit"
+				id: "2109C034233FE78A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0BDF530897331095"]
+			disable_toast: true
+			icon: {
+				id: "aether:skyroot_pickaxe"
+			}
+			id: "47344BA7A876930E"
+			tasks: [{
+				disable_toast: true
+				id: "6528E3DC9B169DAA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aether:skyroot_sword)item(aether:skyroot_pickaxe)item(aether:skyroot_axe)item(aether:skyroot_shovel)item(aether:skyroot_hoe))", "minecraft:custom_name": "\"Skyroot Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["62A385065D4AAAE7"]
+			disable_toast: true
+			icon: {
+				id: "aether:gravitite_pickaxe"
+			}
+			id: "7331235938B138C2"
+			tasks: [{
+				disable_toast: true
+				id: "5B16C88A9007814D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aether:gravitite_sword)item(aether:gravitite_shovel)item(aether:gravitite_pickaxe)item(aether:gravitite_axe)item(aether:gravitite_hoe)item(aether:gravitite_helmet)item(aether:gravitite_chestplate)item(aether:gravitite_leggings)item(aether:gravitite_boots)item(aether:gravitite_gloves))", "minecraft:custom_name": "\"Gravitite Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["47344BA7A876930E"]
+			disable_toast: true
+			icon: {
+				id: "aether:holystone_pickaxe"
+			}
+			id: "321106961E89DD3E"
+			tasks: [{
+				disable_toast: true
+				id: "70FCEB192F404426"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aether:holystone_sword)item(aether:holystone_pickaxe)item(aether:holystone_axe)item(aether:holystone_shovel)item(aether:holystone_hoe))", "minecraft:custom_name": "\"Holystone Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["321106961E89DD3E"]
+			disable_toast: true
+			icon: {
+				id: "aether:zanite_pickaxe"
+			}
+			id: "62A385065D4AAAE7"
+			tasks: [{
+				disable_toast: true
+				id: "0845D3F8CD17182C"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aether:zanite_sword)item(aether:zanite_shovel)item(aether:zanite_pickaxe)item(aether:zanite_axe)item(aether:zanite_hoe)item(aether:zanite_helmet)item(aether:zanite_chestplate)item(aether:zanite_leggings)item(aether:zanite_boots)item(aether:zanite_gloves))", "minecraft:custom_name": "\"Zanite Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0BDF530897331095"]
+			disable_toast: true
+			id: "4B9A406AE31DE4FF"
+			tasks: [{
+				disable_toast: true
+				id: "304B6505AACA95F8"
+				item: { count: 1, id: "aether:incubator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0BDF530897331095"]
+			disable_toast: true
+			id: "2706A7F16056744E"
+			tasks: [
+				{
+					disable_toast: true
+					id: "40A98FD5FF4437D7"
+					item: { count: 1, id: "deep_aether:brass_dungeon_key" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "763E7EDC0418FD9F"
+					optional_task: true
+					structure: "deep_aether:brass_dungeon"
+					type: "structure"
+				}
+			]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2706A7F16056744E"]
+			id: "344CE2C176157B5A"
+			optional: true
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				entity: "deep_aether:eots_controller"
+				icon: {
+					id: "cataclysm:storm_eye"
+				}
+				id: "51CC4820082BE060"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7331235938B138C2"]
+			disable_toast: true
+			icon: {
+				id: "deep_aether:stratus_pickaxe"
+			}
+			id: "20CEEA3810F99B57"
+			tasks: [
+				{
+					disable_toast: true
+					id: "22C8DD1790458F92"
+					item: { count: 1, id: "deep_aether:stratus_smithing_template" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "64177C4AB4B3C5A6"
+					item: { components: { "ftbfiltersystem:filter": "or(item(deep_aether:stratus_sword)item(deep_aether:stratus_shovel)item(deep_aether:stratus_pickaxe)item(deep_aether:stratus_axe)item(deep_aether:stratus_hoe)item(deep_aether:stratus_helmet)item(deep_aether:stratus_chestplate)item(deep_aether:stratus_leggings)item(deep_aether:stratus_boots)item(deep_aether:stratus_gloves))", "minecraft:custom_name": "\"Stratus Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -4.0d
+		}
+	]
+}

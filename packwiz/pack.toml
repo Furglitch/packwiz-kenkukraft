@@ -1,6 +1,6 @@
-name = "KenkuKraft"
+name = "KenkuKraft: Infected"
 author = "furglitch"
-version = "2.1.2"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]

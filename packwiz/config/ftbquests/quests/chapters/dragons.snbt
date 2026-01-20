@@ -1,0 +1,300 @@
+{
+	autofocus_id: "742247495569F4F4"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dragons"
+	group: "30139823639D80EC"
+	icon: {
+		components: {
+			"ftbquests:icon": "dragonsurvival:textures/gui/ds_logo.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "5518AECF819F2D90"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "dragonsurvival:textures/ability_effect/fire_immunity.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.8d
+			id: "742247495569F4F4"
+			shape: "diamond"
+			size: 3.0d
+			tasks: [{
+				disable_toast: true
+				id: "711DB8D70C2E1F3E"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "579B8876095F280C"
+			tasks: [{
+				disable_toast: true
+				id: "0DFE1389F0A7836A"
+				item: { count: 1, id: "griffin_ds:griffin_nest" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "dragonsurvival:stone_dragon_altar"
+			}
+			id: "4A613161039FB24F"
+			tasks: [{
+				disable_toast: true
+				id: "66F44297A152A11D"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(dragonsurvival:dragon_altars)", "minecraft:custom_name": "\"Dragon Altar\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			disable_toast: true
+			id: "67DE38EE5BF34237"
+			tasks: [{
+				disable_toast: true
+				id: "683039BCB7C1661F"
+				item: { count: 1, id: "dragonsurvival:dragon_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "070BE1244126FB19"
+			tasks: [{
+				disable_toast: true
+				id: "22B69F92CFC58146"
+				item: { count: 1, id: "dragonsurvival:star_bone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			id: "22AACE1D712B7E41"
+			tasks: [{
+				disable_toast: true
+				id: "6E2905F2934EFB10"
+				item: { count: 1, id: "dragonsurvival:star_heart" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			id: "161F95D46B108384"
+			tasks: [{
+				disable_toast: true
+				id: "1E57C91B8049333D"
+				item: { count: 1, id: "dragonsurvival:elder_dragon_dust" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			disable_toast: true
+			id: "35FE75D5E3EA4E57"
+			tasks: [{
+				disable_toast: true
+				id: "40FA16682830C0EB"
+				item: { count: 1, id: "dragonsurvival:elder_dragon_bone" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			disable_toast: true
+			id: "768F2FB762F67F7E"
+			tasks: [{
+				disable_toast: true
+				id: "6F61E05095C0AA14"
+				item: { count: 1, id: "dragonsurvival:heart_element" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			id: "1C06F53037D0E414"
+			tasks: [{
+				disable_toast: true
+				id: "78C1B377E2F61817"
+				item: { count: 1, id: "dragonsurvival:weak_dragon_heart" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			id: "7A06BBEBBEC96096"
+			tasks: [{
+				disable_toast: true
+				id: "0E54B27C93D9AB66"
+				item: { count: 1, id: "dragonsurvival:elder_dragon_heart" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			id: "0F7062764A9B99A5"
+			tasks: [{
+				disable_toast: true
+				id: "08D90D7EB87E9747"
+				item: { count: 1, id: "dragonsurvival:light_upgrade" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			id: "50A988F418DADF0E"
+			tasks: [{
+				disable_toast: true
+				id: "32652D1E6A1719E7"
+				item: { count: 1, id: "dragonsurvival:dark_upgrade" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0F7062764A9B99A5"]
+			disable_toast: true
+			id: "7116249AFB961111"
+			tasks: [{
+				disable_toast: true
+				id: "67DD833AF5C1BBDF"
+				item: { count: 1, id: "dragonsurvival:light_dragon_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0F7062764A9B99A5"]
+			disable_toast: true
+			id: "69EF84BFAA887306"
+			tasks: [{
+				disable_toast: true
+				id: "11FC342A940263AE"
+				item: { count: 1, id: "dragonsurvival:light_dragon_chestplate" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0F7062764A9B99A5"]
+			disable_toast: true
+			id: "0C292507550B6637"
+			tasks: [{
+				disable_toast: true
+				id: "4104E957922D4544"
+				item: { count: 1, id: "dragonsurvival:light_dragon_leggings" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0F7062764A9B99A5"]
+			disable_toast: true
+			id: "069E6985A5EEB20F"
+			tasks: [{
+				disable_toast: true
+				id: "682A1352616A90AE"
+				item: { count: 1, id: "dragonsurvival:light_dragon_boots" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["50A988F418DADF0E"]
+			disable_toast: true
+			id: "226EF21E74990D10"
+			tasks: [{
+				disable_toast: true
+				id: "232FA02767B478BA"
+				item: { count: 1, id: "dragonsurvival:dark_dragon_helmet" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["50A988F418DADF0E"]
+			disable_toast: true
+			id: "02EB4BBD7F9FB1AE"
+			tasks: [{
+				disable_toast: true
+				id: "205D063C5FFAD7DF"
+				item: { count: 1, id: "dragonsurvival:dark_dragon_chestplate" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["50A988F418DADF0E"]
+			disable_toast: true
+			id: "03B978020EFD3E94"
+			tasks: [{
+				disable_toast: true
+				id: "5CC70E11E2EF5D70"
+				item: { count: 1, id: "dragonsurvival:dark_dragon_leggings" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["50A988F418DADF0E"]
+			disable_toast: true
+			id: "0FBBDD86E2BA6001"
+			tasks: [{
+				disable_toast: true
+				id: "2A133CCBDB2D59BA"
+				item: { count: 1, id: "dragonsurvival:dark_dragon_boots" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			disable_toast: true
+			id: "0F7E8E990AB9919B"
+			tasks: [{
+				disable_toast: true
+				id: "4DB5C72247408DFF"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(dragonsurvival:wooden_dragon_doors)item_tag(dragonsurvival:small_wooden_dragon_doors))", "minecraft:custom_name": "\"Dragon Doors\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+	]
+}

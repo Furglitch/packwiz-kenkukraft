@@ -1,0 +1,573 @@
+{
+	autofocus_id: "26396302590C6530"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "friends"
+	group: "30139823639D80EC"
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:textures/entity_icon/wolf/wolf.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "5F67175CE1A32003"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "7F82D1AF7EA179D5"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "ribbits:ribbit_nitwit_spawn_egg"
+				}
+				id: "62A189DEB046122F"
+				structure: "ribbits:ribbit_village"
+				type: "structure"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "0BB9E16B4AA4C91D"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "01721CCD9C8745E6"
+				item: { count: 1, id: "tradingpost:trading_post" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3A0D94D14FFA33B2"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "24A87FB8930BD9B8"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "6FEA5D724EEDDF8C"
+				item: { count: 1, id: "trading_floor:trading_depot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "2286399E10668FD3"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "4FDD59B665208FC3"
+				item: { count: 1, id: "barteringstation:bartering_station" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "21F806D4B526E0F6"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "57D1D0CAC10EDB35"
+				item: { count: 1, id: "farmingforblockheads:market" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "72F1441F7CE76230"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "75EF3671F8C94078"
+				item: { count: 1, id: "vendingblock:vending_block" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "5580380B6F40CEE4"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:textures/map/decorations/plains_village.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3E653AE5EAB93DF3"
+				structure: "#minecraft:village"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "62F9A108BAE3603D"
+			tasks: [{
+				disable_toast: true
+				id: "5483567077947B13"
+				item: { count: 1, id: "minecraft:barrel" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "47D8E21DA2C94AF5"
+			tasks: [{
+				disable_toast: true
+				id: "0E38A6A269407801"
+				item: { count: 1, id: "minecraft:blast_furnace" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "1B21012A59E76D8F"
+			tasks: [{
+				disable_toast: true
+				id: "3269F86400EED767"
+				item: { count: 1, id: "minecraft:brewing_stand" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "1032E1EC96C47D29"
+			tasks: [{
+				disable_toast: true
+				id: "0858CACD0563D4D9"
+				item: { count: 1, id: "minecraft:cartography_table" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "5585D16187585357"
+			tasks: [{
+				disable_toast: true
+				id: "5CEF54B5CF2156B4"
+				item: { count: 1, id: "minecraft:cauldron" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "76A4235FBF4F5CC1"
+			tasks: [{
+				disable_toast: true
+				id: "77F7E7868D79B4F9"
+				item: { count: 1, id: "minecraft:composter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "4BBE1A46E1815656"
+			tasks: [{
+				disable_toast: true
+				id: "5C6A7B155051FD1C"
+				item: { count: 1, id: "minecraft:fletching_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "223AF887C859E96D"
+			tasks: [{
+				disable_toast: true
+				id: "57E4ECDC6ABAC87A"
+				item: { count: 1, id: "minecraft:grindstone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "7724D513C7EF4DA7"
+			tasks: [{
+				disable_toast: true
+				id: "0A5120410ABA7578"
+				item: { count: 1, id: "minecraft:lectern" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "60A001D99F882D05"
+			tasks: [{
+				disable_toast: true
+				id: "6E0B6017D50FBA03"
+				item: { count: 1, id: "minecraft:loom" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "1FCF1F2FB7DF2B29"
+			tasks: [{
+				disable_toast: true
+				id: "0F88A8DE21388A27"
+				item: { count: 1, id: "minecraft:smithing_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "46D6880D60412C91"
+			tasks: [{
+				disable_toast: true
+				id: "799F12103AFD5CEA"
+				item: { count: 1, id: "minecraft:smoker" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "5B723E74678BC2E8"
+			tasks: [{
+				disable_toast: true
+				id: "46161FCC6E408BDE"
+				item: { count: 1, id: "minecraft:stonecutter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			disable_toast: true
+			id: "1B49C34D2BE233BA"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "69F24C17032CA216"
+				item: { count: 1, id: "morevillagers:gardening_table" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "66937DE7C119AEF2"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "195589E410DB40D2"
+				item: { count: 1, id: "morevillagers:hunting_post" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "614A1EFED3B2DC28"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "6BE81951CD299882"
+				item: { count: 1, id: "morevillagers:purpur_altar" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "613C488E0C148F52"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "1809F152BAAF4E25"
+				item: { count: 1, id: "morevillagers:mining_bench" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "6479FEBC76A79A59"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "57D51343384E3386"
+				item: { count: 1, id: "morevillagers:decayed_workbench" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "2CCF053832A3CB10"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "2207D80866C4568B"
+				item: { count: 1, id: "morevillagers:oceanography_table" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "256EB1EA64A3CEEA"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "7E0F6A16CCE2CA84"
+				item: { count: 1, id: "morevillagers:woodworking_table" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "3A49F2E48EE017E9"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "5D1DB7F06DD46261"
+				item: { count: 1, id: "morevillagers:gilded_station" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "4F0FFBE46C65510C"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "21518B1BAD8C6F67"
+				item: { count: 1, id: "morevillagers:chiller" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "35CAC3C7D57F51B2"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "24E87002683B29B9"
+				item: { count: 1, id: "morevillagers:blueprint_table" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			id: "0DAD96D84BB49BD4"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "563835ECCFA09589"
+				item: { count: 1, id: "pointblank:workstation" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			disable_toast: true
+			id: "3CD35ED27BC45664"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "4F4E192051623E76"
+				item: { count: 1, id: "biomeswevegone:foragers_table" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			disable_toast: true
+			id: "3F2A62425E272FCA"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "744A79F3FA413608"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			disable_toast: true
+			id: "6A2FEA8B9DACA19D"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "4A128E0F8914D559"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "26396302590C6530"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "6E1BAB436FD18AA5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "4550EEC5FE7A9FF8"
+			tasks: [{
+				disable_toast: true
+				id: "00AA1E8FCD07D80E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "18A49A89E2A7206F"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "minecraft:wolf_spawn_egg"
+				}
+				id: "5DE1AF4AE84A5938"
+				type: "custom"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "52C10DF5944FAB88"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "minecraft:cat_spawn_egg"
+				}
+				id: "23495EDE2A92BC50"
+				type: "custom"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "259D78853CDC5363"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "minecraft:horse_spawn_egg"
+				}
+				id: "4B46E8B042B5DB9B"
+				type: "custom"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "4ADDDE3A3EE9226E"
+			tasks: [{
+				disable_toast: true
+				icon: {
+					id: "minecraft:parrot_spawn_egg"
+				}
+				id: "3DEEFB0F126C600D"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "57723120D50F37CC"
+			invisible: true
+			tasks: [{
+				disable_toast: true
+				id: "057D373F80CDE214"
+				item: { count: 1, id: "pet_cemetery:pet_collar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["57723120D50F37CC"]
+			icon: {
+				id: "pet_cemetery:zombie_wolf_spawn_egg"
+			}
+			id: "2366E7D0CEDE316B"
+			tasks: [
+				{
+					disable_toast: true
+					id: "6907FED7C2CC05FE"
+					item: { count: 1, id: "minecraft:respawn_anchor" }
+					type: "item"
+				}
+				{
+					advancement: "pet_cemetery:nether/respawned_pet"
+					criterion: ""
+					disable_toast: true
+					icon: {
+						id: "pet_cemetery:zombie_wolf_spawn_egg"
+					}
+					id: "13FAAF4512B39EC3"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
+	]
+}

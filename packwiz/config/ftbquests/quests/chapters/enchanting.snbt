@@ -1,0 +1,521 @@
+{
+	autofocus_id: "23C07259D90495D8"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchanting"
+	group: "1C11D673425850BD"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "0186D42CA5F5D196"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "5F0697C6C797BF5D"
+			tasks: [{
+				disable_toast: true
+				id: "28465650C8379EEE"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:respiration\":1}}}))", "minecraft:custom_name": "\"Respiration\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "648687484644335D"
+			tasks: [{
+				disable_toast: true
+				id: "689864332455355E"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":1}}}))", "minecraft:custom_name": "\"Sharpness\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "1A0697C6C797BF5E"
+			tasks: [{
+				disable_toast: true
+				id: "38465650C8379EEF"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:aqua_affinity\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:aqua_affinity\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:aqua_affinity\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:aqua_affinity\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:aqua_affinity\":1}}}))", "minecraft:custom_name": "\"Aqua Affinity\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "2B0697C6C797BF5F"
+			tasks: [{
+				disable_toast: true
+				id: "48465650C8379EF0"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":1}}}))", "minecraft:custom_name": "\"Bane of Arthropods\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "3C0697C6C797BF60"
+			tasks: [{
+				disable_toast: true
+				id: "58465650C8379EF1"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":1}}}))", "minecraft:custom_name": "\"Blast Protection\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "4D0697C6C797BF61"
+			tasks: [{
+				disable_toast: true
+				id: "68465650C8379EF2"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:breach\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:breach\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:breach\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:breach\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:breach\":1}}}))", "minecraft:custom_name": "\"Breach\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "5E0697C6C797BF62"
+			tasks: [{
+				disable_toast: true
+				id: "78465650C8379EF3"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:channeling\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:channeling\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:channeling\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:channeling\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:channeling\":1}}}))", "minecraft:custom_name": "\"Channeling\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "6F0697C6C797BF63"
+			tasks: [{
+				disable_toast: true
+				id: "6C0CAD025C855D67"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:density\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:density\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:density\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:density\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:density\":1}}}))", "minecraft:custom_name": "\"Density\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "4964FFD18C64C4F4"
+			tasks: [{
+				disable_toast: true
+				id: "61574AD968345C4E"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:depth_strider\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:depth_strider\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:depth_strider\":1}}}))", "minecraft:custom_name": "\"Depth Strider\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "36F829955145AFBD"
+			tasks: [{
+				disable_toast: true
+				id: "38459FDB8AB4874B"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":1}}}))", "minecraft:custom_name": "\"Efficiency\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "5AD0C435C2665473"
+			tasks: [{
+				disable_toast: true
+				id: "15F3B065B61CB27C"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":1}}}))", "minecraft:custom_name": "\"Feather Falling\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "5F919BF78E40A9BF"
+			tasks: [{
+				disable_toast: true
+				id: "2A7A370C5B41CE6C"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_aspect\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_aspect\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_aspect\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_aspect\":1}}}))", "minecraft:custom_name": "\"Fire Aspect\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "3E036BF86E4EE65B"
+			tasks: [{
+				disable_toast: true
+				id: "6577C8DEDFC42639"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fire_protection\":1}}}))", "minecraft:custom_name": "\"Fire Protection\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "2C63EE0F4910C7B0"
+			tasks: [{
+				disable_toast: true
+				id: "498340958E38D6FF"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:flame\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:flame\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:flame\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:flame\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:flame\":1}}}))", "minecraft:custom_name": "\"Flame\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "70A613CB6D7EE8C8"
+			tasks: [{
+				disable_toast: true
+				id: "70B000FEC9305445"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":1}}}))", "minecraft:custom_name": "\"Fortune\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "4B10ACA732EE8825"
+			tasks: [{
+				disable_toast: true
+				id: "361547E82A1E9C56"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:frost_walker\":1}}}))", "minecraft:custom_name": "\"Frost Walker\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "46E7FEE2C405F9CA"
+			tasks: [{
+				disable_toast: true
+				id: "00C7B5EB7868540A"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":1}}}))", "minecraft:custom_name": "\"Impaling\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "24CDA3D1DE4256B4"
+			tasks: [{
+				disable_toast: true
+				id: "5409671AE185940A"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":1}}}))", "minecraft:custom_name": "\"Knockback\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "5E2458F2A436CE3D"
+			tasks: [{
+				disable_toast: true
+				id: "44374D807A4CBD74"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":1}}}))", "minecraft:custom_name": "\"Looting\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "590298EB7EF868E7"
+			tasks: [{
+				disable_toast: true
+				id: "3BDF21CB115B0B3A"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":1}}}))", "minecraft:custom_name": "\"Loyalty\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "05E51C1DA7E7E388"
+			tasks: [{
+				disable_toast: true
+				id: "21A7C962AF4918BC"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":1}}}))", "minecraft:custom_name": "\"Luck of the Sea\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			id: "75B57783FF181F4D"
+			tasks: [{
+				disable_toast: true
+				id: "3312B76A695151E9"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":1}}}))", "minecraft:custom_name": "\"Lure\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			id: "23C07259D90495D8"
+			tasks: [{
+				disable_toast: true
+				id: "68C87324ACCA952E"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}))", "minecraft:custom_name": "\"Mending\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			id: "35FD527AC9A1821A"
+			tasks: [{
+				disable_toast: true
+				id: "0C5BE2737D869007"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:multishot\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:multishot\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:multishot\":1}}}))", "minecraft:custom_name": "\"Multishot\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			id: "1744C4452DD42380"
+			tasks: [{
+				disable_toast: true
+				id: "4CE2320CCAA83101"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:piercing\":1}}}))", "minecraft:custom_name": "\"Piercing\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			id: "647B49E04D181DB0"
+			tasks: [{
+				disable_toast: true
+				id: "649CE10E64455765"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":1}}}))", "minecraft:custom_name": "\"Power\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			id: "78553FD22BB2FE39"
+			tasks: [{
+				disable_toast: true
+				id: "7A28D9C70F0E57C0"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:projectile_protection\":1}}}))", "minecraft:custom_name": "\"Projectile Protection\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			id: "7552029854CDA243"
+			tasks: [{
+				disable_toast: true
+				id: "33AF7C84F143A981"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":1}}}))", "minecraft:custom_name": "\"Protection\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			id: "5583EF0A6D2ECB77"
+			tasks: [{
+				disable_toast: true
+				id: "7D75FB2D13E4B874"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:punch\":1}}}))", "minecraft:custom_name": "\"Punch\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			id: "225BF353D43E91B3"
+			tasks: [{
+				disable_toast: true
+				id: "49124B000C98AB7D"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:quick_charge\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:quick_charge\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:quick_charge\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:quick_charge\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:quick_charge\":1}}}))", "minecraft:custom_name": "\"Quick Charge\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "269260ACF640F926"
+			tasks: [{
+				disable_toast: true
+				id: "57F0134433B70716"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:riptide\":1}}}))", "minecraft:custom_name": "\"Riptide\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "21BFC63D09C37FB6"
+			tasks: [{
+				disable_toast: true
+				id: "2D39A79907F1EC2D"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":1}}}))", "minecraft:custom_name": "\"Smite\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "244B8F11489EE452"
+			tasks: [{
+				disable_toast: true
+				id: "1BB05F452ADD69EF"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:soul_speed\":1}}}))", "minecraft:custom_name": "\"Soul Speed\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			disable_toast: true
+			id: "782BBA31DEC631D2"
+			tasks: [{
+				disable_toast: true
+				id: "2635347B26CD0487"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":1}}}))", "minecraft:custom_name": "\"Sweeping Edge\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			disable_toast: true
+			id: "6DECD67D430E2E6D"
+			tasks: [{
+				disable_toast: true
+				id: "2383760ED9E6BC46"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:swift_sneak\":1}}}))", "minecraft:custom_name": "\"Swift Sneak\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			disable_toast: true
+			id: "07883DF8DC88F156"
+			tasks: [{
+				disable_toast: true
+				id: "06ECF08EB791C6E9"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":1}}}))", "minecraft:custom_name": "\"Thorns\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			disable_toast: true
+			id: "59A4FB8B206F69C6"
+			tasks: [{
+				disable_toast: true
+				id: "15AEB57ABB85AFF6"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":10}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":9}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":8}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":7}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":6}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":1}}}))", "minecraft:custom_name": "\"Unbreaking\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			disable_toast: true
+			id: "49111B0A4BA84DCA"
+			tasks: [{
+				disable_toast: true
+				id: "087A20F5FAB57DF7"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":5}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":4}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":3}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":2}}})component(fuzzy:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":1}}}))", "minecraft:custom_name": "\"Wind Burst\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			disable_toast: true
+			id: "081ED0ADF4FF0665"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "5F63F15D41175E5B"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			disable_toast: true
+			id: "189DB3E5B2DCB33A"
+			tasks: [{
+				disable_toast: true
+				id: "30B59C7423610E1C"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["189DB3E5B2DCB33A"]
+			disable_toast: true
+			id: "01D3FE26221C9814"
+			tasks: [{
+				disable_toast: true
+				id: "4E7050B4F16345D4"
+				item: { count: 1, id: "enchantinginfuser:enchanting_infuser" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["01D3FE26221C9814"]
+			disable_toast: true
+			id: "607ED8ACAC759E98"
+			tasks: [{
+				disable_toast: true
+				id: "4DCA8C2B0D968297"
+				item: { count: 1, id: "enchantinginfuser:advanced_enchanting_infuser" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.5d
+		}
+	]
+}

@@ -72,10 +72,10 @@
     - Moderately Enough Effect Descriptions
   - Just Enough Professions
   - Just Enough Resources
-- More Enchantment Info
+  - More Enchantment Info
 - Nemo's Inventory Sorting
-
 - Not Enough Recipe Book
+
 ### Minimap & Navigation
 - JourneyMap
 	- FTB Chunks
@@ -126,6 +126,7 @@
 - Ambient Sounds 6 Ⓒ
 - Extreme Sound Muffler Ⓒ
 - Lazyboy's No Global Sounds Ⓢ
+- Sound Physics Remastered
 - Sounds Ⓒ
 	- More Sound Ⓒ
 

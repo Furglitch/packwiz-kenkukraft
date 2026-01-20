@@ -1,0 +1,1138 @@
+{
+	autofocus_id: "7C793F3AC06F4FB5"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "armor"
+	group: "21D8B170AEFCC120"
+	icon: {
+		id: "minecraft:diamond_chestplate"
+	}
+	id: "44476F380A79ED88"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon: {
+				id: "minecraft:leather_helmet"
+			}
+			id: "719EB9CEFA7FD562"
+			tasks: [{
+				disable_toast: true
+				id: "6C605CA843FABC74"
+				item: { count: 1, id: "minecraft:leather_helmet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "116178EBF46E61DE"
+			tasks: [{
+				disable_toast: true
+				id: "70A1EE956D0B1ECA"
+				item: { count: 1, id: "minecraft:chainmail_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "47FA97C9DD97D6CC"
+			tasks: [{
+				disable_toast: true
+				id: "2E182BDEB897FAC4"
+				item: { count: 1, id: "minecraft:iron_helmet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "7F1C57F7426F746A"
+			tasks: [{
+				disable_toast: true
+				id: "697FE80F6DF30B95"
+				item: { count: 1, id: "minecraft:golden_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "0E363B8677FEE8F4"
+			tasks: [{
+				disable_toast: true
+				id: "2E27DAF0A85F41A2"
+				item: { count: 1, id: "minecraft:diamond_helmet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0E363B8677FEE8F4"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "44847D064F219654"
+			tasks: [{
+				disable_toast: true
+				id: "1A3CBC8DC1B94581"
+				item: { count: 1, id: "minecraft:netherite_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44847D064F219654"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "7B613809785A0D1F"
+			tasks: [{
+				disable_toast: true
+				id: "31309988ED48DC69"
+				item: { count: 1, id: "advancednetherite:netherite_iron_helmet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7B613809785A0D1F"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "2D63F5603F581AE2"
+			tasks: [{
+				disable_toast: true
+				id: "028BDA44B0D549FA"
+				item: { count: 1, id: "advancednetherite:netherite_gold_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2D63F5603F581AE2"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "300EC0D553294DDA"
+			tasks: [{
+				disable_toast: true
+				id: "616061973875089E"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_helmet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["300EC0D553294DDA"]
+			disable_toast: true
+			id: "3F44671814798379"
+			tasks: [{
+				disable_toast: true
+				id: "5EE0DC7D95C2C9EA"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			disable_toast: true
+			id: "65E77DD274F6C25A"
+			tasks: [{
+				disable_toast: true
+				id: "01D9EDE4AF913F78"
+				item: { count: 1, id: "minecraft:leather_chestplate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "3070ECC615D913AC"
+			tasks: [{
+				disable_toast: true
+				id: "0EBEE78687E21E7C"
+				item: { count: 1, id: "minecraft:leather_leggings" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "0C2C4B78EBDE9CF2"
+			tasks: [{
+				disable_toast: true
+				id: "2743A0F235A82978"
+				item: { count: 1, id: "minecraft:leather_boots" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "045507E4136F612F"
+			tasks: [{
+				disable_toast: true
+				id: "23866EF1E09C3F93"
+				item: { count: 1, id: "aether:leather_gloves" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "5B8A7047A415CBA9"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "49F7DAACC61F2665"
+				item: { count: 1, id: "minecraft:leather_horse_armor" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "12646C9CA78BA3FF"
+			tasks: [{
+				disable_toast: true
+				id: "06F1904E2ECAF448"
+				item: { count: 1, id: "minecraft:chainmail_chestplate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "4D0B666657B8E712"
+			tasks: [{
+				disable_toast: true
+				id: "4FA8D9B3123488C6"
+				item: { count: 1, id: "minecraft:chainmail_leggings" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "18AB0D11ADC62C32"
+			tasks: [{
+				disable_toast: true
+				id: "2A795B24CFD587F0"
+				item: { count: 1, id: "minecraft:chainmail_boots" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "254838BDD9AC3F2C"
+			tasks: [{
+				disable_toast: true
+				id: "369E57F500054C4A"
+				item: { count: 1, id: "aether:chainmail_gloves" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "58FC989C9FEEA227"
+			tasks: [{
+				disable_toast: true
+				id: "7FB0255D16677255"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "3A472EFF6C1672F1"
+			tasks: [{
+				disable_toast: true
+				id: "154A6E71771CA5E4"
+				item: { count: 1, id: "minecraft:iron_leggings" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "5E7915281A1F83D7"
+			tasks: [{
+				disable_toast: true
+				id: "5FCD6B767D19F04C"
+				item: { count: 1, id: "minecraft:iron_boots" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "24C36D3470AA08C8"
+			tasks: [{
+				disable_toast: true
+				id: "7B1B699DB4D180C9"
+				item: { count: 1, id: "aether:iron_gloves" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "2BD04547F086AB7D"
+			tasks: [{
+				disable_toast: true
+				id: "3A301D833DC6BBBD"
+				item: { count: 1, id: "minecraft:iron_horse_armor" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "6B82C7B4E01A1C76"
+			tasks: [{
+				disable_toast: true
+				id: "47139D8AC21AEAF0"
+				item: { count: 1, id: "minecraft:golden_chestplate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "49CA219C2FC6BCDB"
+			tasks: [{
+				disable_toast: true
+				id: "02D75CBE2975B53C"
+				item: { count: 1, id: "minecraft:golden_chestplate" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "5DFCB6C79B46BB47"
+			tasks: [{
+				disable_toast: true
+				id: "57B58897BB921B05"
+				item: { count: 1, id: "minecraft:golden_boots" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "2C0278206F611AD6"
+			tasks: [{
+				disable_toast: true
+				id: "3130AD725EB0A930"
+				item: { count: 1, id: "minecraft:golden_horse_armor" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			id: "10E01153CDB6E91A"
+			tasks: [{
+				disable_toast: true
+				id: "3E5ED97FD3A3C288"
+				item: { count: 1, id: "aether:golden_gloves" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "4AAF6164DF85264F"
+			tasks: [{
+				disable_toast: true
+				id: "531824353E1A5B52"
+				item: { count: 1, id: "minecraft:diamond_chestplate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "38778894C15F832C"
+			tasks: [{
+				disable_toast: true
+				id: "1B69BC42ABD01D9F"
+				item: { count: 1, id: "minecraft:diamond_leggings" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "1988E86E34CF842A"
+			tasks: [{
+				disable_toast: true
+				id: "74E264B1550A2109"
+				item: { count: 1, id: "minecraft:diamond_boots" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "1CD50C651AD7494E"
+			tasks: [{
+				disable_toast: true
+				id: "5116E921B10EE29D"
+				item: { count: 1, id: "aether:diamond_gloves" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4AAF6164DF85264F"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "290BE4A341B2D82C"
+			tasks: [{
+				disable_toast: true
+				id: "4D74C6B242F1E081"
+				item: { count: 1, id: "minecraft:netherite_chestplate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["38778894C15F832C"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "11D4FEB809E3F237"
+			tasks: [{
+				disable_toast: true
+				id: "420B124969B9F73D"
+				item: { count: 1, id: "minecraft:netherite_leggings" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1988E86E34CF842A"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "09B1344DC7672D59"
+			tasks: [{
+				disable_toast: true
+				id: "1C1C56FCE758AE44"
+				item: { count: 1, id: "minecraft:netherite_boots" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1CD50C651AD7494E"]
+			disable_toast: true
+			id: "019BD35032C97EAA"
+			tasks: [{
+				disable_toast: true
+				id: "74FE27F4BC660F25"
+				item: { count: 1, id: "aether:netherite_gloves" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "62791A77C7727084"
+			tasks: [{
+				disable_toast: true
+				id: "47F1CC881651E997"
+				item: { count: 1, id: "netherex:netherite_horse_armor" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			disable_toast: true
+			id: "5645E2450F117DCD"
+			tasks: [{
+				disable_toast: true
+				id: "5B4F910BCCAF250A"
+				item: { count: 1, id: "minecraft:diamond_horse_armor" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["290BE4A341B2D82C"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "7CB8A644C22DA9FC"
+			tasks: [{
+				disable_toast: true
+				id: "56E463619E58330F"
+				item: { count: 1, id: "advancednetherite:netherite_iron_chestplate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["11D4FEB809E3F237"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "059052DE3D25D60E"
+			tasks: [{
+				disable_toast: true
+				id: "2F1B09CF3415130F"
+				item: { count: 1, id: "advancednetherite:netherite_iron_leggings" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["09B1344DC7672D59"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "418D5AEB8E7E41BE"
+			tasks: [{
+				disable_toast: true
+				id: "3FE46B9B7E8E64AE"
+				item: { count: 1, id: "advancednetherite:netherite_iron_boots" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7CB8A644C22DA9FC"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "155F65A2D4C5F5DA"
+			tasks: [{
+				disable_toast: true
+				id: "47E6476A85D7B4FC"
+				item: { count: 1, id: "advancednetherite:netherite_gold_chestplate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["059052DE3D25D60E"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "1115C765141ED360"
+			tasks: [{
+				disable_toast: true
+				id: "77EE8CA0C42E0D9F"
+				item: { count: 1, id: "advancednetherite:netherite_gold_leggings" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["418D5AEB8E7E41BE"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "04E9BF81138DF69B"
+			tasks: [{
+				disable_toast: true
+				id: "58C97D1561B64CB9"
+				item: { count: 1, id: "advancednetherite:netherite_gold_boots" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["155F65A2D4C5F5DA"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "4B8F456B126545DA"
+			tasks: [{
+				disable_toast: true
+				id: "41BE9189AF3C447B"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_chestplate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1115C765141ED360"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "3A268E05D83ABF3E"
+			tasks: [{
+				disable_toast: true
+				id: "61CD674C24DB1372"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_leggings" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["04E9BF81138DF69B"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "589EBE9C78C28228"
+			tasks: [{
+				disable_toast: true
+				id: "718AB23C1F7673A2"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_boots" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["4B8F456B126545DA"]
+			disable_toast: true
+			id: "50E945DE8C601354"
+			tasks: [{
+				disable_toast: true
+				id: "196667F8748D70E0"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_chestplate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3A268E05D83ABF3E"]
+			disable_toast: true
+			id: "77E5A1CA8F8070C7"
+			tasks: [{
+				disable_toast: true
+				id: "137906C828AE4F9F"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_leggings" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["589EBE9C78C28228"]
+			disable_toast: true
+			id: "526CF405FF46B9D0"
+			tasks: [{
+				disable_toast: true
+				id: "3B2BC284B3CCE273"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_boots" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "minecraft:leather"
+			}
+			id: "72EFBADCEFBB9E0A"
+			tasks: [
+				{
+					disable_toast: true
+					id: "3BC4B050E7CF7965"
+					item: { count: 1, id: "minecraft:leather_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "16AD294D01963E3D"
+					item: { count: 1, id: "minecraft:leather_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5E4CB868469FAFDD"
+					item: { count: 1, id: "minecraft:leather_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "15A249EAC37DACEF"
+					item: { count: 1, id: "minecraft:leather_boots" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "060C00A0753E5E97"
+					item: { count: 1, id: "aether:leather_gloves" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "41FE21CBD7754C91"
+					item: { count: 1, id: "minecraft:leather_horse_armor" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chain"
+			}
+			id: "171A7E432CEE4211"
+			tasks: [
+				{
+					disable_toast: true
+					id: "48FE09FB0B0C53E0"
+					item: { count: 1, id: "minecraft:chainmail_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "1978B64B14494798"
+					item: { count: 1, id: "minecraft:chainmail_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7BD45E444892F961"
+					item: { count: 1, id: "minecraft:chainmail_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0B795C32922B8D50"
+					item: { count: 1, id: "minecraft:chainmail_boots" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "70DE0E1464004E10"
+					item: { count: 1, id: "aether:chainmail_gloves" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "5475D71E3AEAECF1"
+			tasks: [
+				{
+					disable_toast: true
+					id: "4115FC9109C919F1"
+					item: { count: 1, id: "minecraft:iron_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3C66351ED456913E"
+					item: { count: 1, id: "minecraft:iron_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5D1B7B8C2C1133AF"
+					item: { count: 1, id: "minecraft:iron_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3B4A0CD2D29D1DB7"
+					item: { count: 1, id: "minecraft:iron_boots" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "10B7B3C130E42ADB"
+					item: { count: 1, id: "aether:iron_gloves" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "2BDA8D59CFC2009E"
+					item: { count: 1, id: "minecraft:iron_horse_armor" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "5E273D4B26ED3E85"
+			tasks: [
+				{
+					disable_toast: true
+					id: "798A569EE3A85C33"
+					item: { count: 1, id: "minecraft:golden_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "6E595993F0B0F9A6"
+					item: { count: 1, id: "minecraft:golden_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5037E92573833B7D"
+					item: { count: 1, id: "minecraft:golden_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5DFDF54BA4019823"
+					item: { count: 1, id: "minecraft:golden_boots" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "35D0C01BA7A8918B"
+					item: { count: 1, id: "aether:golden_gloves" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "32F0C25484A8AF65"
+					item: { count: 1, id: "minecraft:golden_horse_armor" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			hide_dependent_lines: true
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "5D4A30444906455C"
+			tasks: [
+				{
+					disable_toast: true
+					id: "50B0E6F3B4A8F471"
+					item: { count: 1, id: "minecraft:diamond_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "4DE6841D296EB945"
+					item: { count: 1, id: "minecraft:diamond_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "78FB58298DF89F25"
+					item: { count: 1, id: "minecraft:diamond_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0592D06DF260BA43"
+					item: { count: 1, id: "minecraft:diamond_boots" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "2DFE0F57C8554175"
+					item: { count: 1, id: "aether:diamond_gloves" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "2C863197A4B08490"
+					item: { count: 1, id: "minecraft:diamond_horse_armor" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5D4A30444906455C"]
+			hide_dependent_lines: true
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "252361EEB16ADBEA"
+			tasks: [
+				{
+					disable_toast: true
+					id: "291BAF9208B50106"
+					item: { count: 1, id: "minecraft:netherite_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "075166690E937F80"
+					item: { count: 1, id: "minecraft:netherite_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "127B21023A120967"
+					item: { count: 1, id: "minecraft:netherite_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "620FCF57EB407EB3"
+					item: { count: 1, id: "minecraft:netherite_boots" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "04CAECD12223A8AF"
+					item: { count: 1, id: "aether:netherite_gloves" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "1DF90240AD4C1764"
+					item: { count: 1, id: "netherex:netherite_horse_armor" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["252361EEB16ADBEA"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_iron_ingot"
+			}
+			id: "67479735C3894977"
+			tasks: [
+				{
+					disable_toast: true
+					id: "4D1705E658E14BC7"
+					item: { count: 1, id: "advancednetherite:netherite_iron_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7EC0C79B6742172D"
+					item: { count: 1, id: "advancednetherite:netherite_iron_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5CA1E2855ECD93E1"
+					item: { count: 1, id: "advancednetherite:netherite_iron_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5212B8A484728D69"
+					item: { count: 1, id: "advancednetherite:netherite_iron_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["67479735C3894977"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_gold_ingot"
+			}
+			id: "50C6FF587E2113C6"
+			tasks: [
+				{
+					disable_toast: true
+					id: "7257CF621A67C4DC"
+					item: { count: 1, id: "advancednetherite:netherite_gold_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3AC6AA1699FC3EB2"
+					item: { count: 1, id: "advancednetherite:netherite_gold_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "0CA4833905B768DC"
+					item: { count: 1, id: "advancednetherite:netherite_gold_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "1512A3DEBBE5853C"
+					item: { count: 1, id: "advancednetherite:netherite_gold_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["50C6FF587E2113C6"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_emerald_ingot"
+			}
+			id: "14951AFA747EE747"
+			tasks: [
+				{
+					disable_toast: true
+					id: "122C3EB03EEB5482"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "668C91C3EC07D861"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "2CBF928862FEAA79"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "36CF3EE05C2C153E"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["14951AFA747EE747"]
+			icon: {
+				id: "advancednetherite:netherite_diamond_ingot"
+			}
+			id: "00529EA42542E363"
+			tasks: [
+				{
+					disable_toast: true
+					id: "1DC1AE32BE3FDF18"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_helmet" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "40BF0E2753EF3B29"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_chestplate" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "5C759F60BA9A2168"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_leggings" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "34E4B8CE662ED592"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "minecraft:vex_armor_trim_smithing_template"
+			}
+			id: "70AA0E1FEDFA1B6D"
+			tasks: [
+				{
+					disable_toast: true
+					id: "78D5B706AAF6C466"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:trim_templates))not(or(item(deep_aether:stratus_smithing_template)))", "minecraft:custom_name": "\"Trim Templates\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "593E0AD35168301D"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:trim_materials))", "minecraft:custom_name": "\"Trim Materials\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "7C793F3AC06F4FB5"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "68D6B353CC3530B7"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+	]
+}

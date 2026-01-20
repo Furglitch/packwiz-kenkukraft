@@ -1,0 +1,205 @@
+{
+	autofocus_id: "0B0869095AE2C898"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gear"
+	group: "21D8B170AEFCC120"
+	icon: {
+		id: "toolbelt:belt"
+	}
+	id: "24D7D2B3129C7E07"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "crafting_on_a_stick:crafting_table"
+			}
+			id: "31DF8E1BAEB2FB19"
+			tasks: [{
+				disable_toast: true
+				id: "4F4D059B509FD220"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(crafting_on_a_stick))", "minecraft:custom_name": "\"Crafting Stations on Sticks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "buildinggadgets2:gadget_building"
+			}
+			id: "38E114AB4E9EB42A"
+			tasks: [{
+				disable_toast: true
+				id: "0C1AB5D39C9BBCE6"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(kenkukraft:filters_building_gadgets))", "minecraft:custom_name": "\"Building Gadgets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "constructionwand:diamond_wand"
+			}
+			id: "170ECC5E57550DFA"
+			tasks: [{
+				disable_toast: true
+				id: "1F5DB3B730631054"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(constructionwand))not(or(item(constructionwand:core_angel)item(constructionwand:core_destruction)))", "minecraft:custom_name": "\"Construction Wands\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			id: "7E22581ABF73ECE4"
+			tasks: [{
+				disable_toast: true
+				id: "1B86B7F3D01D95B2"
+				item: { count: 1, id: "rechiseled:chisel" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "utilitarian:trowel"
+			}
+			id: "0770AC37F4B27219"
+			tasks: [{
+				disable_toast: true
+				id: "467B19CA4C9BF16C"
+				item: { components: { "ftbfiltersystem:filter": "or(item(utilitarian:trowel)item(mechtrowel:mech_trowel))", "minecraft:custom_name": "\"Trowels\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "toolbelt:belt"
+			}
+			id: "603A25FA317129AC"
+			tasks: [
+				{
+					disable_toast: true
+					id: "617F90A37F18F4C1"
+					item: { count: 1, id: "toolbelt:belt" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "48D0FCD71AB6FFD6"
+					item: { count: 1, id: "toolbelt:pouch" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "6812335FE43FB00A"
+			tasks: [{
+				disable_toast: true
+				id: "44CFB64EC69A1810"
+				item: { count: 1, id: "shrink:shrinking_device" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "compactmachines:personal_shrinking_device"
+			}
+			id: "6E63C73551BF3EDD"
+			tasks: [
+				{
+					disable_toast: true
+					id: "521327F775C40741"
+					item: { count: 1, id: "compactmachines:personal_shrinking_device" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "01D50C7C6281B45E"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(compactmachines:machine))", "minecraft:custom_name": "\"Compact Machines\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			id: "4642D0F7C90EA957"
+			tasks: [{
+				disable_toast: true
+				id: "4BA745E86095B803"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(ender_pack)mod(sophisticatedbackpacks)mod(travelersbackpack))item_tag(accessories:back)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "5CDA3C0030BA3850"
+			tasks: [{
+				disable_toast: true
+				id: "7D35107D7C57A937"
+				item: { components: { "ftbfiltersystem:filter": "or(item(explorerscompass:explorerscompass)item(naturescompass:naturescompass))", "minecraft:custom_name": "\"Exploration Compasses\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "50150BAFB6010538"
+			tasks: [
+				{
+					disable_toast: true
+					id: "076289FD170ACC89"
+					item: { components: { "ftbfiltersystem:filter": "or(mod(create_jetpack)item_tag(create_sa:jetpack)item(mekanism:jetpack)item(mekanism:jetpack_armored)item(oritech:jetpack)item(oritech:exo_jetpack)item(oritech:jetpack_elytra)item(oritech:jetpack_exo_elytra))", "minecraft:custom_name": "\"Jetpacks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2D22D884FAD1646D"
+					item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:elytra)item(createcardboardthings:cardboard_elytra))", "minecraft:custom_name": "\"Elytras\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			id: "383755000972D087"
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "0B0869095AE2C898"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "07A9DC128403F41E"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "version": "2.2.0",
+        "releasedAt": "XXX",
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/XXX/download"
+            }
+        },
+        "updateType": "incompatible"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+	autofocus_id: "2EA294C4528B437D"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	disable_toast: true
+	filename: "kenkukraft"
+	group: ""
+	icon: {
+		id: "minecraft:mycelium"
+	}
+	id: "598791F99B2800CD"
+	images: [{
+		height: 3.0d
+		image: "minecraft:textures/gui/title/title.png"
+		rotation: 0.0d
+		width: 13.0d
+		x: 0.0d
+		y: -3.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependent_lines: true
+			icon: {
+				id: "farmersdelight:red_mushroom_colony"
+			}
+			id: "2EA294C4528B437D"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				icon: {
+					id: "endrem:undead_soul"
+				}
+				id: "76C6FA163D435390"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2EA294C4528B437D"]
+			disable_toast: true
+			id: "69306BE199844333"
+			tasks: [{
+				disable_toast: true
+				id: "387E81B65DE90092"
+				item: { count: 1, id: "akashictome:tome" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "48A46771BC7333F9"
+			tasks: [{
+				disable_toast: true
+				id: "68F20B2B2DDBC037"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+}

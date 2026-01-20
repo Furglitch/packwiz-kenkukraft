@@ -1,0 +1,274 @@
+{
+	autofocus_id: "0B2A9C64EAFD4888"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "transportation"
+	group: "1500059CA7CB7A29"
+	icon: {
+		id: "minecraft:furnace_minecart"
+	}
+	id: "7617F56FD033219C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "21389ED25D91A8B7"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "6A6864C4B674F655"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			disable_toast: true
+			id: "15B0324882F81C00"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "57709E665E65C8CA"
+				item: { count: 1, id: "createcardboardthings:cardboard_elytra" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["21389ED25D91A8B7"]
+			disable_toast: true
+			id: "6C0D459D01BA770D"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "6767399648232217"
+				item: { count: 1, id: "mekanism:hdpe_elytra" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["21389ED25D91A8B7"]
+			disable_toast: true
+			id: "75355E86FA2B0882"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "0EFEEFEA31E71EA1"
+				item: { count: 1, id: "oritech:jetpack_elytra" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["75355E86FA2B0882"]
+			disable_toast: true
+			id: "010321E7C2AB84C5"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "5C8B066D2C2DAD99"
+				item: { count: 1, id: "oritech:jetpack_exo_elytra" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			id: "41BE556F4B70252F"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "76FC4FD59F75C571"
+				item: { components: { "relics:data": { abilities: { abilities: { boost: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { capacity: { initialValue: 59.24555d }, speed: { initialValue: 1.49048d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:elytra_booster" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			disable_toast: true
+			hide_until_deps_visible: true
+			id: "093773E75A50EE3B"
+			optional: true
+			tasks: [{
+				disable_toast: true
+				id: "33BD122034292D53"
+				item: { count: 1, id: "spore:r_elytron" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["253A613718D82D70"]
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "40DC42FA154CA8D9"
+			tasks: [{
+				disable_toast: true
+				id: "6C66D24D2334988A"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(waystones:waystones)", "minecraft:custom_name": "\"Waystones\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "3EB45BA3D096397B"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "4001F11AE9DEC0AC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(explorerscompass:explorerscompass)item(naturescompass:naturescompass))", "minecraft:custom_name": "\"Exploration Compasses\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["253A613718D82D70"]
+			id: "795DDC1776007394"
+			tasks: [{
+				disable_toast: true
+				id: "3CCB89DAD3DAA91E"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(waystones:sharestones)", "minecraft:custom_name": "\"Sharestones\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			id: "253A613718D82D70"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "657FE8F58911FAB2"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(waystones:warp_stones)", "minecraft:custom_name": "\"Warp Stones\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "14650661A5A65916"
+			tasks: [{
+				disable_toast: true
+				id: "7C30AE5D49A6352B"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(waystones:warp_scrolls)", "minecraft:custom_name": "\"Warp Scrolls\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["00763328D2B8FCB0"]
+			id: "289E47752CB669A7"
+			tasks: [{
+				disable_toast: true
+				id: "12F46C42BBE5FB13"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(waystones:warp_shards)", "minecraft:custom_name": "\"Warp Shards\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "00763328D2B8FCB0"
+			tasks: [{
+				disable_toast: true
+				id: "5F2D728BFDB55307"
+				item: { count: 1, id: "waystones:warp_plate" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["253A613718D82D70"]
+			id: "260A4C5AB4C3C88F"
+			tasks: [{
+				disable_toast: true
+				id: "0D6D751CA29FE41E"
+				item: { count: 1, id: "waystones:white_portstone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "immersive_aircraft:biplane"
+			}
+			id: "0253C0DD67DA66A1"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "4DDA909F62994221"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(immersive_aircraft:aircraft)item(man_of_many_planes:scarlet_biplane)item(man_of_many_planes:economy_plane))", "minecraft:custom_name": "\"Immersive Aircraft\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0253C0DD67DA66A1"]
+			disable_toast: true
+			icon: {
+				id: "immersive_aircraft:enhanced_propeller"
+			}
+			id: "6AF45BC99E144E9C"
+			tasks: [{
+				disable_toast: true
+				id: "251F6FBED5DB4255"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(immersive_aircraft:upgrades)", "minecraft:custom_name": "\"Aircraft Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0253C0DD67DA66A1"]
+			disable_toast: true
+			icon: {
+				id: "immersive_aircraft:rotary_cannon"
+			}
+			id: "517B93C18CD1835E"
+			tasks: [{
+				disable_toast: true
+				id: "182C9F93B88A2815"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(immersive_aircraft:weapons)", "minecraft:custom_name": "\"Aircraft Weapons\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			icon_scale: 0.5d
+			id: "0B2A9C64EAFD4888"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				disable_toast: true
+				id: "78832E30AEB66C04"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}

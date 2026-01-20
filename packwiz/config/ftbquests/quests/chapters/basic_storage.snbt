@@ -1,0 +1,859 @@
+{
+	autofocus_id: "6C14DAFBFDFF3040"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "basic_storage"
+	group: "6C1C60B36619EE83"
+	icon: {
+		components: {
+			"sophisticatedstorage:wood_type": "oak"
+		}
+		id: "sophisticatedstorage:chest"
+	}
+	id: "2054ED742E36E8CE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "6C14DAFBFDFF3040"
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				id: "156AE99F358F6CBA"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C14DAFBFDFF3040"]
+			disable_toast: true
+			id: "7D23D990A8CDA418"
+			rewards: [{
+				id: "735FBDC1179A9F0A"
+				item: {
+					count: 1
+					id: "minecraft:chest"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "3B22A3B0DC7A25D0"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6C14DAFBFDFF3040"]
+			icon: {
+				id: "functionalstorage:oak_2"
+			}
+			id: "1A8D0B90D7E3BDCE"
+			rewards: [{
+				id: "535BBC79C6320BBA"
+				item: {
+					count: 1
+					id: "functionalstorage:oak_1"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "4BACB7A37A98E08A"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(functionalstorage)mod(morefunctionalstorage))block()item_tag(functionalstorage:drawer)", "minecraft:custom_name": "\"Functional Storage\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C14DAFBFDFF3040"]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				id: "sophisticatedstorage:chest"
+			}
+			id: "0D4AA72E4CDBC81C"
+			rewards: [{
+				id: "6856B6006E6CC793"
+				item: {
+					count: 1
+					id: "sophisticatedstorage:upgrade_base"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [
+				{
+					disable_toast: true
+					id: "6D50810F765BF7DB"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:chests)item_tag(c:barrels))block()mod(sophisticatedstorage)item_tag(sophisticatedstorage:base_tier_wooden_storage)", "minecraft:custom_name": "\"Sophisticated Storage\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "171A2D4AE7D01780"
+					item: { count: 1, id: "sophisticatedstorage:basic_tier_upgrade" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C14DAFBFDFF3040"]
+			id: "0184DC2FD46AC311"
+			rewards: [{
+				count: 2
+				id: "01AC00CD177A9CFE"
+				item: {
+					count: 1
+					id: "minecraft:leather"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "465F41BA42D00B07"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(ender_pack)mod(sophisticatedbackpacks)mod(travelersbackpack))item_tag(accessories:back)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0184DC2FD46AC311"]
+			disable_toast: true
+			icon: {
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "5B390999E4564025"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "01D291DD76D4B7BE"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(sophisticatedbackpacks))item_tag(accessories:back)", "minecraft:custom_name": "\"Sophisticated Backpacks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0184DC2FD46AC311"]
+			disable_toast: true
+			icon: {
+				components: {
+					"travelersbackpack:starter_upgrades": [{
+						count: 1
+						id: "travelersbackpack:tanks_upgrade"
+					}]
+				}
+				id: "travelersbackpack:standard"
+			}
+			id: "34937D01953A184D"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "13DEBBC299A915DD"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(travelersbackpack))item_tag(accessories:back)", "minecraft:custom_name": "\"Traveler's Backpack\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0184DC2FD46AC311"]
+			disable_toast: true
+			id: "298FE260772CA93D"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "57EA9B57C54E6CD5"
+				item: { count: 1, id: "ender_pack:ender_pack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7D23D990A8CDA418"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:ender_chest"
+			}
+			id: "48B67A56F8E0A35C"
+			rewards: [{
+				id: "5639F952C3302F95"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "6CDEA4037AD795F2"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(enderstorage)item(minecraft:ender_chest))or(block()item(enderstorage:ender_pouch))", "minecraft:custom_name": "\"Ender Storage\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7D23D990A8CDA418"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:barrel"
+			}
+			id: "629B337D7FB25225"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "2A95950C9D5FEB80"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:barrels))", "minecraft:custom_name": "\"Barrels\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7D23D990A8CDA418"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:oak_chest_boat"
+			}
+			id: "4F2F1CE1835F4A26"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "511882AA512F5AFA"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:chest_boats)item(minecraft:chest_minecart)mod(sophisticatedstorageinmotion))", "minecraft:custom_name": "\"Storage in Motion\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			id: "4B20C99DE089F3AB"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "699B0B38EB310813"
+				item: { count: 1, id: "functionalstorage:copper_upgrade" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4B20C99DE089F3AB"]
+			disable_toast: true
+			id: "584CDE3240FD0E04"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "1C9BFBD313D7B2B0"
+				item: { count: 1, id: "functionalstorage:gold_upgrade" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["584CDE3240FD0E04"]
+			disable_toast: true
+			id: "0B61285304107492"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "61A9596F630288F5"
+				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0B61285304107492"]
+			disable_toast: true
+			id: "193A845BFEE48016"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "10FEE56E53ABD53A"
+				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["193A845BFEE48016"]
+			disable_toast: true
+			id: "626C64EC29E84F86"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "26D7258FA0557439"
+				item: { count: 1, id: "functionalstorage:max_storage_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			id: "474B8B3F1B56A141"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "6306149B08954AC8"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:collector_upgrade)item(functionalstorage:puller_upgrade)item(functionalstorage:pusher_upgrade)item(functionalstorage:void_upgrade)item(functionalstorage:redstone_upgrade)item(functionalstorage:dripping_upgrade)item(functionalstorage:water_generator_upgrade)item(functionalstorage:obsidian_upgrade)item(morefunctionalstorage:placer_upgrade)item(morefunctionalstorage:breaker_upgrade)item(morefunctionalstorage:refill_upgrade)item(morefunctionalstorage:dimensional_refill_upgrade)item(morefunctionalstorage:stonecutting_upgrade)item(morefunctionalstorage:speed_upgrade_augment))not(or(item(functionalstorage:copper_upgrade)item(functionalstorage:gold_upgrade)item(functionalstorage:diamond_upgrade)item(functionalstorage:netherite_upgrade)item(functionalstorage:iron_downgrade)item(functionalstorage:max_storage_upgrade)item(functionalstorage:creative_vending_upgrade)))", "minecraft:custom_name": "\"Functional Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			id: "3B79DF0D69CE8C49"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "24939F1198E552AD"
+				item: { count: 1, id: "functionalstorage:linking_tool" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			id: "495490111D960121"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "3757C1B440B4E439"
+				item: { count: 1, id: "functionalstorage:configuration_tool" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			id: "2BBA35A1693180C6"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "4F19F1AEFCA0C82B"
+				item: { count: 1, id: "functionalstorage:storage_controller" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			id: "37D650CCB284415E"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "76B2CCB8DCDBFD73"
+				item: { count: 1, id: "functionalstorage:armory_cabinet" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			icon: {
+				id: "functionalstorage:controller_extension"
+			}
+			id: "6DEBEA4A567FD87F"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "712EF123AC84F501"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:controller_extension)item(functionalstorage:framed_controller_extension))", "minecraft:custom_name": "\"Access Point\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A8D0B90D7E3BDCE"]
+			disable_toast: true
+			icon: {
+				id: "functionalstorage:compacting_drawer"
+			}
+			id: "70D8409A5371779E"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "770E8E83EA49AA7B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:compacting_drawer)item(functionalstorage:compacting_framed_drawer)item(functionalstorage:simple_compacting_drawer)item(functionalstorage:framed_simple_compacting_drawer))", "minecraft:custom_name": "\"Compacting Drawer\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"0D4AA72E4CDBC81C"
+				"37F38ABB4607C85B"
+			]
+			disable_toast: true
+			id: "6773EEF5C52D261D"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "6B3FAED71E191928"
+				item: { count: 1, id: "sophisticatedstorage:basic_to_copper_tier_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6773EEF5C52D261D"]
+			disable_toast: true
+			id: "4C0E2F83D171286C"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "2FF193E0D9691DA0"
+				item: { count: 1, id: "sophisticatedstorage:basic_to_iron_tier_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4C0E2F83D171286C"]
+			disable_toast: true
+			id: "73E200F203081DB9"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "3BEAC4FCE23686A5"
+				item: { count: 1, id: "sophisticatedstorage:basic_to_gold_tier_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["73E200F203081DB9"]
+			disable_toast: true
+			id: "47D243FFDB5D1634"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "30E6159097C0DBDF"
+				item: { count: 1, id: "sophisticatedstorage:basic_to_diamond_tier_upgrade" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["47D243FFDB5D1634"]
+			disable_toast: true
+			id: "4F0D95FD105A59A2"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "6D2B7B1D5DB73B22"
+				item: { count: 1, id: "sophisticatedstorage:basic_to_netherite_tier_upgrade" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "37F38ABB4607C85B"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "2545D38382EF2A7A"
+				item: { count: 1, id: "sophisticatedstorage:upgrade_base" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			id: "734F0A09A140EF1D"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "19013D93176A9CE9"
+				item: { count: 1, id: "sophisticatedstorage:storage_tool" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			id: "68AED0A93F908D1A"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "258F01FAE1741EB6"
+				item: { count: 1, id: "sophisticatedstorage:controller" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			id: "2DD627AE5003A49D"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "16825B81203D197F"
+				item: { count: 1, id: "sophisticatedstorage:storage_io" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			id: "27CA0DC17CE46FB2"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "65BF7B728125EC1E"
+				item: { count: 1, id: "sophisticatedstorage:storage_input" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			id: "42EFBFCDD1320E20"
+			tasks: [{
+				disable_toast: true
+				id: "4CFA4F583744DB28"
+				item: { count: 1, id: "sophisticatedstorage:storage_output" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D4AA72E4CDBC81C"]
+			disable_toast: true
+			id: "0ACD700D82D027DF"
+			tasks: [{
+				disable_toast: true
+				id: "44636855249F9053"
+				item: { count: 1, id: "sophisticatedstorage:storage_link" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0D4AA72E4CDBC81C"
+				"37F38ABB4607C85B"
+			]
+			disable_toast: true
+			id: "200C0840B61B3C0A"
+			shape: "square"
+			tasks: [{
+				disable_toast: true
+				id: "37EAE31D0554E52E"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(sophisticatedstorage:upgrade))", "minecraft:custom_name": "\"Sophisticated Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5B390999E4564025"]
+			disable_toast: true
+			id: "181BEE51615C3D78"
+			tasks: [{
+				disable_toast: true
+				id: "38D2B79767A874A3"
+				item: { count: 1, id: "sophisticatedbackpacks:copper_backpack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["181BEE51615C3D78"]
+			disable_toast: true
+			id: "11BF8BD946D24F08"
+			tasks: [{
+				disable_toast: true
+				id: "129894558F8E2F4A"
+				item: { count: 1, id: "sophisticatedbackpacks:iron_backpack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["11BF8BD946D24F08"]
+			disable_toast: true
+			id: "5B55659E6D744D3B"
+			tasks: [{
+				disable_toast: true
+				id: "3D2EF33F20B37D42"
+				item: { count: 1, id: "sophisticatedbackpacks:gold_backpack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5B55659E6D744D3B"]
+			disable_toast: true
+			id: "4800C5B360FF84D1"
+			tasks: [{
+				disable_toast: true
+				id: "165FAB91D6E7D6BC"
+				item: { count: 1, id: "sophisticatedbackpacks:diamond_backpack" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["4800C5B360FF84D1"]
+			disable_toast: true
+			id: "4EACEB720340EEE4"
+			tasks: [{
+				disable_toast: true
+				id: "790F3CA6B81D970B"
+				item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"5B390999E4564025"
+				"061A336838879C42"
+			]
+			disable_toast: true
+			id: "29F63AC2D77BFAE7"
+			tasks: [{
+				disable_toast: true
+				id: "1C4FF5C995056986"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(sophisticatedbackpacks:upgrade))", "minecraft:custom_name": "\"Sophisticated Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"34937D01953A184D"
+				"04839338C982CC56"
+			]
+			disable_toast: true
+			id: "0B4F1651ABECAE03"
+			tasks: [{
+				disable_toast: true
+				id: "2F766829C12EF8BC"
+				item: { count: 1, id: "travelersbackpack:iron_tier_upgrade" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"04839338C982CC56"
+				"0B4F1651ABECAE03"
+			]
+			disable_toast: true
+			id: "290C2D79DBEF7F38"
+			tasks: [{
+				disable_toast: true
+				id: "2D5B0009827300F6"
+				item: { count: 1, id: "travelersbackpack:gold_tier_upgrade" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"04839338C982CC56"
+				"290C2D79DBEF7F38"
+			]
+			disable_toast: true
+			id: "4EF8AE6BD03C2373"
+			tasks: [{
+				disable_toast: true
+				id: "02533B793A4F0273"
+				item: { count: 1, id: "travelersbackpack:diamond_tier_upgrade" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"04839338C982CC56"
+				"4EF8AE6BD03C2373"
+			]
+			disable_toast: true
+			id: "76EBB6312DEFE12B"
+			tasks: [{
+				disable_toast: true
+				id: "427A4AD48986F6A5"
+				item: { count: 1, id: "travelersbackpack:netherite_tier_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["34937D01953A184D"]
+			disable_toast: true
+			hide_dependency_lines: true
+			id: "3B54B1B52D007AD2"
+			tasks: [{
+				disable_toast: true
+				id: "5B9C274CD993DB3F"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(travelersbackpack:sleeping_bags))", "minecraft:custom_name": "\"Sophisticated Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"34937D01953A184D"
+				"04839338C982CC56"
+			]
+			disable_toast: true
+			id: "1EAF9385F5B52B4A"
+			tasks: [{
+				disable_toast: true
+				id: "3C1FDE23F4B18A69"
+				item: { components: { "ftbfiltersystem:filter": "or(item(travelersbackpack:tanks_upgrade)item(travelersbackpack:crafting_upgrade)item(travelersbackpack:furnace_upgrade)item(travelersbackpack:smoker_upgrade)item(travelersbackpack:blast_furnace_upgrade)item(travelersbackpack:feeding_upgrade)item(travelersbackpack:refill_upgrade)item(travelersbackpack:pickup_upgrade)item(travelersbackpack:magnet_upgrade)item(travelersbackpack:void_upgrade)item(travelersbackpack:jukebox_upgrade))", "minecraft:custom_name": "\"Traveler's Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5B390999E4564025"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "061A336838879C42"
+			tasks: [{
+				disable_toast: true
+				id: "2D1A5F27F9D1442A"
+				item: { count: 1, id: "sophisticatedbackpacks:upgrade_base" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["34937D01953A184D"]
+			disable_toast: true
+			hide_dependent_lines: true
+			id: "04839338C982CC56"
+			tasks: [{
+				disable_toast: true
+				id: "4B57A2EFA17F2E92"
+				item: { count: 1, id: "travelersbackpack:blank_upgrade" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["6C14DAFBFDFF3040"]
+			disable_toast: true
+			id: "15D493745261602D"
+			shape: "diamond"
+			tasks: [{
+				disable_toast: true
+				id: "26EC3AC7C8F3906B"
+				item: { count: 1, id: "labels:label" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6C14DAFBFDFF3040"]
+			disable_recipe_mod: false
+			disable_toast: true
+			icon: {
+				id: "bankstorage:bank_3"
+			}
+			id: "26294B1E53919C0E"
+			shape: "diamond"
+			tasks: [
+				{
+					disable_toast: true
+					id: "250AC784CF8FE5B4"
+					item: { components: { "ftbfiltersystem:filter": "or(mod(bankstorage))", "minecraft:custom_name": "\"Banks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "65812A9DF89CEA1C"
+					item: { components: { "ftbfiltersystem:filter": "or(mod(tankstorage))", "minecraft:custom_name": "\"Tanks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 1.0d
+		}
+	]
+}

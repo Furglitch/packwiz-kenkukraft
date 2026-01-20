@@ -1,0 +1,19 @@
+Full Changelog: [§o2.1.0§r ➜ §o2.1.1§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.1.0...2.1.1)
+
+§n§lConfigs Changed:§r
+
+- §o§lFungal Infection: Spore§r / §o§lMob Control§r
+    - Changed spawn delay to 30 in-game days
+- §o§lConfigured Defaults§r
+    - Moved a few customization mod configs into Configured Defaults
+- §o§lDistant Horizons§r
+    - Re-enabled built-in chunk generator
+
+§n§lAdded:§r
+
+- §oStarter Kit§r
+
+§n§lRemoved:§r
+
+- §oChunky§r: Lag issues after chunk generation. Likely conflict with other chunkloading mods
+- §oCreate: Extended Wrenches§r: No longer available on CurseForge

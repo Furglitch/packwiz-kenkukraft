@@ -1,0 +1,46 @@
+§lThe Overhaul Update!§r
+
+Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.1.2...2.2.0)
+
+§n§lOverhaul:§r
+
+- Changed Pack name to "KenkuKraft: Infected"
+- Changed Pack assets to reflect new theme
+
+§n§lConfigs Changed:§r
+
+- §oCarry On§r
+    - Disabled carrying §oSpore§r mobs, Bosses, and §oLootr§r containers
+- §oFTB Quests§r
+    - Added quests (Note: Incomplete, more to come)
+- §oKubeJS§r
+    - Disabled /locate in favor of using §oExplorer's Compass§r and §oNature's Compass§r
+- §oConfigured Defaults§r
+    - Enabled resource packs by default
+    - Fixed keybinds
+- §oFancyMenu§r
+    - Adjust main menu layout due to overlap from §oModpack Update Checker§r
+    - Adjust inventory button layout due to overlap from §oDragon Survival§r
+
+§n§lAdded:§r
+
+- §oFigura§r
+- §oCustomizable Player Models§r
+- §oModpack Update Checker§r
+- §oFancyMenu§r
+
+§n§lRemoved:§r
+
+- §oTerralith§r: World Generation performance
+- §oMob Control§r: Integrated with KubeJS
+- §oCreate: Cobblestone§r: Redundant with §oCreate: Mechanical Extruder§r
+- §oVillage Spawn Point§r: Removal promotes exploration
+
+§n§lSwapped:§r
+
+- §oNemo's Inventory Sorting§r ➜ §oSophisticated Sorter§r: Personal preference for sorting style
+- §oAdvancements Reloaded§r ➜ §oBetter Advancements§r: AR had some visual bugs. Likely a conflict with other UI mods.
+
+§n§lUpdated:§r
+
+- §oMod Name§r: X.X.X ➜ Y.Y.Y

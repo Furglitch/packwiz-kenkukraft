@@ -1,0 +1,9 @@
+Full Changelog: [§o2.0.1§r ➜ §o2.0.2§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.0.1...2.0.2)
+
+§n§lFixes:§r
+
+- Resource Pack order causing Fresh Animations (and addons) to not apply facial animations
+
+§n§lAdded:§r
+
+- §oMultiplayer Server Pause§r

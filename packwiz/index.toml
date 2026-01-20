@@ -393,6 +393,10 @@ file = "config/modpack-update-checker/config.json"
 hash = "4a087377267687e0d41272204e6f6980520d8cc0bfc184ca0197efacee30992c"
 
 [[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "8cd68c6748d7b0fa160efdc7fbff3466cf1a659ab6825cf40268a89d53bc8572"
+
+[[files]]
 file = "config/monolib-common.toml"
 hash = "2221dd3c477459743492fd042d5f06f58c40af18cd5f40824245a15c79daf4c1"
 

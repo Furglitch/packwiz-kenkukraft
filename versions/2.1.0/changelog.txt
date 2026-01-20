@@ -1,0 +1,121 @@
+§lThe Great Purge!§r
+
+Full Changelog: [§o2.0.2§r ➜ §o2.1.0§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.0.2...2.1.0)
+
+§n§lFixes:§r
+
+- Reduce pack loading time by ~20 seconds
+- Fixed crashing every first launch
+- Fixed config loading error on startup
+
+
+§n§lRemoved:§r
+
+- §oAdditional Jewelry§r
+- §oAnvil Restoration§r
+- §oRelics: Arcane Abilities§r
+- §oArchers Expansion (More RPG Classes)§r
+- §oArchers (RPG Series)§r
+- §oBackpacked§r
+- §oBerserker (More RPG Classes)§r
+- §oBetter Archeology§r
+- §oBlackwolf Library§r
+- §oBotany Pots§r
+- §oBotany Trees§r
+- §oBundle API§r
+- §oCombat Roll [Fabric & Forge]§r
+- §oComforts§r
+- §oConnected Glass§r
+- §oConstruction Sticks§r
+- §oCreate: Escalated§r
+- §oCreate: Metalwork§r
+- §oCreate: Simple Generator§r
+- §oEdivadLib§r
+- §oElemental Wizards (More RPG Classes)§r
+- §oExtra Disks§r
+- §oExtraStorage§r
+- §oForcemaster (More RPG Classes)§r
+- §oFramework§r
+- §oHandcrafted§r
+- §oIron's Spells 'n Spellbooks Dynamic Skill Trees§r
+- §oJewelry (RPG Series)§r
+- §oKelp Fertilizer§r
+- §oLucky's Showcase§r
+- §oMmmMmmMmmMmm (Target Dummy)§r
+- §oMore Decorative Blocks - BlackWolf Design§r
+- §oMore Relics (More RPG Content)§r
+- §oMore RPG Library§r
+- §oMore RPG Classes - Skill Tree§r
+- §oMultiBeds§r
+- §oNo Feather Trample§r
+- §oOpenBlocks Elevator§r
+- §oPaladins & Priests (RPG Series)§r
+- §oPam's HarvestCraft 2 - Crops§r
+- §oPam's HarvestCraft 2 - Fantasy§r
+- §oPam's HarvestCraft 2 - Food Core§r
+- §oPam's HarvestCraft 2 - Food Extended§r
+- §oPam's HarvestCraft 2 - Trees§r
+- §oRefined Storage - Curios Integration§r
+- §oRefined Storage - EMI Integration§r
+- §oRefined Storage - Mekanism Integration§r
+- §oRefined Storage - Quartz Arsenal§r
+- §oRefined Storage§r
+- §oRefined Types§r
+- §oRogues & Warriors (RPG Series)§r
+- §oRSInfinityBooster§r
+- §oRunes§r
+- §oShetiPhianCore§r
+- §oShield API§r
+- §oShulker Box Tooltip [Fabric/Forge/NeoForge]§r
+- §oSkill Tree (RPG Series)§r
+- §oStack Refill§r
+- §oStoneworks§r
+- §oStructure Pool API§r
+- §oThe Block Box§r
+- §oVariants&Ventures§r
+- §oWitcher (More RPG Classes)§r
+- §oWizards (RPG Series)§r
+- §oYori3o's Grappling Hooks§r
+
+§n§lUpdated:§r
+
+- §oAce's Spell Utils:§r 1.1.22 ➜ 1.1.23
+- §oAllTheLeaks (Memory Leak Fix):§r 1.1.4 ➜ 1.1.6
+- §oAlshanex's Familiars:§r 3.0 ➜ 3.7
+- §oApplied Flux:§r 2.1.3 ➜ 2.1.4
+- §oArda's Sculks (Ancient City Portal / Deep Dark Dimension):§r 1.4.3.3 ➜ 1.4.3.4
+- §oArs Affinity:§r 1.1.0 ➜ 1.1.1
+- §oArs Nouveau:§r 5.11.0 ➜ 5.11.1
+- §oArs Unification:§r 1.2.16 ➜ 1.2.18
+- §oBalm:§r 21.0.55 ➜ 21.0.56
+- §oCreate: Let The Adventure Begin:§r 3.6.0 ➜ 3.6.1
+- §oCreate: The Factory Must Grow:§r 1.1.1 ➜ 1.2.0
+- §oCreativeCore:§r 2.13.23 ➜ 2.13.24
+- §oDark Doppelganger : Iron's Spells and Spellbooks Addon:§r 3.1.6 ➜ 3.2.0
+- §oDragon Survival:§r 2.0.52 ➜ 2.0.53
+- §oDynamic FPS:§r 3.9.5 ➜ 3.11.3
+- §oEntity Culling Fabric/Forge:§r 1.9.4 ➜ 1.9.5
+- §oFamiliarsLib:§r 1.0.0 ➜ 1.1
+- §oFTB Library (Forge):§r 2101.1.29 ➜ 2101.1.30
+- §oFTB Quests (NeoForge):§r 2101.1.20 ➜ 2101.1.21
+- §oGeckoLib:§r 4.8.2 ➜ 4.8.3
+- §oIt Takes a Pillage Continuation:§r 1.0.9 ➜ 1.0.10
+- §oJade 🔍:§r 15.10.3 ➜ 15.10.4
+- §oJust Enough Items (JEI):§r 19.27.0.336 ➜ 19.27.0.340
+- §oLeaky - Item Lag Fix[Forge/Fabric]:§r 2.3 ➜ 2.4
+- §oLoot Integrations: When Dungeons Arise & Co:§r 1.6 ➜ 1.7
+- §oLootr (Forge & NeoForge):§r 1.11.36.109 ➜ 1.11.36.110
+- §oMedieval Buildings [Nether Edition]:§r 1.0.1 ➜ 1.0.2
+- §oMineColonies:§r 1.1.1238 ➜ 1.1.1241
+- §oMore Relics:§r 1.6.1 ➜ 1.6.1.1
+- §oNeoEnchant+:§r 5.10.1 ➜ 5.10.1
+- §oOritech Things:§r 0.0.37 ➜ 0.0.39
+- §oOritech:§r 0.19.7 ➜ 1.0.0
+- §oProject Resonance for MineColonies:§r 1.5.1 ➜ 1.5.2
+- §oRegions Unexplored (forge/fabric):§r 0.5.6.1 ➜ 0.5.7
+- §oSophisticated Backpacks:§r 3.25.21.1475 ➜ 3.25.22.1487
+- §oSophisticated Storage:§r 1.5.18.1405 ➜ 1.5.19.1415
+- §oStructurize:§r 1.0.801 ➜ 1.0.802
+- §oTraveler's Backpack:§r 10.1.29 ➜ 10.1.31
+- §o[EMF] Entity Model Features [Fabric & Forge]:§r 3.0.7 ➜ 3.0.10
+- §o[ETF] Entity Texture Features - [Fabric & Forge]:§r 7.0.6 ➜ 7.0.8

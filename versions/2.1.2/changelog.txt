@@ -1,0 +1,41 @@
+§lThe Performance Update!§r
+
+Full Changelog: [§o2.1.1§r ➜ §o2.1.2§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.1.1...2.1.2)
+
+§n§lFixes:§r
+
+- Reduced boot time by 15 seconds
+- Improved RAM usage by removing memory hogging mods
+- Fixed Starter Kit not applying
+
+§n§lConfigs Changed:§r
+
+- §o§lStarter Kit§r
+    - Added §oAkashic Tome§r to spawn kit
+
+§n§lAdded:§r
+
+- §oAkashic Tome§r
+
+§n§lRemoved:§r
+
+- §oAzureLib§r & §oAzureLib Armor§r: Loads animations a second and third time alongside §oGeckoLib§r, causing unnecessary memory usage
+    - Dependent Mods, also removed:
+        - §oArmory (RPG Series)§r
+        - §oCataclysm: Spellbooks§r
+        - §oCrystal Chronicles - Iron's Spells 'n Spellbooks§r
+- §oChipped§r & §oRechiseled: Chipped§r: Removal improves load times by reducing models to bake
+- §oCreate: The Factory Must Grow§r: Removal improves load times by reducing models to bake
+- §oEMI§r: Removal improves load times, relying on JEI for recipe viewing
+    - Dependent Mods, also removed:
+        - §oEMIffect§r: Covered by already-included §oJust Enough Effect Descriptions§r
+- §oExtra Delight§r: Removal improves load times by reducing models to bake
+
+§n§lSwapped:§r
+
+- §oEMI Professions§r ➜ §oJust Enough Professions§r: EMI Removal
+- §oEnchantment Descriptions§r ➜ §oMore Enchantment Info§r: Same functionality, just JEI over Tooltip
+
+§n§lUpdated:§r
+
+- §oOritech Things§r: 0.0.39 ➜ 0.0.40

@@ -1,16 +1,66 @@
 {
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
-    {
-        "version": "2.2.0",
-        "releasedAt": "XXX",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/XXX/download"
-            }
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "2.0.1",
+            "releasedAt": 1767880560000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7433561"
+                }
+            },
+            "updateType": "minor"
         },
-        "updateType": "incompatible"
-    }
-  ]
+        {
+            "id": "2.0.2",
+            "releasedAt": 1767925320000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7435771"
+                }
+            },
+            "updateType": "minor"
+        },
+        {
+            "id": "2.1.0",
+            "releasedAt": 1767952620000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7436706"
+                }
+            },
+            "updateType": "major"
+        },
+        {
+            "id": "2.1.1",
+            "releasedAt": 1768006980000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7439907"
+                }
+            },
+            "updateType": "minor"
+        },
+        {
+            "id": "2.1.2",
+            "releasedAt": 1768166580000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7445526"
+                }
+            },
+            "updateType": "major"
+        },
+        {
+            "id": "2.2.0",
+            "releasedAt": 9999999999999,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/0"
+                }
+            },
+            "updateType": "incompatible"
+        }
+    ]
 }

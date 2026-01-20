@@ -16,6 +16,8 @@
     "CHAPTER": false,
     "BOOK": false
   },
-  "toastsToIgnore": [],
+  "toastsToIgnore": [
+    "regions_unexplored:regions_explored"
+  ],
   "version": 1
 }

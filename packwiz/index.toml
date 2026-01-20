@@ -194,7 +194,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/fancytoasts/toast_filtering.json"
-hash = "400a95f6bd72c0b869440ce496d2e362777142d50efe92330b5b4f968226f321"
+hash = "b11fde640214aa4fc843a8d4f1f197980ad0d0658d1703d8c48c1f3409ebceca"
 
 [[files]]
 file = "config/farmersdelight-common.toml"

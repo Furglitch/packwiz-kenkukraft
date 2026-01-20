@@ -6,7 +6,7 @@
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
-    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=633%2B&color=920000&labelColor=874161&style=for-the-badge" alt="600+ Mods"></a>
+    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=600%2B&color=920000&labelColor=874161&style=for-the-badge" alt="600+ Mods"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=920000&labelColor=874161&style=for-the-badge" alt="8-10GB RAM">
   </p>
@@ -14,11 +14,11 @@
 
 ---
 
-**KenkuKraft: Infected is a comprehensive kitchen sink modpack built for playing with friends.** With over 600 mods, this pack gives you complete freedom to play however you want - whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or simply creating your dream base with friends.
+***KenkuKraft: Infected* is a comprehensive kitchen sink modpack centered around *Fungal Infection: Spore*.** With over 600 mods, this pack gives you complete freedom to play however you want — whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or creating your dream base.
 
 **No forced progression. No recipe restrictions. No limitations.** This is YOUR world to shape. Automate everything with Create and Mekanism. Cast devastating spells with Ars Nouveau and Iron's Spells. Build thriving colonies with Minecolonies. Or just explore the vast, overhauled world filled with new dimensions, structures, and creatures.
 
-***Note:*** This modpack is meant to be a personal pack for friends, running on a private server. It won't be regularly updated, just occasional bug fixes and mod updates as they are found to be needed. Stability is not guaranteed.
+***Note:*** This modpack is intended for personal use. Updates will be occasional (bug fixes and selective mod updates) and stability is not guaranteed. I'm doing my best, but this is a large and complex pack. If you want a more polished experience, consider using a popular modpack like [DeceasedCraft](https://www.curseforge.com/minecraft/modpacks/deceasedcraft) or [Cursed Walking](https://www.curseforge.com/minecraft/modpacks/cursed-walking-a-modern-zombie-apocalypse).
 
 ---
 
@@ -47,7 +47,7 @@ With hundreds of decorative blocks and building tools, your creativity knows no 
 The world generation has been completely transformed. **[Continents](https://www.curseforge.com/minecraft/mc-mods/continents)** and **[Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)** create realistic, massive continents with diverse biomes. Discover countless structures and dungeons from **[Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)**, and **[Luki's Crazy Chambers](https://www.curseforge.com/minecraft/mc-mods/lukis-crazy-chambers)**. The **Nether** and **End** have been overhauled. Venture into new dimensions - explore **[The Aether's](https://www.curseforge.com/minecraft/mc-mods/the-aether)** floating islands or brave **[Arda's Sculk](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)** dimension. Encounter hundreds of new mobs and legendary bosses.
 
 #### ⚡ **Optimized Performance**
-Despite having 600+ mods, KenkuKraft: Infected is optimized for smooth gameplay. Built on the **More FPS** modpack, it includes dozens of performance mods like **Sodium**, **Lithium**, **ModernFix**, and **FerriteCore**. **Concurrent Chunk Management Engine** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
+Despite having 600+ mods, KenkuKraft: Infected makes every attempt to provide smooth gameplay. Built on the **[More FPS](https://www.curseforge.com/minecraft/modpacks/more-fps-modpack)** modpack, it includes dozens of performance mods like **[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)**, **[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)**, **[ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)**, and **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)**. **[Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me)** ensures smooth world loading. With careful tuning and optimizations, you can expect playable framerates even in heavily modded areas.
 
 For the full modlist, see [MODLIST.md](https://github.com/Furglitch/packwiz-kenkukraft/tree/main/docs/MODLIST.md)
 
@@ -68,10 +68,11 @@ There are two scripts included to start the server:
 
 
 #### System Requirements
+- **Minimum RAM:** 6GB
 - **Recommended RAM:** 8GB
 - **Recommended Server RAM:** 8GB+
 - **Minecraft Version:** 1.21.1
-- **Mod Loader:** Neoforge 21.1.217
+- **Mod Loader:** Neoforge
 
 ---
 

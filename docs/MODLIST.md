@@ -27,6 +27,7 @@
 - KubeJS
     - LootJS: KubeJS Addon
 - Log Filter
+- Modpack Update Checker Ⓒ
 - Paxi
 
 ## Performance
@@ -36,6 +37,7 @@
 - FastSuite
 - Load My F***ing Tags
 - Memory Settings Ⓒ
+- Multiplayer Server Pause
 - Neruina - Ticking Entity Fixer
 - Packet Fixer
 - Too Fast Ⓢ
@@ -48,6 +50,7 @@
 - Better F1 Reborn Ⓒ
 - CleanView Ⓒ
 - Counter (Day & Death)
+- FancyMenu Ⓒ
 - Jade
 	- Jade Addons
 - Leave My Bars Alone Ⓒ
@@ -73,7 +76,7 @@
   - Just Enough Professions
   - Just Enough Resources
   - More Enchantment Info
-- Nemo's Inventory Sorting
+- Sophisticated Sorting
 - Not Enough Recipe Book
 
 ### Minimap & Navigation
@@ -110,7 +113,7 @@
 - Patchouli
 
 ### Advancements & Quests
-- Advancements Reloaded Ⓒ
+- Better Advancements Ⓒ
 - Clickable Advancements
 - Fancy Toasts
 - FTB Quests
@@ -263,7 +266,6 @@
 ### Death & Respawning
 - Corail Tombstone
 - Just Player Heads
-- Village Spawn Point
 
 ## Agriculture
 
@@ -426,8 +428,6 @@
 - AttributeFix
 - Despawning Eggs Hatch
 - Let Me Despawn
-- Mob Control
-  - Multiplayer Server Pause
 - Respawning Animals
 - Respawning Shulkers
 
@@ -511,7 +511,6 @@
 - Pretty Pipes
 
 ### Create Addons
-- Create Cobblestone
 - Create Crafts & Additions
 - Create Encased
 - Create Goggles (Create Plus)
@@ -612,8 +611,6 @@
 - Biomes O' Plenty
 - Oh The Biomes We've Gone
 - Regions Unexplored
-- Terralith
-	- Terralith Restoned
 
 ### Caves
 - YUNG's Better Caves
@@ -700,6 +697,8 @@
 ## Cosmetics & Customization
 
 ### Player Skins and Models
+- Customizable Player Models Ⓒ
+- Figura Ⓒ
 - Shrink
 - Skin Layers 3D Ⓒ
 

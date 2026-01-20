@@ -1190,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
+hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
 metafile = true
 
 [[files]]
@@ -1795,7 +1795,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "e4d1ea5dfc2b357edbcd2812d9031a62979cdac9d8c3adf595d9e6a1b958500f"
+hash = "1275367e74ba6e2e1dc4e77eac56dd2020fc77979862895c929588be3ee85a0b"
 metafile = true
 
 [[files]]
@@ -2070,7 +2070,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2847aa88f18c7ded7801f7dd707ac660670e81e2ab4ca8b67209100aea8d814c"
+hash = "8e9f44992c6edb947b094f304d573bef5edd3bdc0e4e5f572d0c34b92ab028d9"
 metafile = true
 
 [[files]]
@@ -2125,7 +2125,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura-patched.pw.toml"
-hash = "da158fb76483e01aa12d2f3792cb9853183c16b42c2616ef1c431a901d75decd"
+hash = "3a8c54ebf9b3639947a2a1f5f360c70de51128cf97d85b65cd6b9e52b5bd1dfd"
 metafile = true
 
 [[files]]
@@ -2805,7 +2805,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "675849cd30fa48bd0a413ad3bf605eb614a979e220bcd51faef397739471487f"
+hash = "f68b0d9ceb8a96237a5c55cf8fb33110339cd30a805c910c47a608dd49db3768"
 metafile = true
 
 [[files]]

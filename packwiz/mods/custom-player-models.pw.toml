@@ -1,6 +1,6 @@
 name = "Customizable Player Models"
 filename = "CustomPlayerModels-1.21-0.6.25a.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

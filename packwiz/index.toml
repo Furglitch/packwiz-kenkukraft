@@ -2152,11 +2152,6 @@ hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "80a692427106934e28d22c655d51e136cc5e9b3793139c63b7b014a4b6c9a11d"
-metafile = true
-
-[[files]]
 file = "mods/fragmentum-neoforge.pw.toml"
 hash = "a25faf048d3de49d547a644df90b93fcc4107160a53fe82b62deead8368ef4c8"
 metafile = true
@@ -3419,11 +3414,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
-metafile = true
-
-[[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "554e8bd96ac7280227b1e4c8ddfee50d972443b273ac490bd09b0b70d1aac5c6"
 metafile = true
 
 [[files]]

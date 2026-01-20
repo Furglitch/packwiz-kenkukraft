@@ -2928,11 +2928,6 @@ hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
 
 [[files]]
-file = "mods/nemos-inventory-sorting.pw.toml"
-hash = "fe5467ddf211e409c7bbbe1683409c509b506668f19a48d0a290dc69a8f0c394"
-metafile = true
-
-[[files]]
 file = "mods/neoenchant.pw.toml"
 hash = "b7fd909692ec533ea2464052954be19b50497adb54b0f883104899a0bfe078f9"
 metafile = true
@@ -3400,6 +3395,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "b9e6e0aa32a969b94e98abcb6c553985a1c5235461d3b7564345b6ee3c14ffc0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-sorter.pw.toml"
+hash = "8b65d16b504f4a15e9726deb25a3ae3b67eb8955f10674817f736e6ee4dd54f8"
 metafile = true
 
 [[files]]

@@ -898,11 +898,6 @@ hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
 
 [[files]]
-file = "mods/advancements-reloaded.pw.toml"
-hash = "771314b9770f3e0440b01573397e7b151f6a29a88e2313e1c08ff5a1b3801374"
-metafile = true
-
-[[files]]
 file = "mods/adventure-dungeons-mod-edition.pw.toml"
 hash = "3571243aea97321410039ab44f35dd5f295761b888a3a7503069e03d87dfb7ed"
 metafile = true
@@ -1215,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
 metafile = true
 
 [[files]]
@@ -3665,11 +3665,6 @@ metafile = true
 [[files]]
 file = "mods/vending-block-restocked.pw.toml"
 hash = "6c8f93a4334e7b17003bf02da234ff424cbe6fb9eac66dae135b7859f34e1190"
-metafile = true
-
-[[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "51e571c72327184c573943f19502d5050bdbeafb7072776df8d10bf3607a88e1"
 metafile = true
 
 [[files]]

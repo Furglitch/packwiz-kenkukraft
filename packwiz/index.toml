@@ -3668,11 +3668,6 @@ hash = "6c8f93a4334e7b17003bf02da234ff424cbe6fb9eac66dae135b7859f34e1190"
 metafile = true
 
 [[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "51e571c72327184c573943f19502d5050bdbeafb7072776df8d10bf3607a88e1"
-metafile = true
-
-[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
 metafile = true

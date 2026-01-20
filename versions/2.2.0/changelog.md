@@ -19,6 +19,8 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - ***FancyMenu***
     - Adjust main menu layout due to overlap from *Modpack Update Checker*
     - Adjust inventory button layout due to overlap from *Dragon Survival*
+- ***Bagus Lib***
+    - Disabled 'Cooler End Poem' feature as it caused the custom End Poem to not display
 
 <ins>**Added:**</ins>
 - *Figura*

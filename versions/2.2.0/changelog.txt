@@ -21,6 +21,8 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oFancyMenu§r
     - Adjust main menu layout due to overlap from §oModpack Update Checker§r
     - Adjust inventory button layout due to overlap from §oDragon Survival§r
+- §oBagus Lib§r
+    - Disabled 'Cooler End Poem' feature as it caused the custom End Poem to not display
 
 §n§lAdded:§r
 

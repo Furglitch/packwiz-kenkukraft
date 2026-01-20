@@ -49,6 +49,10 @@ file = "config/badoptimizations.txt"
 hash = "1a6eacae63e5a8c5fbed8584064a91127ff9115490c0b09a6ac1b5449036f0ed"
 
 [[files]]
+file = "config/bagus_lib-client.toml"
+hash = "1bdb0f5752f0cc0bca2b0009ae871566c2862cd5e0693f63abf66af1d95a7e4c"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "9923b77b07293c6ae5363fde993daa3597423ded51756528d2830c01a5f716ea"
 
@@ -394,7 +398,7 @@ hash = "4a087377267687e0d41272204e6f6980520d8cc0bfc184ca0197efacee30992c"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
-hash = "8cd68c6748d7b0fa160efdc7fbff3466cf1a659ab6825cf40268a89d53bc8572"
+hash = "4b823459d73b6a9ff61cf314dfe900a45ae0e2f081abb166dc599c2184123525"
 
 [[files]]
 file = "config/monolib-common.toml"
@@ -539,7 +543,7 @@ hash = "3123c052f7e7696833f15296843b5a94f33402ea834b2f5fa2d8088ecfdf30ba"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/end.txt"
-hash = "84ab782e6c7ed6ee3eff9c89935f4e7faefadd7a72ffb5f6e34326c2ecd44b07"
+hash = "6904fdc5bc51bcbf6b6ddfbb025fdf99fbb47819d75c7dd8e575c526c094cb8f"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"

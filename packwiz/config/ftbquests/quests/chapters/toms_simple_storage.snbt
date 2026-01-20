@@ -15,6 +15,7 @@
 			id: "313B71C0CF559AC0"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				id: "2FABFB5208E9749B"
 				item: { count: 1, id: "toms_storage:inventory_connector" }
 				type: "item"
@@ -24,8 +25,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "72935F62851A3B1F"
 			tasks: [{
+				disable_toast: true
 				id: "38DF75F36124E3E3"
 				item: { count: 1, id: "toms_storage:storage_terminal" }
 				type: "item"
@@ -35,8 +38,10 @@
 		}
 		{
 			dependencies: ["72935F62851A3B1F"]
+			disable_toast: true
 			id: "0AE4610DA649E07A"
 			tasks: [{
+				disable_toast: true
 				id: "62BE2E66C1047AE4"
 				item: { count: 1, id: "toms_storage:crafting_terminal" }
 				type: "item"
@@ -46,8 +51,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "2DC9B2A688982189"
 			tasks: [{
+				disable_toast: true
 				id: "1CB4DEFB14FFE521"
 				item: { count: 1, id: "toms_storage:trim" }
 				type: "item"
@@ -57,8 +64,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "6B6EA775B3A832E2"
 			tasks: [{
+				disable_toast: true
 				id: "40ABC52E86B7EBA7"
 				item: { count: 1, id: "toms_storage:level_emitter" }
 				type: "item"
@@ -68,8 +77,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "0B6123F710614ED2"
 			tasks: [{
+				disable_toast: true
 				id: "493B36B4DBAFFB3B"
 				item: { count: 1, id: "toms_storage:inventory_cable" }
 				type: "item"
@@ -79,8 +90,10 @@
 		}
 		{
 			dependencies: ["0B6123F710614ED2"]
+			disable_toast: true
 			id: "5120959039EDC5A6"
 			tasks: [{
+				disable_toast: true
 				id: "458404FB30DBB30C"
 				item: { count: 1, id: "toms_storage:inventory_cable_framed" }
 				type: "item"
@@ -90,8 +103,10 @@
 		}
 		{
 			dependencies: ["0B6123F710614ED2"]
+			disable_toast: true
 			id: "35D7203D14F1B53D"
 			tasks: [{
+				disable_toast: true
 				id: "26FA6182D8FDCCDE"
 				item: { count: 1, id: "toms_storage:basic_inventory_hopper" }
 				type: "item"
@@ -101,8 +116,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "3D84D8E32871F8A0"
 			tasks: [{
+				disable_toast: true
 				id: "285DA24152E6CF45"
 				item: { count: 1, id: "toms_storage:inventory_interface" }
 				type: "item"
@@ -112,8 +129,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "5FF356756BAE1410"
 			tasks: [{
+				disable_toast: true
 				id: "142E481DDD7B0DB5"
 				item: { count: 1, id: "toms_storage:filing_cabinet" }
 				type: "item"
@@ -123,8 +142,10 @@
 		}
 		{
 			dependencies: ["0B6123F710614ED2"]
+			disable_toast: true
 			id: "159B10DADA2D8353"
 			tasks: [{
+				disable_toast: true
 				id: "056D8915293533D6"
 				item: { count: 1, id: "toms_storage:inventory_cable_connector" }
 				type: "item"
@@ -134,8 +155,10 @@
 		}
 		{
 			dependencies: ["159B10DADA2D8353"]
+			disable_toast: true
 			id: "0E183EE69DDB0830"
 			tasks: [{
+				disable_toast: true
 				id: "05E18FE596176277"
 				item: { count: 1, id: "toms_storage:inventory_cable_connector_framed" }
 				type: "item"
@@ -145,8 +168,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "19F3C95D858ABF03"
 			tasks: [{
+				disable_toast: true
 				id: "0F86DD180A8F5DE5"
 				item: { count: 1, id: "toms_storage:inventory_proxy" }
 				type: "item"
@@ -156,8 +181,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "35B11E816CE5CE14"
 			tasks: [{
+				disable_toast: true
 				id: "03CFF4388D40B726"
 				item: { count: 1, id: "toms_storage:open_crate" }
 				type: "item"
@@ -167,8 +194,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "5A83257BCA7841EC"
 			tasks: [{
+				disable_toast: true
 				id: "16A7BD62EB029DE5"
 				item: { count: 1, id: "toms_storage:wireless_terminal" }
 				type: "item"
@@ -178,8 +207,10 @@
 		}
 		{
 			dependencies: ["5A83257BCA7841EC"]
+			disable_toast: true
 			id: "671BB1D33AE4DEFF"
 			tasks: [{
+				disable_toast: true
 				id: "4B2147FA96AC4477"
 				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
 				type: "item"
@@ -189,8 +220,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "1B6D393309E754BB"
 			tasks: [{
+				disable_toast: true
 				id: "269B98EDA8D15C03"
 				item: { count: 1, id: "toms_storage:item_filter" }
 				type: "item"
@@ -200,8 +233,10 @@
 		}
 		{
 			dependencies: ["1B6D393309E754BB"]
+			disable_toast: true
 			id: "030BD2F0D6CB02F7"
 			tasks: [{
+				disable_toast: true
 				id: "22B2194CB21E32A2"
 				item: { count: 1, id: "toms_storage:polymorphic_item_filter" }
 				type: "item"
@@ -211,8 +246,10 @@
 		}
 		{
 			dependencies: ["1B6D393309E754BB"]
+			disable_toast: true
 			id: "595E3E85E30B2300"
 			tasks: [{
+				disable_toast: true
 				id: "191C8E38EEF9BD79"
 				item: { count: 1, id: "toms_storage:tag_item_filter" }
 				type: "item"
@@ -222,8 +259,10 @@
 		}
 		{
 			dependencies: ["313B71C0CF559AC0"]
+			disable_toast: true
 			id: "56E70C89DB21F99C"
 			tasks: [{
+				disable_toast: true
 				id: "76B074A48CC335D7"
 				item: { count: 1, id: "toms_storage:inventory_configurator" }
 				type: "item"

@@ -12,12 +12,14 @@
 	quest_links: [ ]
 	quests: [
 		{
+			disable_toast: true
 			icon: {
 				id: "farmersdelight:skillet"
 			}
 			id: "5D19A7EC1EFE7828"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "21E0589A1BB77E12"
 				type: "checkmark"
 			}]
@@ -25,8 +27,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "0E870493D4862DFF"
 			tasks: [{
+				disable_toast: true
 				id: "0CB260451C8011B8"
 				item: { count: 1, id: "croptopia:artichoke_seed" }
 				type: "item"
@@ -35,8 +39,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "3D78A3870973074F"
 			tasks: [{
+				disable_toast: true
 				id: "6FE6EFDC8AA02B7C"
 				item: { count: 1, id: "croptopia:asparagus_seed" }
 				type: "item"
@@ -45,8 +51,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "6541939AF4C53B0B"
 			tasks: [{
+				disable_toast: true
 				id: "62B4A9C10E12EBCB"
 				item: { count: 1, id: "croptopia:barley_seed" }
 				type: "item"
@@ -55,8 +63,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "61A2347BFC4C67F4"
 			tasks: [{
+				disable_toast: true
 				id: "038D89F1CBFAC287"
 				item: { count: 1, id: "croptopia:basil_seed" }
 				type: "item"
@@ -65,8 +75,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "22CED391560C071A"
 			tasks: [{
+				disable_toast: true
 				id: "21E1BC37B8413726"
 				item: { count: 1, id: "croptopia:bellpepper_seed" }
 				type: "item"
@@ -75,8 +87,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "3B2708C169F89396"
 			tasks: [{
+				disable_toast: true
 				id: "31793FA35F55A1E0"
 				item: { count: 1, id: "croptopia:blackbean_seed" }
 				type: "item"
@@ -85,8 +99,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "225858DC04C5EFA6"
 			tasks: [{
+				disable_toast: true
 				id: "0C973C1208DDAD1F"
 				item: { count: 1, id: "croptopia:blackberry_seed" }
 				type: "item"
@@ -95,8 +111,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "69FA3C7ED1D26737"
 			tasks: [{
+				disable_toast: true
 				id: "5E6A04F71F2A03CE"
 				item: { count: 1, id: "croptopia:blueberry_seed" }
 				type: "item"
@@ -105,8 +123,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "48E2283F6A1B574D"
 			tasks: [{
+				disable_toast: true
 				id: "35CE048B7238F87E"
 				item: { count: 1, id: "croptopia:broccoli_seed" }
 				type: "item"
@@ -115,8 +135,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "113FC56967852878"
 			tasks: [{
+				disable_toast: true
 				id: "3FC6F3D1E9100429"
 				item: { count: 1, id: "croptopia:cabbage_seed" }
 				type: "item"
@@ -125,8 +147,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "2C66E02EA03BCA53"
 			tasks: [{
+				disable_toast: true
 				id: "36CAFC4AD3898E97"
 				item: { count: 1, id: "croptopia:cantaloupe_seed" }
 				type: "item"
@@ -135,8 +159,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "063E67C36F6182EC"
 			tasks: [{
+				disable_toast: true
 				id: "76634DBF087D68F6"
 				item: { count: 1, id: "croptopia:cauliflower_seed" }
 				type: "item"
@@ -145,8 +171,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "5F25BB58E6D40F1D"
 			tasks: [{
+				disable_toast: true
 				id: "5D2796E9E599EDB8"
 				item: { count: 1, id: "croptopia:celery_seed" }
 				type: "item"
@@ -155,8 +183,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "4F2C01B7FD682D9D"
 			tasks: [{
+				disable_toast: true
 				id: "78C7F8D9B8691D32"
 				item: { count: 1, id: "croptopia:chile_pepper_seed" }
 				type: "item"
@@ -165,8 +195,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "74BE6319DD05C6B5"
 			tasks: [{
+				disable_toast: true
 				id: "5B1FDF23D092EED6"
 				item: { count: 1, id: "croptopia:coffee_seed" }
 				type: "item"
@@ -175,8 +207,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "305F1ADFEED534DA"
 			tasks: [{
+				disable_toast: true
 				id: "3069377056E2CF6B"
 				item: { count: 1, id: "croptopia:corn_seed" }
 				type: "item"
@@ -185,8 +219,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "20FB6DFA867D62B7"
 			tasks: [{
+				disable_toast: true
 				id: "3844E33AF3391F12"
 				item: { count: 1, id: "croptopia:cranberry_seed" }
 				type: "item"
@@ -195,8 +231,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "3D83A0E99BD79788"
 			tasks: [{
+				disable_toast: true
 				id: "5BCC9D9BF28ADE89"
 				item: { count: 1, id: "croptopia:cucumber_seed" }
 				type: "item"
@@ -205,8 +243,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "2C4A799E9452F554"
 			tasks: [{
+				disable_toast: true
 				id: "15029D050F931E71"
 				item: { count: 1, id: "croptopia:currant_seed" }
 				type: "item"
@@ -215,8 +255,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "5BEF47ABCB5F7467"
 			tasks: [{
+				disable_toast: true
 				id: "10977EBA1D4ACE6A"
 				item: { count: 1, id: "croptopia:eggplant_seed" }
 				type: "item"
@@ -225,8 +267,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "5886BB56B51F5D2C"
 			tasks: [{
+				disable_toast: true
 				id: "728900710C1AF490"
 				item: { count: 1, id: "croptopia:elderberry_seed" }
 				type: "item"
@@ -235,8 +279,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "3A3EEC6586FA982C"
 			tasks: [{
+				disable_toast: true
 				id: "4079D471BECA3853"
 				item: { count: 1, id: "croptopia:garlic_seed" }
 				type: "item"
@@ -245,8 +291,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "6DD9AA09BB43F65A"
 			tasks: [{
+				disable_toast: true
 				id: "0079D1687021B7C2"
 				item: { count: 1, id: "croptopia:ginger_seed" }
 				type: "item"
@@ -255,8 +303,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "630ACABDAC901FE1"
 			tasks: [{
+				disable_toast: true
 				id: "5280CB7AE1B36D0D"
 				item: { count: 1, id: "croptopia:grape_seed" }
 				type: "item"
@@ -265,8 +315,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "39194EE879C602FD"
 			tasks: [{
+				disable_toast: true
 				id: "53956A9CE562E844"
 				item: { count: 1, id: "croptopia:greenbean_seed" }
 				type: "item"
@@ -275,8 +327,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "5360E5622A4A0CF8"
 			tasks: [{
+				disable_toast: true
 				id: "7F5A922346196165"
 				item: { count: 1, id: "croptopia:greenonion_seed" }
 				type: "item"
@@ -285,8 +339,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "081439591329341F"
 			tasks: [{
+				disable_toast: true
 				id: "42ACD267FCE5996C"
 				item: { count: 1, id: "croptopia:honeydew_seed" }
 				type: "item"
@@ -295,8 +351,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "1A1E28E7F2EC1D05"
 			tasks: [{
+				disable_toast: true
 				id: "2BD576CE3CFEAAAC"
 				item: { count: 1, id: "croptopia:hops_seed" }
 				type: "item"
@@ -305,8 +363,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "4B945FA7E43DF346"
 			tasks: [{
+				disable_toast: true
 				id: "38A40934DFAEB7F6"
 				item: { count: 1, id: "croptopia:kale_seed" }
 				type: "item"
@@ -315,8 +375,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "008A81F2611FE59F"
 			tasks: [{
+				disable_toast: true
 				id: "6FB4566ECA0F8B37"
 				item: { count: 1, id: "croptopia:kiwi_seed" }
 				type: "item"
@@ -325,8 +387,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "103C052D1C513763"
 			tasks: [{
+				disable_toast: true
 				id: "4EF0AFDD0150A511"
 				item: { count: 1, id: "croptopia:leek_seed" }
 				type: "item"
@@ -335,8 +399,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "3E0413FDD9B6867D"
 			tasks: [{
+				disable_toast: true
 				id: "1FCDA4F0271EF120"
 				item: { count: 1, id: "croptopia:lettuce_seed" }
 				type: "item"
@@ -345,8 +411,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "01A7A90DA0000B70"
 			tasks: [{
+				disable_toast: true
 				id: "68DC209B5466D434"
 				item: { count: 1, id: "croptopia:mustard_seed" }
 				type: "item"
@@ -355,8 +423,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "7476CE297819DD3F"
 			tasks: [{
+				disable_toast: true
 				id: "792FF5B014B8C87D"
 				item: { count: 1, id: "croptopia:oat_seed" }
 				type: "item"
@@ -365,8 +435,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "5BCA603DCEA522B3"
 			tasks: [{
+				disable_toast: true
 				id: "5A7794D4AE12D91C"
 				item: { count: 1, id: "croptopia:olive_seed" }
 				type: "item"
@@ -375,8 +447,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "364F42DFFBAEEEB3"
 			tasks: [{
+				disable_toast: true
 				id: "59BC5C1FF96BC67E"
 				item: { count: 1, id: "croptopia:onion_seed" }
 				type: "item"
@@ -385,8 +459,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "4085307EC34D557C"
 			tasks: [{
+				disable_toast: true
 				id: "6EAF159C68936832"
 				item: { count: 1, id: "croptopia:peanut_seed" }
 				type: "item"
@@ -395,8 +471,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "09B5FEFDE9C34C81"
 			tasks: [{
+				disable_toast: true
 				id: "6F592FFB322D37BE"
 				item: { count: 1, id: "croptopia:pepper_seed" }
 				type: "item"
@@ -405,8 +483,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "6B8CD69F28CA2B85"
 			tasks: [{
+				disable_toast: true
 				id: "09B81B44215B365C"
 				item: { count: 1, id: "croptopia:pineapple_seed" }
 				type: "item"
@@ -415,8 +495,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "05B64B69F031616D"
 			tasks: [{
+				disable_toast: true
 				id: "5B3B9E18A74D72AC"
 				item: { count: 1, id: "croptopia:radish_seed" }
 				type: "item"
@@ -425,8 +507,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "1050E15FA0CEA255"
 			tasks: [{
+				disable_toast: true
 				id: "0B1EC985D4347DCF"
 				item: { count: 1, id: "croptopia:raspberry_seed" }
 				type: "item"
@@ -435,8 +519,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "631D229836DFF8D6"
 			tasks: [{
+				disable_toast: true
 				id: "529D2CF67C0AF054"
 				item: { count: 1, id: "croptopia:rhubarb_seed" }
 				type: "item"
@@ -445,8 +531,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "28EA1639F51C5671"
 			tasks: [{
+				disable_toast: true
 				id: "1E1379DBCC5BB6B0"
 				item: { count: 1, id: "croptopia:rice_seed" }
 				type: "item"
@@ -455,8 +543,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "60CEA9F8D424C9C8"
 			tasks: [{
+				disable_toast: true
 				id: "419D87DA5F783AB5"
 				item: { count: 1, id: "croptopia:rutabaga_seed" }
 				type: "item"
@@ -465,8 +555,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "26470F55CC27427E"
 			tasks: [{
+				disable_toast: true
 				id: "4CCD21EFD3730674"
 				item: { count: 1, id: "croptopia:saguaro_seed" }
 				type: "item"
@@ -475,8 +567,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "403AE3C199C4FCAC"
 			tasks: [{
+				disable_toast: true
 				id: "0F4BE7E327E21FC4"
 				item: { count: 1, id: "croptopia:soybean_seed" }
 				type: "item"
@@ -485,8 +579,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "322372939B11B11A"
 			tasks: [{
+				disable_toast: true
 				id: "6953EC9B09653929"
 				item: { count: 1, id: "croptopia:spinach_seed" }
 				type: "item"
@@ -495,8 +591,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "148F7BDFD21AC666"
 			tasks: [{
+				disable_toast: true
 				id: "485C607E4DB4DA39"
 				item: { count: 1, id: "croptopia:squash_seed" }
 				type: "item"
@@ -505,8 +603,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "752E9E3A55DD3B4B"
 			tasks: [{
+				disable_toast: true
 				id: "6F32349971818B6D"
 				item: { count: 1, id: "croptopia:strawberry_seed" }
 				type: "item"
@@ -515,8 +615,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "1A65C9F9D97113CC"
 			tasks: [{
+				disable_toast: true
 				id: "4006B2C630D56357"
 				item: { count: 1, id: "croptopia:sweetpotato_seed" }
 				type: "item"
@@ -525,8 +627,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "0F45D58D274D0C9F"
 			tasks: [{
+				disable_toast: true
 				id: "132B77132EF63188"
 				item: { count: 1, id: "croptopia:tea_seed" }
 				type: "item"
@@ -535,8 +639,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "111476E1D6735D03"
 			tasks: [{
+				disable_toast: true
 				id: "68B2475D41650DF2"
 				item: { count: 1, id: "croptopia:tomatillo_seed" }
 				type: "item"
@@ -545,8 +651,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "6A6C885534FD5753"
 			tasks: [{
+				disable_toast: true
 				id: "5FC46EF8D917244C"
 				item: { count: 1, id: "croptopia:tomato_seed" }
 				type: "item"
@@ -555,8 +663,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "4B6605AFF6F3C55B"
 			tasks: [{
+				disable_toast: true
 				id: "4C3C999E7BEAC7ED"
 				item: { count: 1, id: "croptopia:turmeric_seed" }
 				type: "item"
@@ -565,8 +675,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "7DBF48254E65709A"
 			tasks: [{
+				disable_toast: true
 				id: "73D966D7F23FDD3A"
 				item: { count: 1, id: "croptopia:turnip_seed" }
 				type: "item"
@@ -575,8 +687,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "091DAE494962D920"
 			tasks: [{
+				disable_toast: true
 				id: "5DF0822596400B4F"
 				item: { count: 1, id: "croptopia:vanilla_seeds" }
 				type: "item"
@@ -585,8 +699,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "4C7C58A7CE472F97"
 			tasks: [{
+				disable_toast: true
 				id: "4FBE248EA10E959F"
 				item: { count: 1, id: "croptopia:yam_seed" }
 				type: "item"
@@ -595,8 +711,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "03A71835518F202F"
 			tasks: [{
+				disable_toast: true
 				id: "3AFB923903176ABF"
 				item: { count: 1, id: "croptopia:zucchini_seed" }
 				type: "item"
@@ -605,8 +723,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "12CBF00718DCBD67"
 			tasks: [{
+				disable_toast: true
 				id: "411273E040782F78"
 				item: { count: 1, id: "croptopia:almond_sapling" }
 				type: "item"
@@ -615,8 +735,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "65D1C2B69D9ADBB6"
 			tasks: [{
+				disable_toast: true
 				id: "0986924DB22753CB"
 				item: { count: 1, id: "croptopia:apple_sapling" }
 				type: "item"
@@ -625,8 +747,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "5B7DC6417AAAD2C8"
 			tasks: [{
+				disable_toast: true
 				id: "65F6FB85BEC82EA2"
 				item: { count: 1, id: "croptopia:apricot_sapling" }
 				type: "item"
@@ -635,8 +759,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "253050A562849A2B"
 			tasks: [{
+				disable_toast: true
 				id: "5F4E6549A881119F"
 				item: { count: 1, id: "croptopia:avocado_sapling" }
 				type: "item"
@@ -645,8 +771,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "350C7525B64C2E22"
 			tasks: [{
+				disable_toast: true
 				id: "33CB324156C180B2"
 				item: { count: 1, id: "croptopia:banana_sapling" }
 				type: "item"
@@ -655,8 +783,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "6D639FA86244F30E"
 			tasks: [{
+				disable_toast: true
 				id: "2FC8E7C0E718969B"
 				item: { count: 1, id: "croptopia:cashew_sapling" }
 				type: "item"
@@ -665,8 +795,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "0CEAD12FBFEBCA8E"
 			tasks: [{
+				disable_toast: true
 				id: "7EF4DC92565F70B3"
 				item: { count: 1, id: "croptopia:cherry_sapling" }
 				type: "item"
@@ -675,8 +807,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "530B4F1BF2D664FA"
 			tasks: [{
+				disable_toast: true
 				id: "3BB6AC8B0308C0E0"
 				item: { count: 1, id: "croptopia:cinnamon_sapling" }
 				type: "item"
@@ -685,8 +819,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "53B3BC17E780191F"
 			tasks: [{
+				disable_toast: true
 				id: "270F6BF7FC4FF68C"
 				item: { count: 1, id: "croptopia:coconut_sapling" }
 				type: "item"
@@ -695,8 +831,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "62ADE97DA63FAB66"
 			tasks: [{
+				disable_toast: true
 				id: "2A86A8A56C57F8E8"
 				item: { count: 1, id: "croptopia:date_sapling" }
 				type: "item"
@@ -705,8 +843,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "06A007A2A118F142"
 			tasks: [{
+				disable_toast: true
 				id: "51A0D415CC2BF21D"
 				item: { count: 1, id: "croptopia:dragonfruit_sapling" }
 				type: "item"
@@ -715,8 +855,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "54A19D76248CFA46"
 			tasks: [{
+				disable_toast: true
 				id: "7FFCA8349B4318D7"
 				item: { count: 1, id: "croptopia:fig_sapling" }
 				type: "item"
@@ -725,8 +867,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "28E68739330C29FB"
 			tasks: [{
+				disable_toast: true
 				id: "47B3C3B64F28D3A4"
 				item: { count: 1, id: "croptopia:grapefruit_sapling" }
 				type: "item"
@@ -735,8 +879,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "45D8479BD72EDBCF"
 			tasks: [{
+				disable_toast: true
 				id: "18070090C78ECAD3"
 				item: { count: 1, id: "croptopia:kumquat_sapling" }
 				type: "item"
@@ -745,8 +891,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "54F9A722DF6520B6"
 			tasks: [{
+				disable_toast: true
 				id: "366832E50C6E0514"
 				item: { count: 1, id: "croptopia:lemon_sapling" }
 				type: "item"
@@ -755,8 +903,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "5F4B4451D3632A6D"
 			tasks: [{
+				disable_toast: true
 				id: "2E1354B4CEEB81ED"
 				item: { count: 1, id: "croptopia:lime_sapling" }
 				type: "item"
@@ -765,8 +915,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "1E0E491114560E7D"
 			tasks: [{
+				disable_toast: true
 				id: "7309930911E5C3D8"
 				item: { count: 1, id: "croptopia:mango_sapling" }
 				type: "item"
@@ -775,8 +927,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "350DD3FA9BE695CE"
 			tasks: [{
+				disable_toast: true
 				id: "61914D86D071A02E"
 				item: { count: 1, id: "croptopia:nectarine_sapling" }
 				type: "item"
@@ -785,8 +939,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "69F380F89CB6A59D"
 			tasks: [{
+				disable_toast: true
 				id: "3A9D10A6DB810A2F"
 				item: { count: 1, id: "croptopia:nutmeg_sapling" }
 				type: "item"
@@ -795,8 +951,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "0D98D1199DAB0352"
 			tasks: [{
+				disable_toast: true
 				id: "13F65C486F03AF36"
 				item: { count: 1, id: "croptopia:orange_sapling" }
 				type: "item"
@@ -805,8 +963,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "75472D3114B4C309"
 			tasks: [{
+				disable_toast: true
 				id: "1DA4BE849002CFBA"
 				item: { count: 1, id: "croptopia:peach_sapling" }
 				type: "item"
@@ -815,8 +975,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "3B87581A4230E607"
 			tasks: [{
+				disable_toast: true
 				id: "534ADBF05BF028E2"
 				item: { count: 1, id: "croptopia:pear_sapling" }
 				type: "item"
@@ -825,8 +987,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "0DE0B66DA82C8C79"
 			tasks: [{
+				disable_toast: true
 				id: "17ECF3113D6198D8"
 				item: { count: 1, id: "croptopia:pecan_sapling" }
 				type: "item"
@@ -835,8 +999,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "6F4258C8042F52EB"
 			tasks: [{
+				disable_toast: true
 				id: "63F24C2B44425658"
 				item: { count: 1, id: "croptopia:persimmon_sapling" }
 				type: "item"
@@ -845,8 +1011,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "6366CCCDA04897E4"
 			tasks: [{
+				disable_toast: true
 				id: "6E84E7CB319B6F6A"
 				item: { count: 1, id: "croptopia:plum_sapling" }
 				type: "item"
@@ -855,8 +1023,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "55C9B5216C276610"
 			tasks: [{
+				disable_toast: true
 				id: "13928DC84A3E8BAD"
 				item: { count: 1, id: "croptopia:starfruit_sapling" }
 				type: "item"
@@ -865,8 +1035,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "3D9F59E7364E803E"
 			tasks: [{
+				disable_toast: true
 				id: "304A46C834266479"
 				item: { count: 1, id: "croptopia:walnut_sapling" }
 				type: "item"
@@ -875,8 +1047,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "43B2EFD8460BECCB"
 			tasks: [{
+				disable_toast: true
 				id: "2399BFFDB846F809"
 				item: { count: 1, id: "croptopia:apricot" }
 				type: "item"
@@ -885,8 +1059,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "168196711853B35B"
 			tasks: [{
+				disable_toast: true
 				id: "40FD60DDF1D7279F"
 				item: { count: 1, id: "croptopia:avocado" }
 				type: "item"
@@ -895,8 +1071,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "690C361641914FE8"
 			tasks: [{
+				disable_toast: true
 				id: "456BD42DF5328B97"
 				item: { count: 1, id: "croptopia:banana" }
 				type: "item"
@@ -905,8 +1083,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "3395DD8C24AB73D4"
 			tasks: [{
+				disable_toast: true
 				id: "027BFC8F2F2E650E"
 				item: { count: 1, id: "croptopia:blackberry" }
 				type: "item"
@@ -915,8 +1095,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "0FE8A5D3627F2D3A"
 			tasks: [{
+				disable_toast: true
 				id: "2FDBEEC22C150B94"
 				item: { count: 1, id: "croptopia:blueberry" }
 				type: "item"
@@ -925,8 +1107,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "42930A25B36F8828"
 			tasks: [{
+				disable_toast: true
 				id: "14F7E70DC58D95A2"
 				item: { count: 1, id: "croptopia:cantaloupe" }
 				type: "item"
@@ -935,8 +1119,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "1572DE578375808A"
 			tasks: [{
+				disable_toast: true
 				id: "04DEAEFB4795F2F1"
 				item: { count: 1, id: "croptopia:cherry" }
 				type: "item"
@@ -945,8 +1131,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "5D516B28EB733EC1"
 			tasks: [{
+				disable_toast: true
 				id: "6FBD86D8930D079B"
 				item: { count: 1, id: "croptopia:coconut" }
 				type: "item"
@@ -955,8 +1143,10 @@
 			y: -10.0d
 		}
 		{
+			disable_toast: true
 			id: "7EE83C46CA235016"
 			tasks: [{
+				disable_toast: true
 				id: "7485ADC50F3D2601"
 				item: { count: 1, id: "croptopia:cranberry" }
 				type: "item"
@@ -965,8 +1155,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "58AA9A714302EAFE"
 			tasks: [{
+				disable_toast: true
 				id: "57CA02C9466E870B"
 				item: { count: 1, id: "croptopia:currant" }
 				type: "item"
@@ -975,8 +1167,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "2E9D3CCD791FB1FD"
 			tasks: [{
+				disable_toast: true
 				id: "1DC25C557858B6BD"
 				item: { count: 1, id: "croptopia:date" }
 				type: "item"
@@ -985,8 +1179,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "27354276C9368AD8"
 			tasks: [{
+				disable_toast: true
 				id: "004499D57665AB1A"
 				item: { count: 1, id: "croptopia:dragonfruit" }
 				type: "item"
@@ -995,8 +1191,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "7CB1762BA0E2C936"
 			tasks: [{
+				disable_toast: true
 				id: "4939E2541B786DD0"
 				item: { count: 1, id: "croptopia:elderberry" }
 				type: "item"
@@ -1005,8 +1203,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "64168EB1E86BC80B"
 			tasks: [{
+				disable_toast: true
 				id: "4EBCC1E318248E9D"
 				item: { count: 1, id: "croptopia:fig" }
 				type: "item"
@@ -1015,8 +1215,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "4528F961D7A22C61"
 			tasks: [{
+				disable_toast: true
 				id: "0C81CE43AC479B1D"
 				item: { count: 1, id: "croptopia:grape" }
 				type: "item"
@@ -1025,8 +1227,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "335F5E2E02935928"
 			tasks: [{
+				disable_toast: true
 				id: "3CDD80142FD6C07C"
 				item: { count: 1, id: "croptopia:grapefruit" }
 				type: "item"
@@ -1035,8 +1239,10 @@
 			y: -9.0d
 		}
 		{
+			disable_toast: true
 			id: "64A7E12FAD39DD88"
 			tasks: [{
+				disable_toast: true
 				id: "7B7B4D91FA820362"
 				item: { count: 1, id: "croptopia:honeydew" }
 				type: "item"
@@ -1045,8 +1251,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "21ADF6D3EAD6D9A3"
 			tasks: [{
+				disable_toast: true
 				id: "35F23FA8A56DC18E"
 				item: { count: 1, id: "croptopia:kiwi" }
 				type: "item"
@@ -1055,8 +1263,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "6E535C627996A2E4"
 			tasks: [{
+				disable_toast: true
 				id: "6A305E4DAD9F1ABE"
 				item: { count: 1, id: "croptopia:kumquat" }
 				type: "item"
@@ -1065,8 +1275,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "7F84EBAD1D75F0C0"
 			tasks: [{
+				disable_toast: true
 				id: "149CB880E37E4448"
 				item: { count: 1, id: "croptopia:lemon" }
 				type: "item"
@@ -1075,8 +1287,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "1738F4683509F66C"
 			tasks: [{
+				disable_toast: true
 				id: "2D0E08578F08C2F4"
 				item: { count: 1, id: "croptopia:lime" }
 				type: "item"
@@ -1085,8 +1299,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "5F0A15871D73A395"
 			tasks: [{
+				disable_toast: true
 				id: "78901E0349B2DC43"
 				item: { count: 1, id: "croptopia:mango" }
 				type: "item"
@@ -1095,8 +1311,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "13D2ADEC738F1B7B"
 			tasks: [{
+				disable_toast: true
 				id: "1CFAED972AF3021A"
 				item: { count: 1, id: "croptopia:nectarine" }
 				type: "item"
@@ -1105,8 +1323,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "26E121D762A75E4F"
 			tasks: [{
+				disable_toast: true
 				id: "14293761792CD990"
 				item: { count: 1, id: "croptopia:orange" }
 				type: "item"
@@ -1115,8 +1335,10 @@
 			y: -8.0d
 		}
 		{
+			disable_toast: true
 			id: "0D60AC68CEFAA5E2"
 			tasks: [{
+				disable_toast: true
 				id: "76571AED04631EE8"
 				item: { count: 1, id: "croptopia:peach" }
 				type: "item"
@@ -1125,8 +1347,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "1A38E165EE784D45"
 			tasks: [{
+				disable_toast: true
 				id: "29E328EDA448CD1E"
 				item: { count: 1, id: "croptopia:pear" }
 				type: "item"
@@ -1135,8 +1359,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "33950A50C4768756"
 			tasks: [{
+				disable_toast: true
 				id: "2CB94FA842AACC34"
 				item: { count: 1, id: "croptopia:persimmon" }
 				type: "item"
@@ -1145,8 +1371,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "6CA301095C3BC3FC"
 			tasks: [{
+				disable_toast: true
 				id: "1D51F124C43676A1"
 				item: { count: 1, id: "croptopia:pineapple" }
 				type: "item"
@@ -1155,8 +1383,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "10784389527267ED"
 			tasks: [{
+				disable_toast: true
 				id: "2EB96F9D47CCE8EF"
 				item: { count: 1, id: "croptopia:plum" }
 				type: "item"
@@ -1165,8 +1395,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "6D6D315F498C5CAF"
 			tasks: [{
+				disable_toast: true
 				id: "4C243FDA63A74874"
 				item: { count: 1, id: "croptopia:raisins" }
 				type: "item"
@@ -1175,8 +1407,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "647F901819E9715B"
 			tasks: [{
+				disable_toast: true
 				id: "258E4717AEDF943F"
 				item: { count: 1, id: "croptopia:raspberry" }
 				type: "item"
@@ -1185,8 +1419,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "7954C2EFF559B1E2"
 			tasks: [{
+				disable_toast: true
 				id: "0FFD5EE28136FBBE"
 				item: { count: 1, id: "croptopia:starfruit" }
 				type: "item"
@@ -1195,8 +1431,10 @@
 			y: -7.0d
 		}
 		{
+			disable_toast: true
 			id: "11654DBB6FFB59DD"
 			tasks: [{
+				disable_toast: true
 				id: "7E15C8CA04A034A7"
 				item: { count: 1, id: "croptopia:strawberry" }
 				type: "item"
@@ -1205,8 +1443,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "73B98F921A88A00F"
 			tasks: [{
+				disable_toast: true
 				id: "02D760083B8E09AA"
 				item: { count: 1, id: "croptopia:almond" }
 				type: "item"
@@ -1215,8 +1455,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "7D7B1C43EE2747DA"
 			tasks: [{
+				disable_toast: true
 				id: "3DE56247F82F7AE7"
 				item: { count: 1, id: "croptopia:artichoke" }
 				type: "item"
@@ -1225,8 +1467,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "670B7A3B7354281D"
 			tasks: [{
+				disable_toast: true
 				id: "3EA02E5DC4F9F78B"
 				item: { count: 1, id: "croptopia:asparagus" }
 				type: "item"
@@ -1235,8 +1479,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "0F61B9CA486A70BC"
 			tasks: [{
+				disable_toast: true
 				id: "66CDF38B85B88960"
 				item: { count: 1, id: "croptopia:barley" }
 				type: "item"
@@ -1245,8 +1491,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "48F95FAD294C613B"
 			tasks: [{
+				disable_toast: true
 				id: "288431EFF4C42884"
 				item: { count: 1, id: "croptopia:basil" }
 				type: "item"
@@ -1255,8 +1503,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "18F9DC3B5BC747A6"
 			tasks: [{
+				disable_toast: true
 				id: "7E235EDC3C6E1FC2"
 				item: { count: 1, id: "croptopia:bellpepper" }
 				type: "item"
@@ -1265,8 +1515,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "6E1D11553E2C3B3E"
 			tasks: [{
+				disable_toast: true
 				id: "0CCC95476E6DC6AE"
 				item: { count: 1, id: "croptopia:blackbean" }
 				type: "item"
@@ -1275,8 +1527,10 @@
 			y: -6.0d
 		}
 		{
+			disable_toast: true
 			id: "4D32DF6DF72121F1"
 			tasks: [{
+				disable_toast: true
 				id: "7ED9B35398D0AB7D"
 				item: { count: 1, id: "croptopia:broccoli" }
 				type: "item"
@@ -1285,8 +1539,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "7ACC5CEC09755A52"
 			tasks: [{
+				disable_toast: true
 				id: "2FFA5CDBE0B8C161"
 				item: { count: 1, id: "croptopia:cabbage" }
 				type: "item"
@@ -1295,8 +1551,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "24C25BE17317B0F9"
 			tasks: [{
+				disable_toast: true
 				id: "5DFC23E78163A561"
 				item: { count: 1, id: "croptopia:cashew" }
 				type: "item"
@@ -1305,8 +1563,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "38B836086F68397E"
 			tasks: [{
+				disable_toast: true
 				id: "40C6BD3CBB2D69D1"
 				item: { count: 1, id: "croptopia:cauliflower" }
 				type: "item"
@@ -1315,8 +1575,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "66885319476C41F7"
 			tasks: [{
+				disable_toast: true
 				id: "0F86E9138BCDCAE9"
 				item: { count: 1, id: "croptopia:celery" }
 				type: "item"
@@ -1325,8 +1587,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "34F3874A67900B32"
 			tasks: [{
+				disable_toast: true
 				id: "1D4254C886109875"
 				item: { count: 1, id: "croptopia:chile_pepper" }
 				type: "item"
@@ -1335,8 +1599,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "6DE1768CF7FC4505"
 			tasks: [{
+				disable_toast: true
 				id: "3D125B024DA51124"
 				item: { count: 1, id: "croptopia:cinnamon" }
 				type: "item"
@@ -1345,8 +1611,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "264F778117A6395A"
 			tasks: [{
+				disable_toast: true
 				id: "00211232DACBD188"
 				item: { count: 1, id: "croptopia:coffee_beans" }
 				type: "item"
@@ -1355,8 +1623,10 @@
 			y: -5.0d
 		}
 		{
+			disable_toast: true
 			id: "25C9B229B8E545A5"
 			tasks: [{
+				disable_toast: true
 				id: "3C6D342FB23F661D"
 				item: { count: 1, id: "croptopia:corn" }
 				type: "item"
@@ -1365,8 +1635,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "332BD37FBD54A97B"
 			tasks: [{
+				disable_toast: true
 				id: "4C2C6B02DE857989"
 				item: { count: 1, id: "croptopia:cucumber" }
 				type: "item"
@@ -1375,8 +1647,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "60D586D258FF733B"
 			tasks: [{
+				disable_toast: true
 				id: "7E4516FF2E2E2325"
 				item: { count: 1, id: "croptopia:eggplant" }
 				type: "item"
@@ -1385,8 +1659,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "474601FC1F8619D5"
 			tasks: [{
+				disable_toast: true
 				id: "1655E214AEDB19BB"
 				item: { count: 1, id: "croptopia:garlic" }
 				type: "item"
@@ -1395,8 +1671,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "5BF3CB282F0F4672"
 			tasks: [{
+				disable_toast: true
 				id: "7B52B4655A40CE91"
 				item: { count: 1, id: "croptopia:ginger" }
 				type: "item"
@@ -1405,8 +1683,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "60EB24F3B0FFEF74"
 			tasks: [{
+				disable_toast: true
 				id: "6423DE187CEFB4A6"
 				item: { count: 1, id: "croptopia:greenbean" }
 				type: "item"
@@ -1415,8 +1695,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "71ECB6849B5A694B"
 			tasks: [{
+				disable_toast: true
 				id: "64D27593E92BC7C5"
 				item: { count: 1, id: "croptopia:greenonion" }
 				type: "item"
@@ -1425,8 +1707,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "76115863C6CB6D4F"
 			tasks: [{
+				disable_toast: true
 				id: "5172D00EA7402A94"
 				item: { count: 1, id: "croptopia:hops" }
 				type: "item"
@@ -1435,8 +1719,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "3DD87568B71C8F7E"
 			tasks: [{
+				disable_toast: true
 				id: "7E970D4F25C75A01"
 				item: { count: 1, id: "croptopia:kale" }
 				type: "item"
@@ -1445,8 +1731,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "0ADC73D90F374E7D"
 			tasks: [{
+				disable_toast: true
 				id: "0A3B562C011051EB"
 				item: { count: 1, id: "croptopia:leek" }
 				type: "item"
@@ -1455,8 +1743,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "6628B14366DEDCD9"
 			tasks: [{
+				disable_toast: true
 				id: "5D2B7F1ACFFEEFC1"
 				item: { count: 1, id: "croptopia:lettuce" }
 				type: "item"
@@ -1465,8 +1755,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "2FB90DC69EEFCDEF"
 			tasks: [{
+				disable_toast: true
 				id: "11675B707681B784"
 				item: { count: 1, id: "croptopia:mustard" }
 				type: "item"
@@ -1475,8 +1767,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "58BDD5E4405F6C6E"
 			tasks: [{
+				disable_toast: true
 				id: "5A064EB068B291A0"
 				item: { count: 1, id: "croptopia:nutmeg" }
 				type: "item"
@@ -1485,8 +1779,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "345F26342C907CC0"
 			tasks: [{
+				disable_toast: true
 				id: "167AA8BB83E491A1"
 				item: { count: 1, id: "croptopia:oat" }
 				type: "item"
@@ -1495,8 +1791,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "5B6E07CD62927AFF"
 			tasks: [{
+				disable_toast: true
 				id: "64CF18B7219DECB5"
 				item: { count: 1, id: "croptopia:olive" }
 				type: "item"
@@ -1505,8 +1803,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "78F302DE00B78830"
 			tasks: [{
+				disable_toast: true
 				id: "660F1D43E206A41A"
 				item: { count: 1, id: "croptopia:onion" }
 				type: "item"
@@ -1515,8 +1815,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "3B11A15C4EDBB20F"
 			tasks: [{
+				disable_toast: true
 				id: "761844412DE1E613"
 				item: { count: 1, id: "croptopia:peanut" }
 				type: "item"
@@ -1525,8 +1827,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "16B46BB856ECF261"
 			tasks: [{
+				disable_toast: true
 				id: "2C74CCB75BB0324D"
 				item: { count: 1, id: "croptopia:pecan" }
 				type: "item"
@@ -1535,8 +1839,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "07AC594AD38C3946"
 			tasks: [{
+				disable_toast: true
 				id: "29F29BB29822E1B7"
 				item: { count: 1, id: "croptopia:pepper" }
 				type: "item"
@@ -1545,8 +1851,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "1299B1923BC6CED4"
 			tasks: [{
+				disable_toast: true
 				id: "5C1342E8577415A6"
 				item: { count: 1, id: "croptopia:radish" }
 				type: "item"
@@ -1555,8 +1863,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "0F311A72CB012E75"
 			tasks: [{
+				disable_toast: true
 				id: "1EFC4944AD4164E2"
 				item: { count: 1, id: "croptopia:rhubarb" }
 				type: "item"
@@ -1565,8 +1875,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "447B4E62A239D146"
 			tasks: [{
+				disable_toast: true
 				id: "480C1DB839C7FAE8"
 				item: { count: 1, id: "croptopia:rice" }
 				type: "item"
@@ -1575,8 +1887,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "34DECA0AAE2324AA"
 			tasks: [{
+				disable_toast: true
 				id: "45A13D80BDEBE41C"
 				item: { count: 1, id: "croptopia:rutabaga" }
 				type: "item"
@@ -1585,8 +1899,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "63192A3C5AF3B3BE"
 			tasks: [{
+				disable_toast: true
 				id: "05AD63C71FA62B9D"
 				item: { count: 1, id: "croptopia:saguaro" }
 				type: "item"
@@ -1595,8 +1911,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "77DEA32204B47DD5"
 			tasks: [{
+				disable_toast: true
 				id: "7A34F0424CF874AD"
 				item: { count: 1, id: "croptopia:soybean" }
 				type: "item"
@@ -1605,8 +1923,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "4C2AA30A7F34480E"
 			tasks: [{
+				disable_toast: true
 				id: "2DEBA4EC3AECE287"
 				item: { count: 1, id: "croptopia:spinach" }
 				type: "item"
@@ -1615,8 +1935,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "61FABFDD34A0EDE1"
 			tasks: [{
+				disable_toast: true
 				id: "53F102B00F5B24AD"
 				item: { count: 1, id: "croptopia:squash" }
 				type: "item"
@@ -1625,8 +1947,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "288779854EC5B98D"
 			tasks: [{
+				disable_toast: true
 				id: "5A3C38143DB0B79E"
 				item: { count: 1, id: "croptopia:sweetpotato" }
 				type: "item"
@@ -1635,8 +1959,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "272D8DD20B15D900"
 			tasks: [{
+				disable_toast: true
 				id: "1C89D06EEA30B66D"
 				item: { count: 1, id: "croptopia:tea_leaves" }
 				type: "item"
@@ -1645,8 +1971,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "74C1B058465F3B69"
 			tasks: [{
+				disable_toast: true
 				id: "1E5F9D2741EA2C77"
 				item: { count: 1, id: "croptopia:tomatillo" }
 				type: "item"
@@ -1655,8 +1983,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "2096AF17CCE50B2C"
 			tasks: [{
+				disable_toast: true
 				id: "1B1F6CFC9CFB7076"
 				item: { count: 1, id: "croptopia:tomato" }
 				type: "item"
@@ -1665,8 +1995,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "3FCE151270723584"
 			tasks: [{
+				disable_toast: true
 				id: "601CBCA8E6DAEA4B"
 				item: { count: 1, id: "croptopia:turmeric" }
 				type: "item"
@@ -1675,8 +2007,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "3840B090DD7CAB5C"
 			tasks: [{
+				disable_toast: true
 				id: "46A6852283496D09"
 				item: { count: 1, id: "croptopia:turnip" }
 				type: "item"
@@ -1685,8 +2019,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "0BB3AEF80046EA81"
 			tasks: [{
+				disable_toast: true
 				id: "09E54FAC7F16351F"
 				item: { count: 1, id: "croptopia:vanilla" }
 				type: "item"
@@ -1695,8 +2031,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "3A976F10D3F711C5"
 			tasks: [{
+				disable_toast: true
 				id: "771DB05B4A523B23"
 				item: { count: 1, id: "croptopia:walnut" }
 				type: "item"
@@ -1705,8 +2043,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "3E1CDA392D5DB0DE"
 			tasks: [{
+				disable_toast: true
 				id: "00488A12C5FCD370"
 				item: { count: 1, id: "croptopia:yam" }
 				type: "item"
@@ -1715,8 +2055,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "26F9BD953FF97379"
 			tasks: [{
+				disable_toast: true
 				id: "5C2E1AB70F7C7287"
 				item: { count: 1, id: "croptopia:zucchini" }
 				type: "item"
@@ -1725,8 +2067,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "71AFBF8CF8D57CD6"
 			tasks: [{
+				disable_toast: true
 				id: "0298D3EF3D7C4A76"
 				item: { count: 1, id: "croptopia:anchovy" }
 				type: "item"
@@ -1735,8 +2079,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "2272E40B94DA5E04"
 			tasks: [{
+				disable_toast: true
 				id: "27FD965C2A66FDDF"
 				item: { count: 1, id: "croptopia:bacon" }
 				type: "item"
@@ -1745,8 +2091,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "595CD7CACB0C1029"
 			tasks: [{
+				disable_toast: true
 				id: "1F15A2FBBF4979A7"
 				item: { count: 1, id: "croptopia:calamari" }
 				type: "item"
@@ -1755,8 +2103,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "34F0A1AF2A9289D5"
 			tasks: [{
+				disable_toast: true
 				id: "6F88FCB6E8224239"
 				item: { count: 1, id: "croptopia:clam" }
 				type: "item"
@@ -1765,8 +2115,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "73F4585769E06DB2"
 			tasks: [{
+				disable_toast: true
 				id: "6618FBDE6A7CD9CD"
 				item: { count: 1, id: "croptopia:crab" }
 				type: "item"
@@ -1775,8 +2127,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "613CCD55178BF221"
 			tasks: [{
+				disable_toast: true
 				id: "3A77AF67BD7415E4"
 				item: { count: 1, id: "croptopia:frog_legs" }
 				type: "item"
@@ -1785,8 +2139,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "6378AA82546F749A"
 			tasks: [{
+				disable_toast: true
 				id: "4D70D4F645CA7687"
 				item: { count: 1, id: "croptopia:glowing_calamari" }
 				type: "item"
@@ -1795,8 +2151,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "0039837C4A48CE80"
 			tasks: [{
+				disable_toast: true
 				id: "46C5F4E92E28ED3E"
 				item: { count: 1, id: "croptopia:oyster" }
 				type: "item"
@@ -1805,8 +2163,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "60F9CF9C8CFF8EF7"
 			tasks: [{
+				disable_toast: true
 				id: "6ABC52C7B260A233"
 				item: { count: 1, id: "croptopia:raw_ravager_meat" }
 				type: "item"
@@ -1815,8 +2175,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "4825BF1F07D5B6C3"
 			tasks: [{
+				disable_toast: true
 				id: "0CF13B5D89DD66E5"
 				item: { count: 1, id: "croptopia:roe" }
 				type: "item"
@@ -1825,8 +2187,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "5E693F6FD608854A"
 			tasks: [{
+				disable_toast: true
 				id: "77B17854DA8EF768"
 				item: { count: 1, id: "croptopia:sea_lettuce" }
 				type: "item"
@@ -1835,8 +2199,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "0DEE4AF615138236"
 			tasks: [{
+				disable_toast: true
 				id: "086078633260DA4F"
 				item: { count: 1, id: "croptopia:shrimp" }
 				type: "item"
@@ -1845,8 +2211,10 @@
 			y: 2.0d
 		}
 		{
+			disable_toast: true
 			id: "359EB4007DADC19A"
 			tasks: [{
+				disable_toast: true
 				id: "0334411AF37E2D85"
 				item: { count: 1, id: "croptopia:tuna" }
 				type: "item"
@@ -1855,8 +2223,10 @@
 			y: 2.0d
 		}
 		{
+			disable_toast: true
 			id: "4577F18FD1BD8A60"
 			tasks: [{
+				disable_toast: true
 				id: "27D4667B8E1BC721"
 				item: { count: 1, id: "croptopia:ajvar_toast" }
 				type: "item"
@@ -1865,8 +2235,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "647CC7141E85A406"
 			tasks: [{
+				disable_toast: true
 				id: "2ADBFDEAA66542EF"
 				item: { count: 1, id: "croptopia:ajvar" }
 				type: "item"
@@ -1875,8 +2247,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "25BAC3FF54935116"
 			tasks: [{
+				disable_toast: true
 				id: "5B1C4C25BBCDEC27"
 				item: { count: 1, id: "croptopia:anchovy_pizza" }
 				type: "item"
@@ -1885,8 +2259,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "3B4DA5E0C8151192"
 			tasks: [{
+				disable_toast: true
 				id: "59D73FE34F389F6D"
 				item: { count: 1, id: "croptopia:apricot_jam" }
 				type: "item"
@@ -1895,8 +2271,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "1F748AA8E754C75E"
 			tasks: [{
+				disable_toast: true
 				id: "6C41F681B139C0AA"
 				item: { count: 1, id: "croptopia:artichoke_dip" }
 				type: "item"
@@ -1905,8 +2283,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "337D0496170CB63A"
 			tasks: [{
+				disable_toast: true
 				id: "4790F1A697DD030F"
 				item: { count: 1, id: "croptopia:avocado_toast" }
 				type: "item"
@@ -1915,8 +2295,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "00C359170C37739B"
 			tasks: [{
+				disable_toast: true
 				id: "27199207B2B12D59"
 				item: { count: 1, id: "croptopia:baked_beans" }
 				type: "item"
@@ -1925,8 +2307,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "05D6337A57B826F0"
 			tasks: [{
+				disable_toast: true
 				id: "598FEB8735155E56"
 				item: { count: 1, id: "croptopia:baked_sweet_potato" }
 				type: "item"
@@ -1935,8 +2319,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "59352F03BDA8EFF5"
 			tasks: [{
+				disable_toast: true
 				id: "53454681D47795A7"
 				item: { count: 1, id: "croptopia:baked_yam" }
 				type: "item"
@@ -1945,8 +2331,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "20BFBB8D55073C73"
 			tasks: [{
+				disable_toast: true
 				id: "5CBCE26A7CEC84C6"
 				item: { count: 1, id: "croptopia:banana_nut_bread" }
 				type: "item"
@@ -1955,8 +2343,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "3FC107765E2A02CB"
 			tasks: [{
+				disable_toast: true
 				id: "63CE326D917B13B6"
 				item: { count: 1, id: "croptopia:beef_jerky" }
 				type: "item"
@@ -1965,8 +2355,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "49F4CB17AA792A0E"
 			tasks: [{
+				disable_toast: true
 				id: "0701E6488145096A"
 				item: { count: 1, id: "croptopia:beef_stew" }
 				type: "item"
@@ -1975,8 +2367,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "0F624A261D48F5DA"
 			tasks: [{
+				disable_toast: true
 				id: "6560A6D657192841"
 				item: { count: 1, id: "croptopia:beef_stir_fry" }
 				type: "item"
@@ -1985,8 +2379,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "6AEB619E9D8F2452"
 			tasks: [{
+				disable_toast: true
 				id: "7B14CF4ECB27D4B3"
 				item: { count: 1, id: "croptopia:beef_wellington" }
 				type: "item"
@@ -1995,8 +2391,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "00F2439BD66EB726"
 			tasks: [{
+				disable_toast: true
 				id: "190F35EE4F8E193D"
 				item: { count: 1, id: "croptopia:beetroot_salad" }
 				type: "item"
@@ -2005,8 +2403,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "46D6062B1F28B5FE"
 			tasks: [{
+				disable_toast: true
 				id: "0BDCBCBACC8A2DFE"
 				item: { count: 1, id: "croptopia:blackberry_jam" }
 				type: "item"
@@ -2015,8 +2415,10 @@
 			y: 5.5d
 		}
 		{
+			disable_toast: true
 			id: "23DED9B96B40A191"
 			tasks: [{
+				disable_toast: true
 				id: "08BB3664A7B4D4DB"
 				item: { count: 1, id: "croptopia:blt" }
 				type: "item"
@@ -2025,8 +2427,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "0393DE5072CFE719"
 			tasks: [{
+				disable_toast: true
 				id: "2CE4563A4E979A1C"
 				item: { count: 1, id: "croptopia:blueberry_jam" }
 				type: "item"
@@ -2035,8 +2439,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "3C84C8651FC20C6A"
 			tasks: [{
+				disable_toast: true
 				id: "6D4FC014345FDECD"
 				item: { count: 1, id: "croptopia:borscht" }
 				type: "item"
@@ -2045,8 +2451,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "26E4CE69C2A69370"
 			tasks: [{
+				disable_toast: true
 				id: "5A46E925B0670E49"
 				item: { count: 1, id: "croptopia:burrito" }
 				type: "item"
@@ -2055,8 +2463,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "12C17BDA63CEACF2"
 			tasks: [{
+				disable_toast: true
 				id: "4C39BB609D922725"
 				item: { count: 1, id: "croptopia:butter" }
 				type: "item"
@@ -2065,8 +2475,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "26B833F8A88FE0B3"
 			tasks: [{
+				disable_toast: true
 				id: "71D949FE86D9BB12"
 				item: { count: 1, id: "croptopia:buttered_green_beans" }
 				type: "item"
@@ -2075,8 +2487,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "7FBAA73F51C3FE5B"
 			tasks: [{
+				disable_toast: true
 				id: "7A14DA9A3440D54F"
 				item: { count: 1, id: "croptopia:buttered_toast" }
 				type: "item"
@@ -2085,8 +2499,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "0B955F940122744A"
 			tasks: [{
+				disable_toast: true
 				id: "761A46A331B53A62"
 				item: { count: 1, id: "croptopia:cabbage_roll" }
 				type: "item"
@@ -2095,8 +2511,10 @@
 			y: 6.5d
 		}
 		{
+			disable_toast: true
 			id: "32798011B0AE5C04"
 			tasks: [{
+				disable_toast: true
 				id: "16116A8C1F1E4506"
 				item: { count: 1, id: "croptopia:caesar_salad" }
 				type: "item"
@@ -2105,8 +2523,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "6893DCAF55C943CF"
 			tasks: [{
+				disable_toast: true
 				id: "06CC93BC16E80046"
 				item: { count: 1, id: "croptopia:caramel" }
 				type: "item"
@@ -2115,8 +2535,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "539E4FF5A7E0C9CE"
 			tasks: [{
+				disable_toast: true
 				id: "57B382EC0229BB07"
 				item: { count: 1, id: "croptopia:carnitas" }
 				type: "item"
@@ -2125,8 +2547,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "48299501E7C6AFA1"
 			tasks: [{
+				disable_toast: true
 				id: "11B9A682448259E3"
 				item: { count: 1, id: "croptopia:cashew_chicken" }
 				type: "item"
@@ -2135,8 +2559,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "7720D8991B5714F1"
 			tasks: [{
+				disable_toast: true
 				id: "3B423B912F571126"
 				item: { count: 1, id: "croptopia:cheese_pizza" }
 				type: "item"
@@ -2145,8 +2571,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "3739044C70210AE5"
 			tasks: [{
+				disable_toast: true
 				id: "7350E181738E7147"
 				item: { count: 1, id: "croptopia:cheese" }
 				type: "item"
@@ -2155,8 +2583,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "54F17B3164E8DBDB"
 			tasks: [{
+				disable_toast: true
 				id: "7CB7D894696CA394"
 				item: { count: 1, id: "croptopia:cheeseburger" }
 				type: "item"
@@ -2165,8 +2595,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "161690EEC9F9E2C1"
 			tasks: [{
+				disable_toast: true
 				id: "2DAFB877AB5418C0"
 				item: { count: 1, id: "croptopia:cheesy_asparagus" }
 				type: "item"
@@ -2175,8 +2607,10 @@
 			y: 7.5d
 		}
 		{
+			disable_toast: true
 			id: "5816943DF69F5FAE"
 			tasks: [{
+				disable_toast: true
 				id: "14E294A15EF39592"
 				item: { count: 1, id: "croptopia:cherry_jam" }
 				type: "item"
@@ -2185,8 +2619,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "17B2161EFBA6545E"
 			tasks: [{
+				disable_toast: true
 				id: "3656CB6F25C53666"
 				item: { count: 1, id: "croptopia:chicken_and_dumplings" }
 				type: "item"
@@ -2195,8 +2631,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "2A9CDCAF8E8E2300"
 			tasks: [{
+				disable_toast: true
 				id: "5990CE05331E1BEC"
 				item: { count: 1, id: "croptopia:chicken_and_noodles" }
 				type: "item"
@@ -2205,8 +2643,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "2417A505D5E7ADC8"
 			tasks: [{
+				disable_toast: true
 				id: "5E1D4A1DF71EF864"
 				item: { count: 1, id: "croptopia:chicken_and_rice" }
 				type: "item"
@@ -2215,8 +2655,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "33FD9D7426F2F721"
 			tasks: [{
+				disable_toast: true
 				id: "47214C21FC57BC08"
 				item: { count: 1, id: "croptopia:chili_relleno" }
 				type: "item"
@@ -2225,8 +2667,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "59BCCF3F20C3266F"
 			tasks: [{
+				disable_toast: true
 				id: "1AC89B11A7934B78"
 				item: { count: 1, id: "croptopia:chimichanga" }
 				type: "item"
@@ -2235,8 +2679,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "18158BC181BD11BF"
 			tasks: [{
+				disable_toast: true
 				id: "546AD873167BDCC6"
 				item: { count: 1, id: "croptopia:chocolate" }
 				type: "item"
@@ -2245,8 +2691,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "01C33EA37697D85A"
 			tasks: [{
+				disable_toast: true
 				id: "6F77ABDBBFBDAC63"
 				item: { count: 1, id: "croptopia:cooked_anchovy" }
 				type: "item"
@@ -2255,8 +2703,10 @@
 			y: 8.5d
 		}
 		{
+			disable_toast: true
 			id: "212E795E0EA5439B"
 			tasks: [{
+				disable_toast: true
 				id: "1696EAB90EE872A4"
 				item: { count: 1, id: "croptopia:cooked_bacon" }
 				type: "item"
@@ -2265,8 +2715,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "5072D29DB198DAD9"
 			tasks: [{
+				disable_toast: true
 				id: "3EDF515C97113D17"
 				item: { count: 1, id: "croptopia:cooked_calamari" }
 				type: "item"
@@ -2275,8 +2727,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "3EA58463D8BD73F8"
 			tasks: [{
+				disable_toast: true
 				id: "0D69E02E9770C567"
 				item: { count: 1, id: "croptopia:cooked_ravager_meat" }
 				type: "item"
@@ -2285,8 +2739,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "0209FAB7B244FA72"
 			tasks: [{
+				disable_toast: true
 				id: "658A675F42E2C1AB"
 				item: { count: 1, id: "croptopia:cooked_shrimp" }
 				type: "item"
@@ -2295,8 +2751,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "191C4FDB370D87C5"
 			tasks: [{
+				disable_toast: true
 				id: "26B0B37A9F6F1215"
 				item: { count: 1, id: "croptopia:cooked_tuna" }
 				type: "item"
@@ -2305,8 +2763,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "69A9FA83B998E527"
 			tasks: [{
+				disable_toast: true
 				id: "60960F5DF39A3E0E"
 				item: { count: 1, id: "croptopia:corn_bread" }
 				type: "item"
@@ -2315,8 +2775,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "0C3648B1AF9234B6"
 			tasks: [{
+				disable_toast: true
 				id: "1827513046B46A64"
 				item: { count: 1, id: "croptopia:corn_husk" }
 				type: "item"
@@ -2325,8 +2787,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "3481F0A32A545511"
 			tasks: [{
+				disable_toast: true
 				id: "6533ED87F4EBE193"
 				item: { count: 1, id: "croptopia:cornish_pasty" }
 				type: "item"
@@ -2335,8 +2799,10 @@
 			y: 9.5d
 		}
 		{
+			disable_toast: true
 			id: "2525B8EA4A1A5EE0"
 			tasks: [{
+				disable_toast: true
 				id: "18EC98AB3F49BA19"
 				item: { count: 1, id: "croptopia:crab_legs" }
 				type: "item"
@@ -2345,8 +2811,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "6352AC3E09ECF7EB"
 			tasks: [{
+				disable_toast: true
 				id: "1B1D1B36CDD1D1F4"
 				item: { count: 1, id: "croptopia:crema" }
 				type: "item"
@@ -2355,8 +2823,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "1AD8B9FCF65C3F13"
 			tasks: [{
+				disable_toast: true
 				id: "5EACA2E4B528C9C6"
 				item: { count: 1, id: "croptopia:croque_madame" }
 				type: "item"
@@ -2365,8 +2835,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "4E784D708CD9397A"
 			tasks: [{
+				disable_toast: true
 				id: "27E508EED91F51B6"
 				item: { count: 1, id: "croptopia:croque_monsieur" }
 				type: "item"
@@ -2375,8 +2847,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "30830AAD8C49B4AB"
 			tasks: [{
+				disable_toast: true
 				id: "408A73FC101D3E6D"
 				item: { count: 1, id: "croptopia:cucumber_salad" }
 				type: "item"
@@ -2385,8 +2859,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "4AA48BA8E07033AD"
 			tasks: [{
+				disable_toast: true
 				id: "60E987E8B169C311"
 				item: { count: 1, id: "croptopia:dauphine_potatoes" }
 				type: "item"
@@ -2395,8 +2871,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "0A4A89543104738D"
 			tasks: [{
+				disable_toast: true
 				id: "7395A3BC9DC66133"
 				item: { count: 1, id: "croptopia:deep_fried_shrimp" }
 				type: "item"
@@ -2405,8 +2883,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "42C34C98A922A121"
 			tasks: [{
+				disable_toast: true
 				id: "4E339A72A5E76298"
 				item: { count: 1, id: "croptopia:dough" }
 				type: "item"
@@ -2415,8 +2895,10 @@
 			y: 10.5d
 		}
 		{
+			disable_toast: true
 			id: "4DF26E8D90DFE728"
 			tasks: [{
+				disable_toast: true
 				id: "3E37860D47AF3F14"
 				item: { count: 1, id: "croptopia:dragon_egg_omelette" }
 				type: "item"
@@ -2425,8 +2907,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "7F6B181A34E8C550"
 			tasks: [{
+				disable_toast: true
 				id: "69372F37C246FB6B"
 				item: { count: 1, id: "croptopia:egg_roll" }
 				type: "item"
@@ -2435,8 +2919,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "478DDC5632F3F649"
 			tasks: [{
+				disable_toast: true
 				id: "645EADDB8FBE382A"
 				item: { count: 1, id: "croptopia:eggplant_parmesan" }
 				type: "item"
@@ -2445,8 +2931,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "1980F6D750C94FEB"
 			tasks: [{
+				disable_toast: true
 				id: "09068D0E9E9B6FB0"
 				item: { count: 1, id: "croptopia:elderberry_jam" }
 				type: "item"
@@ -2455,8 +2943,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "5DD3312D3D68D698"
 			tasks: [{
+				disable_toast: true
 				id: "5E25BBDAFDEAC334"
 				item: { count: 1, id: "croptopia:enchilada" }
 				type: "item"
@@ -2465,8 +2955,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "619FBA6E9EB62070"
 			tasks: [{
+				disable_toast: true
 				id: "7E47E1A59288F4C9"
 				item: { count: 1, id: "croptopia:fajitas" }
 				type: "item"
@@ -2475,8 +2967,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "64A58EB3E2903533"
 			tasks: [{
+				disable_toast: true
 				id: "0332F29CF0CD7AED"
 				item: { count: 1, id: "croptopia:fish_and_chips" }
 				type: "item"
@@ -2485,8 +2979,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "76473EB77B4822C6"
 			tasks: [{
+				disable_toast: true
 				id: "2F4A548576228F3A"
 				item: { count: 1, id: "croptopia:flour" }
 				type: "item"
@@ -2495,8 +2991,10 @@
 			y: 11.5d
 		}
 		{
+			disable_toast: true
 			id: "4E4AED8F10630A84"
 			tasks: [{
+				disable_toast: true
 				id: "6AFF918716B0361C"
 				item: { count: 1, id: "croptopia:french_fries" }
 				type: "item"
@@ -2505,8 +3003,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "1EE2BC77AC365E7F"
 			tasks: [{
+				disable_toast: true
 				id: "66316987B6B2D74D"
 				item: { count: 1, id: "croptopia:fried_calamari" }
 				type: "item"
@@ -2515,8 +3015,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "75D369BC71B99870"
 			tasks: [{
+				disable_toast: true
 				id: "07223CB3F2274F81"
 				item: { count: 1, id: "croptopia:fried_chicken" }
 				type: "item"
@@ -2525,8 +3027,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "6CA1B8181EE5B3E6"
 			tasks: [{
+				disable_toast: true
 				id: "45D2C28D2156DBEC"
 				item: { count: 1, id: "croptopia:fried_frog_legs" }
 				type: "item"
@@ -2535,8 +3039,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "0DA46A80D955A76B"
 			tasks: [{
+				disable_toast: true
 				id: "2A689E466937BA06"
 				item: { count: 1, id: "croptopia:fruit_salad" }
 				type: "item"
@@ -2545,8 +3051,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "38605E74C786F4AD"
 			tasks: [{
+				disable_toast: true
 				id: "4D7964523ED17F92"
 				item: { count: 1, id: "croptopia:goulash" }
 				type: "item"
@@ -2555,8 +3063,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "66DDEFC0ACA2FE7F"
 			tasks: [{
+				disable_toast: true
 				id: "0A781AC8A5BF9125"
 				item: { count: 1, id: "croptopia:grape_jam" }
 				type: "item"
@@ -2565,8 +3075,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "465F609FDB09D39A"
 			tasks: [{
+				disable_toast: true
 				id: "0C752E58D21CB4BF"
 				item: { count: 1, id: "croptopia:grilled_cheese" }
 				type: "item"
@@ -2575,8 +3087,10 @@
 			y: 12.5d
 		}
 		{
+			disable_toast: true
 			id: "32CAAF43AF1E391C"
 			tasks: [{
+				disable_toast: true
 				id: "41CEF4304B0C8E0D"
 				item: { count: 1, id: "croptopia:grilled_eggplant" }
 				type: "item"
@@ -2585,8 +3099,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "089C181DE90A790B"
 			tasks: [{
+				disable_toast: true
 				id: "5DF6C60E0580C503"
 				item: { count: 1, id: "croptopia:grilled_oysters" }
 				type: "item"
@@ -2595,8 +3111,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "0F42DEA06BABBCE3"
 			tasks: [{
+				disable_toast: true
 				id: "5F0891CE7D45197B"
 				item: { count: 1, id: "croptopia:ground_pork" }
 				type: "item"
@@ -2605,8 +3123,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "67B8CDE60CD87376"
 			tasks: [{
+				disable_toast: true
 				id: "56BCF7ADB51C9A50"
 				item: { count: 1, id: "croptopia:ham_sandwich" }
 				type: "item"
@@ -2615,8 +3135,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "2E473DCD9EC7C9AA"
 			tasks: [{
+				disable_toast: true
 				id: "37FC4F2FC603CC75"
 				item: { count: 1, id: "croptopia:hamburger" }
 				type: "item"
@@ -2625,8 +3147,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "5015479AB956D816"
 			tasks: [{
+				disable_toast: true
 				id: "2960A11955480F38"
 				item: { count: 1, id: "croptopia:hashed_brown" }
 				type: "item"
@@ -2635,8 +3159,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "26FBA7DCF08776AB"
 			tasks: [{
+				disable_toast: true
 				id: "75CCF6F2F3EB3846"
 				item: { count: 1, id: "croptopia:leafy_salad" }
 				type: "item"
@@ -2645,8 +3171,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "62CC1C3C0DA79E88"
 			tasks: [{
+				disable_toast: true
 				id: "029F244121AB018B"
 				item: { count: 1, id: "croptopia:leek_soup" }
 				type: "item"
@@ -2655,8 +3183,10 @@
 			y: 13.5d
 		}
 		{
+			disable_toast: true
 			id: "0B8C0997FC89BC67"
 			tasks: [{
+				disable_toast: true
 				id: "2FAD96CB5F206F48"
 				item: { count: 1, id: "croptopia:lemon_chicken" }
 				type: "item"
@@ -2665,8 +3195,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "4B894A7EEA790C25"
 			tasks: [{
+				disable_toast: true
 				id: "332460ED6D13C86C"
 				item: { count: 1, id: "croptopia:mashed_potatoes" }
 				type: "item"
@@ -2675,8 +3207,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "579AF84348707C37"
 			tasks: [{
+				disable_toast: true
 				id: "4170F3F9DCA215D8"
 				item: { count: 1, id: "croptopia:meringue" }
 				type: "item"
@@ -2685,8 +3219,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "5667B23A72A3014D"
 			tasks: [{
+				disable_toast: true
 				id: "7BCA2638D62AB546"
 				item: { count: 1, id: "croptopia:milk_bottle" }
 				type: "item"
@@ -2695,8 +3231,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "06C7643F92D6DCDE"
 			tasks: [{
+				disable_toast: true
 				id: "18DE19D4B1B8985E"
 				item: { count: 1, id: "croptopia:molasses" }
 				type: "item"
@@ -2705,8 +3243,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "1407831A9AA26A51"
 			tasks: [{
+				disable_toast: true
 				id: "1B9C48FEC7A8465F"
 				item: { count: 1, id: "croptopia:nether_wart_stew" }
 				type: "item"
@@ -2715,8 +3255,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "49F2F0C5CB433F58"
 			tasks: [{
+				disable_toast: true
 				id: "046477391EE11675"
 				item: { count: 1, id: "croptopia:noodle" }
 				type: "item"
@@ -2725,8 +3267,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "27C9A90CDE45C24B"
 			tasks: [{
+				disable_toast: true
 				id: "4CAB50B8769A949E"
 				item: { count: 1, id: "croptopia:nougat" }
 				type: "item"
@@ -2735,8 +3279,10 @@
 			y: 14.5d
 		}
 		{
+			disable_toast: true
 			id: "6ACD512B701D5B0E"
 			tasks: [{
+				disable_toast: true
 				id: "4F697E1E2FA572B3"
 				item: { count: 1, id: "croptopia:oatmeal" }
 				type: "item"
@@ -2745,8 +3291,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "7BDD3CB839856388"
 			tasks: [{
+				disable_toast: true
 				id: "54676E9F21B5E39F"
 				item: { count: 1, id: "croptopia:olive_oil" }
 				type: "item"
@@ -2755,8 +3303,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "68517203F9338786"
 			tasks: [{
+				disable_toast: true
 				id: "4761F066B2EE044C"
 				item: { count: 1, id: "croptopia:onion_rings" }
 				type: "item"
@@ -2765,8 +3315,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "53A6C0BD1D3D53F2"
 			tasks: [{
+				disable_toast: true
 				id: "089389E7A729656B"
 				item: { count: 1, id: "croptopia:paprika" }
 				type: "item"
@@ -2775,8 +3327,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "493D76FD3B2B6939"
 			tasks: [{
+				disable_toast: true
 				id: "0206FCBD49E2D893"
 				item: { count: 1, id: "croptopia:peach_jam" }
 				type: "item"
@@ -2785,8 +3339,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "3EC2D49EAB617D85"
 			tasks: [{
+				disable_toast: true
 				id: "353156769434C71B"
 				item: { count: 1, id: "croptopia:peanut_butter_and_jam" }
 				type: "item"
@@ -2795,8 +3351,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "6F7A2A5B61A4F771"
 			tasks: [{
+				disable_toast: true
 				id: "6BAB768E53917351"
 				item: { count: 1, id: "croptopia:peanut_butter_with_celery" }
 				type: "item"
@@ -2805,8 +3363,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "6BC5E52D11B0B275"
 			tasks: [{
+				disable_toast: true
 				id: "4629DD88B61F827C"
 				item: { count: 1, id: "croptopia:peanut_butter" }
 				type: "item"
@@ -2815,8 +3375,10 @@
 			y: 15.5d
 		}
 		{
+			disable_toast: true
 			id: "424D9062EFCBB420"
 			tasks: [{
+				disable_toast: true
 				id: "154672F39313BC2C"
 				item: { count: 1, id: "croptopia:pepperoni" }
 				type: "item"
@@ -2825,8 +3387,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "3694E41CB711A469"
 			tasks: [{
+				disable_toast: true
 				id: "0B1712370031D7A6"
 				item: { count: 1, id: "croptopia:pineapple_pepperoni_pizza" }
 				type: "item"
@@ -2835,8 +3399,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "4214D94511BBE338"
 			tasks: [{
+				disable_toast: true
 				id: "5B1A465239EB0070"
 				item: { count: 1, id: "croptopia:pizza" }
 				type: "item"
@@ -2845,8 +3411,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "37B2B6E8BF3ABA12"
 			tasks: [{
+				disable_toast: true
 				id: "321023325AE83C05"
 				item: { count: 1, id: "croptopia:pork_and_beans" }
 				type: "item"
@@ -2855,8 +3423,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "649AE7D116C6963C"
 			tasks: [{
+				disable_toast: true
 				id: "55FE06EFE02ECCA6"
 				item: { count: 1, id: "croptopia:pork_jerky" }
 				type: "item"
@@ -2865,8 +3435,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "3E33A3C7970F7D0C"
 			tasks: [{
+				disable_toast: true
 				id: "066EF8988B142EA3"
 				item: { count: 1, id: "croptopia:potato_chips" }
 				type: "item"
@@ -2875,8 +3447,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "296315A232D42657"
 			tasks: [{
+				disable_toast: true
 				id: "123EDAF997F49DC2"
 				item: { count: 1, id: "croptopia:potato_soup" }
 				type: "item"
@@ -2885,8 +3459,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "7D1AAF6EA58B76B1"
 			tasks: [{
+				disable_toast: true
 				id: "3A0BA919F9915311"
 				item: { count: 1, id: "croptopia:protein_bar" }
 				type: "item"
@@ -2895,8 +3471,10 @@
 			y: 16.5d
 		}
 		{
+			disable_toast: true
 			id: "0A43E11832D75BE6"
 			tasks: [{
+				disable_toast: true
 				id: "60C23BE210372A95"
 				item: { count: 1, id: "croptopia:pumpkin_soup" }
 				type: "item"
@@ -2905,8 +3483,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "47502EA5D757A137"
 			tasks: [{
+				disable_toast: true
 				id: "47B941A9919D60FE"
 				item: { count: 1, id: "croptopia:quesadilla" }
 				type: "item"
@@ -2915,8 +3495,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "7D94C2C001002A0C"
 			tasks: [{
+				disable_toast: true
 				id: "25CBAE66307EDE5D"
 				item: { count: 1, id: "croptopia:quiche" }
 				type: "item"
@@ -2925,8 +3507,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "5664710FEABF6A38"
 			tasks: [{
+				disable_toast: true
 				id: "3B4A828FDCD3F0A3"
 				item: { count: 1, id: "croptopia:raspberry_jam" }
 				type: "item"
@@ -2935,8 +3519,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "2781E20291890279"
 			tasks: [{
+				disable_toast: true
 				id: "426C94D5252BB1DD"
 				item: { count: 1, id: "croptopia:ratatouille" }
 				type: "item"
@@ -2945,8 +3531,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "1BAB245B69C6AD83"
 			tasks: [{
+				disable_toast: true
 				id: "0021CA7F50DC1631"
 				item: { count: 1, id: "croptopia:ravioli" }
 				type: "item"
@@ -2955,8 +3543,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "366FDC1AA5A96F47"
 			tasks: [{
+				disable_toast: true
 				id: "2A99EAA57DB35D97"
 				item: { count: 1, id: "croptopia:refried_beans" }
 				type: "item"
@@ -2965,8 +3555,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "7472E9376967CD35"
 			tasks: [{
+				disable_toast: true
 				id: "7FDA07EB9DBA9AA8"
 				item: { count: 1, id: "croptopia:rhubarb_crisp" }
 				type: "item"
@@ -2975,8 +3567,10 @@
 			y: 17.5d
 		}
 		{
+			disable_toast: true
 			id: "7A7CAA3DFD1D83D8"
 			tasks: [{
+				disable_toast: true
 				id: "151DBDFB8B9B1548"
 				item: { count: 1, id: "croptopia:roasted_asparagus" }
 				type: "item"
@@ -2985,8 +3579,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "454FD2743C467397"
 			tasks: [{
+				disable_toast: true
 				id: "2F1E04A5C64E1B3D"
 				item: { count: 1, id: "croptopia:roasted_nuts" }
 				type: "item"
@@ -2995,8 +3591,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "7996D794C3CF56FE"
 			tasks: [{
+				disable_toast: true
 				id: "33AE5929559D3369"
 				item: { count: 1, id: "croptopia:roasted_radishes" }
 				type: "item"
@@ -3005,8 +3603,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "3B3B361003A119F7"
 			tasks: [{
+				disable_toast: true
 				id: "27751747CDFAF199"
 				item: { count: 1, id: "croptopia:roasted_squash" }
 				type: "item"
@@ -3015,8 +3615,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "4B76928D9C3E6789"
 			tasks: [{
+				disable_toast: true
 				id: "2FCEE3D761772B52"
 				item: { count: 1, id: "croptopia:roasted_turnips" }
 				type: "item"
@@ -3025,8 +3627,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "0D2D4E50AEDD9745"
 			tasks: [{
+				disable_toast: true
 				id: "7AB9D33E8DBF12FC"
 				item: { count: 1, id: "croptopia:salsa" }
 				type: "item"
@@ -3035,8 +3639,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "41D32794C94EE3BC"
 			tasks: [{
+				disable_toast: true
 				id: "7910F9DB5CD69C78"
 				item: { count: 1, id: "croptopia:salt" }
 				type: "item"
@@ -3045,8 +3651,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "3E4DA97A98990372"
 			tasks: [{
+				disable_toast: true
 				id: "01C99C8F6286BD8B"
 				item: { count: 1, id: "croptopia:saucy_chips" }
 				type: "item"
@@ -3055,8 +3663,10 @@
 			y: 18.5d
 		}
 		{
+			disable_toast: true
 			id: "53EA4E3B43993E53"
 			tasks: [{
+				disable_toast: true
 				id: "37BF110EF1BBEC5B"
 				item: { count: 1, id: "croptopia:sausage" }
 				type: "item"
@@ -3065,8 +3675,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "28CD2088DA783C78"
 			tasks: [{
+				disable_toast: true
 				id: "1BC317F0AF6E06E1"
 				item: { count: 1, id: "croptopia:scrambled_eggs" }
 				type: "item"
@@ -3075,8 +3687,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "7D26A715496AE7EB"
 			tasks: [{
+				disable_toast: true
 				id: "56F9708D35794D6D"
 				item: { count: 1, id: "croptopia:shepherds_pie" }
 				type: "item"
@@ -3085,8 +3699,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "6886DA424FC442C8"
 			tasks: [{
+				disable_toast: true
 				id: "5B86DCF402FEB6EA"
 				item: { count: 1, id: "croptopia:soy_milk" }
 				type: "item"
@@ -3095,8 +3711,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "4614B40B5CB00ED3"
 			tasks: [{
+				disable_toast: true
 				id: "646D7F5B0267F67B"
 				item: { count: 1, id: "croptopia:soy_sauce" }
 				type: "item"
@@ -3105,8 +3723,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "72A20324E1397BDD"
 			tasks: [{
+				disable_toast: true
 				id: "487085F24BBAB63B"
 				item: { count: 1, id: "croptopia:spaghetti_squash" }
 				type: "item"
@@ -3115,8 +3735,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "111CFBDAAA105F69"
 			tasks: [{
+				disable_toast: true
 				id: "5EE4BA12C8B11C4D"
 				item: { count: 1, id: "croptopia:steamed_broccoli" }
 				type: "item"
@@ -3125,8 +3747,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "52A691B131DECC34"
 			tasks: [{
+				disable_toast: true
 				id: "115254A1864EDBE0"
 				item: { count: 1, id: "croptopia:steamed_clams" }
 				type: "item"
@@ -3135,8 +3759,10 @@
 			y: 19.5d
 		}
 		{
+			disable_toast: true
 			id: "0812F2B93DF39A83"
 			tasks: [{
+				disable_toast: true
 				id: "2E11A9A674078E9C"
 				item: { count: 1, id: "croptopia:steamed_crab" }
 				type: "item"
@@ -3145,8 +3771,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "4BC2B70F7C78081C"
 			tasks: [{
+				disable_toast: true
 				id: "22B9008644B61690"
 				item: { count: 1, id: "croptopia:steamed_green_beans" }
 				type: "item"
@@ -3155,8 +3783,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "045A3BEB4294BF5A"
 			tasks: [{
+				disable_toast: true
 				id: "4D1028D560BDC8DF"
 				item: { count: 1, id: "croptopia:steamed_rice" }
 				type: "item"
@@ -3165,8 +3795,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "356FC202FB2085DE"
 			tasks: [{
+				disable_toast: true
 				id: "75FE19F400A0F552"
 				item: { count: 1, id: "croptopia:stir_fry" }
 				type: "item"
@@ -3175,8 +3807,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "6ADF0B641B6B8194"
 			tasks: [{
+				disable_toast: true
 				id: "1D1BA01EFC5605E6"
 				item: { count: 1, id: "croptopia:strawberry_jam" }
 				type: "item"
@@ -3185,8 +3819,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "1DD972885CFC3344"
 			tasks: [{
+				disable_toast: true
 				id: "526EC1AF03C58D28"
 				item: { count: 1, id: "croptopia:stuffed_artichoke" }
 				type: "item"
@@ -3195,8 +3831,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "73F32FE068F6E7C8"
 			tasks: [{
+				disable_toast: true
 				id: "26E440F93D4E4F62"
 				item: { count: 1, id: "croptopia:stuffed_poblanos" }
 				type: "item"
@@ -3205,8 +3843,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "5F71411093B61FA0"
 			tasks: [{
+				disable_toast: true
 				id: "460CCA65B833BC91"
 				item: { count: 1, id: "croptopia:sunny_side_eggs" }
 				type: "item"
@@ -3215,8 +3855,10 @@
 			y: 20.5d
 		}
 		{
+			disable_toast: true
 			id: "4D0D4B8FF48B3B5F"
 			tasks: [{
+				disable_toast: true
 				id: "157C27CEA2E6B63D"
 				item: { count: 1, id: "croptopia:supreme_pizza" }
 				type: "item"
@@ -3225,8 +3867,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "43009AFBD1277FAC"
 			tasks: [{
+				disable_toast: true
 				id: "7E3D75CE6561A0F8"
 				item: { count: 1, id: "croptopia:sushi" }
 				type: "item"
@@ -3235,8 +3879,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "454129BCF68B42D4"
 			tasks: [{
+				disable_toast: true
 				id: "034E64663D2548C3"
 				item: { count: 1, id: "croptopia:sweet_potato_fries" }
 				type: "item"
@@ -3245,8 +3891,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "450F4D9887B9717D"
 			tasks: [{
+				disable_toast: true
 				id: "4D50A3E721B88F7B"
 				item: { count: 1, id: "croptopia:taco" }
 				type: "item"
@@ -3255,8 +3903,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "518FFA697E3E655D"
 			tasks: [{
+				disable_toast: true
 				id: "6C510374B6FE8C24"
 				item: { count: 1, id: "croptopia:tamales" }
 				type: "item"
@@ -3265,8 +3915,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "3D0CF35F77950DA5"
 			tasks: [{
+				disable_toast: true
 				id: "3F0D2E702602DF07"
 				item: { count: 1, id: "croptopia:the_big_breakfast" }
 				type: "item"
@@ -3275,8 +3927,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "70DA06C9398904E0"
 			tasks: [{
+				disable_toast: true
 				id: "304B06687552FACD"
 				item: { count: 1, id: "croptopia:toast_sandwich" }
 				type: "item"
@@ -3285,8 +3939,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "417E16FE1B22F649"
 			tasks: [{
+				disable_toast: true
 				id: "431C93F19555D7D4"
 				item: { count: 1, id: "croptopia:toast_with_jam" }
 				type: "item"
@@ -3295,8 +3951,10 @@
 			y: 21.5d
 		}
 		{
+			disable_toast: true
 			id: "66B1276A6C9C6021"
 			tasks: [{
+				disable_toast: true
 				id: "6EE5BD197F8C5A19"
 				item: { count: 1, id: "croptopia:toast" }
 				type: "item"
@@ -3305,8 +3963,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "1C721A1B2F634C3F"
 			tasks: [{
+				disable_toast: true
 				id: "0BD909F3BAE6D87F"
 				item: { count: 1, id: "croptopia:tofu_and_dumplings" }
 				type: "item"
@@ -3315,8 +3975,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "63C97F8898513C8C"
 			tasks: [{
+				disable_toast: true
 				id: "6D41F872A1675079"
 				item: { count: 1, id: "croptopia:tofu" }
 				type: "item"
@@ -3325,8 +3987,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "33A1016E2266F652"
 			tasks: [{
+				disable_toast: true
 				id: "10A235933583B0E6"
 				item: { count: 1, id: "croptopia:tofuburger" }
 				type: "item"
@@ -3335,8 +3999,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "7153606692936952"
 			tasks: [{
+				disable_toast: true
 				id: "729F60F81712E15D"
 				item: { count: 1, id: "croptopia:tortilla" }
 				type: "item"
@@ -3345,8 +4011,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "10C5D404BBED0ECF"
 			tasks: [{
+				disable_toast: true
 				id: "2E766CA988D3F6E7"
 				item: { count: 1, id: "croptopia:tostada" }
 				type: "item"
@@ -3355,8 +4023,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "61BE77C0D499E2B9"
 			tasks: [{
+				disable_toast: true
 				id: "4FD77A5EEF4DBAC4"
 				item: { count: 1, id: "croptopia:trail_mix" }
 				type: "item"
@@ -3365,8 +4035,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "02872E2F24979459"
 			tasks: [{
+				disable_toast: true
 				id: "169DCC9FAFB1DE1E"
 				item: { count: 1, id: "croptopia:transcendental_breakfast" }
 				type: "item"
@@ -3375,8 +4047,10 @@
 			y: 22.5d
 		}
 		{
+			disable_toast: true
 			id: "68FE1A5C363CDD04"
 			tasks: [{
+				disable_toast: true
 				id: "0818333B4508401C"
 				item: { count: 1, id: "croptopia:tuna_roll" }
 				type: "item"
@@ -3385,8 +4059,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "42A9998C2F366E1E"
 			tasks: [{
+				disable_toast: true
 				id: "62E40ED3225B4CCD"
 				item: { count: 1, id: "croptopia:tuna_sandwich" }
 				type: "item"
@@ -3395,8 +4071,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "0D2C4E76AF7CEA89"
 			tasks: [{
+				disable_toast: true
 				id: "2E8D544DDCDC418D"
 				item: { count: 1, id: "croptopia:veggie_salad" }
 				type: "item"
@@ -3405,8 +4083,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "5D3D5DD3B188F218"
 			tasks: [{
+				disable_toast: true
 				id: "5CBBDE79BA7428AF"
 				item: { count: 1, id: "croptopia:water_bottle" }
 				type: "item"
@@ -3415,8 +4095,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "6541F2566C2C0966"
 			tasks: [{
+				disable_toast: true
 				id: "6CF91A030FEF577C"
 				item: { count: 1, id: "croptopia:whipping_cream" }
 				type: "item"
@@ -3425,8 +4107,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "605F22DB7E1369B6"
 			tasks: [{
+				disable_toast: true
 				id: "65D4B6187B3F902B"
 				item: { count: 1, id: "croptopia:yam_jam" }
 				type: "item"
@@ -3435,8 +4119,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "7A602DEEEF6B515C"
 			tasks: [{
+				disable_toast: true
 				id: "54367DF363752E09"
 				item: { count: 1, id: "croptopia:yoghurt" }
 				type: "item"
@@ -3445,8 +4131,10 @@
 			y: 23.5d
 		}
 		{
+			disable_toast: true
 			id: "00433BE0E594B733"
 			tasks: [{
+				disable_toast: true
 				id: "746116C5A31C0AF4"
 				item: { count: 1, id: "croptopia:apple_juice" }
 				type: "item"
@@ -3455,8 +4143,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "05A4756CAF2F0453"
 			tasks: [{
+				disable_toast: true
 				id: "482B306366DFC093"
 				item: { count: 1, id: "croptopia:banana_smoothie" }
 				type: "item"
@@ -3465,8 +4155,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "5C25A0B0C1F29468"
 			tasks: [{
+				disable_toast: true
 				id: "64946B52FB06BEAA"
 				item: { count: 1, id: "croptopia:beer" }
 				type: "item"
@@ -3475,8 +4167,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "728A5BAE09042ED4"
 			tasks: [{
+				disable_toast: true
 				id: "3C90BE3D99747ACF"
 				item: { count: 1, id: "croptopia:chocolate_milkshake" }
 				type: "item"
@@ -3485,8 +4179,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "25528CDD377595B8"
 			tasks: [{
+				disable_toast: true
 				id: "62E8851A80CB39E9"
 				item: { count: 1, id: "croptopia:coffee" }
 				type: "item"
@@ -3495,8 +4191,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "243ACB39BF462773"
 			tasks: [{
+				disable_toast: true
 				id: "31B07C2E2C758838"
 				item: { count: 1, id: "croptopia:cranberry_juice" }
 				type: "item"
@@ -3505,8 +4203,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "2E2BB49B01F59863"
 			tasks: [{
+				disable_toast: true
 				id: "2B703CEF95E669FB"
 				item: { count: 1, id: "croptopia:fruit_smoothie" }
 				type: "item"
@@ -3515,8 +4215,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "3444778614303B2F"
 			tasks: [{
+				disable_toast: true
 				id: "3A976CEE6C4977BA"
 				item: { count: 1, id: "croptopia:grape_juice" }
 				type: "item"
@@ -3525,8 +4227,10 @@
 			y: 26.0d
 		}
 		{
+			disable_toast: true
 			id: "7114D47A07C0D39B"
 			tasks: [{
+				disable_toast: true
 				id: "0225983C50137F40"
 				item: { count: 1, id: "croptopia:horchata" }
 				type: "item"
@@ -3535,8 +4239,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "3AF1AB3A19333CEA"
 			tasks: [{
+				disable_toast: true
 				id: "764BE20A6C2A60FD"
 				item: { count: 1, id: "croptopia:kale_smoothie" }
 				type: "item"
@@ -3545,8 +4251,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "7578871EF1B6F66A"
 			tasks: [{
+				disable_toast: true
 				id: "681A65A3D3B70D21"
 				item: { count: 1, id: "croptopia:lemonade" }
 				type: "item"
@@ -3555,8 +4263,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "0529DFA84C21708B"
 			tasks: [{
+				disable_toast: true
 				id: "15478098734D2DE4"
 				item: { count: 1, id: "croptopia:limeade" }
 				type: "item"
@@ -3565,8 +4275,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "70015DB3CCDE8059"
 			tasks: [{
+				disable_toast: true
 				id: "5E6C1AEC8C4CF356"
 				item: { count: 1, id: "croptopia:mead" }
 				type: "item"
@@ -3575,8 +4287,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "2B7FDD11EC65432D"
 			tasks: [{
+				disable_toast: true
 				id: "0BF97EF07851B6B5"
 				item: { count: 1, id: "croptopia:melon_juice" }
 				type: "item"
@@ -3585,8 +4299,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "61063090C3B255AF"
 			tasks: [{
+				disable_toast: true
 				id: "6EA703B4D0B20270"
 				item: { count: 1, id: "croptopia:orange_juice" }
 				type: "item"
@@ -3595,8 +4311,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "44739A8B414C551F"
 			tasks: [{
+				disable_toast: true
 				id: "7457DBE62E436C8F"
 				item: { count: 1, id: "croptopia:pineapple_juice" }
 				type: "item"
@@ -3605,8 +4323,10 @@
 			y: 27.0d
 		}
 		{
+			disable_toast: true
 			id: "69A08317E6463AB4"
 			tasks: [{
+				disable_toast: true
 				id: "062AFDDBB1CAE6FF"
 				item: { count: 1, id: "croptopia:pumpkin_spice_latte" }
 				type: "item"
@@ -3615,8 +4335,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "4FEF088F60532A53"
 			tasks: [{
+				disable_toast: true
 				id: "6B058B8D92338F26"
 				item: { count: 1, id: "croptopia:rum" }
 				type: "item"
@@ -3625,8 +4347,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "4FB8088AF1864BE1"
 			tasks: [{
+				disable_toast: true
 				id: "7FF2AAD6C5EBB232"
 				item: { count: 1, id: "croptopia:saguaro_juice" }
 				type: "item"
@@ -3635,8 +4359,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "31BDC99AF6A73673"
 			tasks: [{
+				disable_toast: true
 				id: "7D34F7D7E7099B08"
 				item: { count: 1, id: "croptopia:strawberry_smoothie" }
 				type: "item"
@@ -3645,8 +4371,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "26F9BA2277C18E3C"
 			tasks: [{
+				disable_toast: true
 				id: "538D4555B7E2695D"
 				item: { count: 1, id: "croptopia:tea" }
 				type: "item"
@@ -3655,8 +4383,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "1D466A9E0C8E53B5"
 			tasks: [{
+				disable_toast: true
 				id: "630F31BD82E85395"
 				item: { count: 1, id: "croptopia:tomato_juice" }
 				type: "item"
@@ -3665,8 +4395,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "172772173BB01613"
 			tasks: [{
+				disable_toast: true
 				id: "56725B40B708C022"
 				item: { count: 1, id: "croptopia:wine" }
 				type: "item"
@@ -3675,8 +4407,10 @@
 			y: 28.0d
 		}
 		{
+			disable_toast: true
 			id: "2E3C2B4A1F3ABE4F"
 			tasks: [{
+				disable_toast: true
 				id: "0E0C748D66C362C1"
 				item: { count: 1, id: "croptopia:almond_brittle" }
 				type: "item"
@@ -3685,8 +4419,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "21AB30F0348D6D98"
 			tasks: [{
+				disable_toast: true
 				id: "274179BBDA092669"
 				item: { count: 1, id: "croptopia:apple_pie" }
 				type: "item"
@@ -3695,8 +4431,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "6FED14F017446F15"
 			tasks: [{
+				disable_toast: true
 				id: "06A9B4BFA07F80B2"
 				item: { count: 1, id: "croptopia:baked_crepes" }
 				type: "item"
@@ -3705,8 +4443,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "4F6D7DC2E7D1167B"
 			tasks: [{
+				disable_toast: true
 				id: "27503FAB3174C96D"
 				item: { count: 1, id: "croptopia:banana_cream_pie" }
 				type: "item"
@@ -3715,8 +4455,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "7395389FBE3EF1D6"
 			tasks: [{
+				disable_toast: true
 				id: "394E3E565DB0F154"
 				item: { count: 1, id: "croptopia:brownies" }
 				type: "item"
@@ -3725,8 +4467,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "7743A0074E186800"
 			tasks: [{
+				disable_toast: true
 				id: "354C42342D4F1238"
 				item: { count: 1, id: "croptopia:candied_kumquats" }
 				type: "item"
@@ -3735,8 +4479,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "63E23BDD3DF89AF2"
 			tasks: [{
+				disable_toast: true
 				id: "01204AA4680D00AF"
 				item: { count: 1, id: "croptopia:candied_nuts" }
 				type: "item"
@@ -3745,8 +4491,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "7CD0E08399C0EA06"
 			tasks: [{
+				disable_toast: true
 				id: "2F66D317741BDD17"
 				item: { count: 1, id: "croptopia:candy_corn" }
 				type: "item"
@@ -3755,8 +4503,10 @@
 			y: 30.5d
 		}
 		{
+			disable_toast: true
 			id: "57BC4A2138149F97"
 			tasks: [{
+				disable_toast: true
 				id: "367597D14C82A97C"
 				item: { count: 1, id: "croptopia:cheese_cake" }
 				type: "item"
@@ -3765,8 +4515,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "5D9ED09B91449376"
 			tasks: [{
+				disable_toast: true
 				id: "087429F4BFB39DB6"
 				item: { count: 1, id: "croptopia:cherry_pie" }
 				type: "item"
@@ -3775,8 +4527,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "52B3CDEFA336159E"
 			tasks: [{
+				disable_toast: true
 				id: "5B577ED92BB660A0"
 				item: { count: 1, id: "croptopia:chocolate_ice_cream" }
 				type: "item"
@@ -3785,8 +4539,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "04BE06DB26D9B0DD"
 			tasks: [{
+				disable_toast: true
 				id: "60668FC074780956"
 				item: { count: 1, id: "croptopia:churros" }
 				type: "item"
@@ -3795,8 +4551,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "29BFFD71FA91CC58"
 			tasks: [{
+				disable_toast: true
 				id: "25FCE08B5527E841"
 				item: { count: 1, id: "croptopia:cinnamon_roll" }
 				type: "item"
@@ -3805,8 +4563,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "5BCCEC5CEED96886"
 			tasks: [{
+				disable_toast: true
 				id: "17E785A2503F444B"
 				item: { count: 1, id: "croptopia:doughnut" }
 				type: "item"
@@ -3815,8 +4575,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "41BBE2AD11CBBA27"
 			tasks: [{
+				disable_toast: true
 				id: "648433F54192CBB6"
 				item: { count: 1, id: "croptopia:eton_mess" }
 				type: "item"
@@ -3825,8 +4587,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "17826F304F207E01"
 			tasks: [{
+				disable_toast: true
 				id: "1E364FA47EE96CE3"
 				item: { count: 1, id: "croptopia:figgy_pudding" }
 				type: "item"
@@ -3835,8 +4599,10 @@
 			y: 31.5d
 		}
 		{
+			disable_toast: true
 			id: "6162968DDB38C08C"
 			tasks: [{
+				disable_toast: true
 				id: "679975507C355EEC"
 				item: { count: 1, id: "croptopia:fruit_cake" }
 				type: "item"
@@ -3845,8 +4611,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "6D1C84CDB2F7FB01"
 			tasks: [{
+				disable_toast: true
 				id: "7CEF189DFBBC291E"
 				item: { count: 1, id: "croptopia:kale_chips" }
 				type: "item"
@@ -3855,8 +4623,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "09974C180E161943"
 			tasks: [{
+				disable_toast: true
 				id: "79327BA70805AD18"
 				item: { count: 1, id: "croptopia:kiwi_sorbet" }
 				type: "item"
@@ -3865,8 +4635,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "22F71D0DBFA6E771"
 			tasks: [{
+				disable_toast: true
 				id: "3ACB65FF03E946B7"
 				item: { count: 1, id: "croptopia:lemon_coconut_bar" }
 				type: "item"
@@ -3875,8 +4647,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "30E48F714A78EE12"
 			tasks: [{
+				disable_toast: true
 				id: "600A7FD2361D5CFB"
 				item: { count: 1, id: "croptopia:macaron" }
 				type: "item"
@@ -3885,8 +4659,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "41FFC89D36EC8B33"
 			tasks: [{
+				disable_toast: true
 				id: "2298BAF2CC9078EA"
 				item: { count: 1, id: "croptopia:mango_ice_cream" }
 				type: "item"
@@ -3895,8 +4671,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "077B30085AA9270B"
 			tasks: [{
+				disable_toast: true
 				id: "056A0C5A515728B0"
 				item: { count: 1, id: "croptopia:nether_star_cake" }
 				type: "item"
@@ -3905,8 +4683,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "1BCF628B908DE585"
 			tasks: [{
+				disable_toast: true
 				id: "784590B1926D79F6"
 				item: { count: 1, id: "croptopia:nutty_cookie" }
 				type: "item"
@@ -3915,8 +4695,10 @@
 			y: 32.5d
 		}
 		{
+			disable_toast: true
 			id: "4154D6D5EC8DFC88"
 			tasks: [{
+				disable_toast: true
 				id: "1F82378E1A7441A9"
 				item: { count: 1, id: "croptopia:pecan_ice_cream" }
 				type: "item"
@@ -3925,8 +4707,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "08314384F4A9F876"
 			tasks: [{
+				disable_toast: true
 				id: "591AC4306AF0DF27"
 				item: { count: 1, id: "croptopia:pecan_pie" }
 				type: "item"
@@ -3935,8 +4719,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "574A8330A3C69CBF"
 			tasks: [{
+				disable_toast: true
 				id: "4FEDFDEF67A03F03"
 				item: { count: 1, id: "croptopia:popcorn" }
 				type: "item"
@@ -3945,8 +4731,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "344ABF7DC93036CB"
 			tasks: [{
+				disable_toast: true
 				id: "2D9C214EA86E5A56"
 				item: { count: 1, id: "croptopia:pumpkin_bars" }
 				type: "item"
@@ -3955,8 +4743,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "15E87FC8800746B3"
 			tasks: [{
+				disable_toast: true
 				id: "61BC7D582B494116"
 				item: { count: 1, id: "croptopia:raisin_oatmeal_cookie" }
 				type: "item"
@@ -3965,8 +4755,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "3D4C669EE22C95B3"
 			tasks: [{
+				disable_toast: true
 				id: "1D882C8C6AF2B0CF"
 				item: { count: 1, id: "croptopia:rhubarb_pie" }
 				type: "item"
@@ -3975,8 +4767,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "7BDE8219347E159E"
 			tasks: [{
+				disable_toast: true
 				id: "6B66B5F9746BDC28"
 				item: { count: 1, id: "croptopia:roasted_pumpkin_seeds" }
 				type: "item"
@@ -3985,8 +4779,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "3785895897415C13"
 			tasks: [{
+				disable_toast: true
 				id: "19B9E502477B3CAC"
 				item: { count: 1, id: "croptopia:roasted_sunflower_seeds" }
 				type: "item"
@@ -3995,8 +4791,10 @@
 			y: 33.5d
 		}
 		{
+			disable_toast: true
 			id: "177873CF14140782"
 			tasks: [{
+				disable_toast: true
 				id: "64F2209CC69D4707"
 				item: { count: 1, id: "croptopia:rum_raisin_ice_cream" }
 				type: "item"
@@ -4005,8 +4803,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "20E389E176356060"
 			tasks: [{
+				disable_toast: true
 				id: "7E898A5CA47EA6E1"
 				item: { count: 1, id: "croptopia:scones" }
 				type: "item"
@@ -4015,8 +4815,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "5182D48065B9C621"
 			tasks: [{
+				disable_toast: true
 				id: "79D1267E9341BC99"
 				item: { count: 1, id: "croptopia:snicker_doodle" }
 				type: "item"
@@ -4025,8 +4827,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "769FA32D44F55390"
 			tasks: [{
+				disable_toast: true
 				id: "76D7B497F3B120FD"
 				item: { count: 1, id: "croptopia:sticky_toffee_pudding" }
 				type: "item"
@@ -4035,8 +4839,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "44B5E165313A2FFD"
 			tasks: [{
+				disable_toast: true
 				id: "72D9215F153A1D37"
 				item: { count: 1, id: "croptopia:strawberry_ice_cream" }
 				type: "item"
@@ -4045,8 +4851,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "4FB0894F7D2CED81"
 			tasks: [{
+				disable_toast: true
 				id: "4E06D4378EDB13AF"
 				item: { count: 1, id: "croptopia:sweet_crepes" }
 				type: "item"
@@ -4055,8 +4863,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "53469AA238930576"
 			tasks: [{
+				disable_toast: true
 				id: "4CA538AEE7AEEF06"
 				item: { count: 1, id: "croptopia:treacle_tart" }
 				type: "item"
@@ -4065,8 +4875,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "29206DE06D8D6532"
 			tasks: [{
+				disable_toast: true
 				id: "069ACF9ABA3AC389"
 				item: { count: 1, id: "croptopia:tres_leche_cake" }
 				type: "item"
@@ -4075,8 +4887,10 @@
 			y: 34.5d
 		}
 		{
+			disable_toast: true
 			id: "62902253404BF172"
 			tasks: [{
+				disable_toast: true
 				id: "54F61EC51B2543BE"
 				item: { count: 1, id: "croptopia:trifle" }
 				type: "item"
@@ -4085,8 +4899,10 @@
 			y: 35.5d
 		}
 		{
+			disable_toast: true
 			id: "1FA27DC50646B5C8"
 			tasks: [{
+				disable_toast: true
 				id: "5595942E51BE2228"
 				item: { count: 1, id: "croptopia:vanilla_ice_cream" }
 				type: "item"
@@ -4095,9 +4911,11 @@
 			y: 35.5d
 		}
 		{
+			disable_toast: true
 			id: "17A30850E010653A"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "7E296D36DF9CB292"
 				item: { count: 1, id: "croptopia:cooking_pot" }
 				type: "item"
@@ -4106,9 +4924,11 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "1A09ECC6ECA3E46A"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "193D61F291F1D68E"
 				item: { count: 1, id: "croptopia:food_press" }
 				type: "item"
@@ -4117,9 +4937,11 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "14D1E3392E162651"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "0D9641B327002552"
 				item: { count: 1, id: "croptopia:frying_pan" }
 				type: "item"
@@ -4128,9 +4950,11 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "0C5A9D16D732168B"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "6611AE7559CAB7D5"
 				item: { count: 1, id: "croptopia:knife" }
 				type: "item"
@@ -4139,9 +4963,11 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "433DDB98705476D7"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "72283F095F78C013"
 				item: { count: 1, id: "croptopia:mortar_and_pestle" }
 				type: "item"

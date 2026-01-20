@@ -27,6 +27,7 @@
 		{
 			disable_toast: true
 			id: "15B0324882F81C00"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "57709E665E65C8CA"
@@ -40,6 +41,7 @@
 			dependencies: ["21389ED25D91A8B7"]
 			disable_toast: true
 			id: "6C0D459D01BA770D"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "6767399648232217"
@@ -53,6 +55,7 @@
 			dependencies: ["21389ED25D91A8B7"]
 			disable_toast: true
 			id: "75355E86FA2B0882"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "0EFEEFEA31E71EA1"
@@ -66,18 +69,20 @@
 			dependencies: ["75355E86FA2B0882"]
 			disable_toast: true
 			id: "010321E7C2AB84C5"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "5C8B066D2C2DAD99"
 				item: { count: 1, id: "oritech:jetpack_exo_elytra" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: -3.5d
 		}
 		{
 			disable_toast: true
 			id: "41BE556F4B70252F"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "76FC4FD59F75C571"
@@ -92,6 +97,7 @@
 			disable_toast: true
 			hide_until_deps_visible: true
 			id: "093773E75A50EE3B"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "33BD122034292D53"
@@ -99,11 +105,10 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["253A613718D82D70"]
-			disable_toast: true
 			icon: {
 				id: "waystones:waystone"
 			}
@@ -135,7 +140,6 @@
 		}
 		{
 			dependencies: ["253A613718D82D70"]
-			disable_toast: true
 			id: "795DDC1776007394"
 			tasks: [{
 				disable_toast: true
@@ -147,7 +151,6 @@
 			y: 2.5d
 		}
 		{
-			disable_toast: true
 			id: "253A613718D82D70"
 			size: 1.5d
 			tasks: [{
@@ -160,7 +163,6 @@
 			y: 1.5d
 		}
 		{
-			disable_toast: true
 			id: "14650661A5A65916"
 			tasks: [{
 				disable_toast: true
@@ -173,7 +175,6 @@
 		}
 		{
 			dependencies: ["00763328D2B8FCB0"]
-			disable_toast: true
 			id: "289E47752CB669A7"
 			tasks: [{
 				disable_toast: true
@@ -185,7 +186,6 @@
 			y: 3.5d
 		}
 		{
-			disable_toast: true
 			id: "00763328D2B8FCB0"
 			tasks: [{
 				disable_toast: true
@@ -198,7 +198,6 @@
 		}
 		{
 			dependencies: ["253A613718D82D70"]
-			disable_toast: true
 			id: "260A4C5AB4C3C88F"
 			tasks: [{
 				disable_toast: true
@@ -210,7 +209,6 @@
 			y: 2.5d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "immersive_aircraft:biplane"
 			}

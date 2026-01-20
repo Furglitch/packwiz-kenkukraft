@@ -53,7 +53,6 @@
 		}
 		{
 			dependencies: ["6C14DAFBFDFF3040"]
-			disable_toast: true
 			icon: {
 				id: "functionalstorage:oak_2"
 			}
@@ -79,7 +78,6 @@
 		}
 		{
 			dependencies: ["6C14DAFBFDFF3040"]
-			disable_toast: true
 			icon: {
 				components: {
 					"sophisticatedstorage:wood_type": "oak"
@@ -117,7 +115,6 @@
 		}
 		{
 			dependencies: ["6C14DAFBFDFF3040"]
-			disable_toast: true
 			id: "0184DC2FD46AC311"
 			rewards: [{
 				count: 2
@@ -831,7 +828,9 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["6C14DAFBFDFF3040"]
 			disable_recipe_mod: false
+			disable_toast: true
 			icon: {
 				id: "bankstorage:bank_3"
 			}
@@ -839,12 +838,14 @@
 			shape: "diamond"
 			tasks: [
 				{
+					disable_toast: true
 					id: "250AC784CF8FE5B4"
 					item: { components: { "ftbfiltersystem:filter": "or(mod(bankstorage))", "minecraft:custom_name": "\"Banks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					optional_task: true
 					type: "item"
 				}
 				{
+					disable_toast: true
 					id: "65812A9DF89CEA1C"
 					item: { components: { "ftbfiltersystem:filter": "or(mod(tankstorage))", "minecraft:custom_name": "\"Tanks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					optional_task: true

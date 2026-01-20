@@ -12,7 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			disable_toast: true
 			hide_dependent_lines: true
 			icon: {
 				id: "create:wrench"
@@ -21,6 +20,7 @@
 			shape: "gear"
 			size: 3.0d
 			tasks: [{
+				disable_toast: true
 				id: "6340681AC9451DCA"
 				item: { count: 1, id: "minecraft:andesite" }
 				type: "item"

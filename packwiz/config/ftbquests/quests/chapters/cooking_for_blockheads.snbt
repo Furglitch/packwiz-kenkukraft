@@ -27,8 +27,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "2D8F43705CBD1AA9"
 			tasks: [{
+				disable_toast: true
 				id: "42C9E8B7235C9309"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:ovens))", "minecraft:custom_name": "\"Ovens\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -37,8 +39,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "03CEAAF3095B1853"
 			tasks: [{
+				disable_toast: true
 				id: "7E68D67779C870F3"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:fridges))", "minecraft:custom_name": "\"Fridges\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -47,8 +51,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "463093CD55194C71"
 			tasks: [{
+				disable_toast: true
 				id: "46B6669383EA0049"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:connectors))", "minecraft:custom_name": "\"Connectors\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -57,8 +63,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "60857DC587226F67"
 			tasks: [{
+				disable_toast: true
 				id: "53AED08B15FCA379"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:cooking_tables))", "minecraft:custom_name": "\"Cooking Tables\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -67,8 +75,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "6CBE90834E945DC1"
 			tasks: [{
+				disable_toast: true
 				id: "40D1DA58F728BE9B"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:counters))", "minecraft:custom_name": "\"Counters\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -77,8 +87,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "4E088970813475F7"
 			tasks: [{
+				disable_toast: true
 				id: "68F7AFE3BB763D15"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:cabinets))", "minecraft:custom_name": "\"Cabinets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -87,8 +99,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "38FBB02D4107B23E"
 			tasks: [{
+				disable_toast: true
 				id: "2038FA6E18D7D7CF"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cookingforblockheads:sinks))", "minecraft:custom_name": "\"Sinks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -97,8 +111,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "441D088EE7ECD237"
 			tasks: [{
+				disable_toast: true
 				id: "4445B622F7F2387F"
 				item: { components: { "ftbfiltersystem:filter": "or(item(cookingforblockheads:white_kitchen_floor)item(cookingforblockheads:orange_kitchen_floor)item(cookingforblockheads:magenta_kitchen_floor)item(cookingforblockheads:light_blue_kitchen_floor)item(cookingforblockheads:yellow_kitchen_floor)item(cookingforblockheads:lime_kitchen_floor)item(cookingforblockheads:pink_kitchen_floor)item(cookingforblockheads:gray_kitchen_floor)item(cookingforblockheads:light_gray_kitchen_floor)item(cookingforblockheads:cyan_kitchen_floor)item(cookingforblockheads:purple_kitchen_floor)item(cookingforblockheads:blue_kitchen_floor)item(cookingforblockheads:brown_kitchen_floor)item(cookingforblockheads:green_kitchen_floor)item(cookingforblockheads:red_kitchen_floor)item(cookingforblockheads:black_kitchen_floor))", "minecraft:custom_name": "\"Kitchen Floors\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -107,8 +123,10 @@
 			y: -1.5d
 		}
 		{
+			disable_toast: true
 			id: "7C8F17081252807F"
 			tasks: [{
+				disable_toast: true
 				id: "675CB39C532C3E83"
 				item: { count: 1, id: "cookingforblockheads:milk_jar" }
 				type: "item"
@@ -118,8 +136,10 @@
 		}
 		{
 			dependencies: ["7C8F17081252807F"]
+			disable_toast: true
 			id: "66C25EB45E60AA3E"
 			tasks: [{
+				disable_toast: true
 				id: "4184DF4434A58B0C"
 				item: { count: 1, id: "cookingforblockheads:cow_jar" }
 				type: "item"
@@ -128,8 +148,10 @@
 			y: -3.0d
 		}
 		{
+			disable_toast: true
 			id: "2F35F3B72287F7B7"
 			tasks: [{
+				disable_toast: true
 				id: "2A4A5FD26D063134"
 				item: { count: 1, id: "cookingforblockheads:toaster" }
 				type: "item"
@@ -138,8 +160,10 @@
 			y: -4.0d
 		}
 		{
+			disable_toast: true
 			id: "615779EB1A8F8E9E"
 			tasks: [{
+				disable_toast: true
 				id: "0B049533071833A1"
 				item: { count: 1, id: "cookingforblockheads:tool_rack" }
 				type: "item"
@@ -148,8 +172,10 @@
 			y: 3.0d
 		}
 		{
+			disable_toast: true
 			id: "76DA7933EA709CF9"
 			tasks: [{
+				disable_toast: true
 				id: "3136ADCC94D2A68B"
 				item: { count: 1, id: "cookingforblockheads:spice_rack" }
 				type: "item"
@@ -158,8 +184,10 @@
 			y: 3.0d
 		}
 		{
+			disable_toast: true
 			id: "13729013D9A9BFBC"
 			tasks: [{
+				disable_toast: true
 				id: "161C38204C134EC9"
 				item: { count: 1, id: "cookingforblockheads:fruit_basket" }
 				type: "item"
@@ -168,8 +196,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "666A60FB7739D3EB"
 			tasks: [{
+				disable_toast: true
 				id: "107293AA69EC27FC"
 				item: { count: 1, id: "cookingforblockheads:cutting_board" }
 				type: "item"

@@ -12,7 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			disable_toast: true
 			icon: {
 				id: "minecraft:scaffolding"
 			}

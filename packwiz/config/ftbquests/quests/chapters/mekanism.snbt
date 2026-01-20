@@ -12,23 +12,9 @@
 	quest_links: [ ]
 	quests: [
 		{
-			disable_toast: true
-			id: "008EEC1B7F63B3D7"
+			id: "04A928607AB852A3"
 			shape: "gear"
 			size: 2.0d
-			tasks: [{
-				disable_toast: true
-				id: "6B3C1ECF9AFD5180"
-				item: { count: 1, id: "mekanism:raw_osmium" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["008EEC1B7F63B3D7"]
-			disable_toast: true
-			id: "04A928607AB852A3"
 			tasks: [{
 				disable_toast: true
 				id: "7009A639A418704B"

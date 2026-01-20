@@ -12,7 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			disable_toast: true
 			icon: {
 				id: "ae2:meteorite_compass"
 			}
@@ -601,8 +600,10 @@
 		}
 		{
 			dependencies: ["30F5B5032D540FB8"]
+			disable_toast: true
 			id: "46FA7EEF02BEC519"
 			tasks: [{
+				disable_toast: true
 				id: "5DAB3BF2D0A97F36"
 				item: { count: 1, id: "ae2:item_storage_cell_1k" }
 				type: "item"
@@ -612,9 +613,11 @@
 		}
 		{
 			dependencies: ["3FABED4E79F7DB90"]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "7BF1249DF660AF72"
 			tasks: [{
+				disable_toast: true
 				id: "148141DF4CE71D61"
 				item: { count: 1, id: "ae2:item_storage_cell_4k" }
 				type: "item"
@@ -627,9 +630,11 @@
 				"7BF1249DF660AF72"
 				"0D27F2465D42460A"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "6371D4FD6E2BFD57"
 			tasks: [{
+				disable_toast: true
 				id: "5D8B2E15D3A3EF58"
 				item: { count: 1, id: "ae2:item_storage_cell_16k" }
 				type: "item"
@@ -642,9 +647,11 @@
 				"6371D4FD6E2BFD57"
 				"2769CED5EE983026"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "1ABA522BCF4DC84D"
 			tasks: [{
+				disable_toast: true
 				id: "6EB3A70723E20B13"
 				item: { count: 1, id: "ae2:item_storage_cell_64k" }
 				type: "item"
@@ -657,9 +664,11 @@
 				"1ABA522BCF4DC84D"
 				"70FF079E8005C2FF"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "4E32B31ACBD13406"
 			tasks: [{
+				disable_toast: true
 				id: "319EEA32C6F6759B"
 				item: { count: 1, id: "ae2:item_storage_cell_256k" }
 				type: "item"
@@ -673,11 +682,13 @@
 				"5861432BFEDF79FE"
 				"10F5E6D574C1DCDD"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
 			id: "4B626F4A048F1E4B"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "28CFF26049D208CE"
 				item: { count: 1, id: "megacells:item_storage_cell_1m" }
 				type: "item"
@@ -690,11 +701,13 @@
 				"4B626F4A048F1E4B"
 				"71D25D4C412530E6"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
 			id: "370AB9EB9AD569D2"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "04F10F9B1919C828"
 				item: { count: 1, id: "megacells:item_storage_cell_4m" }
 				type: "item"
@@ -707,11 +720,13 @@
 				"370AB9EB9AD569D2"
 				"6FB68A9BE075795D"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
 			id: "70D0B9F08932F625"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "0EFD039AE1E7FE8C"
 				item: { count: 1, id: "megacells:item_storage_cell_16m" }
 				type: "item"
@@ -724,11 +739,13 @@
 				"70D0B9F08932F625"
 				"31104F566105EA03"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
 			id: "16CDDA5D926A60CA"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "64E883F8A7576D59"
 				item: { count: 1, id: "megacells:item_storage_cell_64m" }
 				type: "item"
@@ -741,11 +758,13 @@
 				"16CDDA5D926A60CA"
 				"4050B6A81B0926CB"
 			]
+			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
 			id: "4539A4C141AC47BF"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "1427FCAF0C828330"
 				item: { count: 1, id: "megacells:item_storage_cell_256m" }
 				type: "item"
@@ -755,8 +774,10 @@
 		}
 		{
 			dependencies: ["30F5B5032D540FB8"]
+			disable_toast: true
 			id: "75CAA145453EDD59"
 			tasks: [{
+				disable_toast: true
 				id: "6EF281ADCD244C7D"
 				item: { count: 1, id: "ae2:fluid_storage_cell_1k" }
 				type: "item"
@@ -766,9 +787,11 @@
 		}
 		{
 			dependencies: ["46FA7EEF02BEC519"]
+			disable_toast: true
 			id: "38F5F17922FA750B"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "55BDD40F66983AE2"
 				item: { count: 1, id: "ae2:portable_item_cell_1k" }
 				type: "item"
@@ -778,9 +801,11 @@
 		}
 		{
 			dependencies: ["75CAA145453EDD59"]
+			disable_toast: true
 			id: "69D12CA8283EFE94"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "4EEF7D6741AF5C05"
 				item: { count: 1, id: "ae2:portable_fluid_cell_1k" }
 				type: "item"
@@ -793,10 +818,12 @@
 				"5861432BFEDF79FE"
 				"30F5B5032D540FB8"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "14A825F6118687E8"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "439607A9C884E199"
 				item: { count: 1, id: "appex:experience_storage_cell_1k" }
 				type: "item"
@@ -809,10 +836,12 @@
 				"5861432BFEDF79FE"
 				"30F5B5032D540FB8"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "6C43783E91E671DF"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "52C80333BA7670CB"
 				item: { count: 1, id: "appflux:fe_1k_cell" }
 				type: "item"
@@ -825,10 +854,12 @@
 				"5861432BFEDF79FE"
 				"30F5B5032D540FB8"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "70B18C50B9403C60"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "4FAA6F965F10076B"
 				item: { count: 1, id: "appmek:chemical_storage_cell_1k" }
 				type: "item"
@@ -841,10 +872,12 @@
 				"5861432BFEDF79FE"
 				"30F5B5032D540FB8"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "2DE736DF20063735"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "68694073DA2449CB"
 				item: { count: 1, id: "arseng:source_storage_cell_1k" }
 				type: "item"
@@ -854,9 +887,11 @@
 		}
 		{
 			dependencies: ["14A825F6118687E8"]
+			disable_toast: true
 			id: "4525F0C7CFD71997"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "14ECC5B685CBA3E4"
 				item: { count: 1, id: "appex:portable_experience_cell_1k" }
 				type: "item"
@@ -866,9 +901,11 @@
 		}
 		{
 			dependencies: ["6C43783E91E671DF"]
+			disable_toast: true
 			id: "4A9D02C10B49AD6B"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "4006B018FB1AC289"
 				item: { count: 1, id: "appflux:fe_1k_portable_cell" }
 				type: "item"
@@ -878,9 +915,11 @@
 		}
 		{
 			dependencies: ["2DE736DF20063735"]
+			disable_toast: true
 			id: "2889F7C2633C1AE7"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "2A61CF0C4BBE4821"
 				item: { count: 1, id: "arseng:portable_source_cell_1k" }
 				type: "item"
@@ -890,9 +929,11 @@
 		}
 		{
 			dependencies: ["70B18C50B9403C60"]
+			disable_toast: true
 			id: "26A1B517FE6C5A5D"
 			optional: true
 			tasks: [{
+				disable_toast: true
 				id: "6625A2D5DDEA9F94"
 				item: { count: 1, id: "appmek:portable_chemical_cell_1k" }
 				type: "item"
@@ -905,8 +946,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "50072E97084B99A6"
 			tasks: [{
+				disable_toast: true
 				id: "76BC50FF3D24F6AC"
 				item: { count: 1, id: "ae2:interface" }
 				type: "item"
@@ -919,8 +962,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "05E970463E1CD90C"
 			tasks: [{
+				disable_toast: true
 				id: "49C3BA97B4AB2409"
 				item: { count: 1, id: "ae2:import_bus" }
 				type: "item"
@@ -933,8 +978,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "19FFA16002BB055E"
 			tasks: [{
+				disable_toast: true
 				id: "070C4DB3783C7DBC"
 				item: { count: 1, id: "ae2:export_bus" }
 				type: "item"
@@ -947,8 +994,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "2AFBAD21CBD891F1"
 			tasks: [{
+				disable_toast: true
 				id: "478156061A9ED70D"
 				item: { count: 1, id: "ae2:storage_bus" }
 				type: "item"
@@ -958,9 +1007,11 @@
 		}
 		{
 			dependencies: ["68F745A2466BA583"]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "68C2F3E0E7FD36C1"
 			tasks: [{
+				disable_toast: true
 				id: "6A846498F2809CB4"
 				item: { count: 1, id: "ae2:quartz_fiber" }
 				type: "item"
@@ -973,8 +1024,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "62B30F11ED6DE998"
 			tasks: [{
+				disable_toast: true
 				id: "7C5DEC06629B7956"
 				item: { count: 1, id: "ae2:me_p2p_tunnel" }
 				type: "item"
@@ -987,8 +1040,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "3B0FA2FA7E6B5955"
 			tasks: [{
+				disable_toast: true
 				id: "4F968E6E701683E6"
 				item: { count: 1, id: "ae2:annihilation_plane" }
 				type: "item"
@@ -1001,8 +1056,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "429C886076ABE240"
 			tasks: [{
+				disable_toast: true
 				id: "59ABA8C5C094D55F"
 				item: { count: 1, id: "ae2:formation_plane" }
 				type: "item"
@@ -1015,8 +1072,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "2F2860A571F7E19C"
 			tasks: [{
+				disable_toast: true
 				id: "1A122168F4458021"
 				item: { count: 1, id: "ae2:memory_card" }
 				type: "item"
@@ -1029,8 +1088,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "5AB30521945B234C"
 			tasks: [{
+				disable_toast: true
 				id: "6B1AEE8345E340C6"
 				item: { count: 1, id: "ae2:inverter_card" }
 				type: "item"
@@ -1043,8 +1104,10 @@
 				"3233358CE58B032C"
 				"211E07CD315D8324"
 			]
+			disable_toast: true
 			id: "65D5C93CA9C6D442"
 			tasks: [{
+				disable_toast: true
 				id: "0B591AABA1C3E8D9"
 				item: { count: 1, id: "ae2:capacity_card" }
 				type: "item"
@@ -1054,9 +1117,11 @@
 		}
 		{
 			dependencies: ["399647E1264FD135"]
+			disable_toast: true
 			hide_dependent_lines: true
 			id: "3233358CE58B032C"
 			tasks: [{
+				disable_toast: true
 				id: "60A3A0984D06BA87"
 				item: { count: 1, id: "ae2:formation_core" }
 				type: "item"
@@ -1066,9 +1131,11 @@
 		}
 		{
 			dependencies: ["399647E1264FD135"]
+			disable_toast: true
 			hide_dependent_lines: true
 			id: "211E07CD315D8324"
 			tasks: [{
+				disable_toast: true
 				id: "53C40BF568039F40"
 				item: { count: 1, id: "ae2:annihilation_core" }
 				type: "item"
@@ -1078,8 +1145,10 @@
 		}
 		{
 			dependencies: ["124698D724F43CBF"]
+			disable_toast: true
 			id: "758A5BB4C8D80FFB"
 			tasks: [{
+				disable_toast: true
 				id: "27D109E78B9D37B7"
 				item: { count: 1, id: "ae2:spatial_io_port" }
 				type: "item"
@@ -1092,8 +1161,10 @@
 				"130DAF98DFBDD9E4"
 				"758A5BB4C8D80FFB"
 			]
+			disable_toast: true
 			id: "0A46CF9899ECDF6D"
 			tasks: [{
+				disable_toast: true
 				id: "5EF509B468395FCF"
 				item: { count: 1, id: "ae2:spatial_anchor" }
 				type: "item"
@@ -1103,8 +1174,10 @@
 		}
 		{
 			dependencies: ["6CE974D948BE9946"]
+			disable_toast: true
 			id: "2B0EDEC4D849EF83"
 			tasks: [{
+				disable_toast: true
 				id: "6A235348892FF382"
 				item: { count: 1, id: "ae2:spatial_storage_cell_2" }
 				type: "item"
@@ -1114,8 +1187,10 @@
 		}
 		{
 			dependencies: ["758A5BB4C8D80FFB"]
+			disable_toast: true
 			id: "130DAF98DFBDD9E4"
 			tasks: [{
+				disable_toast: true
 				id: "1B7A3CA963BE810A"
 				item: { count: 1, id: "ae2:spatial_pylon" }
 				type: "item"
@@ -1125,8 +1200,10 @@
 		}
 		{
 			dependencies: ["14FCDDA779BDE8D5"]
+			disable_toast: true
 			id: "35BAE9CA186A5438"
 			tasks: [{
+				disable_toast: true
 				id: "0A1D1F9BEB61ABB7"
 				item: { count: 1, id: "ae2:spatial_storage_cell_16" }
 				type: "item"
@@ -1136,8 +1213,10 @@
 		}
 		{
 			dependencies: ["3289BBDFD01A20AA"]
+			disable_toast: true
 			id: "7E9E9DFCEB13F599"
 			tasks: [{
+				disable_toast: true
 				id: "05ABD28E1BBAE0C4"
 				item: { count: 1, id: "ae2:spatial_storage_cell_128" }
 				type: "item"
@@ -1147,9 +1226,11 @@
 		}
 		{
 			dependencies: ["758A5BB4C8D80FFB"]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "6CE974D948BE9946"
 			tasks: [{
+				disable_toast: true
 				id: "7761B35323BCD167"
 				item: { count: 1, id: "ae2:spatial_cell_component_2" }
 				type: "item"
@@ -1159,9 +1240,11 @@
 		}
 		{
 			dependencies: ["758A5BB4C8D80FFB"]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "14FCDDA779BDE8D5"
 			tasks: [{
+				disable_toast: true
 				id: "698EDE65AD05FE67"
 				item: { count: 1, id: "ae2:spatial_cell_component_16" }
 				type: "item"
@@ -1171,9 +1254,11 @@
 		}
 		{
 			dependencies: ["758A5BB4C8D80FFB"]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "3289BBDFD01A20AA"
 			tasks: [{
+				disable_toast: true
 				id: "7A255ACD9E16085B"
 				item: { count: 1, id: "ae2:spatial_cell_component_128" }
 				type: "item"
@@ -1183,8 +1268,10 @@
 		}
 		{
 			dependencies: ["5322F4443796036F"]
+			disable_toast: true
 			id: "62C943FFD4C9A78E"
 			tasks: [{
+				disable_toast: true
 				id: "3153F7AE7099307C"
 				item: { count: 1, id: "ae2:singularity" }
 				type: "item"
@@ -1194,8 +1281,10 @@
 		}
 		{
 			dependencies: ["30F5B5032D540FB8"]
+			disable_toast: true
 			id: "5322F4443796036F"
 			tasks: [{
+				disable_toast: true
 				id: "1AD02AEB65CEE893"
 				item: { count: 1, id: "ae2:matter_ball" }
 				type: "item"
@@ -1205,8 +1294,10 @@
 		}
 		{
 			dependencies: ["5322F4443796036F"]
+			disable_toast: true
 			id: "0043736EA470CA06"
 			tasks: [{
+				disable_toast: true
 				id: "6508AD362A951B68"
 				item: { count: 1, id: "ae2:quantum_link" }
 				type: "item"
@@ -1220,9 +1311,11 @@
 				"0043736EA470CA06"
 				"5861432BFEDF79FE"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "731B38AD6AF7DED7"
 			tasks: [{
+				disable_toast: true
 				id: "78769CA84C949041"
 				item: { count: 1, id: "ae2wtlib:quantum_bridge_card" }
 				type: "item"
@@ -1232,9 +1325,11 @@
 		}
 		{
 			dependencies: ["399647E1264FD135"]
+			disable_toast: true
 			hide_dependency_lines: true
 			id: "565A4C9101AA5855"
 			tasks: [{
+				disable_toast: true
 				id: "15B4365BC10D5CAD"
 				item: { count: 1, id: "ae2:wireless_crafting_terminal" }
 				type: "item"
@@ -1244,8 +1339,10 @@
 		}
 		{
 			dependencies: ["565A4C9101AA5855"]
+			disable_toast: true
 			id: "15C2647D383FC32D"
 			tasks: [{
+				disable_toast: true
 				id: "24EF81B3AF8696C2"
 				item: { count: 1, id: "ae2:wireless_booster" }
 				type: "item"
@@ -1258,9 +1355,11 @@
 				"5861432BFEDF79FE"
 				"15C2647D383FC32D"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "03A89D7254E9FFD3"
 			tasks: [{
+				disable_toast: true
 				id: "6E1FFAB44432E2BF"
 				item: { count: 1, id: "aeinfinitybooster:infinity_card" }
 				type: "item"
@@ -1273,9 +1372,11 @@
 				"5861432BFEDF79FE"
 				"15C2647D383FC32D"
 			]
+			disable_toast: true
 			hide_until_deps_visible: true
 			id: "35ADB61EED9ED629"
 			tasks: [{
+				disable_toast: true
 				id: "13052AEDCCD29AFF"
 				item: { count: 1, id: "aeinfinitybooster:dimension_card" }
 				type: "item"
@@ -1285,8 +1386,10 @@
 		}
 		{
 			dependencies: ["5322F4443796036F"]
+			disable_toast: true
 			id: "4ECA45772D673958"
 			tasks: [{
+				disable_toast: true
 				id: "0E7E27C434B561A6"
 				item: { count: 1, id: "ae2:quantum_ring" }
 				type: "item"
@@ -1296,10 +1399,12 @@
 		}
 		{
 			dependencies: ["399647E1264FD135"]
+			disable_toast: true
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "3671BAC5F5C2F334"
 			tasks: [{
+				disable_toast: true
 				id: "41E4C30C2097B0E9"
 				item: { count: 1, id: "ae2:crafting_accelerator" }
 				type: "item"
@@ -1309,8 +1414,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "2A2F67B8C6168A12"
 			tasks: [{
+				disable_toast: true
 				id: "06D39C62BF1172E1"
 				item: { count: 1, id: "ae2:growth_accelerator" }
 				type: "item"
@@ -1320,8 +1427,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "7C2A95E092CD48BE"
 			tasks: [{
+				disable_toast: true
 				id: "2FEE0881B0A66329"
 				item: { count: 1, id: "ae2:blank_pattern" }
 				type: "item"
@@ -1331,8 +1440,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "5CA32081456CDFEB"
 			tasks: [{
+				disable_toast: true
 				id: "653FBC7B9D288C7D"
 				item: { count: 1, id: "ae2:molecular_assembler" }
 				type: "item"
@@ -1342,8 +1453,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "41EFAFBA74E1D07E"
 			tasks: [{
+				disable_toast: true
 				id: "7EB6C076E16C7DCE"
 				item: { count: 1, id: "ae2:speed_card" }
 				type: "item"
@@ -1353,8 +1466,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "4611C2C2F738D13E"
 			tasks: [{
+				disable_toast: true
 				id: "581078E24CD220CD"
 				item: { count: 1, id: "ae2:level_emitter" }
 				type: "item"
@@ -1364,8 +1479,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "14E204397B1BD90A"
 			tasks: [{
+				disable_toast: true
 				id: "545487777308ED39"
 				item: { count: 1, id: "ae2:toggle_bus" }
 				type: "item"
@@ -1375,8 +1492,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "41BF6FCF5E18DBDD"
 			tasks: [{
+				disable_toast: true
 				id: "7E34C010F1CF7B17"
 				item: { count: 1, id: "ae2:crafting_card" }
 				type: "item"
@@ -1386,8 +1505,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "3723D82BA7CF920B"
 			tasks: [{
+				disable_toast: true
 				id: "1902D377FD047B68"
 				item: { count: 1, id: "ae2:1k_crafting_storage" }
 				type: "item"
@@ -1397,8 +1518,10 @@
 		}
 		{
 			dependencies: ["3671BAC5F5C2F334"]
+			disable_toast: true
 			id: "37D647EDC0FE236A"
 			tasks: [{
+				disable_toast: true
 				id: "24DB21C7B674EA8C"
 				item: { count: 1, id: "ae2:crafting_monitor" }
 				type: "item"

@@ -13,13 +13,15 @@
 		{
 			disable_toast: true
 			id: "1BC470495E770BFA"
+			shape: "gear"
+			size: 2.0d
 			tasks: [{
 				disable_toast: true
 				id: "2A14E49907E0D223"
 				item: { count: 1, id: "oritech:nickel_ingot" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -4.0d
 			y: 7.5d
 		}
 		{

@@ -27,7 +27,7 @@
 				value: 1L
 			}]
 			x: 2.0d
-			y: -9.0d
+			y: 15.75d
 		}
 		{
 			dependencies: ["0E1B8716AE4E54DA"]
@@ -135,6 +135,7 @@
 		}
 		{
 			dependencies: ["7698F1157A626697"]
+			disable_toast: true
 			id: "0E55B32201494B90"
 			tasks: [{
 				disable_toast: true
@@ -148,6 +149,7 @@
 		}
 		{
 			dependencies: ["36C25678BDDA8977"]
+			disable_toast: true
 			id: "678DC17D15C81342"
 			tasks: [{
 				disable_toast: true
@@ -161,6 +163,7 @@
 		}
 		{
 			dependencies: ["0ADEDD1E289C73B2"]
+			disable_toast: true
 			id: "338AF2E787725427"
 			tasks: [{
 				disable_toast: true
@@ -174,6 +177,7 @@
 		}
 		{
 			dependencies: ["5C3E339B7086268F"]
+			disable_toast: true
 			id: "68F0B38A76FB4B48"
 			tasks: [{
 				disable_toast: true
@@ -187,6 +191,7 @@
 		}
 		{
 			dependencies: ["41C3414EFF496497"]
+			disable_toast: true
 			id: "66F19CD3A4E06772"
 			tasks: [{
 				disable_toast: true
@@ -200,6 +205,7 @@
 		}
 		{
 			dependencies: ["7ECAAC68A033C25C"]
+			disable_toast: true
 			id: "04C1A8CCFBE7FC91"
 			tasks: [{
 				disable_toast: true
@@ -213,6 +219,7 @@
 		}
 		{
 			dependencies: ["49213B5264BD6D29"]
+			disable_toast: true
 			id: "33AFEE2DC7A5D4F5"
 			tasks: [{
 				disable_toast: true
@@ -226,6 +233,7 @@
 		}
 		{
 			dependencies: ["31A478C6578CC876"]
+			disable_toast: true
 			id: "0E1B8716AE4E54DA"
 			tasks: [{
 				disable_toast: true
@@ -455,7 +463,6 @@
 		}
 		{
 			dependencies: ["202541923EFA7ED0"]
-			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_complete: false
 			id: "41F783362CB1F53D"
@@ -472,7 +479,6 @@
 		}
 		{
 			dependencies: ["61DCD4DADE27B75C"]
-			disable_toast: true
 			hide_dependency_lines: true
 			hide_until_deps_complete: false
 			id: "0D807A43A1D473D8"
@@ -488,7 +494,6 @@
 			y: 5.25d
 		}
 		{
-			disable_toast: true
 			id: "707BB002EB957A17"
 			size: 2.0d
 			tasks: [{
@@ -502,7 +507,6 @@
 			y: 5.25d
 		}
 		{
-			disable_toast: true
 			id: "65A8E8E92A8ADA28"
 			size: 1.5d
 			tasks: [{
@@ -516,7 +520,6 @@
 			y: 7.5d
 		}
 		{
-			disable_toast: true
 			id: "7CF288AE2BAC939D"
 			size: 1.5d
 			tasks: [{
@@ -530,7 +533,6 @@
 			y: 7.5d
 		}
 		{
-			disable_toast: true
 			id: "7199B1F6798B61DE"
 			size: 1.5d
 			tasks: [{
@@ -545,7 +547,6 @@
 		}
 		{
 			dependencies: ["3120C584B2C0577E"]
-			disable_toast: true
 			hide_until_deps_complete: true
 			icon: {
 				id: "spore:mutated_heart"
@@ -564,8 +565,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "67F142064F6C6245"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:badlands_creeper"
 				id: "1040587322B8CF7D"
 				type: "kill"
@@ -575,8 +578,10 @@
 			y: -2.0d
 		}
 		{
+			disable_toast: true
 			id: "7F00086277DDA115"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:bamboo_creeper"
 				id: "104B38251FFC8D6E"
 				type: "kill"
@@ -586,8 +591,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "59F41A38E61C8C6D"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:beach_creeper"
 				id: "09AB70A27F856402"
 				type: "kill"
@@ -597,8 +604,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "110102849238FF8C"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:birch_creeper"
 				id: "2A073FDCBF127B48"
 				type: "kill"
@@ -608,8 +617,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "128A07621551BF0D"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:cave_creeper"
 				id: "1ECD741C0EC7725B"
 				type: "kill"
@@ -619,8 +630,10 @@
 			y: 2.0d
 		}
 		{
+			disable_toast: true
 			id: "23252E79BCF939F4"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:dark_oak_creeper"
 				id: "3D27056049AA3F68"
 				type: "kill"
@@ -630,8 +643,10 @@
 			y: 3.0d
 		}
 		{
+			disable_toast: true
 			id: "3367B958F9C0E501"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:desert_creeper"
 				id: "16C059FCFBB94730"
 				type: "kill"
@@ -641,8 +656,10 @@
 			y: 4.0d
 		}
 		{
+			disable_toast: true
 			id: "725B51FBC9998754"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:hills_creeper"
 				id: "4F3F7940103B07D1"
 				type: "kill"
@@ -652,8 +669,10 @@
 			y: -1.5d
 		}
 		{
+			disable_toast: true
 			id: "474CF9E216B5F361"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:swamp_creeper"
 				id: "3307F80BEBBBC934"
 				type: "kill"
@@ -663,8 +682,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "4FB0505C303830CD"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:spruce_creeper"
 				id: "0E3D2F2BAA6247AF"
 				type: "kill"
@@ -674,8 +695,10 @@
 			y: 3.5d
 		}
 		{
+			disable_toast: true
 			id: "5A39CA82057E74C5"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:snowy_creeper"
 				id: "2A487EEFF462766F"
 				type: "kill"
@@ -685,8 +708,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "44C2DDA6D020A022"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:savannah_creeper"
 				id: "6DAB8F4953656D70"
 				type: "kill"
@@ -696,8 +721,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "24ED3925696A93A0"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:ocean_creeper"
 				id: "292ADEC3841709C2"
 				type: "kill"
@@ -707,8 +734,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "5AB5479E9AA78613"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:jungle_creeper"
 				id: "614A7DF73CB58452"
 				type: "kill"
@@ -718,8 +747,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "2008C5B5FC9E14C2"
 			tasks: [{
+				disable_toast: true
 				entity: "creeperoverhaul:dripstone_creeper"
 				id: "2EF282A3C66A5113"
 				type: "kill"
@@ -729,8 +760,10 @@
 			y: 5.0d
 		}
 		{
+			disable_toast: true
 			id: "7380920A6409BC91"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:badlands_enderman"
 				id: "6FC92F6AB8C3C782"
 				type: "kill"
@@ -740,8 +773,10 @@
 			y: -1.5d
 		}
 		{
+			disable_toast: true
 			id: "453E6ADC537AFDBC"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:cave_enderman"
 				id: "1C0F3D40306D4FF3"
 				type: "kill"
@@ -751,8 +786,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "35B0DC76FE4757CB"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:coral_enderman"
 				id: "5C5D348C54A94BDF"
 				type: "kill"
@@ -762,8 +799,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "3DC316E85B1775B2"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:crimson_forest_enderman"
 				id: "578135F415A38508"
 				type: "kill"
@@ -773,8 +812,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "7D43AE3C564184FD"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:dark_oak_enderman"
 				id: "2EACA5F8FDC21D7E"
 				type: "kill"
@@ -784,8 +825,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "2C987B749EB2F494"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:desert_enderman"
 				id: "1578F968F28F67D1"
 				type: "kill"
@@ -795,8 +838,10 @@
 			y: 3.5d
 		}
 		{
+			disable_toast: true
 			id: "5E5B31548768E850"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:end_enderman"
 				id: "2EDA7A0A985DE4BA"
 				type: "kill"
@@ -806,8 +851,10 @@
 			y: 4.5d
 		}
 		{
+			disable_toast: true
 			id: "2F52C9DCB82CC7D5"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:end_islands_enderman"
 				id: "475FFB99F0BF583D"
 				type: "kill"
@@ -817,8 +864,10 @@
 			y: -1.0d
 		}
 		{
+			disable_toast: true
 			id: "209FC894909E873B"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:swamp_enderman"
 				id: "34CBD0E3A3A4FD72"
 				type: "kill"
@@ -828,8 +877,10 @@
 			y: 1.5d
 		}
 		{
+			disable_toast: true
 			id: "5321512C3AA91F5C"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:soulsand_valley_enderman"
 				id: "0B7106B7A8FED76D"
 				type: "kill"
@@ -839,8 +890,10 @@
 			y: 0.5d
 		}
 		{
+			disable_toast: true
 			id: "29AE5DC32E921C3F"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:snowy_enderman"
 				id: "3276E22E70F753ED"
 				type: "kill"
@@ -850,8 +903,10 @@
 			y: -0.5d
 		}
 		{
+			disable_toast: true
 			id: "2B02B8FCFA573081"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:savanna_enderman"
 				id: "76CCC4012A6171C2"
 				type: "kill"
@@ -861,8 +916,10 @@
 			y: 4.0d
 		}
 		{
+			disable_toast: true
 			id: "7E51EA7CD7044E28"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:nether_wastes_enderman"
 				id: "406031149F741A74"
 				type: "kill"
@@ -872,8 +929,10 @@
 			y: 3.0d
 		}
 		{
+			disable_toast: true
 			id: "3C1A46FB358DAF4F"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:mushroom_fields_enderman"
 				id: "36DC2DFBFC34CAEC"
 				type: "kill"
@@ -883,8 +942,10 @@
 			y: 2.0d
 		}
 		{
+			disable_toast: true
 			id: "27A7332F12AF483E"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:ice_spikes_enderman"
 				id: "72A3C1D482A22C69"
 				type: "kill"
@@ -894,8 +955,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "4318451AB88AD15E"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:flower_fields_enderman"
 				id: "53650EEF4229C6C9"
 				type: "kill"
@@ -905,8 +968,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "2BE7EE12371D72C0"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:warped_forest_enderman"
 				id: "018B7E528A431203"
 				type: "kill"
@@ -916,8 +981,10 @@
 			y: 2.5d
 		}
 		{
+			disable_toast: true
 			id: "28F96F77AF7EE501"
 			tasks: [{
+				disable_toast: true
 				entity: "endermanoverhaul:windswept_hills_enderman"
 				id: "5BD94D533448C5AA"
 				type: "kill"
@@ -927,8 +994,10 @@
 			y: 3.5d
 		}
 		{
+			disable_toast: true
 			id: "52B45EAAF38CDAC8"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:alchemist"
 				id: "2ED9CA9548E71122"
 				type: "kill"
@@ -938,8 +1007,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "31C0361905381A4E"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:archivist"
 				id: "32CDB0954976D65E"
 				type: "kill"
@@ -949,8 +1020,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "0985DFE47EE6FDEB"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:basher"
 				id: "5C1B1A2CB0E75D25"
 				type: "kill"
@@ -960,8 +1033,10 @@
 			y: 2.0d
 		}
 		{
+			disable_toast: true
 			id: "532D366501D45854"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:firecaller"
 				id: "163C8520ECFF62F8"
 				type: "kill"
@@ -971,8 +1046,10 @@
 			y: 3.0d
 		}
 		{
+			disable_toast: true
 			id: "144B302CAA57D530"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:inquisitor"
 				id: "6CC7BF074382F4C7"
 				type: "kill"
@@ -982,8 +1059,10 @@
 			y: 4.0d
 		}
 		{
+			disable_toast: true
 			id: "0D09EB224C250147"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:invoker"
 				id: "7BEE8FF6AE95CF19"
 				type: "kill"
@@ -993,8 +1072,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "0828A8CF48A864E9"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:marauder"
 				id: "487642DACFBAD3F2"
 				type: "kill"
@@ -1004,8 +1085,10 @@
 			y: 1.0d
 		}
 		{
+			disable_toast: true
 			id: "59508397544B2C43"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:necromancer"
 				id: "7D1E7287D565349A"
 				type: "kill"
@@ -1015,8 +1098,10 @@
 			y: 2.0d
 		}
 		{
+			disable_toast: true
 			id: "6361E7043834BFFD"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:provoker"
 				id: "73CA9BFE6F9E1AA9"
 				type: "kill"
@@ -1026,8 +1111,10 @@
 			y: 3.0d
 		}
 		{
+			disable_toast: true
 			id: "0908828704D69F75"
 			tasks: [{
+				disable_toast: true
 				entity: "illagerinvasion:sorcerer"
 				id: "58037D5BA7874ED7"
 				type: "kill"
@@ -1040,6 +1127,7 @@
 			id: "1BD5664353408156"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "bosses_of_mass_destruction:gauntlet"
 				icon: {
 					id: "bosses_of_mass_destruction:blazing_eye"
@@ -1055,6 +1143,7 @@
 			id: "1B9AB525E50A1FD9"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "bosses_of_mass_destruction:lich"
 				icon: {
 					id: "bosses_of_mass_destruction:ancient_anima"
@@ -1070,6 +1159,7 @@
 			id: "482C65F3687138C5"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "bosses_of_mass_destruction:obsidilith"
 				icon: {
 					id: "bosses_of_mass_destruction:obsidian_heart"
@@ -1085,6 +1175,7 @@
 			id: "27A58B5B682DF7DF"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "bosses_of_mass_destruction:void_blossom"
 				icon: {
 					id: "bosses_of_mass_destruction:crystal_fruit"
@@ -1100,6 +1191,7 @@
 			id: "5C1C3E23B90A387B"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "block_factorys_bosses:infernal_dragon"
 				id: "6D961DEAC37C4D0A"
 				type: "kill"
@@ -1112,6 +1204,7 @@
 			id: "24611461BDED7387"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "block_factorys_bosses:yeti"
 				id: "2C1868E42A6B31E2"
 				type: "kill"
@@ -1124,6 +1217,7 @@
 			id: "451998E1F40C38F7"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "block_factorys_bosses:sandworm"
 				id: "58B403F225E710AD"
 				type: "kill"
@@ -1136,6 +1230,7 @@
 			id: "69AD22005C6585A3"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "block_factorys_bosses:underworld_knight"
 				id: "3DAD539E45BEA4C2"
 				type: "kill"
@@ -1148,6 +1243,7 @@
 			id: "0DB1689F2E4EF7DB"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "cataclysm:ignited_revenant"
 				id: "2AE6145616231B1A"
 				type: "kill"
@@ -1160,6 +1256,7 @@
 			id: "6C24D1994CEA351D"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "cataclysm:ender_guardian"
 				id: "432D8932459CB53D"
 				type: "kill"
@@ -1172,6 +1269,7 @@
 			id: "07075BA70D3D7921"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "cataclysm:netherite_monstrosity"
 				id: "2899F2F5E6B57C5A"
 				type: "kill"
@@ -1184,6 +1282,7 @@
 			id: "74D463A1EC4DF76D"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "cataclysm:ignis"
 				id: "40B3EFC86188B22A"
 				type: "kill"
@@ -1196,6 +1295,7 @@
 			id: "313C25C51965902F"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "cataclysm:the_harbinger"
 				id: "2769305CC6331C92"
 				type: "kill"
@@ -1208,6 +1308,7 @@
 			id: "169C5077882F6649"
 			size: 1.5d
 			tasks: [{
+				disable_toast: true
 				entity: "cataclysm:ender_golem"
 				id: "6B108F57F5E46306"
 				type: "kill"

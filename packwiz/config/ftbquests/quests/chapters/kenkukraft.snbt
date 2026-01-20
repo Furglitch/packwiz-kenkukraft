@@ -52,8 +52,10 @@
 			y: 0.0d
 		}
 		{
+			disable_toast: true
 			id: "48A46771BC7333F9"
 			tasks: [{
+				disable_toast: true
 				id: "68F20B2B2DDBC037"
 				type: "checkmark"
 			}]

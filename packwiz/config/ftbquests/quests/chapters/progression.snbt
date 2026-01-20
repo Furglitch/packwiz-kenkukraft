@@ -12,8 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["07407E8E84A9CCA6"]
-			disable_toast: true
 			icon: {
 				id: "minecraft:oak_log"
 			}
@@ -29,7 +27,6 @@
 		}
 		{
 			dependencies: ["0C921EB9D612C9D4"]
-			disable_toast: true
 			icon: {
 				id: "minecraft:crafting_table"
 			}
@@ -45,15 +42,13 @@
 		}
 		{
 			dependencies: ["6F10E6E7A08718C2"]
-			disable_toast: true
 			icon: {
 				id: "minecraft:wooden_pickaxe"
 			}
 			id: "18E3A69ABAB80688"
 			tasks: [{
-				disable_toast: true
-				id: "517F011BD0981548"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:pickaxes))", "minecraft:custom_name": "\"Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "1316B88F741275E3"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:wooden_pickaxe)item(minecraft:stone_pickaxe)item(aether:skyroot_pickaxe)item(aether:holystone_pickaxe))", "minecraft:custom_name": "\"Starter Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -61,7 +56,6 @@
 		}
 		{
 			dependencies: ["18E3A69ABAB80688"]
-			disable_toast: true
 			icon: {
 				id: "minecraft:furnace"
 			}
@@ -77,12 +71,13 @@
 		}
 		{
 			dependencies: ["1E18D1F47EE9687B"]
-			disable_toast: true
+			icon: {
+				id: "minecraft:coal"
+			}
 			id: "4435606B50DA72C1"
 			tasks: [{
-				disable_toast: true
-				id: "722805547478D267"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:coals))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "384BBEEF06EFBF4D"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:coals)item_tag(actuallyadditions:tiny_coals))", "minecraft:custom_name": "\"Coals\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -90,53 +85,6 @@
 		}
 		{
 			dependencies: ["1E18D1F47EE9687B"]
-			disable_toast: true
-			id: "479FA03EF88E57B5"
-			tasks: [
-				{
-					disable_toast: true
-					id: "4037FEDCB247D8D5"
-					item: { count: 1, id: "minecraft:blast_furnace" }
-					type: "item"
-				}
-				{
-					disable_toast: true
-					id: "3A2108EB2C0E8393"
-					item: { count: 1, id: "minecraft:smoker" }
-					type: "item"
-				}
-			]
-			x: -1.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["1E18D1F47EE9687B"]
-			disable_toast: true
-			icon: {
-				id: "ironfurnaces:iron_furnace"
-			}
-			id: "031DC8C2BB1214EC"
-			tasks: [
-				{
-					disable_toast: true
-					id: "046019BBDDE533AD"
-					item: { components: { "ftbfiltersystem:filter": "mod(ironfurnaces)block()not(item(ironfurnaces:heater))", "minecraft:custom_name": "\"Iron Furnaces\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-				{
-					disable_toast: true
-					id: "5C843159012DF737"
-					item: { components: { "ftbfiltersystem:filter": "mod(ironfurnaces)not(or(block()))", "minecraft:custom_name": "\"Furnace Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					optional_task: true
-					type: "item"
-				}
-			]
-			x: -0.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["1E18D1F47EE9687B"]
-			disable_toast: true
 			id: "52EC4607C33A9C5E"
 			tasks: [{
 				disable_toast: true
@@ -151,6 +99,7 @@
 			dependencies: ["52EC4607C33A9C5E"]
 			disable_toast: true
 			id: "6BEB6E3F4F9F6E7B"
+			optional: true
 			tasks: [{
 				disable_toast: true
 				id: "0E5796C2EF31E036"
@@ -162,7 +111,6 @@
 		}
 		{
 			dependencies: ["52EC4607C33A9C5E"]
-			disable_toast: true
 			id: "000FDC543FAC266A"
 			tasks: [{
 				disable_toast: true
@@ -175,7 +123,6 @@
 		}
 		{
 			dependencies: ["52EC4607C33A9C5E"]
-			disable_toast: true
 			id: "014B7220CA3FA090"
 			tasks: [{
 				disable_toast: true
@@ -188,7 +135,6 @@
 		}
 		{
 			dependencies: ["52EC4607C33A9C5E"]
-			disable_toast: true
 			icon: {
 				components: {
 					"ftbquests:icon": "supplementaries:textures/map/decorations/nether_portal.png"
@@ -207,7 +153,6 @@
 		}
 		{
 			dependencies: ["202541923EFA7ED0"]
-			disable_toast: true
 			id: "743E5D826EF421E1"
 			tasks: [{
 				disable_toast: true
@@ -223,7 +168,6 @@
 				"000FDC543FAC266A"
 				"202541923EFA7ED0"
 			]
-			disable_toast: true
 			icon: {
 				id: "minecraft:netherite_ingot"
 			}
@@ -252,7 +196,6 @@
 				"575B2C445B4C9167"
 				"743E5D826EF421E1"
 			]
-			disable_toast: true
 			icon: {
 				id: "minecraft:netherite_sword"
 			}
@@ -269,7 +212,6 @@
 		{
 			dependencies: ["52EC4607C33A9C5E"]
 			disable_recipe_mod: false
-			disable_toast: true
 			icon: {
 				id: "minecraft:sculk_catalyst"
 			}
@@ -285,7 +227,6 @@
 		}
 		{
 			dependencies: ["52EC4607C33A9C5E"]
-			disable_toast: true
 			icon: {
 				id: "minecraft:stone_bricks"
 			}
@@ -301,7 +242,6 @@
 		}
 		{
 			dependencies: ["6BC973FEF99DFDA8"]
-			disable_toast: true
 			id: "3318AC4DE74A0686"
 			tasks: [{
 				dimension: "sculks_of_arda:sculk_world"
@@ -317,7 +257,6 @@
 		}
 		{
 			dependencies: ["460D4773F335DC9E"]
-			disable_toast: true
 			id: "61DCD4DADE27B75C"
 			tasks: [{
 				dimension: "minecraft:the_end"
@@ -333,7 +272,6 @@
 		}
 		{
 			dependencies: ["31C6823F4E945EC2"]
-			disable_toast: true
 			id: "18CC4E42C557968F"
 			tasks: [{
 				disable_toast: true
@@ -349,7 +287,6 @@
 				"18CC4E42C557968F"
 				"31C6823F4E945EC2"
 			]
-			disable_toast: true
 			id: "6BC973FEF99DFDA8"
 			tasks: [{
 				disable_toast: true
@@ -367,7 +304,6 @@
 		}
 		{
 			dependencies: ["7A4A07C79E7AA128"]
-			disable_toast: true
 			icon: {
 				id: "minecraft:ender_eye"
 			}
@@ -396,7 +332,6 @@
 				"14A50C7ABC63B909"
 				"7A4A07C79E7AA128"
 			]
-			disable_toast: true
 			id: "460D4773F335DC9E"
 			tasks: [{
 				disable_toast: true
@@ -410,6 +345,22 @@
 				type: "observation"
 			}]
 			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1E18D1F47EE9687B"]
+			disable_toast: true
+			icon: {
+				id: "ironfurnaces:iron_furnace"
+			}
+			id: "0997FE26A7A1A91B"
+			optional: true
+			tasks: [{
+				id: "0B4637C53ABDFDB1"
+				item: { components: { "ftbfiltersystem:filter": "not(item(ironfurnaces:heater))or(mod(ironfurnaces)item(minecraft:blast_furnace)item(minecraft:smoker))", "minecraft:custom_name": "\"Furnace Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
 			y: 1.5d
 		}
 	]

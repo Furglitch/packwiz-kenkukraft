@@ -12,7 +12,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			disable_toast: true
 			icon: {
 				id: "crafting_on_a_stick:crafting_table"
 			}
@@ -27,7 +26,6 @@
 			y: -0.5d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "buildinggadgets2:gadget_building"
 			}
@@ -42,7 +40,6 @@
 			y: 0.5d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "constructionwand:diamond_wand"
 			}
@@ -57,7 +54,6 @@
 			y: 1.5d
 		}
 		{
-			disable_toast: true
 			id: "7E22581ABF73ECE4"
 			tasks: [{
 				disable_toast: true
@@ -69,7 +65,6 @@
 			y: 0.5d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "utilitarian:trowel"
 			}
@@ -84,7 +79,6 @@
 			y: -1.5d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "toolbelt:belt"
 			}
@@ -108,7 +102,6 @@
 			y: -2.0d
 		}
 		{
-			disable_toast: true
 			id: "6812335FE43FB00A"
 			tasks: [{
 				disable_toast: true
@@ -120,7 +113,6 @@
 			y: 2.0d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "compactmachines:personal_shrinking_device"
 			}
@@ -133,6 +125,7 @@
 					type: "item"
 				}
 				{
+					disable_toast: true
 					id: "01D50C7C6281B45E"
 					item: { components: { "ftbfiltersystem:filter": "or(item_tag(compactmachines:machine))", "minecraft:custom_name": "\"Compact Machines\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
@@ -154,7 +147,6 @@
 			y: -0.5d
 		}
 		{
-			disable_toast: true
 			icon: {
 				id: "naturescompass:naturescompass"
 			}
@@ -169,14 +161,22 @@
 			y: -1.5d
 		}
 		{
-			disable_toast: true
 			id: "50150BAFB6010538"
-			tasks: [{
-				disable_toast: true
-				id: "076289FD170ACC89"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(create_jetpack)item_tag(create_sa:jetpack)item(mekanism:jetpack)item(mekanism:jetpack_armored)item(oritech:jetpack)item(oritech:exo_jetpack)item(oritech:jetpack_elytra)item(oritech:jetpack_exo_elytra))", "minecraft:custom_name": "\"Jetpacks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					disable_toast: true
+					id: "076289FD170ACC89"
+					item: { components: { "ftbfiltersystem:filter": "or(mod(create_jetpack)item_tag(create_sa:jetpack)item(mekanism:jetpack)item(mekanism:jetpack_armored)item(oritech:jetpack)item(oritech:exo_jetpack)item(oritech:jetpack_elytra)item(oritech:jetpack_exo_elytra))", "minecraft:custom_name": "\"Jetpacks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2D22D884FAD1646D"
+					item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:elytra)item(createcardboardthings:cardboard_elytra))", "minecraft:custom_name": "\"Elytras\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 2.0d
 		}

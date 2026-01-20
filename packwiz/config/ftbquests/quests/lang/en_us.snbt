@@ -145,6 +145,13 @@
 	quest.46D6880D60412C91.title: "Butcher"
 	quest.47D8E21DA2C94AF5.title: "Armorer"
 	quest.4881B98793CE2B99.title: "Artifacts"
+	quest.48A46771BC7333F9.quest_desc: [
+		"Quests are mostly done!"
+		""
+		"Mostly. Really all that needs to be added is addon stuff for mods like Create or Ars."
+		""
+		"That being said, if something's missing, drop an issue on the GitHub."
+	]
 	quest.4A613161039FB24F.quest_desc: ["Allows you to change your appearance and species."]
 	quest.4BBE1A46E1815656.title: "Fletcher"
 	quest.4DC4FC4F076EA03E.title: "More Netherite Weapons"
@@ -232,6 +239,7 @@
 	quest.7FE42E408EFACD96.quest_subtitle: "Caution: Wet Floor"
 	quest.7FE42E408EFACD96.title: "The Copper Age"
 	task.0073C2E960301107.title: "Center"
+	task.0429C64640F28370.title: "GitHub"
 	task.04456A5B68E8A822.title: "Enter the Aether"
 	task.06D36C9DEF1EB1B5.title: "Show Addons"
 	task.0804D91B30CE8E15.title: "Netherite Tools"
@@ -239,7 +247,6 @@
 	task.0D71DEB084518FD3.title: "Enter the Nether"
 	task.0EC930451B8C4A87.title: "Light the End Gateway"
 	task.0FD831AF65030EFA.title: "Find a Stronghold"
-	task.1350F93ACC6AD956.title: "Blocks"
 	task.136B197090BCE94A.title: "Hallucinate"
 	task.13FAAF4512B39EC3.title: "Revive a Pet"
 	task.158696C6183E67CD.title: "Enter the Deep Dark"

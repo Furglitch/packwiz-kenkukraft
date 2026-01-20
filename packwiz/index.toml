@@ -246,7 +246,7 @@ hash = "fe23849d1af50a8a6ea7b8c98e35e885c0eb37e48263041478b7e40013775ffd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/building.snbt"
-hash = "52a38a448756235efaf8c63532d9dc9422f479072b03d85363b88588011d8e9f"
+hash = "85b04bdc20c0340e0a7d11a7deb82a08ff5294e444b39e142f0b7a82fd1b06c5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cables__pipes.snbt"
@@ -298,7 +298,7 @@ hash = "3c9735d92a18c54d6572137a3b4e5752a52ddd8cd1d23dd463cb593b6bc01f79"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kenkukraft.snbt"
-hash = "36baeb8c2aa0afa56f0b948a4dad362d4d7f9a0894b3cbae2896c18cd97dea74"
+hash = "4f6cd331ac3bdd07051fddcaf7082171581cbdd1765bbb8e4ffdd6e5e2e8915a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mekanism.snbt"
@@ -338,7 +338,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "f5b27b8b6a9004bbeed86b006522c270b4974e6d751b3a98ab32b9fcc007c412"
+hash = "c738cbd66016d792372dd1ec8736f704567a3232f6dfc2e94e3e51bdba5ca24d"
 
 [[files]]
 file = "config/immediatelyfast.json"

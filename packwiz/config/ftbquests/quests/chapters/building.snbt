@@ -18,9 +18,8 @@
 			id: "464A821A02F91EC6"
 			size: 4.0d
 			tasks: [{
-				disable_toast: true
-				id: "1350F93ACC6AD956"
-				item: { components: { "ftbfiltersystem:filter": "block()" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "31BB17622E66AFBA"
+				item: { components: { "ftbfiltersystem:filter": "block()not(item(minecraft:torch))", "minecraft:custom_name": "\"Blocks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d

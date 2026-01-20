@@ -9,14 +9,31 @@
 		id: "minecraft:mycelium"
 	}
 	id: "598791F99B2800CD"
-	images: [{
-		height: 3.0d
-		image: "minecraft:textures/gui/title/title.png"
-		rotation: 0.0d
-		width: 13.0d
-		x: 0.0d
-		y: -3.5d
-	}]
+	images: [
+		{
+			height: 3.0d
+			image: "minecraft:textures/gui/title/title.png"
+			rotation: 0.0d
+			width: 13.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			click: "https://github.com/furglitch/packwiz-kenkukraft/issues"
+			height: 1.0d
+			hover: [
+				"Got a bug? Mod request? Resource Pack request?"
+				""
+				"Let us know on GitHub!"
+				"Click to open the site!"
+			]
+			image: "moonlight:textures/gui/sprites/media/github.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -52,6 +69,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["2EA294C4528B437D"]
 			disable_toast: true
 			id: "48A46771BC7333F9"
 			tasks: [{

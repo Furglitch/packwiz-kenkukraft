@@ -1,0 +1,4 @@
+[inventory_button]
+	disableInventoryButton = true
+	disableCreativeInventoryButton = true
+

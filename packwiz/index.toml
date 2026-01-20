@@ -141,12 +141,24 @@ file = "config/euphoria_patcher.properties"
 hash = "45f29fcdee25c1e7c5196524aca8555743672792a29fb0d7a9343d47b890c8e6"
 
 [[files]]
+file = "config/extremesoundmuffler-client.toml"
+hash = "0bf195d3bc91ef4f4dd306c4e486e570c5b1cd843b898fdbbca71cdaf40dbf90"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "f6b36f96139f393a842fe56f1498ff06c80177ad90844bdc974a555c710bde03"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "6f637df44d9ca5deda6b496b87f3b95ac133488951521f32d904783eb34dd358"
+
+[[files]]
+file = "config/fancymenu/customization/lain.mods.cos.impl.client.gui.guicosarmorinventory_layout.txt"
+hash = "8940d18fcb3a41dc564b2ecadaa292653b036ed9c90ae2872a8fc00b3614eff2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -162,7 +174,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "93240c78ee48b95a872afafa23b71fee54d8e06de6673593266e199d527ee802"
+hash = "aee3d42a308a08b10e074ad360c9e5f9367f9f030e3ab8c8606e989e7a105d1b"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"

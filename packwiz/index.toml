@@ -506,30 +506,6 @@ file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/compactmachines/la
 hash = "06d5d7232893a4cbb5bf4ab53e44da5b1a58ecfa295debb2019706a8b039a3c2"
 
 [[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/arsnouveau.png"
-hash = "43fdc66d01103d4c9ba82b1e9365ab3785b6e30fe0f1a67fe5e5d24cf912c682"
-
-[[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/artifacts.png"
-hash = "176d0ff371b0f561f58cbc40c2dd6ffb0304a1ee0a6129fc71c1d925dbcfbe12"
-
-[[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/create.png"
-hash = "bf1ae725bb6f0a7f0a66194dd6836e75115e6f4eec111cc143341b372cc7f44c"
-
-[[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/oritech.png"
-hash = "37c754aae7e6a6122080ed92f2bb6b05643582fc34296d7e11acabc98052823e"
-
-[[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/relics.png"
-hash = "0f2b9f3cbfd1517f06876cd41a16cdddfb4c37559346341182cc635d776617ab"
-
-[[files]]
-file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/kenkukraft/ftbquests/titles/spore.png"
-hash = "8b9972658fd3b4a459660b96d23b0b17d6982e08a3df6651d3919c9845a3ef4c"
-
-[[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds.json"
 hash = "0a8f03fc2e01e60f47bf6ca0a7aecf252253703ad1bee5d940679bd536749160"
 

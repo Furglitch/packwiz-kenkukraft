@@ -2070,11 +2070,6 @@
 			disable_toast: true
 			hide_dependent_lines: true
 			id: "246DF38E05AC12C7"
-			rewards: [{
-				id: "72209D04AC8A545F"
-				type: "xp"
-				xp: 10
-			}]
 			tasks: [{
 				disable_toast: true
 				id: "06D36C9DEF1EB1B5"

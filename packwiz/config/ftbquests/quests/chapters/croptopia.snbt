@@ -15,11 +15,6 @@
 			disable_toast: true
 			id: "5D19A7EC1EFE7828"
 			optional: true
-			rewards: [{
-				id: "0AEFDF63BE26D3E4"
-				type: "xp"
-				xp: 5
-			}]
 			tasks: [{
 				disable_toast: true
 				id: "21E0589A1BB77E12"
@@ -9056,11 +9051,6 @@
 			id: "188CE4633DB5CC41"
 			invisible: true
 			optional: true
-			rewards: [{
-				id: "2474F9080219188B"
-				type: "xp"
-				xp: 10
-			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

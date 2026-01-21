@@ -628,11 +628,6 @@
 			id: "26396302590C6530"
 			invisible: true
 			optional: true
-			rewards: [{
-				id: "26187608A13E4649"
-				type: "xp"
-				xp: 5
-			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

@@ -629,19 +629,6 @@
 			hide_dependent_lines: true
 			id: "31C9B87B96DC6A8F"
 			optional: true
-			rewards: [
-				{
-					id: "2A32F7A628E324C1"
-					type: "xp"
-					xp: 5
-				}
-				{
-					exclude_from_claim_all: true
-					id: "3EF39CC6798D6A8D"
-					table_id: 1344026936400983683L
-					type: "random"
-				}
-			]
 			shape: "circle"
 			tasks: [{
 				disable_toast: true
@@ -1119,19 +1106,6 @@
 			hide_until_deps_complete: true
 			id: "5861432BFEDF79FE"
 			optional: true
-			rewards: [
-				{
-					id: "619C04304DA2ACEA"
-					type: "xp"
-					xp: 5
-				}
-				{
-					exclude_from_claim_all: true
-					id: "016F117E2240CE3D"
-					table_id: 1344026936400983683L
-					type: "random"
-				}
-			]
 			size: 0.25d
 			tasks: [{
 				disable_toast: true

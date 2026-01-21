@@ -868,19 +868,6 @@
 			id: "1A1031D57AFCD197"
 			invisible: true
 			optional: true
-			rewards: [
-				{
-					id: "3DF4C3F341E56709"
-					type: "xp"
-					xp: 5
-				}
-				{
-					exclude_from_claim_all: true
-					id: "3EB8FA7972BC29DF"
-					table_id: 2864870160777130239L
-					type: "random"
-				}
-			]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

@@ -3139,11 +3139,6 @@
 			id: "745400CD77E43BAF"
 			invisible: true
 			optional: true
-			rewards: [{
-				id: "21C30441E06B5BBB"
-				type: "xp"
-				xp: 5
-			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

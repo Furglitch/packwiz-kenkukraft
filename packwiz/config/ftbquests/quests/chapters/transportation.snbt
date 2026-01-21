@@ -348,11 +348,6 @@
 			id: "0B2A9C64EAFD4888"
 			invisible: true
 			optional: true
-			rewards: [{
-				id: "4E652FEEA59CF226"
-				type: "xp"
-				xp: 10
-			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

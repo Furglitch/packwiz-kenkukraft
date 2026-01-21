@@ -26,6 +26,11 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oFancy Toasts§r
     - Disabled the 'Regions Explored' advancement toast since it's likely triggered on spawn
     - Disable toasts for individual Quest tasks (not implemented, future update: [Bivrik/FancyToasts#52](https://github.com/Bivrik/FancyToasts/pull/52))
+- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
+- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
+- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
+- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
+- §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
 
 §n§lAdded:§r
 

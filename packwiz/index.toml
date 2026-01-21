@@ -1326,11 +1326,6 @@ hash = "052b5d8d6aca7ef0e26f0807b8710af8cdc4cd7187cb9c5dd2a4fb28386faf91"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance.pw.toml"
-hash = "422e9de11c4996c14a0a907cfe627428c7c52e9ee55c8da0193236038da02680"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
@@ -1446,11 +1441,6 @@ hash = "f0e21888cc48a0fc9edfe701c28b91e0d57e81d6d2384f3e4e3af2ff80d7fec2"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
-metafile = true
-
-[[files]]
 file = "mods/clavis.pw.toml"
 hash = "f6cad127b787605950987358d7621275ee3d05010e8aafbb0e515b2da2bbfcd1"
 metafile = true
@@ -1467,7 +1457,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "1f41272b5cdabe73dc343bdb89eb9993c82df611a18182dcbc7107a46b7458bb"
+hash = "a7b648a5867ea10a41e0e93b365ef7b2d1de5e823237d381cf823157c1c94b4a"
 metafile = true
 
 [[files]]
@@ -2206,11 +2196,6 @@ hash = "fab43432c8e0a7b9297c604db2503dcaeb60e7dc879abc6b7f8deca6d934a735"
 metafile = true
 
 [[files]]
-file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "c19754832997fe5fbd9488eeb3b02f3221f36893f94003e403b731ed9e9132ce"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "0f4100c2edffe26d206562da1de1765e6342825a2a3c9fcca9e6ac31eb6ff4dd"
 metafile = true
@@ -2248,11 +2233,6 @@ metafile = true
 [[files]]
 file = "mods/fishing-bobber-detector.pw.toml"
 hash = "076fa5496f2a724cfec0edaaabe02f7f2564be24a0368522846dfa130c442ff5"
-metafile = true
-
-[[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
@@ -3438,11 +3418,6 @@ metafile = true
 [[files]]
 file = "mods/smaller-nether-portals.pw.toml"
 hash = "c9780694422cc4007e93d0e8a65f4c2ff520a4dc294be168bb9e272e07db745d"
-metafile = true
-
-[[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]

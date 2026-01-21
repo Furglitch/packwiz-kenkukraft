@@ -76,7 +76,7 @@
 				{
 					id: "6BD28B1247EA07D6"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -103,7 +103,7 @@
 				{
 					id: "6066C55587668CD0"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -155,7 +155,7 @@
 				{
 					id: "2B4AEBEE86C551E9"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -210,7 +210,7 @@
 				{
 					id: "6B10962A3B0C1AA1"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -266,7 +266,7 @@
 				{
 					id: "51B39C0FD3FFEEA9"
 					type: "xp"
-					xp: 50
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -291,7 +291,7 @@
 				{
 					id: "414FD321FB315E84"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -322,7 +322,7 @@
 				{
 					id: "63A50AF62FC696CB"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -363,7 +363,7 @@
 				{
 					id: "5EA0572FF64A3DB0"
 					type: "xp"
-					xp: 50
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -391,7 +391,7 @@
 			rewards: [{
 				id: "102224505FD1510B"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -411,7 +411,7 @@
 			rewards: [{
 				id: "5E49DC9CFD43B697"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -433,7 +433,7 @@
 				{
 					id: "573C8BC7541E486D"
 					type: "xp"
-					xp: 50
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -467,7 +467,7 @@
 				{
 					id: "5A4F023F00082FB6"
 					type: "xp"
-					xp: 50
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -498,7 +498,7 @@
 			rewards: [{
 				id: "1363CA9A2A08E0CA"
 				type: "xp"
-				xp: 25
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -519,7 +519,7 @@
 			rewards: [{
 				id: "55460819CCEF34AD"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -544,7 +544,7 @@
 			rewards: [{
 				id: "207C2ED831DBD70B"
 				type: "xp"
-				xp: 25
+				xp: 10
 			}]
 			tasks: [
 				{
@@ -574,7 +574,7 @@
 			rewards: [{
 				id: "32C7FA88F867E70D"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -602,7 +602,7 @@
 				{
 					id: "7AE7550BE0425B06"
 					type: "xp"
-					xp: 20
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true

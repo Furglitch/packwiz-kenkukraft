@@ -56,7 +56,7 @@
 				{
 					id: "300911B734194FA8"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -82,7 +82,7 @@
 				{
 					id: "635E8EDD9CAEA98B"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -108,7 +108,7 @@
 				{
 					id: "3285189DFAA0FF26"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -134,7 +134,7 @@
 				{
 					id: "35723C732FA2334B"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -160,7 +160,7 @@
 				{
 					id: "6C9D1CD41BF0BC56"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -186,7 +186,7 @@
 				{
 					id: "184FBCA364217638"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -212,7 +212,7 @@
 				{
 					id: "420A4A73A0C2CB1F"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -238,7 +238,7 @@
 				{
 					id: "34122AB7930FB4C0"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -264,7 +264,7 @@
 				{
 					id: "2F1C7B8C37BD9DC4"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -290,7 +290,7 @@
 				{
 					id: "4E0386353C7DD10C"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -316,7 +316,7 @@
 				{
 					id: "13517E98F746D6AF"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -342,7 +342,7 @@
 				{
 					id: "73187FE4F67F0190"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -368,7 +368,7 @@
 				{
 					id: "349DB5A96C852EBD"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -394,7 +394,7 @@
 				{
 					id: "2DC391BD503AC434"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -420,7 +420,7 @@
 				{
 					id: "7A8B34F4BD2024D4"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -446,7 +446,7 @@
 				{
 					id: "6A27C37C9D103F6A"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -472,7 +472,7 @@
 				{
 					id: "7D3800AC6A0C6227"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -498,7 +498,7 @@
 				{
 					id: "087C584B1F7CB71A"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -524,7 +524,7 @@
 				{
 					id: "6E0CCF0C81CFD77D"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -553,7 +553,7 @@
 				{
 					id: "6978177356C70B2D"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -578,7 +578,7 @@
 				{
 					id: "0CB8C71E671901AA"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -605,7 +605,7 @@
 				{
 					id: "308B56185AB341F4"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -632,7 +632,7 @@
 				{
 					id: "09DEB3F857E74C83"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -659,7 +659,7 @@
 				{
 					id: "49D71B3B14FAF62A"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -686,7 +686,7 @@
 				{
 					id: "55B017856F67DC3E"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -713,7 +713,7 @@
 				{
 					id: "6AFAA53CEB88C934"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -740,7 +740,7 @@
 				{
 					id: "7F976E2F514D1DA5"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -767,7 +767,7 @@
 				{
 					id: "7AF9CF00049FB003"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true

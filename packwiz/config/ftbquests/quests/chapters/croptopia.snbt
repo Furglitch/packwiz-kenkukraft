@@ -13,9 +13,6 @@
 	quests: [
 		{
 			disable_toast: true
-			icon: {
-				id: "farmersdelight:skillet"
-			}
 			id: "5D19A7EC1EFE7828"
 			optional: true
 			rewards: [{

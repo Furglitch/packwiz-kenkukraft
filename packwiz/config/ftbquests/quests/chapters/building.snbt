@@ -69,7 +69,7 @@
 			rewards: [{
 				id: "0E838C66DB276E57"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [
 				{
@@ -98,7 +98,7 @@
 			rewards: [{
 				id: "53D73446545CB91B"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -116,7 +116,7 @@
 			rewards: [{
 				id: "3750592CFC2E3CE4"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -137,7 +137,7 @@
 			rewards: [{
 				id: "2889C31CF95BBED3"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [
 				{
@@ -169,7 +169,7 @@
 			rewards: [{
 				id: "454451AEEF662DDA"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -187,7 +187,7 @@
 			rewards: [{
 				id: "1CEFA34731A72D42"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -205,7 +205,7 @@
 			rewards: [{
 				id: "52A8FE011B5FBA3F"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -223,7 +223,7 @@
 			rewards: [{
 				id: "733B238F896037C0"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -259,7 +259,7 @@
 			rewards: [{
 				id: "599BEC810E4FCD40"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -277,7 +277,7 @@
 			rewards: [{
 				id: "053E6B3D13657CF1"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -295,7 +295,7 @@
 			rewards: [{
 				id: "2AD0FE749B7EBAB4"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -314,7 +314,7 @@
 			rewards: [{
 				id: "4FA5D74F877C907A"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -332,7 +332,7 @@
 			rewards: [{
 				id: "1D8C1D890F1E4332"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -350,7 +350,7 @@
 			rewards: [{
 				id: "2B1AF606CCC3DAA7"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -386,7 +386,7 @@
 			rewards: [{
 				id: "2FB0B21E8CC0FFBA"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -404,7 +404,7 @@
 			rewards: [{
 				id: "21FB42F78B581F99"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true

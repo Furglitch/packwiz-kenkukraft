@@ -17,7 +17,7 @@
 			rewards: [{
 				id: "54D1983CDDBDFAA3"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -35,7 +35,7 @@
 			rewards: [{
 				id: "37BEFDAF7F8736E5"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -53,7 +53,7 @@
 			rewards: [{
 				id: "0317BC663A3D3706"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -71,7 +71,7 @@
 			rewards: [{
 				id: "7E06CF01E3F936F7"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -89,7 +89,7 @@
 			rewards: [{
 				id: "38B12DDBD30954B1"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -107,7 +107,7 @@
 			rewards: [{
 				id: "48A1CED5424F3790"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [
 				{
@@ -133,7 +133,7 @@
 			rewards: [{
 				id: "7523B3CEAD9589C9"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [
 				{
@@ -158,7 +158,7 @@
 			rewards: [{
 				id: "27A9A3B4EECA8124"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -175,7 +175,7 @@
 			rewards: [{
 				id: "1CB6A6E18664596C"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -198,7 +198,7 @@
 			rewards: [{
 				id: "651BE22D6D2E95B4"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -215,7 +215,7 @@
 			rewards: [{
 				id: "47B629AA8CD05A9B"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -232,7 +232,7 @@
 			rewards: [{
 				id: "1C8787B6FCA851A8"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -248,7 +248,7 @@
 			rewards: [{
 				id: "1D575DD64FE93900"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			size: 1.5d
 			tasks: [{
@@ -266,7 +266,7 @@
 			rewards: [{
 				id: "4C15294209E9F78F"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -286,7 +286,7 @@
 			rewards: [{
 				id: "03ABCE7C20DC9276"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [
 				{

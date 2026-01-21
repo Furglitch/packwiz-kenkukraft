@@ -17,7 +17,7 @@
 				{
 					id: "384AAEF488B43C57"
 					type: "xp"
-					xp: 25
+					xp: 10
 				}
 				{
 					exclude_from_claim_all: true
@@ -45,7 +45,7 @@
 				{
 					id: "49AF6492287F75C8"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -71,7 +71,7 @@
 				{
 					id: "6DCC7CF3499E9008"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -97,7 +97,7 @@
 				{
 					id: "737CE2AD568C0EAC"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -123,7 +123,7 @@
 				{
 					id: "41034C1BD1F08C9A"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -155,7 +155,7 @@
 				{
 					id: "766987692B715340"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -181,7 +181,7 @@
 				{
 					id: "084A2DFCCFC1568D"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -208,7 +208,7 @@
 				{
 					id: "067A025842486A42"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -234,7 +234,7 @@
 				{
 					id: "62D3BA86C33F896D"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -260,7 +260,7 @@
 				{
 					id: "56E8603C9F676597"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -286,7 +286,7 @@
 				{
 					id: "2F66ABD09DDE4AA2"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -313,7 +313,7 @@
 				{
 					id: "5ADE703E7DB20741"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -339,7 +339,7 @@
 				{
 					id: "465BBF409E20F2CC"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -365,7 +365,7 @@
 				{
 					id: "4B55BF504C68B14A"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -391,7 +391,7 @@
 				{
 					id: "18D6B33FB91E2B1C"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -417,7 +417,7 @@
 				{
 					id: "58E0EDEF7D466CD0"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -446,7 +446,7 @@
 				{
 					id: "6C9ACBD4F489EA90"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -474,7 +474,7 @@
 				{
 					id: "266524875F1E7909"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -500,7 +500,7 @@
 				{
 					id: "10696C4B83CF41E8"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -526,7 +526,7 @@
 				{
 					id: "366C99CA4ABDECF0"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -552,7 +552,7 @@
 				{
 					id: "670C853F81FD1362"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -579,7 +579,7 @@
 				{
 					id: "312C05C5C4276A1C"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -613,7 +613,7 @@
 				{
 					id: "14A0FB7D9D7E4DEC"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -639,7 +639,7 @@
 				{
 					id: "50CB3C76A62FA3FF"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -665,7 +665,7 @@
 				{
 					id: "4E312945643B457B"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -692,7 +692,7 @@
 				{
 					id: "30BBEE495AE94037"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -718,7 +718,7 @@
 				{
 					id: "70DF8E7CF6AB38CE"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -744,7 +744,7 @@
 				{
 					id: "4AC43992EB1A17C9"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -770,7 +770,7 @@
 				{
 					id: "1B6509D5240F7F8C"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -796,7 +796,7 @@
 				{
 					id: "73ACF8E07AADD405"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -822,7 +822,7 @@
 				{
 					id: "5E7F207AD0E5FE2A"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -848,7 +848,7 @@
 				{
 					id: "28350293A67ED6D3"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -874,7 +874,7 @@
 				{
 					id: "386B8D9E945E0469"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -903,7 +903,7 @@
 				{
 					id: "54B1A934AA05E043"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -929,7 +929,7 @@
 				{
 					id: "5D4E6FD0B81D3419"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -955,7 +955,7 @@
 				{
 					id: "4C845A0266C73F55"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -981,7 +981,7 @@
 				{
 					id: "752E94D44EDB7FD8"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1007,7 +1007,7 @@
 				{
 					id: "3043CC8C162C7EBF"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1033,7 +1033,7 @@
 				{
 					id: "1833B8B9DDDC51E7"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1059,7 +1059,7 @@
 				{
 					id: "7C2EEAF693C2D486"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1085,7 +1085,7 @@
 				{
 					id: "04B7254D364DAE0D"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1111,7 +1111,7 @@
 				{
 					id: "6CE49DCB3C9604C5"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1137,7 +1137,7 @@
 				{
 					id: "4310132B248B8589"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1163,7 +1163,7 @@
 				{
 					id: "70649ADBDE96B9B7"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1189,7 +1189,7 @@
 				{
 					id: "0F713ED03BA77B25"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1215,7 +1215,7 @@
 				{
 					id: "03E616356F1C3CE2"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1241,7 +1241,7 @@
 				{
 					id: "168407FD29045529"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1267,7 +1267,7 @@
 				{
 					id: "2C7413B90DA4203B"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1293,7 +1293,7 @@
 				{
 					id: "65D6651541BFF767"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1319,7 +1319,7 @@
 				{
 					id: "3958C90C2A7C2B12"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1345,7 +1345,7 @@
 				{
 					id: "2CADF095E0254B9D"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1371,7 +1371,7 @@
 				{
 					id: "3777552F25DC4ED2"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1398,7 +1398,7 @@
 				{
 					id: "2EDB5C6F88D76FB3"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1427,7 +1427,7 @@
 				{
 					id: "3C94991A3448B837"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1461,7 +1461,7 @@
 				{
 					id: "4196373866F7DC49"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1495,7 +1495,7 @@
 				{
 					id: "002DDF1C7CA78F54"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1529,7 +1529,7 @@
 				{
 					id: "695DCDF92AD5D994"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1563,7 +1563,7 @@
 				{
 					id: "634205DDE0A642EC"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1597,7 +1597,7 @@
 				{
 					id: "2F7D6FAD855EB438"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1631,7 +1631,7 @@
 				{
 					id: "2B3F5BC39B8B6791"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1665,7 +1665,7 @@
 				{
 					id: "7C93EF36D0EBA167"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1692,7 +1692,7 @@
 				{
 					id: "305C64A7F2A3652E"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1718,7 +1718,7 @@
 				{
 					id: "4A1E5C5E497C5919"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1744,7 +1744,7 @@
 				{
 					id: "42E6CAA684261171"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true
@@ -1770,7 +1770,7 @@
 				{
 					id: "6E50C64F863D31DA"
 					type: "xp"
-					xp: 10
+					xp: 5
 				}
 				{
 					exclude_from_claim_all: true

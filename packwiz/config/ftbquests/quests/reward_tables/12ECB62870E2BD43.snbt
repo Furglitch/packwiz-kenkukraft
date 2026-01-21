@@ -1,0 +1,36 @@
+{
+	icon: {
+		id: "toms_storage:trim"
+	}
+	id: "12ECB62870E2BD43"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			id: "2EFE1A720BB8FCC5"
+			item: {
+				count: 1
+				id: "toms_storage:inventory_cable"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "0F872A4CC2D0333E"
+			item: {
+				count: 1
+				id: "toms_storage:trim"
+			}
+			random_bonus: 3
+		}
+		{
+			id: "7467097FA47ED204"
+			item: {
+				count: 1
+				id: "toms_storage:inventory_cable_connector"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+	]
+}

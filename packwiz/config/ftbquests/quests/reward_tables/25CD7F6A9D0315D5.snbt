@@ -1,0 +1,131 @@
+{
+	icon: {
+		id: "spore:mutated_heart"
+	}
+	id: "25CD7F6A9D0315D5"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			id: "39267BAB2BFF5299"
+			item: {
+				count: 1
+				id: "spore:symbiotic_reagent"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "17A3FA4936F38ADD"
+			item: {
+				count: 1
+				id: "spore:cryogenic_reagent"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "202BE9E45615BE35"
+			item: {
+				count: 1
+				id: "spore:gastric_reagent"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "6CEC8245D3A459C5"
+			item: {
+				count: 1
+				id: "spore:corrosive_reagent"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "2C8ACCBB7464BE14"
+			item: {
+				count: 1
+				id: "spore:serrated_reagent"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "74EF506D94CF4758"
+			item: {
+				count: 1
+				id: "spore:voracious_reagent"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "6956CFC771B79536"
+			item: {
+				count: 1
+				id: "spore:syringe"
+			}
+			random_bonus: 3
+			weight: 0.25f
+		}
+		{
+			id: "0CCEBCC4E280E493"
+			item: {
+				count: 1
+				id: "spore:ice_canister"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			count: 2
+			id: "31363C741052C2F9"
+			item: {
+				count: 1
+				id: "minecraft:brown_mushroom"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "1C37DF1D500CE8A0"
+			item: {
+				count: 1
+				id: "minecraft:red_mushroom"
+			}
+			random_bonus: 6
+		}
+		{
+			id: "7D8C730D3A2D7A81"
+			item: {
+				count: 1
+				id: "minecraft:mushroom_stem"
+			}
+			random_bonus: 3
+			weight: 0.5f
+		}
+		{
+			id: "48E3D2402F2E18F1"
+			item: {
+				count: 1
+				id: "minecraft:brown_mushroom_block"
+			}
+			random_bonus: 3
+			weight: 0.5f
+		}
+		{
+			id: "714F21C7694E025F"
+			item: {
+				count: 1
+				id: "minecraft:red_mushroom_block"
+			}
+			random_bonus: 3
+			weight: 0.5f
+		}
+		{
+			count: 8
+			id: "002280FC6130670E"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+			random_bonus: 8
+			weight: 0.1f
+		}
+	]
+}

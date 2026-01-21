@@ -1,0 +1,43 @@
+{
+	icon: {
+		id: "dragonsurvival:elder_dragon_bone"
+	}
+	id: "43D90DF70FF3CE4C"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{ id: "0E4E4661F87AE085", item: { count: 1, id: "dragonsurvival:elder_dragon_dust" } }
+		{
+			id: "7C126168D873565D"
+			item: {
+				count: 1
+				id: "dragonsurvival:elder_dragon_bone"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "5ABA7ABECA599ADC"
+			item: {
+				count: 1
+				id: "dragonsurvival:heart_element"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "2252B87EC10A794F"
+			item: {
+				count: 1
+				id: "dragonsurvival:weak_dragon_heart"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "7F764DA53E2CB184"
+			item: {
+				count: 1
+				id: "dragonsurvival:elder_dragon_heart"
+			}
+			weight: 0.1f
+		}
+	]
+}

@@ -1,0 +1,187 @@
+{
+	icon: {
+		id: "irons_spellbooks:common_ink"
+	}
+	id: "77E8A28DDEF4C22F"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			id: "269A399A933D7190"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+			random_bonus: 3
+		}
+		{
+			id: "19264AE1197FB9D7"
+			item: {
+				count: 1
+				id: "irons_spellbooks:uncommon_ink"
+			}
+			random_bonus: 3
+			weight: 0.75f
+		}
+		{
+			id: "35278A45A75805C7"
+			item: {
+				count: 1
+				id: "irons_spellbooks:rare_ink"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "030C074813D54469"
+			item: {
+				count: 1
+				id: "irons_spellbooks:epic_ink"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "4E2A58C2E5BD771B"
+			item: {
+				count: 1
+				id: "irons_spellbooks:legendary_ink"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "6D1E2816F98A307A"
+			item: {
+				count: 1
+				id: "irons_spellbooks:blank_rune"
+			}
+			random_bonus: 3
+		}
+		{
+			id: "17AAF19AC08360A1"
+			item: {
+				count: 1
+				id: "irons_spellbooks:fire_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "2D9601C3DBB6B8AB"
+			item: {
+				count: 1
+				id: "irons_spellbooks:ice_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "7EF5AE03CFDCB4D3"
+			item: {
+				count: 1
+				id: "irons_spellbooks:lightning_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "15287C16999983FD"
+			item: {
+				count: 1
+				id: "irons_spellbooks:ender_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "0D0496F12CA57E3A"
+			item: {
+				count: 1
+				id: "irons_spellbooks:holy_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "515974CD53AB3B7D"
+			item: {
+				count: 1
+				id: "irons_spellbooks:blood_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "62ED2CA0A40DF85B"
+			item: {
+				count: 1
+				id: "irons_spellbooks:evocation_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "2E3DB4D5CFD20D59"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "31BC2F0671BF34FD"
+			item: {
+				count: 1
+				id: "irons_spellbooks:cooldown_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "361ADA2107C6EC2C"
+			item: {
+				count: 1
+				id: "irons_spellbooks:protection_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "32FB282B91D406B8"
+			item: {
+				count: 1
+				id: "irons_spellbooks:nature_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "22481C101174CFFA"
+			item: {
+				count: 1
+				id: "alshanex_familiars:sound_rune"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "0347B68050A8D478"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "7EB957EB61FA4FCC"
+			item: {
+				count: 1
+				id: "irons_spellbooks:cinder_essence"
+			}
+			random_bonus: 3
+			weight: 0.25f
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	icon: {
+		id: "oritech:nickel_ingot"
+	}
+	id: "27C2103B84BCB0FF"
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{
+			id: "26F58F13835792B1"
+			item: {
+				count: 1
+				id: "oritech:machine_core_1"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "74B8AE2F1453DEDD"
+			item: {
+				count: 1
+				id: "oritech:machine_core_2"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "5399637AB25305C1"
+			item: {
+				count: 1
+				id: "oritech:machine_core_3"
+			}
+			weight: 0.1f
+		}
+		{ id: "400AF824BD6C61F8", item: { count: 1, id: "oritech:nickel_ingot" } }
+		{ id: "2E07E4B4C8DFF438", item: { count: 1, id: "oritech:raw_nickel" } }
+		{ id: "41A1BDF76898F591", item: { count: 1, id: "oritech:nickel_block" } }
+		{ id: "7ED25640D3674A93", item: { count: 1, id: "oritech:adamant_ingot" } }
+		{ id: "59B1552B317A1280", item: { count: 1, id: "oritech:adamant_dust" } }
+	]
+}

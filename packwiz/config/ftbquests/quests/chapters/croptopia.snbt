@@ -21,7 +21,7 @@
 			rewards: [{
 				id: "0AEFDF63BE26D3E4"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -34,11 +34,22 @@
 		{
 			disable_toast: true
 			id: "0E870493D4862DFF"
-			rewards: [{
-				id: "23E7F67E64F3A769"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "23E7F67E64F3A769"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5755ED7153EC07D7"
+					item: {
+						count: 1
+						id: "croptopia:artichoke_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0CB260451C8011B8"
@@ -51,11 +62,22 @@
 		{
 			disable_toast: true
 			id: "3D78A3870973074F"
-			rewards: [{
-				id: "100466D11FF016C4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "100466D11FF016C4"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6432BFBF6A5C8096"
+					item: {
+						count: 1
+						id: "croptopia:asparagus_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6FE6EFDC8AA02B7C"
@@ -68,11 +90,22 @@
 		{
 			disable_toast: true
 			id: "6541939AF4C53B0B"
-			rewards: [{
-				id: "70B0F8472813B6D3"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "70B0F8472813B6D3"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7E1F431B86A59259"
+					item: {
+						count: 1
+						id: "croptopia:barley_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "62B4A9C10E12EBCB"
@@ -85,11 +118,22 @@
 		{
 			disable_toast: true
 			id: "61A2347BFC4C67F4"
-			rewards: [{
-				id: "003182B83EFDCA41"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "003182B83EFDCA41"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "51C0B112A5961F1E"
+					item: {
+						count: 1
+						id: "croptopia:basil_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "038D89F1CBFAC287"
@@ -102,11 +146,22 @@
 		{
 			disable_toast: true
 			id: "22CED391560C071A"
-			rewards: [{
-				id: "43BC2462D16368E6"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "43BC2462D16368E6"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5E4A2C107633B105"
+					item: {
+						count: 1
+						id: "croptopia:bellpepper_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "21E1BC37B8413726"
@@ -119,11 +174,22 @@
 		{
 			disable_toast: true
 			id: "3B2708C169F89396"
-			rewards: [{
-				id: "3C1E8DD333531030"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3C1E8DD333531030"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3AF2F87712798369"
+					item: {
+						count: 1
+						id: "croptopia:blackbean_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "31793FA35F55A1E0"
@@ -136,11 +202,22 @@
 		{
 			disable_toast: true
 			id: "225858DC04C5EFA6"
-			rewards: [{
-				id: "5E6BA769A7728F17"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5E6BA769A7728F17"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5D93C6F2EFAE1C36"
+					item: {
+						count: 1
+						id: "croptopia:blackberry_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0C973C1208DDAD1F"
@@ -153,11 +230,22 @@
 		{
 			disable_toast: true
 			id: "69FA3C7ED1D26737"
-			rewards: [{
-				id: "6B4D621F9AC22217"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6B4D621F9AC22217"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3C61D975B756EA71"
+					item: {
+						count: 1
+						id: "croptopia:blueberry_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5E6A04F71F2A03CE"
@@ -170,11 +258,22 @@
 		{
 			disable_toast: true
 			id: "48E2283F6A1B574D"
-			rewards: [{
-				id: "67E1365F91E1863E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "67E1365F91E1863E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1B6FA7962DB2BE32"
+					item: {
+						count: 1
+						id: "croptopia:broccoli_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "35CE048B7238F87E"
@@ -187,11 +286,22 @@
 		{
 			disable_toast: true
 			id: "113FC56967852878"
-			rewards: [{
-				id: "06AB8F1E1E5599BE"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "06AB8F1E1E5599BE"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0C04B963E0517210"
+					item: {
+						count: 1
+						id: "croptopia:cabbage_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3FC6F3D1E9100429"
@@ -204,11 +314,22 @@
 		{
 			disable_toast: true
 			id: "2C66E02EA03BCA53"
-			rewards: [{
-				id: "15E20E764E2BE845"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "15E20E764E2BE845"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6900298823E1FAE6"
+					item: {
+						count: 1
+						id: "croptopia:cantaloupe_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "36CAFC4AD3898E97"
@@ -221,11 +342,22 @@
 		{
 			disable_toast: true
 			id: "063E67C36F6182EC"
-			rewards: [{
-				id: "305BBA2A6DA59E5E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "305BBA2A6DA59E5E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0826474157ECC8D2"
+					item: {
+						count: 1
+						id: "croptopia:cauliflower_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "76634DBF087D68F6"
@@ -238,11 +370,22 @@
 		{
 			disable_toast: true
 			id: "5F25BB58E6D40F1D"
-			rewards: [{
-				id: "0BC48F4243429289"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0BC48F4243429289"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4CCFCD94FDC1E86B"
+					item: {
+						count: 1
+						id: "croptopia:celery_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5D2796E9E599EDB8"
@@ -255,11 +398,22 @@
 		{
 			disable_toast: true
 			id: "4F2C01B7FD682D9D"
-			rewards: [{
-				id: "04A9CED8C1DC1C2A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "04A9CED8C1DC1C2A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7B266638F3847574"
+					item: {
+						count: 1
+						id: "croptopia:chile_pepper_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "78C7F8D9B8691D32"
@@ -272,11 +426,22 @@
 		{
 			disable_toast: true
 			id: "74BE6319DD05C6B5"
-			rewards: [{
-				id: "2EC08B6A777ECB8A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2EC08B6A777ECB8A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "40481BE76D6A3498"
+					item: {
+						count: 1
+						id: "croptopia:coffee_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5B1FDF23D092EED6"
@@ -289,11 +454,22 @@
 		{
 			disable_toast: true
 			id: "305F1ADFEED534DA"
-			rewards: [{
-				id: "56E666CD62C2720F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "56E666CD62C2720F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2392972D6AEC9E02"
+					item: {
+						count: 1
+						id: "croptopia:corn_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3069377056E2CF6B"
@@ -306,11 +482,22 @@
 		{
 			disable_toast: true
 			id: "20FB6DFA867D62B7"
-			rewards: [{
-				id: "05B12993DA763BB2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "05B12993DA763BB2"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6A2BDB34191FF2C6"
+					item: {
+						count: 1
+						id: "croptopia:cranberry_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3844E33AF3391F12"
@@ -323,11 +510,22 @@
 		{
 			disable_toast: true
 			id: "3D83A0E99BD79788"
-			rewards: [{
-				id: "4E0BA79952D7DDA8"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4E0BA79952D7DDA8"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "01745723B1AA6535"
+					item: {
+						count: 1
+						id: "croptopia:cucumber_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5BCC9D9BF28ADE89"
@@ -340,11 +538,22 @@
 		{
 			disable_toast: true
 			id: "2C4A799E9452F554"
-			rewards: [{
-				id: "64996C2EE4F076A7"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "64996C2EE4F076A7"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "25A31FC9DEE3AAB4"
+					item: {
+						count: 1
+						id: "croptopia:currant_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "15029D050F931E71"
@@ -357,11 +566,22 @@
 		{
 			disable_toast: true
 			id: "5BEF47ABCB5F7467"
-			rewards: [{
-				id: "233BF62873AB0B48"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "233BF62873AB0B48"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "432542E372359F23"
+					item: {
+						count: 1
+						id: "croptopia:eggplant_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "10977EBA1D4ACE6A"
@@ -374,11 +594,22 @@
 		{
 			disable_toast: true
 			id: "5886BB56B51F5D2C"
-			rewards: [{
-				id: "5B1B26D32BE38525"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5B1B26D32BE38525"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6C69084FEFA8E8C8"
+					item: {
+						count: 1
+						id: "croptopia:elderberry_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "728900710C1AF490"
@@ -391,11 +622,22 @@
 		{
 			disable_toast: true
 			id: "3A3EEC6586FA982C"
-			rewards: [{
-				id: "3C2F12793A8611CC"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3C2F12793A8611CC"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "36019532CF0200FF"
+					item: {
+						count: 1
+						id: "croptopia:garlic_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4079D471BECA3853"
@@ -408,11 +650,22 @@
 		{
 			disable_toast: true
 			id: "6DD9AA09BB43F65A"
-			rewards: [{
-				id: "0CC60BCF833F8093"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0CC60BCF833F8093"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6B319D9FD862A3A6"
+					item: {
+						count: 1
+						id: "croptopia:ginger_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0079D1687021B7C2"
@@ -425,11 +678,22 @@
 		{
 			disable_toast: true
 			id: "630ACABDAC901FE1"
-			rewards: [{
-				id: "16E84A00A9E9AC08"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "16E84A00A9E9AC08"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "51F2D36878CAD461"
+					item: {
+						count: 1
+						id: "croptopia:grape_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5280CB7AE1B36D0D"
@@ -442,11 +706,22 @@
 		{
 			disable_toast: true
 			id: "39194EE879C602FD"
-			rewards: [{
-				id: "6BDE12BFCA8D3358"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6BDE12BFCA8D3358"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "673F8C736051A7D8"
+					item: {
+						count: 1
+						id: "croptopia:greenbean_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "53956A9CE562E844"
@@ -459,11 +734,22 @@
 		{
 			disable_toast: true
 			id: "5360E5622A4A0CF8"
-			rewards: [{
-				id: "51800D2D71C108CB"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "51800D2D71C108CB"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0DC928EBA802E06C"
+					item: {
+						count: 1
+						id: "croptopia:greenonion_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7F5A922346196165"
@@ -476,11 +762,22 @@
 		{
 			disable_toast: true
 			id: "081439591329341F"
-			rewards: [{
-				id: "7820384883F771D3"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7820384883F771D3"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "14E04341A1998EE0"
+					item: {
+						count: 1
+						id: "croptopia:honeydew_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "42ACD267FCE5996C"
@@ -493,11 +790,22 @@
 		{
 			disable_toast: true
 			id: "1A1E28E7F2EC1D05"
-			rewards: [{
-				id: "0634E13C0B6D902F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0634E13C0B6D902F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3899FD0837FDB3EC"
+					item: {
+						count: 1
+						id: "croptopia:hops_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2BD576CE3CFEAAAC"
@@ -510,11 +818,22 @@
 		{
 			disable_toast: true
 			id: "4B945FA7E43DF346"
-			rewards: [{
-				id: "097E8A11A1834073"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "097E8A11A1834073"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2001AA3C0D6C8D3B"
+					item: {
+						count: 1
+						id: "croptopia:kale_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "38A40934DFAEB7F6"
@@ -527,11 +846,22 @@
 		{
 			disable_toast: true
 			id: "008A81F2611FE59F"
-			rewards: [{
-				id: "739BE5FF51E882D0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "739BE5FF51E882D0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "11C48BD4BF6C060E"
+					item: {
+						count: 1
+						id: "croptopia:kiwi_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6FB4566ECA0F8B37"
@@ -544,11 +874,22 @@
 		{
 			disable_toast: true
 			id: "103C052D1C513763"
-			rewards: [{
-				id: "11DAFB4A87EED126"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "11DAFB4A87EED126"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5D25966D60D5B464"
+					item: {
+						count: 1
+						id: "croptopia:leek_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4EF0AFDD0150A511"
@@ -561,11 +902,22 @@
 		{
 			disable_toast: true
 			id: "3E0413FDD9B6867D"
-			rewards: [{
-				id: "4803096EAE650A3B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4803096EAE650A3B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "72B09B1D2C7B69F8"
+					item: {
+						count: 1
+						id: "croptopia:lettuce_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1FCDA4F0271EF120"
@@ -578,11 +930,22 @@
 		{
 			disable_toast: true
 			id: "01A7A90DA0000B70"
-			rewards: [{
-				id: "48855046C4B88F58"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "48855046C4B88F58"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2CF0616E34B3AD63"
+					item: {
+						count: 1
+						id: "croptopia:mustard_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "68DC209B5466D434"
@@ -595,11 +958,22 @@
 		{
 			disable_toast: true
 			id: "7476CE297819DD3F"
-			rewards: [{
-				id: "547318D70E3AC518"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "547318D70E3AC518"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "60D25CAFC3559BED"
+					item: {
+						count: 1
+						id: "croptopia:oat_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "792FF5B014B8C87D"
@@ -612,11 +986,22 @@
 		{
 			disable_toast: true
 			id: "5BCA603DCEA522B3"
-			rewards: [{
-				id: "33B3229FD988EC6C"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "33B3229FD988EC6C"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1FC28FACB0F3F11D"
+					item: {
+						count: 1
+						id: "croptopia:olive_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5A7794D4AE12D91C"
@@ -629,11 +1014,22 @@
 		{
 			disable_toast: true
 			id: "364F42DFFBAEEEB3"
-			rewards: [{
-				id: "745B214D788929FE"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "745B214D788929FE"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "23DC6B93DAAE0450"
+					item: {
+						count: 1
+						id: "croptopia:onion_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "59BC5C1FF96BC67E"
@@ -646,11 +1042,22 @@
 		{
 			disable_toast: true
 			id: "4085307EC34D557C"
-			rewards: [{
-				id: "4637113C0372246C"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4637113C0372246C"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6E3A214564D3E18E"
+					item: {
+						count: 1
+						id: "croptopia:peanut_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6EAF159C68936832"
@@ -663,11 +1070,22 @@
 		{
 			disable_toast: true
 			id: "09B5FEFDE9C34C81"
-			rewards: [{
-				id: "47094B43B43EF11E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "47094B43B43EF11E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "453FD9896B064C49"
+					item: {
+						count: 1
+						id: "croptopia:pepper_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6F592FFB322D37BE"
@@ -680,11 +1098,22 @@
 		{
 			disable_toast: true
 			id: "6B8CD69F28CA2B85"
-			rewards: [{
-				id: "5E75C3F830CF5FA6"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5E75C3F830CF5FA6"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5DAAE955CED024C2"
+					item: {
+						count: 1
+						id: "croptopia:pineapple_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "09B81B44215B365C"
@@ -697,11 +1126,22 @@
 		{
 			disable_toast: true
 			id: "05B64B69F031616D"
-			rewards: [{
-				id: "5288F52EA55FE88A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5288F52EA55FE88A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2A4C5A9DC659A437"
+					item: {
+						count: 1
+						id: "croptopia:radish_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5B3B9E18A74D72AC"
@@ -714,11 +1154,22 @@
 		{
 			disable_toast: true
 			id: "1050E15FA0CEA255"
-			rewards: [{
-				id: "0F4B60B3F1FCB668"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0F4B60B3F1FCB668"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "153A0E3B566F6041"
+					item: {
+						count: 1
+						id: "croptopia:raspberry_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0B1EC985D4347DCF"
@@ -731,11 +1182,22 @@
 		{
 			disable_toast: true
 			id: "631D229836DFF8D6"
-			rewards: [{
-				id: "3A5875F85F4E2E80"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3A5875F85F4E2E80"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3E252795E1C86AE1"
+					item: {
+						count: 1
+						id: "croptopia:rhubarb_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "529D2CF67C0AF054"
@@ -748,11 +1210,22 @@
 		{
 			disable_toast: true
 			id: "28EA1639F51C5671"
-			rewards: [{
-				id: "11CEF6C105631D45"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "11CEF6C105631D45"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1ED1A7B56F483E2A"
+					item: {
+						count: 1
+						id: "croptopia:rice_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1E1379DBCC5BB6B0"
@@ -765,11 +1238,22 @@
 		{
 			disable_toast: true
 			id: "60CEA9F8D424C9C8"
-			rewards: [{
-				id: "27BA4569E3A76090"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "27BA4569E3A76090"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4F0BC26DFF1C5247"
+					item: {
+						count: 1
+						id: "croptopia:rutabaga_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "419D87DA5F783AB5"
@@ -782,11 +1266,22 @@
 		{
 			disable_toast: true
 			id: "26470F55CC27427E"
-			rewards: [{
-				id: "7EF79DCF02AC8149"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7EF79DCF02AC8149"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7B3ED3698B2262A8"
+					item: {
+						count: 1
+						id: "croptopia:saguaro_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4CCD21EFD3730674"
@@ -799,11 +1294,22 @@
 		{
 			disable_toast: true
 			id: "403AE3C199C4FCAC"
-			rewards: [{
-				id: "53D984657783A581"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "53D984657783A581"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1F82548BA28CF0CD"
+					item: {
+						count: 1
+						id: "croptopia:soybean_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0F4BE7E327E21FC4"
@@ -816,11 +1322,22 @@
 		{
 			disable_toast: true
 			id: "322372939B11B11A"
-			rewards: [{
-				id: "6B8C098CD28EB14A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6B8C098CD28EB14A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "16A77030D9F5089E"
+					item: {
+						count: 1
+						id: "croptopia:spinach_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6953EC9B09653929"
@@ -833,11 +1350,22 @@
 		{
 			disable_toast: true
 			id: "148F7BDFD21AC666"
-			rewards: [{
-				id: "7CEE9BA95E06B872"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7CEE9BA95E06B872"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5C6DFA8B8B94EE5E"
+					item: {
+						count: 1
+						id: "croptopia:squash_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "485C607E4DB4DA39"
@@ -850,11 +1378,22 @@
 		{
 			disable_toast: true
 			id: "752E9E3A55DD3B4B"
-			rewards: [{
-				id: "13C0B44DDF295C40"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "13C0B44DDF295C40"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6D892727C99ECCD1"
+					item: {
+						count: 1
+						id: "croptopia:strawberry_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6F32349971818B6D"
@@ -867,11 +1406,22 @@
 		{
 			disable_toast: true
 			id: "1A65C9F9D97113CC"
-			rewards: [{
-				id: "62A39D593336457D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "62A39D593336457D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "586630BD672D8FEE"
+					item: {
+						count: 1
+						id: "croptopia:sweetpotato_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4006B2C630D56357"
@@ -884,11 +1434,22 @@
 		{
 			disable_toast: true
 			id: "0F45D58D274D0C9F"
-			rewards: [{
-				id: "4A713D5A06AD39CE"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4A713D5A06AD39CE"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1C4DFE22E1362DDA"
+					item: {
+						count: 1
+						id: "croptopia:tea_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "132B77132EF63188"
@@ -901,11 +1462,22 @@
 		{
 			disable_toast: true
 			id: "111476E1D6735D03"
-			rewards: [{
-				id: "47D859B11DE6B8E8"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "47D859B11DE6B8E8"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7775AEE39F57A656"
+					item: {
+						count: 1
+						id: "croptopia:tomatillo_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "68B2475D41650DF2"
@@ -918,11 +1490,22 @@
 		{
 			disable_toast: true
 			id: "6A6C885534FD5753"
-			rewards: [{
-				id: "00926A8741B72782"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "00926A8741B72782"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2A5CEDFE2D540275"
+					item: {
+						count: 1
+						id: "croptopia:tomato_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5FC46EF8D917244C"
@@ -935,11 +1518,22 @@
 		{
 			disable_toast: true
 			id: "4B6605AFF6F3C55B"
-			rewards: [{
-				id: "4658F089E89EFA95"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4658F089E89EFA95"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "28681190917CB93A"
+					item: {
+						count: 1
+						id: "croptopia:turmeric_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4C3C999E7BEAC7ED"
@@ -952,11 +1546,22 @@
 		{
 			disable_toast: true
 			id: "7DBF48254E65709A"
-			rewards: [{
-				id: "27DFC27A45320709"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "27DFC27A45320709"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0864B7B90D4B4524"
+					item: {
+						count: 1
+						id: "croptopia:turnip_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "73D966D7F23FDD3A"
@@ -969,11 +1574,22 @@
 		{
 			disable_toast: true
 			id: "091DAE494962D920"
-			rewards: [{
-				id: "707D6FF850553ABB"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "707D6FF850553ABB"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "19FEAB9C54674969"
+					item: {
+						count: 1
+						id: "croptopia:vanilla_seeds"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5DF0822596400B4F"
@@ -986,11 +1602,22 @@
 		{
 			disable_toast: true
 			id: "4C7C58A7CE472F97"
-			rewards: [{
-				id: "1EC09FE2BBE468C9"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1EC09FE2BBE468C9"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3F91CABBBC23F117"
+					item: {
+						count: 1
+						id: "croptopia:yam_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4FBE248EA10E959F"
@@ -1003,11 +1630,22 @@
 		{
 			disable_toast: true
 			id: "03A71835518F202F"
-			rewards: [{
-				id: "1D58E7D770962EE4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1D58E7D770962EE4"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5AEE20B4915F73D3"
+					item: {
+						count: 1
+						id: "croptopia:zucchini_seed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3AFB923903176ABF"
@@ -1020,11 +1658,22 @@
 		{
 			disable_toast: true
 			id: "12CBF00718DCBD67"
-			rewards: [{
-				id: "2B827F59419BA059"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2B827F59419BA059"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1B00C0F4CE12377B"
+					item: {
+						count: 1
+						id: "croptopia:almond_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "411273E040782F78"
@@ -1037,11 +1686,22 @@
 		{
 			disable_toast: true
 			id: "65D1C2B69D9ADBB6"
-			rewards: [{
-				id: "741C698EBECCE899"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "741C698EBECCE899"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "55C68AB8E3601451"
+					item: {
+						count: 1
+						id: "croptopia:apple_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0986924DB22753CB"
@@ -1054,11 +1714,22 @@
 		{
 			disable_toast: true
 			id: "5B7DC6417AAAD2C8"
-			rewards: [{
-				id: "6E81DB60E4BFF7D1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6E81DB60E4BFF7D1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1486406BF2FE57ED"
+					item: {
+						count: 1
+						id: "croptopia:apricot_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "65F6FB85BEC82EA2"
@@ -1071,11 +1742,22 @@
 		{
 			disable_toast: true
 			id: "253050A562849A2B"
-			rewards: [{
-				id: "4D9B8ED4CF9F3741"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4D9B8ED4CF9F3741"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2F621CFC912E1D0A"
+					item: {
+						count: 1
+						id: "croptopia:avocado_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5F4E6549A881119F"
@@ -1088,11 +1770,22 @@
 		{
 			disable_toast: true
 			id: "350C7525B64C2E22"
-			rewards: [{
-				id: "7D46980B83833265"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7D46980B83833265"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "341B70056426A7CA"
+					item: {
+						count: 1
+						id: "croptopia:banana_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "33CB324156C180B2"
@@ -1105,11 +1798,22 @@
 		{
 			disable_toast: true
 			id: "6D639FA86244F30E"
-			rewards: [{
-				id: "2D2579C957AD33F1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2D2579C957AD33F1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0FA7F3D62FAE4F8E"
+					item: {
+						count: 1
+						id: "croptopia:cashew_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2FC8E7C0E718969B"
@@ -1122,11 +1826,22 @@
 		{
 			disable_toast: true
 			id: "0CEAD12FBFEBCA8E"
-			rewards: [{
-				id: "2242D5EDED984524"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2242D5EDED984524"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "21EB543DB4491D06"
+					item: {
+						count: 1
+						id: "croptopia:cherry_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7EF4DC92565F70B3"
@@ -1139,11 +1854,22 @@
 		{
 			disable_toast: true
 			id: "530B4F1BF2D664FA"
-			rewards: [{
-				id: "437C0E025A17F05E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "437C0E025A17F05E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "73B93EAB48AB31F0"
+					item: {
+						count: 1
+						id: "croptopia:cinnamon_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3BB6AC8B0308C0E0"
@@ -1156,11 +1882,22 @@
 		{
 			disable_toast: true
 			id: "53B3BC17E780191F"
-			rewards: [{
-				id: "57FA8FD775FB5BB2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "57FA8FD775FB5BB2"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4A128F507B205505"
+					item: {
+						count: 1
+						id: "croptopia:coconut_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "270F6BF7FC4FF68C"
@@ -1173,11 +1910,22 @@
 		{
 			disable_toast: true
 			id: "62ADE97DA63FAB66"
-			rewards: [{
-				id: "56EBEF855E7F218F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "56EBEF855E7F218F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5CB9723E5AF394B1"
+					item: {
+						count: 1
+						id: "croptopia:date_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2A86A8A56C57F8E8"
@@ -1190,11 +1938,22 @@
 		{
 			disable_toast: true
 			id: "06A007A2A118F142"
-			rewards: [{
-				id: "6E454D9AAB02732F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6E454D9AAB02732F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5C865269A1066A6E"
+					item: {
+						count: 1
+						id: "croptopia:dragonfruit_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "51A0D415CC2BF21D"
@@ -1207,11 +1966,22 @@
 		{
 			disable_toast: true
 			id: "54A19D76248CFA46"
-			rewards: [{
-				id: "77AFF681714EB0A2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "77AFF681714EB0A2"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3D76C53567C63180"
+					item: {
+						count: 1
+						id: "croptopia:fig_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7FFCA8349B4318D7"
@@ -1224,11 +1994,22 @@
 		{
 			disable_toast: true
 			id: "28E68739330C29FB"
-			rewards: [{
-				id: "2671DA12392CF28B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2671DA12392CF28B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "72961F184761854A"
+					item: {
+						count: 1
+						id: "croptopia:grapefruit_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "47B3C3B64F28D3A4"
@@ -1241,11 +2022,22 @@
 		{
 			disable_toast: true
 			id: "45D8479BD72EDBCF"
-			rewards: [{
-				id: "7922FD1DD005145E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7922FD1DD005145E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "58B3DF45C2185C20"
+					item: {
+						count: 1
+						id: "croptopia:kumquat_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "18070090C78ECAD3"
@@ -1258,11 +2050,22 @@
 		{
 			disable_toast: true
 			id: "54F9A722DF6520B6"
-			rewards: [{
-				id: "1DDB3AB5C9769993"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1DDB3AB5C9769993"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7C22491BBB7FFE6D"
+					item: {
+						count: 1
+						id: "croptopia:lemon_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "366832E50C6E0514"
@@ -1275,11 +2078,22 @@
 		{
 			disable_toast: true
 			id: "5F4B4451D3632A6D"
-			rewards: [{
-				id: "66EF3CC0F0FE7FFF"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "66EF3CC0F0FE7FFF"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6D281779FA3A6CE5"
+					item: {
+						count: 1
+						id: "croptopia:lime_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2E1354B4CEEB81ED"
@@ -1292,11 +2106,22 @@
 		{
 			disable_toast: true
 			id: "1E0E491114560E7D"
-			rewards: [{
-				id: "598B87877E71BAA9"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "598B87877E71BAA9"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "70900E13A477BAD9"
+					item: {
+						count: 1
+						id: "croptopia:mango_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7309930911E5C3D8"
@@ -1309,11 +2134,22 @@
 		{
 			disable_toast: true
 			id: "350DD3FA9BE695CE"
-			rewards: [{
-				id: "4E6C6280B66FDBE0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4E6C6280B66FDBE0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "647DDC68FAB49DD2"
+					item: {
+						count: 1
+						id: "croptopia:nectarine_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "61914D86D071A02E"
@@ -1326,11 +2162,22 @@
 		{
 			disable_toast: true
 			id: "69F380F89CB6A59D"
-			rewards: [{
-				id: "2391E7B16A704AD4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2391E7B16A704AD4"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "51281C417ACBA000"
+					item: {
+						count: 1
+						id: "croptopia:nutmeg_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3A9D10A6DB810A2F"
@@ -1343,11 +2190,22 @@
 		{
 			disable_toast: true
 			id: "0D98D1199DAB0352"
-			rewards: [{
-				id: "2FBC2D2C77E4AEE5"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2FBC2D2C77E4AEE5"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "127F10EB4EB39877"
+					item: {
+						count: 1
+						id: "croptopia:orange_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "13F65C486F03AF36"
@@ -1360,11 +2218,22 @@
 		{
 			disable_toast: true
 			id: "75472D3114B4C309"
-			rewards: [{
-				id: "246DF4E5B6682531"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "246DF4E5B6682531"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4487F7F7849DC50E"
+					item: {
+						count: 1
+						id: "croptopia:peach_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1DA4BE849002CFBA"
@@ -1377,11 +2246,22 @@
 		{
 			disable_toast: true
 			id: "3B87581A4230E607"
-			rewards: [{
-				id: "1068F48D444F6B76"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1068F48D444F6B76"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4B0038F26F775E83"
+					item: {
+						count: 1
+						id: "croptopia:pear_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "534ADBF05BF028E2"
@@ -1394,11 +2274,22 @@
 		{
 			disable_toast: true
 			id: "0DE0B66DA82C8C79"
-			rewards: [{
-				id: "2F6D6AEC96884445"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2F6D6AEC96884445"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7ECFF5E827D91917"
+					item: {
+						count: 1
+						id: "croptopia:pecan_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "17ECF3113D6198D8"
@@ -1411,11 +2302,22 @@
 		{
 			disable_toast: true
 			id: "6F4258C8042F52EB"
-			rewards: [{
-				id: "1756B704BD9BF57D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1756B704BD9BF57D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7CEB71C5F9861979"
+					item: {
+						count: 1
+						id: "croptopia:persimmon_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "63F24C2B44425658"
@@ -1428,11 +2330,22 @@
 		{
 			disable_toast: true
 			id: "6366CCCDA04897E4"
-			rewards: [{
-				id: "10E679CB480E40A4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "10E679CB480E40A4"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "233B89F379DCD832"
+					item: {
+						count: 1
+						id: "croptopia:plum_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6E84E7CB319B6F6A"
@@ -1445,11 +2358,22 @@
 		{
 			disable_toast: true
 			id: "55C9B5216C276610"
-			rewards: [{
-				id: "58E2C797C3B5F2EA"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "58E2C797C3B5F2EA"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "070447F2AD1F4A66"
+					item: {
+						count: 1
+						id: "croptopia:starfruit_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "13928DC84A3E8BAD"
@@ -1462,11 +2386,22 @@
 		{
 			disable_toast: true
 			id: "3D9F59E7364E803E"
-			rewards: [{
-				id: "5A576960069DF03B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5A576960069DF03B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "515488C180D8E084"
+					item: {
+						count: 1
+						id: "croptopia:walnut_sapling"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "304A46C834266479"
@@ -1479,11 +2414,22 @@
 		{
 			disable_toast: true
 			id: "43B2EFD8460BECCB"
-			rewards: [{
-				id: "250A2A52D9B65D4D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "250A2A52D9B65D4D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7203A3DE36499394"
+					item: {
+						count: 1
+						id: "croptopia:apricot"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2399BFFDB846F809"
@@ -1496,11 +2442,22 @@
 		{
 			disable_toast: true
 			id: "168196711853B35B"
-			rewards: [{
-				id: "363638EB1207C5A0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "363638EB1207C5A0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "644D2613340103CB"
+					item: {
+						count: 1
+						id: "croptopia:avocado"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "40FD60DDF1D7279F"
@@ -1513,11 +2470,22 @@
 		{
 			disable_toast: true
 			id: "690C361641914FE8"
-			rewards: [{
-				id: "02DDD614BF8A7918"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "02DDD614BF8A7918"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1C361FD15E71D6E1"
+					item: {
+						count: 1
+						id: "croptopia:banana"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "456BD42DF5328B97"
@@ -1530,11 +2498,22 @@
 		{
 			disable_toast: true
 			id: "3395DD8C24AB73D4"
-			rewards: [{
-				id: "5DC2D5128FB6828D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5DC2D5128FB6828D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "66E235B03B0B0CE5"
+					item: {
+						count: 1
+						id: "croptopia:blackberry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "027BFC8F2F2E650E"
@@ -1547,11 +2526,22 @@
 		{
 			disable_toast: true
 			id: "0FE8A5D3627F2D3A"
-			rewards: [{
-				id: "0F13D2EF8B7F47DB"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0F13D2EF8B7F47DB"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "11C77A7E5CDF8D93"
+					item: {
+						count: 1
+						id: "croptopia:blueberry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2FDBEEC22C150B94"
@@ -1564,11 +2554,22 @@
 		{
 			disable_toast: true
 			id: "42930A25B36F8828"
-			rewards: [{
-				id: "600623765CBCE579"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "600623765CBCE579"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7C4B2289C8CBAD39"
+					item: {
+						count: 1
+						id: "croptopia:cantaloupe"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "14F7E70DC58D95A2"
@@ -1581,11 +2582,22 @@
 		{
 			disable_toast: true
 			id: "1572DE578375808A"
-			rewards: [{
-				id: "300891BF5FC5A680"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "300891BF5FC5A680"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6D889566ABA28C16"
+					item: {
+						count: 1
+						id: "croptopia:cherry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "04DEAEFB4795F2F1"
@@ -1598,11 +2610,22 @@
 		{
 			disable_toast: true
 			id: "5D516B28EB733EC1"
-			rewards: [{
-				id: "7B98FBA53BF3251B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7B98FBA53BF3251B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "45495DF2A1C22887"
+					item: {
+						count: 1
+						id: "croptopia:coconut"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6FBD86D8930D079B"
@@ -1615,11 +2638,22 @@
 		{
 			disable_toast: true
 			id: "7EE83C46CA235016"
-			rewards: [{
-				id: "1537513D8C607BE8"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1537513D8C607BE8"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "370FEDD5B3B5139F"
+					item: {
+						count: 1
+						id: "croptopia:cranberry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7485ADC50F3D2601"
@@ -1632,11 +2666,22 @@
 		{
 			disable_toast: true
 			id: "58AA9A714302EAFE"
-			rewards: [{
-				id: "1D931394D18F499F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1D931394D18F499F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "56B4215A8C2D41F4"
+					item: {
+						count: 1
+						id: "croptopia:currant"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "57CA02C9466E870B"
@@ -1649,11 +2694,22 @@
 		{
 			disable_toast: true
 			id: "2E9D3CCD791FB1FD"
-			rewards: [{
-				id: "7E43864BB18382A6"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7E43864BB18382A6"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4F0B8E6EFAC3AF05"
+					item: {
+						count: 1
+						id: "croptopia:date"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1DC25C557858B6BD"
@@ -1666,11 +2722,22 @@
 		{
 			disable_toast: true
 			id: "27354276C9368AD8"
-			rewards: [{
-				id: "3849E4C756703444"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3849E4C756703444"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0E67FBBF7BE1925A"
+					item: {
+						count: 1
+						id: "croptopia:dragonfruit"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "004499D57665AB1A"
@@ -1683,11 +2750,22 @@
 		{
 			disable_toast: true
 			id: "7CB1762BA0E2C936"
-			rewards: [{
-				id: "3184D5E56B40C11B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3184D5E56B40C11B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "731BBE1C3039D8D3"
+					item: {
+						count: 1
+						id: "croptopia:elderberry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4939E2541B786DD0"
@@ -1700,11 +2778,22 @@
 		{
 			disable_toast: true
 			id: "64168EB1E86BC80B"
-			rewards: [{
-				id: "4CAA1C1B86C344BF"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4CAA1C1B86C344BF"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "623B27D08B07D351"
+					item: {
+						count: 1
+						id: "croptopia:fig"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4EBCC1E318248E9D"
@@ -1717,11 +2806,22 @@
 		{
 			disable_toast: true
 			id: "4528F961D7A22C61"
-			rewards: [{
-				id: "56F692CFE743A74E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "56F692CFE743A74E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3E6BC4F114BE7571"
+					item: {
+						count: 1
+						id: "croptopia:grape"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0C81CE43AC479B1D"
@@ -1734,11 +2834,22 @@
 		{
 			disable_toast: true
 			id: "335F5E2E02935928"
-			rewards: [{
-				id: "55E5FF4227E07492"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "55E5FF4227E07492"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1695D720F3800D4B"
+					item: {
+						count: 1
+						id: "croptopia:grapefruit"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3CDD80142FD6C07C"
@@ -1751,11 +2862,22 @@
 		{
 			disable_toast: true
 			id: "64A7E12FAD39DD88"
-			rewards: [{
-				id: "3FA6F2D99F6C1163"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3FA6F2D99F6C1163"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3D203F3CF5EDD5FA"
+					item: {
+						count: 1
+						id: "croptopia:honeydew"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7B7B4D91FA820362"
@@ -1768,11 +2890,22 @@
 		{
 			disable_toast: true
 			id: "21ADF6D3EAD6D9A3"
-			rewards: [{
-				id: "7C418DF5E362C1BD"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7C418DF5E362C1BD"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "075736EA50E0994E"
+					item: {
+						count: 1
+						id: "croptopia:kiwi"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "35F23FA8A56DC18E"
@@ -1785,11 +2918,22 @@
 		{
 			disable_toast: true
 			id: "6E535C627996A2E4"
-			rewards: [{
-				id: "08AD9DFA1707A71F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "08AD9DFA1707A71F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5FEB82D5B5700392"
+					item: {
+						count: 1
+						id: "croptopia:kumquat"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6A305E4DAD9F1ABE"
@@ -1802,11 +2946,22 @@
 		{
 			disable_toast: true
 			id: "7F84EBAD1D75F0C0"
-			rewards: [{
-				id: "55F8D91B6C101E7F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "55F8D91B6C101E7F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "73336E79385DC280"
+					item: {
+						count: 1
+						id: "croptopia:lemon"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "149CB880E37E4448"
@@ -1819,11 +2974,22 @@
 		{
 			disable_toast: true
 			id: "1738F4683509F66C"
-			rewards: [{
-				id: "47E82889AC932D7D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "47E82889AC932D7D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "16DF1DF43815F04C"
+					item: {
+						count: 1
+						id: "croptopia:lime"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2D0E08578F08C2F4"
@@ -1836,11 +3002,22 @@
 		{
 			disable_toast: true
 			id: "5F0A15871D73A395"
-			rewards: [{
-				id: "65BCF9F2328EF231"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "65BCF9F2328EF231"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3663C4C215A164F5"
+					item: {
+						count: 1
+						id: "croptopia:mango"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "78901E0349B2DC43"
@@ -1853,11 +3030,22 @@
 		{
 			disable_toast: true
 			id: "13D2ADEC738F1B7B"
-			rewards: [{
-				id: "196EF25B24139FD2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "196EF25B24139FD2"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "757AB29EC71BC757"
+					item: {
+						count: 1
+						id: "croptopia:nectarine"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1CFAED972AF3021A"
@@ -1870,11 +3058,22 @@
 		{
 			disable_toast: true
 			id: "26E121D762A75E4F"
-			rewards: [{
-				id: "5C211BD7C72CCA94"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5C211BD7C72CCA94"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "09256C19CCCC2A2C"
+					item: {
+						count: 1
+						id: "croptopia:orange"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "14293761792CD990"
@@ -1887,11 +3086,22 @@
 		{
 			disable_toast: true
 			id: "0D60AC68CEFAA5E2"
-			rewards: [{
-				id: "0B61C23B281EAFC2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0B61C23B281EAFC2"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "41D00239D99B099A"
+					item: {
+						count: 1
+						id: "croptopia:peach"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "76571AED04631EE8"
@@ -1904,11 +3114,22 @@
 		{
 			disable_toast: true
 			id: "1A38E165EE784D45"
-			rewards: [{
-				id: "6DF232023D0EB93D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6DF232023D0EB93D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1EAB0C9B2DC742FD"
+					item: {
+						count: 1
+						id: "croptopia:pear"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "29E328EDA448CD1E"
@@ -1921,11 +3142,22 @@
 		{
 			disable_toast: true
 			id: "33950A50C4768756"
-			rewards: [{
-				id: "61A12B51ABC60DF7"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "61A12B51ABC60DF7"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "738A15B18291B949"
+					item: {
+						count: 1
+						id: "croptopia:persimmon"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2CB94FA842AACC34"
@@ -1938,11 +3170,22 @@
 		{
 			disable_toast: true
 			id: "6CA301095C3BC3FC"
-			rewards: [{
-				id: "1C601988C0764A9F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1C601988C0764A9F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2957736BA9D93E1B"
+					item: {
+						count: 1
+						id: "croptopia:pineapple"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1D51F124C43676A1"
@@ -1955,11 +3198,22 @@
 		{
 			disable_toast: true
 			id: "10784389527267ED"
-			rewards: [{
-				id: "32ABA6C3DEE8EB84"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "32ABA6C3DEE8EB84"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3207075D00AFB55D"
+					item: {
+						count: 1
+						id: "croptopia:plum"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2EB96F9D47CCE8EF"
@@ -1972,11 +3226,22 @@
 		{
 			disable_toast: true
 			id: "6D6D315F498C5CAF"
-			rewards: [{
-				id: "774ABE5FBECC73BD"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "774ABE5FBECC73BD"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "11FA1C2F1E8BA78C"
+					item: {
+						count: 1
+						id: "croptopia:raisins"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4C243FDA63A74874"
@@ -1989,11 +3254,22 @@
 		{
 			disable_toast: true
 			id: "647F901819E9715B"
-			rewards: [{
-				id: "0B6992F4EF16546F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0B6992F4EF16546F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4F7CC13B07EA1871"
+					item: {
+						count: 1
+						id: "croptopia:raspberry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "258E4717AEDF943F"
@@ -2006,11 +3282,22 @@
 		{
 			disable_toast: true
 			id: "7954C2EFF559B1E2"
-			rewards: [{
-				id: "4581EA9E29BB3590"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4581EA9E29BB3590"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "408B33C5450ECA64"
+					item: {
+						count: 1
+						id: "croptopia:starfruit"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0FFD5EE28136FBBE"
@@ -2023,11 +3310,22 @@
 		{
 			disable_toast: true
 			id: "11654DBB6FFB59DD"
-			rewards: [{
-				id: "4B922BDBD8630965"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4B922BDBD8630965"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "54F0A1CCE9C30155"
+					item: {
+						count: 1
+						id: "croptopia:strawberry"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7E15C8CA04A034A7"
@@ -2040,11 +3338,22 @@
 		{
 			disable_toast: true
 			id: "73B98F921A88A00F"
-			rewards: [{
-				id: "48BB8C1D6799BDEA"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "48BB8C1D6799BDEA"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1B6E2E7FD01003EF"
+					item: {
+						count: 1
+						id: "croptopia:almond"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "02D760083B8E09AA"
@@ -2057,11 +3366,22 @@
 		{
 			disable_toast: true
 			id: "7D7B1C43EE2747DA"
-			rewards: [{
-				id: "22CDFAE7C6D2CB30"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "22CDFAE7C6D2CB30"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5E80C04273C06B2E"
+					item: {
+						count: 1
+						id: "croptopia:artichoke"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3DE56247F82F7AE7"
@@ -2074,11 +3394,22 @@
 		{
 			disable_toast: true
 			id: "670B7A3B7354281D"
-			rewards: [{
-				id: "2239FC116E48F836"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2239FC116E48F836"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "41F129422981308E"
+					item: {
+						count: 1
+						id: "croptopia:asparagus"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3EA02E5DC4F9F78B"
@@ -2091,11 +3422,22 @@
 		{
 			disable_toast: true
 			id: "0F61B9CA486A70BC"
-			rewards: [{
-				id: "4D2FEFB7857CFBF0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4D2FEFB7857CFBF0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "30933D2A2BF521F2"
+					item: {
+						count: 1
+						id: "croptopia:barley"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "66CDF38B85B88960"
@@ -2108,11 +3450,22 @@
 		{
 			disable_toast: true
 			id: "48F95FAD294C613B"
-			rewards: [{
-				id: "0EF7731AC2C5629E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0EF7731AC2C5629E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0D138BB0C7B06AF2"
+					item: {
+						count: 1
+						id: "croptopia:basil"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "288431EFF4C42884"
@@ -2125,11 +3478,22 @@
 		{
 			disable_toast: true
 			id: "18F9DC3B5BC747A6"
-			rewards: [{
-				id: "0731648B11DCDDA5"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0731648B11DCDDA5"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2D4C723D66EC8B2A"
+					item: {
+						count: 1
+						id: "croptopia:bellpepper"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7E235EDC3C6E1FC2"
@@ -2142,11 +3506,22 @@
 		{
 			disable_toast: true
 			id: "6E1D11553E2C3B3E"
-			rewards: [{
-				id: "33A3FDE0853DD16F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "33A3FDE0853DD16F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "449F5FA540B33153"
+					item: {
+						count: 1
+						id: "croptopia:blackbean"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0CCC95476E6DC6AE"
@@ -2159,11 +3534,22 @@
 		{
 			disable_toast: true
 			id: "4D32DF6DF72121F1"
-			rewards: [{
-				id: "3A92B0FA2541266B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3A92B0FA2541266B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "10D35B6416A3A361"
+					item: {
+						count: 1
+						id: "croptopia:broccoli"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7ED9B35398D0AB7D"
@@ -2176,11 +3562,22 @@
 		{
 			disable_toast: true
 			id: "7ACC5CEC09755A52"
-			rewards: [{
-				id: "5DADB2ECC538BAF3"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5DADB2ECC538BAF3"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "34C38AA11554104F"
+					item: {
+						count: 1
+						id: "croptopia:cabbage"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2FFA5CDBE0B8C161"
@@ -2193,11 +3590,22 @@
 		{
 			disable_toast: true
 			id: "24C25BE17317B0F9"
-			rewards: [{
-				id: "654F86A4F70DE9DA"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "654F86A4F70DE9DA"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "13E6A851BAA0FB00"
+					item: {
+						count: 1
+						id: "croptopia:cashew"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5DFC23E78163A561"
@@ -2210,11 +3618,22 @@
 		{
 			disable_toast: true
 			id: "38B836086F68397E"
-			rewards: [{
-				id: "686C9F199174CB20"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "686C9F199174CB20"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3B63ECBDF2612CEA"
+					item: {
+						count: 1
+						id: "croptopia:cauliflower"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "40C6BD3CBB2D69D1"
@@ -2227,11 +3646,22 @@
 		{
 			disable_toast: true
 			id: "66885319476C41F7"
-			rewards: [{
-				id: "77004A34E03FEE3F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "77004A34E03FEE3F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "42D5740366BD12E7"
+					item: {
+						count: 1
+						id: "croptopia:celery"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0F86E9138BCDCAE9"
@@ -2244,11 +3674,22 @@
 		{
 			disable_toast: true
 			id: "34F3874A67900B32"
-			rewards: [{
-				id: "5F3EABD137DBEAAB"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5F3EABD137DBEAAB"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "1A2258865B317AFE"
+					item: {
+						count: 1
+						id: "croptopia:chile_pepper"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1D4254C886109875"
@@ -2261,11 +3702,22 @@
 		{
 			disable_toast: true
 			id: "6DE1768CF7FC4505"
-			rewards: [{
-				id: "00635F8EA54F4BA8"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "00635F8EA54F4BA8"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "40E4BF448A15604F"
+					item: {
+						count: 1
+						id: "croptopia:cinnamon"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3D125B024DA51124"
@@ -2278,11 +3730,22 @@
 		{
 			disable_toast: true
 			id: "264F778117A6395A"
-			rewards: [{
-				id: "348191E6E794E369"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "348191E6E794E369"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2055D5DD16C90B5F"
+					item: {
+						count: 1
+						id: "croptopia:coffee_beans"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "00211232DACBD188"
@@ -2295,11 +3758,22 @@
 		{
 			disable_toast: true
 			id: "25C9B229B8E545A5"
-			rewards: [{
-				id: "0D1C978D23DF54B2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0D1C978D23DF54B2"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "65808DCF8DD6DE0C"
+					item: {
+						count: 1
+						id: "croptopia:corn"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3C6D342FB23F661D"
@@ -2312,11 +3786,22 @@
 		{
 			disable_toast: true
 			id: "332BD37FBD54A97B"
-			rewards: [{
-				id: "1C230D0D74C957D1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1C230D0D74C957D1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "198C97B8E9D401ED"
+					item: {
+						count: 1
+						id: "croptopia:cucumber"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4C2C6B02DE857989"
@@ -2329,11 +3814,22 @@
 		{
 			disable_toast: true
 			id: "60D586D258FF733B"
-			rewards: [{
-				id: "1E8F9935E63C56C3"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1E8F9935E63C56C3"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "112906B36F8FA6C6"
+					item: {
+						count: 1
+						id: "croptopia:eggplant"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7E4516FF2E2E2325"
@@ -2346,11 +3842,22 @@
 		{
 			disable_toast: true
 			id: "474601FC1F8619D5"
-			rewards: [{
-				id: "1776CB7E82AB738C"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1776CB7E82AB738C"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7806792EB1F2A0E9"
+					item: {
+						count: 1
+						id: "croptopia:garlic"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1655E214AEDB19BB"
@@ -2363,11 +3870,22 @@
 		{
 			disable_toast: true
 			id: "5BF3CB282F0F4672"
-			rewards: [{
-				id: "057B0EA16729A23A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "057B0EA16729A23A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "06CB6EFEBE37471C"
+					item: {
+						count: 1
+						id: "croptopia:ginger"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7B52B4655A40CE91"
@@ -2380,11 +3898,22 @@
 		{
 			disable_toast: true
 			id: "60EB24F3B0FFEF74"
-			rewards: [{
-				id: "3AAC3E6D096AC614"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3AAC3E6D096AC614"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "29C1B8139E2074B4"
+					item: {
+						count: 1
+						id: "croptopia:greenbean"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6423DE187CEFB4A6"
@@ -2397,11 +3926,22 @@
 		{
 			disable_toast: true
 			id: "71ECB6849B5A694B"
-			rewards: [{
-				id: "4AED8A381838B8A6"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4AED8A381838B8A6"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "068221BDB30084D5"
+					item: {
+						count: 1
+						id: "croptopia:greenonion"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "64D27593E92BC7C5"
@@ -2414,11 +3954,22 @@
 		{
 			disable_toast: true
 			id: "76115863C6CB6D4F"
-			rewards: [{
-				id: "4F934A74296AC750"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4F934A74296AC750"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "19810A093F60FA0A"
+					item: {
+						count: 1
+						id: "croptopia:hops"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5172D00EA7402A94"
@@ -2431,11 +3982,22 @@
 		{
 			disable_toast: true
 			id: "3DD87568B71C8F7E"
-			rewards: [{
-				id: "6E829A53689F17DA"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6E829A53689F17DA"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "10698B5DB3AB4745"
+					item: {
+						count: 1
+						id: "croptopia:kale"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7E970D4F25C75A01"
@@ -2448,11 +4010,22 @@
 		{
 			disable_toast: true
 			id: "0ADC73D90F374E7D"
-			rewards: [{
-				id: "0B0199068624B519"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0B0199068624B519"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6AED0E81567FE221"
+					item: {
+						count: 1
+						id: "croptopia:leek"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0A3B562C011051EB"
@@ -2465,11 +4038,22 @@
 		{
 			disable_toast: true
 			id: "6628B14366DEDCD9"
-			rewards: [{
-				id: "677BFE062703D07A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "677BFE062703D07A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7CE7EAAE807B8441"
+					item: {
+						count: 1
+						id: "croptopia:lettuce"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5D2B7F1ACFFEEFC1"
@@ -2482,11 +4066,22 @@
 		{
 			disable_toast: true
 			id: "2FB90DC69EEFCDEF"
-			rewards: [{
-				id: "650AE09E6F248273"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "650AE09E6F248273"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "358C7EAE5157F257"
+					item: {
+						count: 1
+						id: "croptopia:mustard"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "11675B707681B784"
@@ -2499,11 +4094,22 @@
 		{
 			disable_toast: true
 			id: "58BDD5E4405F6C6E"
-			rewards: [{
-				id: "28F6C320E36CF4DA"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "28F6C320E36CF4DA"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "12D1C6A902AB1772"
+					item: {
+						count: 1
+						id: "croptopia:nutmeg"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5A064EB068B291A0"
@@ -2516,11 +4122,22 @@
 		{
 			disable_toast: true
 			id: "345F26342C907CC0"
-			rewards: [{
-				id: "43BF82DD652552C1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "43BF82DD652552C1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3DDA30EFBC30DC2F"
+					item: {
+						count: 1
+						id: "croptopia:oat"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "167AA8BB83E491A1"
@@ -2533,11 +4150,22 @@
 		{
 			disable_toast: true
 			id: "5B6E07CD62927AFF"
-			rewards: [{
-				id: "14F76DA5127C07E6"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "14F76DA5127C07E6"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6F3AB66CB7261F82"
+					item: {
+						count: 1
+						id: "croptopia:olive"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "64CF18B7219DECB5"
@@ -2550,11 +4178,22 @@
 		{
 			disable_toast: true
 			id: "78F302DE00B78830"
-			rewards: [{
-				id: "7162F5824C128DC1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7162F5824C128DC1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0B912641FAF4F1D5"
+					item: {
+						count: 1
+						id: "croptopia:onion"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "660F1D43E206A41A"
@@ -2567,11 +4206,22 @@
 		{
 			disable_toast: true
 			id: "3B11A15C4EDBB20F"
-			rewards: [{
-				id: "40F798C3A7561941"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "40F798C3A7561941"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "47EA920319DB57B7"
+					item: {
+						count: 1
+						id: "croptopia:peanut"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "761844412DE1E613"
@@ -2584,11 +4234,22 @@
 		{
 			disable_toast: true
 			id: "16B46BB856ECF261"
-			rewards: [{
-				id: "0A07C7DDC0B13DD4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0A07C7DDC0B13DD4"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3E187B798334E70E"
+					item: {
+						count: 1
+						id: "croptopia:pecan"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2C74CCB75BB0324D"
@@ -2601,11 +4262,22 @@
 		{
 			disable_toast: true
 			id: "07AC594AD38C3946"
-			rewards: [{
-				id: "4377CEC0C63D28B1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4377CEC0C63D28B1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "54ED2474C4E4F1A4"
+					item: {
+						count: 1
+						id: "croptopia:pepper"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "29F29BB29822E1B7"
@@ -2618,11 +4290,22 @@
 		{
 			disable_toast: true
 			id: "1299B1923BC6CED4"
-			rewards: [{
-				id: "2558C41BCAA3E804"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2558C41BCAA3E804"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "409B4683E4E12637"
+					item: {
+						count: 1
+						id: "croptopia:radish"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5C1342E8577415A6"
@@ -2635,11 +4318,22 @@
 		{
 			disable_toast: true
 			id: "0F311A72CB012E75"
-			rewards: [{
-				id: "7FB06090C9EDCC9D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7FB06090C9EDCC9D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "72BDAF64CFE94E34"
+					item: {
+						count: 1
+						id: "croptopia:rhubarb"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1EFC4944AD4164E2"
@@ -2652,11 +4346,22 @@
 		{
 			disable_toast: true
 			id: "447B4E62A239D146"
-			rewards: [{
-				id: "72E1A64F39E63ADC"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "72E1A64F39E63ADC"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "78C5E8B4D2049024"
+					item: {
+						count: 1
+						id: "croptopia:rice"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "480C1DB839C7FAE8"
@@ -2669,11 +4374,22 @@
 		{
 			disable_toast: true
 			id: "34DECA0AAE2324AA"
-			rewards: [{
-				id: "0DB7ACB4463161C7"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0DB7ACB4463161C7"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "03B29A7E664183B4"
+					item: {
+						count: 1
+						id: "croptopia:rutabaga"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "45A13D80BDEBE41C"
@@ -2686,11 +4402,22 @@
 		{
 			disable_toast: true
 			id: "63192A3C5AF3B3BE"
-			rewards: [{
-				id: "3093B9F260BD458D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3093B9F260BD458D"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "621EECCB540B25F4"
+					item: {
+						count: 1
+						id: "croptopia:saguaro"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "05AD63C71FA62B9D"
@@ -2703,11 +4430,22 @@
 		{
 			disable_toast: true
 			id: "77DEA32204B47DD5"
-			rewards: [{
-				id: "431EB8E26C5CE7F9"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "431EB8E26C5CE7F9"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "416AC4191BB5A6EF"
+					item: {
+						count: 1
+						id: "croptopia:soybean"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7A34F0424CF874AD"
@@ -2720,11 +4458,22 @@
 		{
 			disable_toast: true
 			id: "4C2AA30A7F34480E"
-			rewards: [{
-				id: "4BF1BABB1C575757"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4BF1BABB1C575757"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "257083BA6C38C37B"
+					item: {
+						count: 1
+						id: "croptopia:spinach"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2DEBA4EC3AECE287"
@@ -2737,11 +4486,22 @@
 		{
 			disable_toast: true
 			id: "61FABFDD34A0EDE1"
-			rewards: [{
-				id: "017B0FCC37449D50"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "017B0FCC37449D50"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4B063A1BCC3C1489"
+					item: {
+						count: 1
+						id: "croptopia:squash"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "53F102B00F5B24AD"
@@ -2754,11 +4514,22 @@
 		{
 			disable_toast: true
 			id: "288779854EC5B98D"
-			rewards: [{
-				id: "42625849BDC1ADB0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "42625849BDC1ADB0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "013D220D2EA472B3"
+					item: {
+						count: 1
+						id: "croptopia:sweetpotato"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5A3C38143DB0B79E"
@@ -2771,11 +4542,22 @@
 		{
 			disable_toast: true
 			id: "272D8DD20B15D900"
-			rewards: [{
-				id: "160E3D10418C862A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "160E3D10418C862A"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "787133AEE720A1DA"
+					item: {
+						count: 1
+						id: "croptopia:tea_leaves"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1C89D06EEA30B66D"
@@ -2788,11 +4570,22 @@
 		{
 			disable_toast: true
 			id: "74C1B058465F3B69"
-			rewards: [{
-				id: "05857B2E5D1B04CE"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "05857B2E5D1B04CE"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4A92C8ACE54DF198"
+					item: {
+						count: 1
+						id: "croptopia:tomatillo"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1E5F9D2741EA2C77"
@@ -2805,11 +4598,22 @@
 		{
 			disable_toast: true
 			id: "2096AF17CCE50B2C"
-			rewards: [{
-				id: "2010CBE01ABCB6B0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2010CBE01ABCB6B0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "42AB11E91D1CC27D"
+					item: {
+						count: 1
+						id: "croptopia:tomato"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1B1F6CFC9CFB7076"
@@ -2822,11 +4626,22 @@
 		{
 			disable_toast: true
 			id: "3FCE151270723584"
-			rewards: [{
-				id: "0FDE57AB22D1CEA0"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0FDE57AB22D1CEA0"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "133057E2D0B97906"
+					item: {
+						count: 1
+						id: "croptopia:turmeric"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "601CBCA8E6DAEA4B"
@@ -2839,11 +4654,22 @@
 		{
 			disable_toast: true
 			id: "3840B090DD7CAB5C"
-			rewards: [{
-				id: "35C921A5BFA126F5"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "35C921A5BFA126F5"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7CEB3C0872783DC9"
+					item: {
+						count: 1
+						id: "croptopia:turnip"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "46A6852283496D09"
@@ -2856,11 +4682,22 @@
 		{
 			disable_toast: true
 			id: "0BB3AEF80046EA81"
-			rewards: [{
-				id: "6254E4491CD18021"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6254E4491CD18021"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "097941802865F265"
+					item: {
+						count: 1
+						id: "croptopia:vanilla"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "09E54FAC7F16351F"
@@ -2873,11 +4710,22 @@
 		{
 			disable_toast: true
 			id: "3A976F10D3F711C5"
-			rewards: [{
-				id: "2BF778A7AFAF09B4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2BF778A7AFAF09B4"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2331E51D7A75D0CA"
+					item: {
+						count: 1
+						id: "croptopia:walnut"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "771DB05B4A523B23"
@@ -2890,11 +4738,22 @@
 		{
 			disable_toast: true
 			id: "3E1CDA392D5DB0DE"
-			rewards: [{
-				id: "20234D365FA72754"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "20234D365FA72754"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3FA3759479491BC1"
+					item: {
+						count: 1
+						id: "croptopia:yam"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "00488A12C5FCD370"
@@ -2907,11 +4766,22 @@
 		{
 			disable_toast: true
 			id: "26F9BD953FF97379"
-			rewards: [{
-				id: "2EAC0FB788E2198C"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2EAC0FB788E2198C"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "78BCA08900EA8066"
+					item: {
+						count: 1
+						id: "croptopia:zucchini"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5C2E1AB70F7C7287"
@@ -2924,11 +4794,22 @@
 		{
 			disable_toast: true
 			id: "71AFBF8CF8D57CD6"
-			rewards: [{
-				id: "4B24B6D6DDCC5CC1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4B24B6D6DDCC5CC1"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7AD7ED2D7D704638"
+					item: {
+						count: 1
+						id: "croptopia:anchovy"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0298D3EF3D7C4A76"
@@ -2941,11 +4822,22 @@
 		{
 			disable_toast: true
 			id: "2272E40B94DA5E04"
-			rewards: [{
-				id: "053500A85EF48D64"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "053500A85EF48D64"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "3C326258857698EA"
+					item: {
+						count: 1
+						id: "croptopia:bacon"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "27FD965C2A66FDDF"
@@ -2958,11 +4850,22 @@
 		{
 			disable_toast: true
 			id: "595CD7CACB0C1029"
-			rewards: [{
-				id: "38F2EE2AA0A3393F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "38F2EE2AA0A3393F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "289CD23DDC24C2F7"
+					item: {
+						count: 1
+						id: "croptopia:calamari"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1F15A2FBBF4979A7"
@@ -2975,11 +4878,22 @@
 		{
 			disable_toast: true
 			id: "34F0A1AF2A9289D5"
-			rewards: [{
-				id: "2EEBCC32FD2916EB"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "2EEBCC32FD2916EB"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "25C15E8B2E1C027C"
+					item: {
+						count: 1
+						id: "croptopia:clam"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6F88FCB6E8224239"
@@ -2992,11 +4906,22 @@
 		{
 			disable_toast: true
 			id: "73F4585769E06DB2"
-			rewards: [{
-				id: "4065AACA4141FCFB"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4065AACA4141FCFB"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7B264C3BC7F1FA02"
+					item: {
+						count: 1
+						id: "croptopia:crab"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6618FBDE6A7CD9CD"
@@ -3009,11 +4934,22 @@
 		{
 			disable_toast: true
 			id: "613CCD55178BF221"
-			rewards: [{
-				id: "7837464E111847D3"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7837464E111847D3"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "075A09B506F70913"
+					item: {
+						count: 1
+						id: "croptopia:frog_legs"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3A77AF67BD7415E4"
@@ -3026,11 +4962,22 @@
 		{
 			disable_toast: true
 			id: "6378AA82546F749A"
-			rewards: [{
-				id: "301A1BB96CF82B50"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "301A1BB96CF82B50"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "700F4531CB75B712"
+					item: {
+						count: 1
+						id: "croptopia:glowing_calamari"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4D70D4F645CA7687"
@@ -3043,11 +4990,22 @@
 		{
 			disable_toast: true
 			id: "0039837C4A48CE80"
-			rewards: [{
-				id: "7FE6DD5E2D96A9BE"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7FE6DD5E2D96A9BE"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "78DD8C1AF51EFEAB"
+					item: {
+						count: 1
+						id: "croptopia:oyster"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "46C5F4E92E28ED3E"
@@ -3060,11 +5018,22 @@
 		{
 			disable_toast: true
 			id: "60F9CF9C8CFF8EF7"
-			rewards: [{
-				id: "41189D2AED160518"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "41189D2AED160518"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "6EF4844A61948840"
+					item: {
+						count: 1
+						id: "croptopia:raw_ravager_meat"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6ABC52C7B260A233"
@@ -3077,11 +5046,22 @@
 		{
 			disable_toast: true
 			id: "4825BF1F07D5B6C3"
-			rewards: [{
-				id: "1331031853411671"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1331031853411671"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "553D0EE4DF4C66BB"
+					item: {
+						count: 1
+						id: "croptopia:roe"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0CF13B5D89DD66E5"
@@ -3094,11 +5074,22 @@
 		{
 			disable_toast: true
 			id: "5E693F6FD608854A"
-			rewards: [{
-				id: "5AC4D14B7AC7CF0E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5AC4D14B7AC7CF0E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4E6940BB6324FFFE"
+					item: {
+						count: 1
+						id: "croptopia:sea_lettuce"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "77B17854DA8EF768"
@@ -3111,11 +5102,22 @@
 		{
 			disable_toast: true
 			id: "0DEE4AF615138236"
-			rewards: [{
-				id: "12999CDA8EEE8DF9"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "12999CDA8EEE8DF9"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "21B8DDD16EDF6099"
+					item: {
+						count: 1
+						id: "croptopia:shrimp"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "086078633260DA4F"
@@ -3128,11 +5130,22 @@
 		{
 			disable_toast: true
 			id: "359EB4007DADC19A"
-			rewards: [{
-				id: "668DF598B821B45E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "668DF598B821B45E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4262F8AD76309E11"
+					item: {
+						count: 1
+						id: "croptopia:tuna"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0334411AF37E2D85"

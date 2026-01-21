@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "create:cardboard_package_12x12"
+	}
 	id: "4386705CDE85AE0E"
 	loot_size: 1
 	order_index: 16

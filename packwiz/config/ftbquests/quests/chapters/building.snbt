@@ -241,7 +241,7 @@
 			rewards: [{
 				id: "65994F41F773F85E"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true
@@ -368,7 +368,7 @@
 			rewards: [{
 				id: "5141ABDF0A45C469"
 				type: "xp"
-				xp: 10
+				xp: 5
 			}]
 			tasks: [{
 				disable_toast: true

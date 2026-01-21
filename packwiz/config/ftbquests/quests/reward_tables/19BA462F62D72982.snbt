@@ -1,0 +1,35 @@
+{
+	icon: {
+		id: "mekanism:ingot_steel"
+	}
+	id: "19BA462F62D72982"
+	loot_size: 1
+	order_index: 23
+	rewards: [
+		{
+			id: "41F667F0970C76B8"
+			item: {
+				count: 1
+				id: "mekanism:ingot_steel"
+			}
+			random_bonus: 7
+		}
+		{
+			id: "6DF2722BFFCF4257"
+			item: {
+				count: 1
+				id: "mekanism:block_steel"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "173D253649D01865"
+			item: {
+				count: 1
+				id: "mekanism:steel_casing"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+	]
+}

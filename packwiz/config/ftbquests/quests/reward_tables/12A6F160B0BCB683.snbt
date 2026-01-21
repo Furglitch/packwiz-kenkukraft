@@ -1,0 +1,204 @@
+{
+	icon: {
+		id: "ae2:certus_quartz_crystal"
+	}
+	id: "12A6F160B0BCB683"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{
+			id: "717DEFF9E6F1FC8D"
+			item: {
+				count: 1
+				id: "ae2:cell_component_1k"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "31027904590A1598"
+			item: {
+				count: 1
+				id: "ae2:cell_component_4k"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "1BDF5D06A9C736B7"
+			item: {
+				count: 1
+				id: "ae2:item_cell_housing"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "225692D631669CE9"
+			item: {
+				count: 1
+				id: "ae2:fluid_cell_housing"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "6A25EEEBE697AFEB"
+			item: {
+				count: 1
+				id: "appex:experience_cell_housing"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "68F627C840F12A86"
+			item: {
+				count: 1
+				id: "appflux:fe_cell_housing"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "55C32459C3F7DDF5"
+			item: {
+				count: 1
+				id: "appmek:chemical_cell_housing"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "6C4771362064840F"
+			item: {
+				count: 1
+				id: "ae2:printed_silicon"
+			}
+			random_bonus: 3
+		}
+		{
+			id: "5D5E3A3946509532"
+			item: {
+				count: 1
+				id: "ae2:printed_calculation_processor"
+			}
+			random_bonus: 3
+			weight: 0.75f
+		}
+		{
+			id: "59062AE97F427515"
+			item: {
+				count: 1
+				id: "ae2:printed_engineering_processor"
+			}
+			random_bonus: 3
+			weight: 0.25f
+		}
+		{
+			id: "44CA4339069BC6FC"
+			item: {
+				count: 1
+				id: "ae2:printed_logic_processor"
+			}
+			random_bonus: 3
+			weight: 0.5f
+		}
+		{
+			id: "42EE664DC64CD84B"
+			item: {
+				count: 1
+				id: "ae2:logic_processor"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "188069F68B176A92"
+			item: {
+				count: 1
+				id: "ae2:calculation_processor"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "78ED6718CD23D4D2"
+			item: {
+				count: 1
+				id: "ae2:engineering_processor"
+			}
+			random_bonus: 1
+			weight: 0.1f
+		}
+		{
+			id: "10EF736C1608891A"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+			random_bonus: 7
+			weight: 0.75f
+		}
+		{
+			id: "1B4644F14EDB21DA"
+			item: {
+				count: 1
+				id: "ae2:charged_certus_quartz_crystal"
+			}
+			random_bonus: 3
+			weight: 0.5f
+		}
+		{
+			id: "46F8A72B4F553F87"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_dust"
+			}
+			random_bonus: 7
+		}
+		{
+			id: "106B3FE2774B5F8E"
+			item: {
+				count: 1
+				id: "ae2:quartz_block"
+			}
+			random_bonus: 3
+			weight: 0.5f
+		}
+		{
+			id: "5D36FC149C4D1193"
+			item: {
+				count: 1
+				id: "ae2:flawless_budding_quartz"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "25ADF4401080FED4"
+			item: {
+				count: 1
+				id: "ae2:flawed_budding_quartz"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "4DCC23D56F49B772"
+			item: {
+				count: 1
+				id: "ae2:chipped_budding_quartz"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "620D23EAB5AE3F05"
+			item: {
+				count: 1
+				id: "ae2:damaged_budding_quartz"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+	]
+}

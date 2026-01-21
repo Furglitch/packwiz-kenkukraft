@@ -82,11 +82,22 @@
 		{
 			disable_toast: true
 			id: "21DD44C771C6498C"
-			rewards: [{
-				id: "77B15F6E3636ECD4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "77B15F6E3636ECD4"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3B135DC98F65F77D"
+					item: {
+						count: 1
+						id: "farmersdelight:cod_slice"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "13285C682C466964"
@@ -116,11 +127,22 @@
 		{
 			disable_toast: true
 			id: "6C51AEF2C4E60D3F"
-			rewards: [{
-				id: "5819B2C5CFF51D4F"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5819B2C5CFF51D4F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "7B027D61DA2B6DFD"
+					item: {
+						count: 1
+						id: "farmersdelight:rice_panicle"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "746185EC6BEB9C32"
@@ -201,11 +223,22 @@
 		{
 			disable_toast: true
 			id: "52DDFA5774A52E14"
-			rewards: [{
-				id: "0BEBA45713EEE872"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0BEBA45713EEE872"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "080DB9B48402F35E"
+					item: {
+						count: 1
+						id: "farmersdelight:dog_food"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "50BFAAF0BCB43640"
@@ -371,11 +404,22 @@
 		{
 			disable_toast: true
 			id: "4419DA43A950D83D"
-			rewards: [{
-				id: "402E0655FBB7532C"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "402E0655FBB7532C"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "23609DB2BE4C86C3"
+					item: {
+						count: 1
+						id: "farmersdelight:chicken_cuts"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3207C20D42F4474B"
@@ -439,11 +483,22 @@
 		{
 			disable_toast: true
 			id: "5AC8857766CB07BB"
-			rewards: [{
-				id: "62AAD4598BF15128"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "62AAD4598BF15128"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "404F0FA008916582"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "440699984CD09B18"
@@ -507,11 +562,22 @@
 		{
 			disable_toast: true
 			id: "5850A760A151EBCD"
-			rewards: [{
-				id: "0302F32568708CB9"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0302F32568708CB9"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "137636A58986B55B"
+					item: {
+						count: 1
+						id: "farmersdelight:minced_beef"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "116EA125F7863A39"
@@ -524,11 +590,22 @@
 		{
 			disable_toast: true
 			id: "608ED54CECA86ED8"
-			rewards: [{
-				id: "7B34747517430AA4"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7B34747517430AA4"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "08A6C75A03C16B62"
+					item: {
+						count: 1
+						id: "farmersdelight:mutton_chops"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7B4C55178EEE72B5"
@@ -609,11 +686,22 @@
 		{
 			disable_toast: true
 			id: "52A6D1616EFEDE56"
-			rewards: [{
-				id: "3EFAD70A8E0310ED"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3EFAD70A8E0310ED"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "67C980B4C269F5A1"
+					item: {
+						count: 1
+						id: "farmersdelight:ham"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6FD6E2C45E2775A0"
@@ -643,11 +731,22 @@
 		{
 			disable_toast: true
 			id: "3130CEEF2E3E4434"
-			rewards: [{
-				id: "69098B8F678616C5"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "69098B8F678616C5"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "011273D1A1994D6F"
+					item: {
+						count: 1
+						id: "farmersdelight:pumpkin_slice"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "393A953A9A3CD16D"
@@ -847,11 +946,22 @@
 		{
 			disable_toast: true
 			id: "4A58CE7F8290A598"
-			rewards: [{
-				id: "6152C4144C169465"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6152C4144C169465"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "43907411BA45166C"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage_leaf"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "27076ECCD68B0490"
@@ -864,11 +974,22 @@
 		{
 			disable_toast: true
 			id: "220FD8BAAF2D68FB"
-			rewards: [{
-				id: "726AC37F2450F3B9"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "726AC37F2450F3B9"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "69FA2A4992DF0EA6"
+					item: {
+						count: 1
+						id: "farmersdelight:bacon"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0661623DBE9E5C80"
@@ -898,11 +1019,22 @@
 		{
 			disable_toast: true
 			id: "0FC2CAC3D59010F5"
-			rewards: [{
-				id: "4E5165C2CE82A005"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4E5165C2CE82A005"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5405D9886D778F58"
+					item: {
+						count: 1
+						id: "farmersdelight:salmon_slice"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4EA80B57FC3F2405"
@@ -1068,11 +1200,22 @@
 		{
 			disable_toast: true
 			id: "1E5D2281FA8AA119"
-			rewards: [{
-				id: "0D7BB19351C4BA80"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "0D7BB19351C4BA80"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "59386421F333CAC2"
+					item: {
+						count: 1
+						id: "farmersdelight:onion"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6A0DBBD4AD858926"
@@ -1102,11 +1245,22 @@
 		{
 			disable_toast: true
 			id: "5E9D84D3E5E71FFA"
-			rewards: [{
-				id: "4169E9BEAEF50A3A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4169E9BEAEF50A3A"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4002B7DA1D998C17"
+					item: {
+						count: 1
+						id: "farmersdelight:horse_feed"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "658366C0932637CF"
@@ -1170,11 +1324,22 @@
 		{
 			disable_toast: true
 			id: "6E7A17D0AF7D3238"
-			rewards: [{
-				id: "1E7390B6A1A6B796"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "1E7390B6A1A6B796"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "16CA6988BD673D8C"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2560E50ABE14F4E0"
@@ -1476,11 +1641,22 @@
 		{
 			disable_toast: true
 			id: "7D6B06A37106FF1E"
-			rewards: [{
-				id: "737992DD9DCAF46D"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "737992DD9DCAF46D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "64FA3713ABB108B9"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato_crate"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "67B78B140915B305"
@@ -1510,11 +1686,22 @@
 		{
 			disable_toast: true
 			id: "44E9FED909B7D5EA"
-			rewards: [{
-				id: "7BFB9AB27D491CFD"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "7BFB9AB27D491CFD"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3F5E5436E236CCB5"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage_crate"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "5640A98C6473384E"
@@ -1527,11 +1714,22 @@
 		{
 			disable_toast: true
 			id: "7A7E5F3A2A090B5B"
-			rewards: [{
-				id: "33981963B714674B"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "33981963B714674B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "03E08D59F278F7BA"
+					item: {
+						count: 1
+						id: "farmersdelight:onion_crate"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "3781FD989EEA61F6"
@@ -1595,11 +1793,22 @@
 		{
 			disable_toast: true
 			id: "56B440AC5962E236"
-			rewards: [{
-				id: "3A2D8E25BC4C6E20"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "3A2D8E25BC4C6E20"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "422F80D57A851D19"
+					item: {
+						count: 1
+						id: "farmersdelight:carrot_crate"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "05ECBF9B86A14EB1"
@@ -1629,11 +1838,22 @@
 		{
 			disable_toast: true
 			id: "2F14D91B3CE52299"
-			rewards: [{
-				id: "27FE38136B79B5EA"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "27FE38136B79B5EA"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "669238747337282E"
+					item: {
+						count: 1
+						id: "farmersdelight:beetroot_crate"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "09F65DE7152ED8F0"
@@ -1663,11 +1883,22 @@
 		{
 			disable_toast: true
 			id: "2688753C79DA72F0"
-			rewards: [{
-				id: "620C979ACDF1F1D1"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "620C979ACDF1F1D1"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "13CB9AE5066885F7"
+					item: {
+						count: 1
+						id: "farmersdelight:potato_crate"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0BF9C516531A3F18"
@@ -1731,11 +1962,22 @@
 		{
 			disable_toast: true
 			id: "44E4BB30805C49FC"
-			rewards: [{
-				id: "39BA61997D8E5129"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "39BA61997D8E5129"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6EFCFB8C7B7C70CA"
+					item: {
+						count: 1
+						id: "farmersdelight:roast_chicken_block"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "6E05593409EEE8EC"
@@ -1782,11 +2024,22 @@
 		{
 			disable_toast: true
 			id: "0003E90CC166050E"
-			rewards: [{
-				id: "5F470ADF53D8CD9A"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5F470ADF53D8CD9A"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "52E4A178DE862634"
+					item: {
+						count: 1
+						id: "farmersdelight:rice_bag"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "7905529FB12B3D39"

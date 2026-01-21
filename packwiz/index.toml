@@ -1010,6 +1010,10 @@ file = "kubejs/server_scripts/infodump.js"
 hash = "fca0dbba0809c64909ea705c8751d7c3f66369caa19681e6fa2aff7cd2f47904"
 
 [[files]]
+file = "kubejs/server_scripts/items/discs.loot.js"
+hash = "4d354f0114e7d7cf1e5453b92095a404afe0f6093b9c68624c0e28cf65cebf93"
+
+[[files]]
 file = "kubejs/startup_scripts/creative_tab.js"
 hash = "64b21cc2052a2d015f45e47444335a0b2b6d51fc3c97d60cc745be304e2e317b"
 

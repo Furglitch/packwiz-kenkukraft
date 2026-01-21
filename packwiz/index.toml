@@ -306,7 +306,7 @@ hash = "1da2b55cb14e5e83b668b530d270abdcc4d58e50b8642f4b7d570ed4ca3d8de2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kenkukraft.snbt"
-hash = "4f6cd331ac3bdd07051fddcaf7082171581cbdd1765bbb8e4ffdd6e5e2e8915a"
+hash = "6a1cf899bb9041dc2b67f0de7e8b313fa97152217412671710c6eafc5edd13e9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mekanism.snbt"
@@ -346,7 +346,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "8bff1d99bd6ec79b375ede84150950f85bf05e53f4e424bda0a94a1cc10cc2a9"
+hash = "df7e4f323cfc53886c121c56ed999efed5f7617c342908d7c8156374a9f63811"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/00B1F57F23BD6612.snbt"

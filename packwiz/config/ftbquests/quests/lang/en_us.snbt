@@ -83,6 +83,13 @@
 	quest.22DFCB8538654849.quest_subtitle: "The Infection takes it's toll"
 	quest.22DFCB8538654849.title: "Driven Mad"
 	quest.232F6659D4B3DAF5.title: "Framed Blocks"
+	quest.235C08D999D50FFF.quest_desc: [
+		"Like the menu music? There's discs!"
+		""
+		""
+		"&8Music provided royalty-free by Fesliyan Studios Inc. - https://www.fesliyanstudios.com&r"
+	]
+	quest.235C08D999D50FFF.title: "Music Discs"
 	quest.2366E7D0CEDE316B.quest_subtitle: "Bring Them Back"
 	quest.2366E7D0CEDE316B.title: "It's... Alive!"
 	quest.23CD143A2F7DF5FB.title: "Cable Facades"

@@ -31,7 +31,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: 0.0d
-			y: 1.5d
+			y: 3.5d
 		}
 	]
 	order_index: 0
@@ -79,6 +79,24 @@
 			}]
 			x: 1.5d
 			y: 0.0d
+		}
+		{
+			icon: {
+				id: "kubejs:music_disc_anhedonia"
+			}
+			id: "235C08D999D50FFF"
+			rewards: [{
+				id: "3DE8141408472CB3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "14BE8B48EB0FCA4A"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(kenkukraft:music_discs)", "minecraft:custom_name": "\"Music Discs\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
 		}
 	]
 }

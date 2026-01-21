@@ -68,11 +68,11 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oBagus Lib§r: 13.22.0 ➜ 13.23.0
 - §oCertain Questing Additions§r: 1.0.7 ➜ 1.1.3
 - §oClavis§r: 0.2.10 ➜ 0.2.11
-- §oColourful Containers Dark Mode GUI§r: §8§lDarkmode §f§lColourful Containers§8.zip ➜ §8§lDarkmode §f§lColourful Containers§8.zip
+- §oColourful Containers Dark Mode GUI§r: [File ID 7243301] ➜ [File ID 7454582]
 - §oCompact Machines§r: 7.0.78 ➜ 7.0.79
 - §oConcurrent Chunk Management Engine§r: 0.3.0 ➜ 0.3.0
 - §oConstruction Wands Revived§r: 3.3.1 ➜ 3.3.2
-- §oCreate Encased§r: 1.21.1 ➜ 1.21.1
+- §oCreate Encased§r: 1.7.2-fix2 ➜ 1.8-ht2
 - §oCreate: Blocks & Bogies§r: 1.0.6 ➜ 1.0.7
 - §oCreate: Filters Anywhere§r: 2.2.0 ➜ 2.2.1
 - §oCreate: Let The Adventure Begin§r: 3.6.1 ➜ 3.6.2
@@ -91,11 +91,11 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oLootr (Forge & NeoForge)§r: 1.11.36.110 ➜ 1.11.36.111
 - §oLuki's Crazy Chambers§r: 1.0.2 ➜ 1.0.3
 - §oMakeUp - Ultra Fast | Shaders§r: 9.4 ➜ 9.4a
-- §oMandala's GUI - Dark mode - Utopia extension [on break]§r: Mandala Utopia.zip ➜ Mandala Utopia.zip
+- §oMandala's GUI - Dark mode - Utopia extension§r: [File ID 6699368] ➜ [File ID 7441853]
 - §oMech Trowel§r: 1.2.9 ➜ 1.2.11
 - §oMEGA Cells§r: 4.10.1 ➜ 4.10.2
 - §oMekaJadeUpgrades (Mekanism addon)§r: 1.1 ➜ 1.2
-- §oMineColonies§r: 1.21.1 ➜ 1.21.1
+- §oMineColonies§r: 1.1.1241 ➜ 1.1.1242
 - §oModerately Enough Effect Descriptions (MEED)§r: 7.6 ➜ 7.7
 - §oMoonlight Lib§r: 2.29.4 ➜ 2.29.11
 - §oMore Relics§r: 1.6.1.1 ➜ 1.6.2

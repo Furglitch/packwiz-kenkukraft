@@ -62,11 +62,11 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - *Bagus Lib*: 13.22.0 ➜ 13.23.0
 - *Certain Questing Additions*: 1.0.7 ➜ 1.1.3
 - *Clavis*: 0.2.10 ➜ 0.2.11
-- *Colourful Containers Dark Mode GUI*: §8§lDarkmode §f§lColourful Containers§8.zip ➜ §8§lDarkmode §f§lColourful Containers§8.zip
+- *Colourful Containers Dark Mode GUI*: [File ID 7243301] ➜ [File ID 7454582]
 - *Compact Machines*: 7.0.78 ➜ 7.0.79
 - *Concurrent Chunk Management Engine*: 0.3.0 ➜ 0.3.0
 - *Construction Wands Revived*: 3.3.1 ➜ 3.3.2
-- *Create Encased*: 1.21.1 ➜ 1.21.1
+- *Create Encased*: 1.7.2-fix2 ➜ 1.8-ht2
 - *Create: Blocks & Bogies*: 1.0.6 ➜ 1.0.7
 - *Create: Filters Anywhere*: 2.2.0 ➜ 2.2.1
 - *Create: Let The Adventure Begin*: 3.6.1 ➜ 3.6.2
@@ -85,11 +85,11 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - *Lootr (Forge & NeoForge)*: 1.11.36.110 ➜ 1.11.36.111
 - *Luki's Crazy Chambers*: 1.0.2 ➜ 1.0.3
 - *MakeUp - Ultra Fast | Shaders*: 9.4 ➜ 9.4a
-- *Mandala's GUI - Dark mode - Utopia extension [on break]*: Mandala Utopia.zip ➜ Mandala Utopia.zip
+- *Mandala's GUI - Dark mode - Utopia extension*: [File ID 6699368] ➜ [File ID 7441853]
 - *Mech Trowel*: 1.2.9 ➜ 1.2.11
 - *MEGA Cells*: 4.10.1 ➜ 4.10.2
 - *MekaJadeUpgrades (Mekanism addon)*: 1.1 ➜ 1.2
-- *MineColonies*: 1.21.1 ➜ 1.21.1
+- *MineColonies*: 1.1.1241 ➜ 1.1.1242
 - *Moderately Enough Effect Descriptions (MEED)*: 7.6 ➜ 7.7
 - *Moonlight Lib*: 2.29.4 ➜ 2.29.11
 - *More Relics*: 1.6.1.1 ➜ 1.6.2

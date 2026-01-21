@@ -40,8 +40,9 @@ jobs:
         run: |
           NAME=$(grep '^name = ' packwiz/pack.toml | cut -d '"' -f 2)
           VERSION=$(grep '^version = ' packwiz/pack.toml | cut -d '"' -f 2)
-          echo "name=$NAME" >> $GITHUB_OUTPUT
+          SANITIZED_NAME=$(printf '%s' "$NAME" | sed 's/[":<>|*?\\\/]/-/g')
           echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "name=$SANITIZED_NAME" >> $GITHUB_OUTPUT
         
       - name: Refresh modpack
         working-directory: ./packwiz

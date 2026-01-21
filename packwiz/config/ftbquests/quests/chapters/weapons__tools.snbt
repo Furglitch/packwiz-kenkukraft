@@ -1088,6 +1088,13 @@
 				id: "pointblank:ammo556"
 			}
 			id: "113C764056A8B5D2"
+			rewards: [
+				{
+					id: "593168A54E1B86E0"
+					type: "xp"
+					xp: 5
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "23983713D2231F04"
@@ -1104,6 +1111,13 @@
 				id: "pointblank:holographic"
 			}
 			id: "371F5577BBDFE54C"
+			rewards: [
+				{
+					id: "593168A54E1B86E0"
+					type: "xp"
+					xp: 5
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "543F37DDD2706CFE"
@@ -1120,6 +1134,13 @@
 				id: "pointblank:mp5"
 			}
 			id: "1F06CEBA82A02303"
+			rewards: [
+				{
+					id: "593168A54E1B86E0"
+					type: "xp"
+					xp: 5
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "44ECD6FD69024EFC"
@@ -1131,6 +1152,13 @@
 		}
 		{
 			id: "6EC888A46272DD02"
+			rewards: [
+				{
+					id: "593168A54E1B86E0"
+					type: "xp"
+					xp: 10
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0279EFAEECDC55EB"

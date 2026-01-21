@@ -9,55 +9,113 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 
 §n§lConfigs Changed:§r
 
+- §oBagus Lib§r
+    - Disabled 'Cooler End Poem' feature as it caused the new custom End Poem to not display
 - §oCarry On§r
     - Disabled carrying §oSpore§r mobs, Bosses, and §oLootr§r containers
-- §oFTB Quests§r
-    - Added quests (Note: Incomplete, more to come)
-- §oKubeJS§r
-    - Disabled /locate in favor of using §oExplorer's Compass§r and §oNature's Compass§r
 - §oConfigured Defaults§r
     - Enabled resource packs by default
     - Fixed keybinds
 - §oFancyMenu§r
     - Adjust main menu layout due to overlap from §oModpack Update Checker§r
     - Adjust inventory button layout due to overlap from §oDragon Survival§r
-- §oBagus Lib§r
-    - Disabled 'Cooler End Poem' feature as it caused the custom End Poem to not display
 - §oFancy Toasts§r
     - Disabled the 'Regions Explored' advancement toast since it's likely triggered on spawn
     - Disable toasts for individual Quest tasks (not implemented, future update: [Bivrik/FancyToasts#52](https://github.com/Bivrik/FancyToasts/pull/52))
     - Added custom toast texture, though it's disabled as it crashes the game on Linux (see [Bivrik/FancyToasts#53](https://github.com/Bivrik/FancyToasts/issues/53)), which is what my friend group primarily uses
+- §oFTB Quests§r
+    - Added quests (Note: Incomplete, more to come)
+- §oKubeJS§r
+    - Disabled /locate in favor of using §oExplorer's Compass§r and §oNature's Compass§r
 
 §n§lAdded:§r
 
-- §oFigura§r
-- §oCustomizable Player Models§r
-- §oModpack Update Checker§r
-- §oFancyMenu§r
 - §oCreate: Extended Wrenches§r
-- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
-- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
-- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
-- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
-- §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
+- §oCustomizable Player Models§r
+- §oFancyMenu§r
+- §oFigura§r
+- §oModpack Update Checker§r
 
 §n§lRemoved:§r
 
-- §oTerralith§r: World Generation performance
-- §oMob Control§r: Integrated with KubeJS
-- §oCreate: Cobblestone§r: Redundant with §oCreate: Mechanical Extruder§r
-- §oVillage Spawn Point§r: Removal promotes exploration
-- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
-- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
-- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
-- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
 - §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
+- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
+- §oCreate: Cobblestone§r: Redundant with §oCreate: Mechanical Extruder§r
+- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
+- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
+- §oMob Control§r: Integrated with KubeJS
+- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
+- §oTerralith§r: World Generation performance
+- §oVillage Spawn Point§r: Removal promotes exploration
 
 §n§lSwapped:§r
 
-- §oNemo's Inventory Sorting§r ➜ §oSophisticated Sorter§r: Personal preference for sorting style
 - §oAdvancements Reloaded§r ➜ §oBetter Advancements§r: AR had some visual bugs. Likely a conflict with other UI mods.
+- §oNemo's Inventory Sorting§r ➜ §oSophisticated Sorter§r: Personal preference for sorting style
 
 §n§lUpdated:§r
 
-- §oMod Name§r: X.X.X ➜ Y.Y.Y
+- §oAce's Spell Utils§r: 1.1.23 ➜ 1.2.1
+- §oAlmanac Lib§r: 1.5.0 ➜ 1.5.2
+- §oAlshanex's Familiars§r: 3.7 ➜ 3.8
+- §oAmbientSounds 6§r: 6.3.1 ➜ 6.3.3
+- §oAmendments§r: 2.0.13 ➜ 2.0.15
+- §oApothic Attributes§r: 2.9.0 ➜ 2.9.1
+- §oArbitrary Delight§r: 0.9.0 ➜ 0.9.1
+- §oArs Elemental§r: 0.7.6.12 ➜ 0.7.6.13
+- §oArs Technica§r: 2.5.0 ➜ 2.5.2
+- §oArtifacts§r: 13.1.0 ➜ 13.2.0
+- §oBagus Lib§r: 13.22.0 ➜ 13.23.0
+- §oCertain Questing Additions§r: 1.0.7 ➜ 1.1.3
+- §oClavis§r: 0.2.10 ➜ 0.2.11
+- §oColourful Containers Dark Mode GUI§r: §8§lDarkmode §f§lColourful Containers§8.zip ➜ §8§lDarkmode §f§lColourful Containers§8.zip
+- §oCompact Machines§r: 7.0.78 ➜ 7.0.79
+- §oConcurrent Chunk Management Engine§r: 0.3.0 ➜ 0.3.0
+- §oConstruction Wands Revived§r: 3.3.1 ➜ 3.3.2
+- §oCreate Encased§r: 1.21.1 ➜ 1.21.1
+- §oCreate: Blocks & Bogies§r: 1.0.6 ➜ 1.0.7
+- §oCreate: Filters Anywhere§r: 2.2.0 ➜ 2.2.1
+- §oCreate: Let The Adventure Begin§r: 3.6.1 ➜ 3.6.2
+- §oCreate: Randomize Filters§r: 1.0.5 ➜ 1.0.6
+- §oCreativeCore§r: 2.13.24 ➜ 2.13.25
+- §oEarth Mobs§r: 19.2.0 ➜ 19.3.0
+- §oExtreme sound muffler - (Neo)Forge§r: 3.52 ➜ 3.54
+- §oFamiliarsLib§r: 1.1 ➜ 1.5
+- §oFarmer's Cutting Collection§r: 1.1 ➜ 1.2
+- §oFarming for Blockheads§r: 21.1.10 ➜ 21.1.11
+- §oFurnitury - Vanilla Styled Furniture§r: 2.3512 ➜ 3.0001
+- §oFusion (Connected Textures)§r: 1.2.11e ➜ 1.2.12
+- §oFzzy Config§r: 0.7.4 ➜ 0.7.5
+- §oKleeSlabs§r: 21.1.8 ➜ 21.1.9
+- §oKotlin for Forge§r: 5.10.0 ➜ 5.11.0
+- §oLootr (Forge & NeoForge)§r: 1.11.36.110 ➜ 1.11.36.111
+- §oLuki's Crazy Chambers§r: 1.0.2 ➜ 1.0.3
+- §oMakeUp - Ultra Fast | Shaders§r: 9.4 ➜ 9.4a
+- §oMandala's GUI - Dark mode - Utopia extension [on break]§r: Mandala Utopia.zip ➜ Mandala Utopia.zip
+- §oMech Trowel§r: 1.2.9 ➜ 1.2.11
+- §oMEGA Cells§r: 4.10.1 ➜ 4.10.2
+- §oMekaJadeUpgrades (Mekanism addon)§r: 1.1 ➜ 1.2
+- §oMineColonies§r: 1.21.1 ➜ 1.21.1
+- §oModerately Enough Effect Descriptions (MEED)§r: 7.6 ➜ 7.7
+- §oMoonlight Lib§r: 2.29.4 ➜ 2.29.11
+- §oMore Relics§r: 1.6.1.1 ➜ 1.6.2
+- §oNot Enough Glyphs§r: 4.2.3.4 ➜ 4.2.4
+- §oOh The Trees You'll Grow§r: 5.1.2 ➜ 5.2.0
+- §oOritech§r: 1.0.0 ➜ 1.0.0
+- §oPointBlank: Jelly§r: 2.1.0 ➜ 2.2.0
+- §oPufferfish's Attributes [Fabric & Forge & NeoForge]§r: 0.8.0 ➜ 0.8.1
+- §oRegions Unexplored (forge/fabric)§r: 0.5.7 ➜ 0.5.9
+- §oRustic Delight§r: 1.5.1 ➜ 1.5.2
+- §oScholar§r: 1.1.11.1 ➜ 1.1.12
+- §oSooty Chimneys§r: 1.3.3 ➜ 1.3.4
+- §oSophisticated Backpacks§r: 3.25.22.1487 ➜ 3.25.24.1499
+- §oSophisticated Core§r: 1.3.100.1348 ➜ 1.3.105.1414
+- §oSophisticated Storage in Motion§r: 0.10.24.155 ➜ 0.10.26.181
+- §oSophisticated Storage§r: 1.5.19.1415 ➜ 1.5.22.1445
+- §oStructurify§r: 2.0.11 ➜ 2.0.12
+- §oTraveler's Backpack§r: 10.1.31 ➜ 10.1.32
+- §oTundra Dragon (Dragon Survival Add-On)§r: 1.3.3 ➜ 1.4.1
+- §oUtilitarian§r: 0.17.1 ➜ 0.18.0
+- §oVeggies Delight (A Farmer's Delight Add-on)§r: 1.9 ➜ 1.9.2
+- §oVillager API§r: 1.25.12.3 ➜ 1.26.01.1
+- §oYetAnotherConfigLib§r: 3.8.1 ➜ 3.8.2

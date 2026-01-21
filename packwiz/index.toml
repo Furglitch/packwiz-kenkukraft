@@ -1023,7 +1023,7 @@ hash = "64b21cc2052a2d015f45e47444335a0b2b6d51fc3c97d60cc745be304e2e317b"
 
 [[files]]
 file = "kubejs/startup_scripts/items/discs.js"
-hash = "1801bde92b384c9232a73e75a2cd9b24cc2314c2dba22a7810841dd978e2a18a"
+hash = "7b63954c6b11df664665d71d716b851fee370eab798bac868b86993a87b1a637"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"

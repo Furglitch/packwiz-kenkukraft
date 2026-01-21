@@ -26,11 +26,7 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oFancy Toasts§r
     - Disabled the 'Regions Explored' advancement toast since it's likely triggered on spawn
     - Disable toasts for individual Quest tasks (not implemented, future update: [Bivrik/FancyToasts#52](https://github.com/Bivrik/FancyToasts/pull/52))
-- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
-- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
-- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
-- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
-- §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
+    - Added custom toast texture, though it's disabled as it crashes the game on Linux (see [Bivrik/FancyToasts#53](https://github.com/Bivrik/FancyToasts/issues/53)), which is what my friend group primarily uses
 
 §n§lAdded:§r
 
@@ -39,6 +35,11 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oModpack Update Checker§r
 - §oFancyMenu§r
 - §oCreate: Extended Wrenches§r
+- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
+- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
+- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
+- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
+- §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
 
 §n§lRemoved:§r
 
@@ -46,6 +47,11 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oMob Control§r: Integrated with KubeJS
 - §oCreate: Cobblestone§r: Redundant with §oCreate: Mechanical Extruder§r
 - §oVillage Spawn Point§r: Removal promotes exploration
+- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
+- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
+- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
+- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
+- §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
 
 §n§lSwapped:§r
 

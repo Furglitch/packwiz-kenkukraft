@@ -1,13 +1,13 @@
 name = "MekaJadeUpgrades (Mekanism addon)"
-filename = "mekajadeupgrade-1.1.jar"
+filename = "mekajadeupgrade-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39873cb09b1b6cc046c8a840ecbcc6bfe38baaa7"
+hash = "e56654cedfdc01b872dc3839f27c751665b4e594"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7307672
+file-id = 7477126
 project-id = 1400118

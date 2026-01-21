@@ -37,6 +37,11 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - *Mob Control*: Integrated with KubeJS
 - *Create: Cobblestone*: Redundant with *Create: Mechanical Extruder*
 - *Village Spawn Point*: Removal promotes exploration
+- *fix GPU memory leak [Forge/Fabric]*: Redundant with other mods
+- *Fast Async World Save [Forge/Fabric]*: Redundant with other mods
+- *Server Performance - Smooth Chunk Save [Forge/Fabric]*: Redundant with other mods
+- *Chunk Sending [Forge/Fabric]*: Redundant with other mods
+- *Better Fps - Render Distance[Forge]*: Redundant with other mods
 
 <ins>**Swapped:**</ins>
 - *Nemo's Inventory Sorting* ➜ *Sophisticated Sorter*: Personal preference for sorting style

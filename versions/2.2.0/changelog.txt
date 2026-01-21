@@ -41,6 +41,11 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oMob Control§r: Integrated with KubeJS
 - §oCreate: Cobblestone§r: Redundant with §oCreate: Mechanical Extruder§r
 - §oVillage Spawn Point§r: Removal promotes exploration
+- §ofix GPU memory leak [Forge/Fabric]§r: Redundant with other mods
+- §oFast Async World Save [Forge/Fabric]§r: Redundant with other mods
+- §oServer Performance - Smooth Chunk Save [Forge/Fabric]§r: Redundant with other mods
+- §oChunk Sending [Forge/Fabric]§r: Redundant with other mods
+- §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods
 
 §n§lSwapped:§r
 

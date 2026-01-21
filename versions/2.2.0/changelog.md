@@ -24,6 +24,7 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - ***Fancy Toasts***
     - Disabled the 'Regions Explored' advancement toast since it's likely triggered on spawn
     - Disable toasts for individual Quest tasks (not implemented, future update: Bivrik/FancyToasts#52)
+    - Added custom toast texture, though it's disabled as it crashes the game on Linux (see Bivrik/FancyToasts#53), which is what my friend group primarily uses
 
 <ins>**Added:**</ins>
 - *Figura*

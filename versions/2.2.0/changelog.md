@@ -96,7 +96,6 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - *Not Enough Glyphs*: 4.2.3.4 ➜ 4.2.4
 - *Oh The Trees You'll Grow*: 5.1.2 ➜ 5.2.0
 - *Oritech*: 1.0.0 ➜ 1.0.0
-- *PointBlank: Jelly*: 2.1.0 ➜ 2.2.0
 - *Pufferfish's Attributes [Fabric & Forge & NeoForge]*: 0.8.0 ➜ 0.8.1
 - *Regions Unexplored (forge/fabric)*: 0.5.7 ➜ 0.5.9
 - *Rustic Delight*: 1.5.1 ➜ 1.5.2

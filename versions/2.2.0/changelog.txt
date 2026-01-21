@@ -23,6 +23,9 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
     - Adjust inventory button layout due to overlap from §oDragon Survival§r
 - §oBagus Lib§r
     - Disabled 'Cooler End Poem' feature as it caused the custom End Poem to not display
+- §oFancy Toasts§r
+    - Disabled the 'Regions Explored' advancement toast since it's likely triggered on spawn
+    - Disable toasts for individual Quest tasks (not implemented, future update: [Bivrik/FancyToasts#52](https://github.com/Bivrik/FancyToasts/pull/52))
 
 §n§lAdded:§r
 
@@ -30,6 +33,7 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oCustomizable Player Models§r
 - §oModpack Update Checker§r
 - §oFancyMenu§r
+- §oCreate: Extended Wrenches§r
 
 §n§lRemoved:§r
 

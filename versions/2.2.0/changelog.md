@@ -21,12 +21,16 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
     - Adjust inventory button layout due to overlap from *Dragon Survival*
 - ***Bagus Lib***
     - Disabled 'Cooler End Poem' feature as it caused the custom End Poem to not display
+- ***Fancy Toasts***
+    - Disabled the 'Regions Explored' advancement toast since it's likely triggered on spawn
+    - Disable toasts for individual Quest tasks (not implemented, future update: Bivrik/FancyToasts#52)
 
 <ins>**Added:**</ins>
 - *Figura*
 - *Customizable Player Models*
 - *Modpack Update Checker*
 - *FancyMenu*
+- *Create: Extended Wrenches*
 
 <ins>**Removed:**</ins>
 - *Terralith*: World Generation performance

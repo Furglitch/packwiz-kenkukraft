@@ -631,7 +631,7 @@ hash = "0a8f03fc2e01e60f47bf6ca0a7aecf252253703ad1bee5d940679bd536749160"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/CREDITS"
-hash = "4c44e3351f0f7e9c46bf91860dc3bb0a668d1e592ad1931db334bafde233fd78"
+hash = "3ffd0125fa6d367be4665692ccd22d20ec45d4130ed8f158647158742233fd31"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg"
@@ -910,6 +910,62 @@ file = "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
 hash = "56a2ce3a2c347d543a4c53e48878c369b3c5cac3ab4b0da06913e2e92f9e4297"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "dbbdb29f21f07968a4318945f85d0b207b3f36390947c39cc337b2f697cb17de"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/music_disc_anhedonia.json"
+hash = "707ecac35fa67c2dfceef305b3b168b606165233aada45f42371aad96236be39"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/music_disc_lost_souls.json"
+hash = "a3c92cadde25d10ef9b41b163ca8643c658a09b1fd7f047e2a0e3b8a6a4aad28"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/music_disc_pain.json"
+hash = "ab67e21aa7dc087c897ff92f54d8c8dcc349377aceb1bcbb65f50a45b42630b8"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds.json"
+hash = "f76eee6d4eeb96522373295737d3bf142759e89a55119fa34efd4e505f70db2b"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/records/anhedonia.ogg"
+hash = "b8ca8ed6d0d6f22e39804d1f0eaa8777ae0bf6ee74364006c20126c6d210d210"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/records/lost_souls.ogg"
+hash = "d2f7a722a82a9f1063866e1ce6b9bd01c6baa1321a42285d9814b0e702a2a456"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/records/the_pain_that_never_left.ogg"
+hash = "35d9c94f9b5205716d9a35f4239a901f08c36595591a1363cfe5e5f755f9a44d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_blood.png"
+hash = "fc769410b16701f36fc860ff028788e7e150b2d74b012fc0ccf49c59bcb10557"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_flesh.png"
+hash = "fe6cdb07fd34c65ba236276ed4c2d095b748286d590ff3e34f05cb643b7eea38"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_mycelium.png"
+hash = "66a8d8a8d521cfcfc5b0421ee1db71e618868f929177e53e5a55eaa0ca510d64"
+
+[[files]]
+file = "kubejs/data/kubejs/jukebox_song/anhedonia.json"
+hash = "38cb2479e8dd5aa75d369c0a70f93699c873fed18cf24ba4da092ed69a54bf76"
+
+[[files]]
+file = "kubejs/data/kubejs/jukebox_song/lost_souls.json"
+hash = "1ced47eed045f1ed29e83f3ad521830a9d326db282b9d887fe0971b6e4fb57f0"
+
+[[files]]
+file = "kubejs/data/kubejs/jukebox_song/pain.json"
+hash = "169f1c13195cf16107d8ce4f072f3d2248d649bc4db7fd561c41a322fb819cfd"
+
+[[files]]
 file = "kubejs/server_scripts/commands/locate.js"
 hash = "df48476a4c30c1b7a079d86a4607a61f4468befdef55e278bd45938d7b677fee"
 
@@ -952,6 +1008,10 @@ hash = "287badb5997e6404c5e5ead462b9a8eb85af8dd91442d5f83523be14bfad0886"
 [[files]]
 file = "kubejs/server_scripts/infodump.js"
 hash = "fca0dbba0809c64909ea705c8751d7c3f66369caa19681e6fa2aff7cd2f47904"
+
+[[files]]
+file = "kubejs/startup_scripts/items/discs.js"
+hash = "1801bde92b384c9232a73e75a2cd9b24cc2314c2dba22a7810841dd978e2a18a"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"

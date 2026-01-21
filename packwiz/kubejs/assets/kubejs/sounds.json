@@ -1,0 +1,29 @@
+{
+  "record.anhedonia": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "kubejs:records/anhedonia",
+        "stream": true
+      }
+    ]
+  },
+  "record.pain": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "kubejs:records/the_pain_that_never_left",
+        "stream": true
+      }
+    ]
+  },
+  "record.lost_souls": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "kubejs:records/lost_souls",
+        "stream": true
+      }
+    ]
+  }
+}

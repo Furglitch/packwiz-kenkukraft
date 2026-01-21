@@ -1,0 +1,8 @@
+{
+  "description": {
+    "translate": "item.kubejs.music_disc_anhedonia.desc"
+  },
+  "length_in_seconds": 211.0,
+  "comparator_output": 15,
+  "sound_event": "kubejs:record.anhedonia"
+}

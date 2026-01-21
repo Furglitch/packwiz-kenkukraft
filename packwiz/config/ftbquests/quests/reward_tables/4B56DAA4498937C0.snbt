@@ -20,7 +20,7 @@
 				count: 1
 				id: "minecraft:diamond_block"
 			}
-			weight: 0.005f
+			weight: 0.01f
 		}
 	]
 }

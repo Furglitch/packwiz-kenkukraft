@@ -1,0 +1,26 @@
+{
+	icon: {
+		id: "minecraft:emerald"
+	}
+	id: "61697254A7B6A982"
+	loot_size: 1
+	order_index: 25
+	rewards: [
+		{
+			id: "5C1CBEBE995E332C"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			random_bonus: 3
+		}
+		{
+			id: "1B205026B5D91645"
+			item: {
+				count: 1
+				id: "minecraft:emerald_block"
+			}
+			weight: 0.01f
+		}
+	]
+}

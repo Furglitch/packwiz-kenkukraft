@@ -234,7 +234,7 @@ hash = "be0a1f7d142a75f32b4c4be1f481f38ad092bd653cc2d477c64bfaa377589a19"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/armor.snbt"
-hash = "f052eb9a5347345bddad0dbc9774a077a7390dc0d1a70a8ade6109f9845d2d1c"
+hash = "8138debb0c80674bfba083bf131b743fb975f5699304cc3c8dc9e6e0ce4b22c4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
@@ -330,7 +330,7 @@ hash = "5aca093542077856675ed9a3b89b70e0e5945d0b4a71d522926c66f096255f36"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/weapons__tools.snbt"
-hash = "c9e8d9d220fa9a527eb38c19d46b7d25ae86d3c8ca2a484b54c70a7bde83bd00"
+hash = "9ce1163eec013c09f854667a1c82546cff853153287d5667dbc438f275049082"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -338,7 +338,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "d7e64667da8adb64b098f88f66ca08ba56dd39d28e4b55d6b2ecd467827bebe6"
+hash = "8bff1d99bd6ec79b375ede84150950f85bf05e53f4e424bda0a94a1cc10cc2a9"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/00B1F57F23BD6612.snbt"
@@ -402,7 +402,7 @@ hash = "2251abbc3757386f4543c59cb90c8dd8014b34320385266f1189054716b8fc85"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/4B56DAA4498937C0.snbt"
-hash = "f70bbe266f5500d9c328d53dfe974abfd1925227f914d2c04475a9412adeef5c"
+hash = "e911e48a94ef50a5f25afad8867c048bf7e4f37565511a0981b123a1a4ee50b3"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/4E33F9636E6DE22A.snbt"
@@ -419,6 +419,10 @@ hash = "01a2eaea6a88ca35ba4551efe82f28d1f9feb76aa7ab246ce3a924012ff00d32"
 [[files]]
 file = "config/ftbquests/quests/reward_tables/5826FBEE16BDD178.snbt"
 hash = "a7473c2cc3420f058826116951ed227ab98ddae02cfb7f6e6f3c4b82ec22e8ca"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/61697254A7B6A982.snbt"
+hash = "0fe11bba06875a6bd85682a82a4f1bb80c71c9cd2faaa4ca4bc76eebb172c52c"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/68051BC0EA0ECE51.snbt"

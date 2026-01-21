@@ -2016,6 +2016,12 @@
 					table_id: 3552433163160237919L
 					type: "random"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "74E4E6CB9A91DF63"
+					table_id: 50090997287052818L
+					type: "random"
+				}
 			]
 			tasks: [
 				{
@@ -2063,6 +2069,12 @@
 					exclude_from_claim_all: true
 					id: "00FD0BD2951F6DA7"
 					table_id: 3552433163160237919L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5231236D34E5E08F"
+					table_id: 6339415639470526645L
 					type: "random"
 				}
 			]
@@ -2114,6 +2126,12 @@
 					table_id: 3552433163160237919L
 					type: "random"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "4FBFA99A5A3122DF"
+					table_id: 7019267202150214018L
+					type: "random"
+				}
 			]
 			tasks: [
 				{
@@ -2160,6 +2178,12 @@
 					exclude_from_claim_all: true
 					id: "5CE488217E32FC27"
 					table_id: 3552433163160237919L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "674AF82BBF823A6E"
+					table_id: 5428766799984932800L
 					type: "random"
 				}
 			]

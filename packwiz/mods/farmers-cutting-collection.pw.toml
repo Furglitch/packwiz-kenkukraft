@@ -1,13 +1,13 @@
 name = "Farmer's Cutting Collection"
-filename = "farmers-cutting-collection-1.21.1-1.1-neoforge.jar"
+filename = "farmers-cutting-collection-1.21.1-1.2-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0251b3adef7d6e320dcde84da96256f15bc58aa4"
+hash = "2411eb799d2be5876ae38c1d83ac58e4333fd7dd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6977185
+file-id = 7455340
 project-id = 1299724

@@ -88,6 +88,11 @@
 				id: "artifacts:anglers_hat"
 			}
 			id: "1336C7BCF56CD95A"
+			rewards: [{
+				id: "73A8FF789877D865"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "166D9D93B4E125B0"
@@ -157,6 +162,11 @@
 				id: "artifacts:cowboy_hat"
 			}
 			id: "02F8865BC57270CA"
+			rewards: [{
+				id: "2CF7EBD241629E7F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1F22DE8B5B848252"
@@ -206,6 +216,11 @@
 				id: "artifacts:night_vision_goggles"
 			}
 			id: "6505DA101EFFDFF6"
+			rewards: [{
+				id: "1678EA35BFC290F9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "13A9E5F0E357358E"
@@ -261,6 +276,11 @@
 				id: "artifacts:fire_gauntlet"
 			}
 			id: "1CA7232A1BFA7E47"
+			rewards: [{
+				id: "6779C4CCE05F41D9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6A0EFEBD15A8EA26"
@@ -330,6 +350,11 @@
 				id: "artifacts:novelty_drinking_hat"
 			}
 			id: "1C9A8257ECB3AB95"
+			rewards: [{
+				id: "67680A5BFC4A13B5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4E82E4E08ABBC697"
@@ -399,6 +424,11 @@
 				id: "artifacts:plastic_drinking_hat"
 			}
 			id: "190496EE2507E0D1"
+			rewards: [{
+				id: "0A5EB3CDC209C1A6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5CC1C9B679B5DCEB"
@@ -448,6 +478,11 @@
 				id: "artifacts:superstitious_hat"
 			}
 			id: "177DDE2246C33764"
+			rewards: [{
+				id: "57D356AA04ED0438"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "30BE1B83BEE59DEC"
@@ -513,6 +548,11 @@
 				id: "artifacts:villager_hat"
 			}
 			id: "4C43F27075C2A0AF"
+			rewards: [{
+				id: "5177666D187014AD"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "40D0E174BC043535"
@@ -562,6 +602,11 @@
 				id: "artifacts:charm_of_shrinking"
 			}
 			id: "6520F13849908E4B"
+			rewards: [{
+				id: "614B8771291E86D9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "210EA10D7B748B09"
@@ -627,6 +672,11 @@
 				id: "artifacts:charm_of_sinking"
 			}
 			id: "74B92762D4F735C4"
+			rewards: [{
+				id: "2813C74510DD9219"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "63D5C98BD58A2F7E"
@@ -676,6 +726,11 @@
 				id: "artifacts:cross_necklace"
 			}
 			id: "7658CAB15B5864F7"
+			rewards: [{
+				id: "1D9C85A892180CC3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "043C47DC20EE2F79"
@@ -725,6 +780,11 @@
 				id: "artifacts:crystal_heart"
 			}
 			id: "436E4D38D9E791DC"
+			rewards: [{
+				id: "067F15655FACA686"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7DA6D5641281468B"
@@ -777,6 +837,11 @@
 				id: "artifacts:flame_pendant"
 			}
 			id: "2366E67249DB5A46"
+			rewards: [{
+				id: "0A2F4B77CAAED091"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4843BABC93FAA900"
@@ -826,6 +891,11 @@
 				id: "artifacts:lucky_scarf"
 			}
 			id: "07B832A623EA2568"
+			rewards: [{
+				id: "50B4FF9F84BF8D00"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "45F6207A4DA6CE79"
@@ -895,6 +965,11 @@
 				id: "artifacts:onion_ring"
 			}
 			id: "3F0E023AA896C86E"
+			rewards: [{
+				id: "1F5B2253B62D573C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1C8E352E9348178A"
@@ -947,6 +1022,11 @@
 				id: "artifacts:panic_necklace"
 			}
 			id: "076F523D3836FB67"
+			rewards: [{
+				id: "4611254A2A992853"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "333255EA47291448"
@@ -996,6 +1076,11 @@
 				id: "artifacts:scarf_of_invisibility"
 			}
 			id: "24110DFF4EA43967"
+			rewards: [{
+				id: "47467BA0235CF8BA"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4816C4A45EEA0F27"
@@ -1064,6 +1149,11 @@
 				id: "artifacts:shock_pendant"
 			}
 			id: "3E8034F2880B5175"
+			rewards: [{
+				id: "1AC765D8F4F8ED74"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5CD833EE1CA1F0A6"
@@ -1119,6 +1209,11 @@
 				id: "artifacts:thorn_pendant"
 			}
 			id: "0DF99F269864FAC6"
+			rewards: [{
+				id: "573460C05CE14B52"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6281B8BBCE4B4E2E"
@@ -1184,6 +1279,11 @@
 				id: "artifacts:digging_claws"
 			}
 			id: "1645AE20E283B6F5"
+			rewards: [{
+				id: "523F9678503A7E4E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0279C0F91D25301C"
@@ -1233,6 +1333,11 @@
 				id: "artifacts:feral_claws"
 			}
 			id: "2CEDBE8F35E5F5F3"
+			rewards: [{
+				id: "0C11B3B8FD2DA8F3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "141771718492A070"
@@ -1282,6 +1387,11 @@
 				id: "artifacts:power_glove"
 			}
 			id: "31A9B76890153C30"
+			rewards: [{
+				id: "51D28FEB15F264F6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "326D9D68DA1069DA"
@@ -1331,6 +1441,11 @@
 				id: "artifacts:vampiric_glove"
 			}
 			id: "17AAF8EE55D15DC0"
+			rewards: [{
+				id: "673E30F53BF8C303"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0496DFF2E668B3E8"
@@ -1399,6 +1514,11 @@
 				id: "artifacts:withered_bracelet"
 			}
 			id: "5E0728864F0C1BCC"
+			rewards: [{
+				id: "26B94B38ADF4A791"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "33520A2577E6813D"
@@ -1448,6 +1568,11 @@
 				id: "artifacts:bunny_hoppers"
 			}
 			id: "5B99F196919DCCF3"
+			rewards: [{
+				id: "402B921F8D0A77E9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "59360547C351407B"
@@ -1533,6 +1658,11 @@
 				id: "artifacts:kitty_slippers"
 			}
 			id: "5B834EB8C4A00C4C"
+			rewards: [{
+				id: "041AF8580FFE3F4E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0CE41FEAC85233E9"
@@ -1582,6 +1712,11 @@
 				id: "artifacts:rooted_boots"
 			}
 			id: "60D6655E9B2FABD5"
+			rewards: [{
+				id: "0A36678FE98DDA73"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6A7249A144EF7BC4"
@@ -1631,6 +1766,11 @@
 				id: "artifacts:running_shoes"
 			}
 			id: "634990DCF6317E3F"
+			rewards: [{
+				id: "4299496A629DC138"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0891A7D48AF77EC3"
@@ -1696,6 +1836,11 @@
 				id: "artifacts:snowshoes"
 			}
 			id: "01F8A0D8F898678C"
+			rewards: [{
+				id: "1D1B0F7123D85FF5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4BE7A5AD6D2B8E3F"
@@ -1711,6 +1856,11 @@
 				id: "artifacts:strider_shoes"
 			}
 			id: "0F0B2B3351F0601D"
+			rewards: [{
+				id: "7C0020B9D2B2180F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "42F5A31FA0B64396"
@@ -1780,6 +1930,11 @@
 				id: "artifacts:antidote_vessel"
 			}
 			id: "074CAF01CF213B6E"
+			rewards: [{
+				id: "401CBDA14CF94D7E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "59C7B39BC11EDAE8"
@@ -1795,6 +1950,11 @@
 				id: "artifacts:aqua_dashers"
 			}
 			id: "6ED0E3F9AB59B157"
+			rewards: [{
+				id: "506818FCAFFA42E5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5A530A04283A67F4"
@@ -1847,6 +2007,11 @@
 				id: "artifacts:chorus_totem"
 			}
 			id: "0AF7DE183581040B"
+			rewards: [{
+				id: "7C74F94DF46A04C2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4105106D35F99B84"
@@ -1896,6 +2061,11 @@
 				id: "artifacts:cloud_in_a_bottle"
 			}
 			id: "202580AFAF64CD55"
+			rewards: [{
+				id: "5DB7E55AB1D49E21"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "110C5971FF473DF1"
@@ -1945,6 +2115,11 @@
 				id: "artifacts:flippers"
 			}
 			id: "679CD198BB4269A0"
+			rewards: [{
+				id: "42F919ED9C82D26F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "69CD7F925D4C29F4"
@@ -1994,6 +2169,11 @@
 				id: "artifacts:golden_hook"
 			}
 			id: "4CC66CCB7A3183A1"
+			rewards: [{
+				id: "2F858D888C2BB4C4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6849EECF23EC484F"
@@ -2046,6 +2226,11 @@
 				id: "artifacts:helium_flamingo"
 			}
 			id: "3F485D3E28AB8C76"
+			rewards: [{
+				id: "45A868AA893A6156"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2B4CBA65B7816D1A"
@@ -2095,6 +2280,11 @@
 				id: "artifacts:obsidian_skull"
 			}
 			id: "0BDE322B3230D9AF"
+			rewards: [{
+				id: "21643D59A476EC96"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2114AB9E9CBE9A3F"
@@ -2147,6 +2337,11 @@
 				id: "artifacts:pickaxe_heater"
 			}
 			id: "431982A40F06BE4D"
+			rewards: [{
+				id: "37600D525065A523"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0885AF2AEBEA5CD8"
@@ -2216,6 +2411,11 @@
 				id: "artifacts:pocket_piston"
 			}
 			id: "79652493948B75AC"
+			rewards: [{
+				id: "69F8C28E35000398"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6DB417EAE495490E"
@@ -2281,6 +2481,11 @@
 				id: "artifacts:snorkel"
 			}
 			id: "0D80702B2562AD67"
+			rewards: [{
+				id: "2BF7A0BBF3FA286F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "64738D7940B5D083"
@@ -2346,6 +2551,11 @@
 				id: "artifacts:steadfast_spikes"
 			}
 			id: "547743DC711A3A3D"
+			rewards: [{
+				id: "77B36C6CD549BFD0"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4995AEE92BB96FE3"
@@ -2418,6 +2628,11 @@
 				id: "artifacts:umbrella"
 			}
 			id: "7B7461B960E60083"
+			rewards: [{
+				id: "7EBC63AF667814A7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1807BCEAC8F73E17"
@@ -2467,6 +2682,11 @@
 				id: "artifacts:universal_attractor"
 			}
 			id: "521DA47EF5133719"
+			rewards: [{
+				id: "277120E45721176B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "17442D64FF5FEAFE"
@@ -2519,6 +2739,11 @@
 				id: "artifacts:warp_drive"
 			}
 			id: "276AB60F7F711377"
+			rewards: [{
+				id: "5A5B95234EA5AFB2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1BB73B151379E9B7"
@@ -2571,6 +2796,11 @@
 				id: "artifacts:whoopee_cushion"
 			}
 			id: "6F7404D30833E501"
+			rewards: [{
+				id: "737FCE44B8FECF6A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "533168805D06A979"
@@ -2646,6 +2876,11 @@
 				id: "relics:midnight_robe"
 			}
 			id: "6AB98D629ACB7963"
+			rewards: [{
+				id: "2A9439B1621CBD92"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4DC123F8F9EE8D3D"
@@ -2711,6 +2946,11 @@
 				id: "relics:bastion_ring"
 			}
 			id: "71634EEC9C5D5DE1"
+			rewards: [{
+				id: "746DD8B72E348E73"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "25483157A2FC5543"
@@ -2809,6 +3049,11 @@
 				id: "relics:holy_locket"
 			}
 			id: "4CF2A87B69A34B1D"
+			rewards: [{
+				id: "3C88761D310C07D4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3E8147C7336641D5"
@@ -2894,6 +3139,11 @@
 				id: "relics:jellyfish_necklace"
 			}
 			id: "03D4D3244D45E8E6"
+			rewards: [{
+				id: "5C732D637B193FF7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5EFC1EDE9D77627F"
@@ -2943,6 +3193,11 @@
 				id: "relics:leafy_ring"
 			}
 			id: "0030A86D0D3D9706"
+			rewards: [{
+				id: "30766316E949C43B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "26ED40CA16ED7D34"
@@ -2998,6 +3253,11 @@
 				id: "relics:reflection_necklace"
 			}
 			id: "0FAE6D1B4E3CD2FF"
+			rewards: [{
+				id: "494B49E8ADA21A46"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "351AD96B02941294"
@@ -3063,6 +3323,11 @@
 				id: "relics:enders_hand"
 			}
 			id: "13696050A8729F4D"
+			rewards: [{
+				id: "6B4CB0ACA201CC95"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "05C343BA3B4BAFF5"
@@ -3170,6 +3435,11 @@
 				id: "relics:rage_glove"
 			}
 			id: "4F624F5592D958B3"
+			rewards: [{
+				id: "7FEF89064B1BBB93"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0670985EE203A7BB"
@@ -3228,6 +3498,11 @@
 				id: "relics:wool_mitten"
 			}
 			id: "765DD2B34BB227CE"
+			rewards: [{
+				id: "53378B7F2FCEC64D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2BB7ABC457AE4463"
@@ -3277,6 +3552,11 @@
 				id: "relics:phantom_boot"
 			}
 			id: "5D22EB0A7571AE51"
+			rewards: [{
+				id: "4660B3D8FDC20460"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3633899F4C2CDEBF"
@@ -3349,6 +3629,11 @@
 				id: "relics:ice_skates"
 			}
 			id: "268C69EC87FA7D3E"
+			rewards: [{
+				id: "2DE4ACB3ADEB8AC9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2B8DA1A708533DA9"
@@ -3444,6 +3729,11 @@
 				id: "relics:amphibian_boot"
 			}
 			id: "275CE9953F3B2980"
+			rewards: [{
+				id: "0C2B47633C4B55B3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6749108576F127F5"
@@ -3496,6 +3786,11 @@
 				id: "relics:roller_skates"
 			}
 			id: "49AEDE0423F78A6F"
+			rewards: [{
+				id: "764CDBEFE0F76266"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5139CD5088D9F672"
@@ -3545,6 +3840,11 @@
 				id: "relics:springy_boot"
 			}
 			id: "79479A5E63048E56"
+			rewards: [{
+				id: "17BAB89BCF8E609C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1E46F3E2A2E845D0"
@@ -3640,6 +3940,11 @@
 				id: "relics:infinity_ham"
 			}
 			id: "4E16B5783A286A71"
+			rewards: [{
+				id: "2B0DE677CCFEAA9E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "118193DC716921BE"
@@ -3715,6 +4020,11 @@
 				id: "relics:shadow_glaive"
 			}
 			id: "2F39D1675034582D"
+			rewards: [{
+				id: "18CCA06B0E288059"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "142DEA070F55F678"
@@ -3780,6 +4090,11 @@
 				id: "relics:magma_walker"
 			}
 			id: "0A801513EFC565B2"
+			rewards: [{
+				id: "64443FD3BB97AC00"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "62D3364288FC420E"
@@ -3829,6 +4144,11 @@
 				id: "relics:aqua_walker"
 			}
 			id: "495687486DE3CE6A"
+			rewards: [{
+				id: "46A1F59F8D63E139"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5B81D06F64607FAB"
@@ -3881,6 +4201,11 @@
 				id: "relics:elytra_booster"
 			}
 			id: "16887853E8941FF3"
+			rewards: [{
+				id: "5601DEA407472371"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "660A05CDCCA3B72E"
@@ -3933,6 +4258,11 @@
 				id: "relics:space_dissector"
 			}
 			id: "067FA7B83C1A17D5"
+			rewards: [{
+				id: "17FCAA29CD779038"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "348D4FACC63FEF59"
@@ -3985,6 +4315,11 @@
 				id: "relics:magic_mirror"
 			}
 			id: "5AE16870BAF178C2"
+			rewards: [{
+				id: "67E3DED93D6FA637"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0A3223F21C4E16AD"
@@ -4057,6 +4392,11 @@
 				id: "relics:ice_breaker"
 			}
 			id: "6AFE4C94E19CF0F7"
+			rewards: [{
+				id: "1231DC3FAFDF128E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "32068D0518819004"
@@ -4106,6 +4446,11 @@
 				id: "relics:leather_belt"
 			}
 			id: "1EC7B6DFE6CB15B8"
+			rewards: [{
+				id: "51481175A46666D6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5903DFDBE10DC3D0"
@@ -4158,6 +4503,11 @@
 				id: "relics:spore_sack"
 			}
 			id: "49980F259675A229"
+			rewards: [{
+				id: "52396B807119AEB9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6873DCD6080E0516"
@@ -4173,6 +4523,11 @@
 				id: "relics:relic_experience_bottle"
 			}
 			id: "2AD37BD59102D6AF"
+			rewards: [{
+				id: "290320F271751C24"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6907F3F17DE6B663"
@@ -4242,6 +4597,11 @@
 				id: "relics:hunter_belt"
 			}
 			id: "2B047C24EFBD81CE"
+			rewards: [{
+				id: "0C12673F14CF3B02"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1D7CD9C33B0D8D76"
@@ -4294,6 +4654,11 @@
 				id: "relics:chorus_inhibitor"
 			}
 			id: "7C0A95FFBB690C82"
+			rewards: [{
+				id: "47EF04482B84528A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "08114318CE0575F5"
@@ -4309,6 +4674,11 @@
 				id: "relics:solid_snowball"
 			}
 			id: "05372CBDECA94D72"
+			rewards: [{
+				id: "3DF6706019DDD4BF"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6D4846139BA555FE"
@@ -4364,6 +4734,11 @@
 				id: "relics:blazing_flask"
 			}
 			id: "63AFDA2949861F8C"
+			rewards: [{
+				id: "1B4F8A390892E7EE"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1D51F92FABDC4F03"
@@ -4476,6 +4851,11 @@
 				id: "relics:drowned_belt"
 			}
 			id: "52BC7246E95D46A6"
+			rewards: [{
+				id: "07F48728F9786C6F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "374A8C6CD614C18D"
@@ -4545,6 +4925,11 @@
 				id: "morerelics:epoch_apple"
 			}
 			id: "36CF06AD3D897F9D"
+			rewards: [{
+				id: "34F90FB9F389C751"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "032600C1EB5E4A53"
@@ -4637,6 +5022,11 @@
 				id: "morerelics:wonder_of_u"
 			}
 			id: "2FFE913DF3B62067"
+			rewards: [{
+				id: "20AEFD6D3921A9DB"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6CB799E5D9C2383E"
@@ -4706,6 +5096,11 @@
 				id: "morerelics:crown_of_the_legend"
 			}
 			id: "3DEDF364280B7E32"
+			rewards: [{
+				id: "796B6EBA0265A151"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7622A95BBD2FBC03"
@@ -4781,6 +5176,11 @@
 				id: "morerelics:biojoint"
 			}
 			id: "25201CA6F3D9F2BA"
+			rewards: [{
+				id: "150567DFA6428BA8"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5B29C2D8DA20BC75"
@@ -4826,6 +5226,11 @@
 				id: "morerelics:converging_orb"
 			}
 			id: "680E86538B470C89"
+			rewards: [{
+				id: "21A5E2BB63F64693"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "71F25EE944E2F3C1"
@@ -4918,6 +5323,11 @@
 				id: "morerelics:king_crimson"
 			}
 			id: "2546BBE77E574671"
+			rewards: [{
+				id: "170D11B377BC1EB6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "077415A2CE013263"
@@ -4979,6 +5389,11 @@
 				id: "morerelics:slumbering_amulet"
 			}
 			id: "20960C06D461991D"
+			rewards: [{
+				id: "7768F59B4328D4B2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "77A618BC99C08B47"
@@ -5024,6 +5439,11 @@
 				id: "morerelics:whispering_amulet"
 			}
 			id: "3F60BA9DF6E43955"
+			rewards: [{
+				id: "4FAB0C251336657F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5D3AD409FEA85791"
@@ -5069,6 +5489,11 @@
 				id: "morerelics:depleted_spool"
 			}
 			id: "1990C7EBB4655B3C"
+			rewards: [{
+				id: "3F7FE6D969769774"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3BF2FF44EC5AD3F5"
@@ -5118,6 +5543,11 @@
 				id: "morerelics:axolotl_cream"
 			}
 			id: "2CA6612912792792"
+			rewards: [{
+				id: "78E5752F8B473AFB"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "711972592FD7BB2F"
@@ -5167,6 +5597,11 @@
 				id: "morerelics:eject_button"
 			}
 			id: "08ED47268348AD43"
+			rewards: [{
+				id: "2FD53AFBF28289EF"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5E6DBDF393DE7E9C"
@@ -5245,6 +5680,11 @@
 				id: "morerelics:bionic_eye"
 			}
 			id: "5EA7574616D42B91"
+			rewards: [{
+				id: "33106D5DA6052BAC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7DBAFDAF3AB020F9"
@@ -5317,6 +5757,11 @@
 				id: "morerelics:gravitum_glove"
 			}
 			id: "3DE61CFEF087AC67"
+			rewards: [{
+				id: "1CA84428595B3435"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1C2810E78A4F09D2"
@@ -5366,6 +5811,11 @@
 				id: "morerelics:mass_gauntlet"
 			}
 			id: "3A7F123FA68ACD1A"
+			rewards: [{
+				id: "68209F8E67782EC0"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1AC36FF8C2D295FC"
@@ -5415,6 +5865,11 @@
 				id: "morerelics:guts_orb"
 			}
 			id: "5982BF91C3364401"
+			rewards: [{
+				id: "4660BAD2BB187F2A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "522B4AB32F76CB53"
@@ -5487,6 +5942,11 @@
 				id: "morerelics:shieldweave_cape"
 			}
 			id: "1ACCE8B8A4A87B85"
+			rewards: [{
+				id: "1AFEC8ACA0F72583"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4C2D113A9A36DF94"
@@ -5582,6 +6042,11 @@
 				id: "morerelics:thermoseismic_heart"
 			}
 			id: "62CFD86D5EFC2A2A"
+			rewards: [{
+				id: "48F51498D1356221"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "310ED39B49D50B79"
@@ -5631,6 +6096,11 @@
 				id: "morerelics:opal_necklace"
 			}
 			id: "13EB50E14622AC82"
+			rewards: [{
+				id: "40A6CBDB3F913FEC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5BBEF0AACE9EE9EA"
@@ -5680,6 +6150,11 @@
 				id: "morerelics:whims_of_fate"
 			}
 			id: "27F15C14520A6C61"
+			rewards: [{
+				id: "7C635701CC991A0D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "54D7744712E37427"
@@ -5777,6 +6252,11 @@
 				id: "morerelics:tyrant_mask"
 			}
 			id: "35910BF08BB6D285"
+			rewards: [{
+				id: "722440DFD0F70F22"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "14C22F70F612F40B"
@@ -5892,6 +6372,11 @@
 				id: "morerelics:weavers_spool"
 			}
 			id: "441FF649A2A854AE"
+			rewards: [{
+				id: "0CBA01C65850C3CE"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6B0C495DF6085810"
@@ -5941,6 +6426,11 @@
 				id: "morerelics:sentient_rust"
 			}
 			id: "7AD7825EEC8B44F9"
+			rewards: [{
+				id: "4004326070A98437"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6DD635109BA11724"
@@ -6036,6 +6526,11 @@
 				id: "morerelics:made_in_heaven"
 			}
 			id: "11A942039B0ADA3F"
+			rewards: [{
+				id: "32A4BE376A084892"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1C0EDD695D309B47"
@@ -6104,6 +6599,11 @@
 				id: "morerelics:moodworm"
 			}
 			id: "45194C055255E184"
+			rewards: [{
+				id: "56056030C8B4B5A4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "559E43134FC8A754"
@@ -6211,6 +6711,11 @@
 				id: "morerelics:vertebrax"
 			}
 			id: "0F47CBE219BB645F"
+			rewards: [{
+				id: "3DD011FE16FB2C78"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "477F21349BA84F85"
@@ -6267,6 +6772,11 @@
 				id: "reliquified_ars_nouveau:architects_staff"
 			}
 			id: "5212C3C37D20DDCD"
+			rewards: [{
+				id: "4047147F7AA749F8"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3CF0EFB7A717CCAA"
@@ -6322,6 +6832,11 @@
 				id: "reliquified_ars_nouveau:emblem_of_devotion"
 			}
 			id: "7122A59750981B9D"
+			rewards: [{
+				id: "5836F6F72B2EDC8B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "57856627FDDDB7C8"
@@ -6371,6 +6886,11 @@
 				id: "reliquified_ars_nouveau:whirlisprig_petals"
 			}
 			id: "55E1C95A6E262C16"
+			rewards: [{
+				id: "22A219C6F73F9AA1"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4DDFBE0D05EA2C74"
@@ -6423,6 +6943,11 @@
 				id: "reliquified_ars_nouveau:emblem_of_defense"
 			}
 			id: "1921CF7E6CA539E7"
+			rewards: [{
+				id: "0926F53BC94B6F85"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "725A14AF85D013CF"
@@ -6472,6 +6997,11 @@
 				id: "reliquified_ars_nouveau:ring_of_last_will"
 			}
 			id: "493C94F3FB759AA1"
+			rewards: [{
+				id: "67C825955934127A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3CCE5EE66D1C3157"
@@ -6524,6 +7054,11 @@
 				id: "reliquified_ars_nouveau:illusionists_mantle"
 			}
 			id: "2447D0AA2877698F"
+			rewards: [{
+				id: "33AD4E866B2F52D7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4181361A1148EF2A"
@@ -6576,6 +7111,11 @@
 				id: "reliquified_ars_nouveau:emblem_of_assault"
 			}
 			id: "13B355F728BD56F5"
+			rewards: [{
+				id: "59D684CB40FD7856"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1941EA2B5E1DD8D3"
@@ -6625,6 +7165,11 @@
 				id: "reliquified_ars_nouveau:ring_of_thrift"
 			}
 			id: "5535B4EEA51C5AC7"
+			rewards: [{
+				id: "32635CB2AEC37A26"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "440F112EC0387BF6"
@@ -6683,6 +7228,11 @@
 				id: "reliquified_ars_nouveau:ballistarian_bracer"
 			}
 			id: "16EF0635951CD4C3"
+			rewards: [{
+				id: "7072B7758A468E91"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "57D4D31357914AF2"
@@ -6735,6 +7285,11 @@
 				id: "reliquified_ars_nouveau:wing_of_the_wild_stalker"
 			}
 			id: "0EC1A5190BCAB01D"
+			rewards: [{
+				id: "58AA81525F3BE945"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "546D0F3BD54DB589"
@@ -6787,6 +7342,11 @@
 				id: "reliquified_ars_nouveau:mana_ring"
 			}
 			id: "2EAFD159BEB24021"
+			rewards: [{
+				id: "721DF20781B1EE31"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5C2F73EFECDC27FB"
@@ -6836,6 +7396,11 @@
 				id: "reliquified_ars_nouveau:ring_of_the_spectral_walker"
 			}
 			id: "5999357DBF32912B"
+			rewards: [{
+				id: "7C1678F9C960AB45"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "23BEB001551232DC"
@@ -6891,6 +7456,11 @@
 				id: "reliquified_ars_nouveau:quantum_bubble"
 			}
 			id: "52E00B7284C1483A"
+			rewards: [{
+				id: "777709A683218445"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "522E82A16D327C1A"
@@ -6959,6 +7529,11 @@
 				id: "reliquified_ars_nouveau:flaming_bracer"
 			}
 			id: "2DB4B1D0642CD3D4"
+			rewards: [{
+				id: "79CB0CF55493DF8A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "56F3ECD3CACDB223"
@@ -7011,6 +7586,11 @@
 				id: "reliquified_ars_nouveau:cloak_of_concealment"
 			}
 			id: "7CF2EF335FE75371"
+			rewards: [{
+				id: "5C2CE8FC32600D1B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "56AD19AA2765B6B8"
@@ -7069,6 +7649,11 @@
 				id: "reliquified_ars_nouveau:whirling_broom"
 			}
 			id: "1BB4980CD01533CC"
+			rewards: [{
+				id: "71A4280D74A497E9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3A0575D3A3B00492"
@@ -7118,6 +7703,11 @@
 				id: "reliquified_ars_nouveau:horn_of_the_wild_hunter"
 			}
 			id: "0E88B9FA0AC960B6"
+			rewards: [{
+				id: "6020D02D74266C7C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2E8DC48114C1BA0F"
@@ -7167,6 +7757,11 @@
 				id: "reliquified_ars_nouveau:archmage_glove"
 			}
 			id: "3D6657EB47FF1679"
+			rewards: [{
+				id: "01366AC4F2EE7690"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "559BF53D0418C407"
@@ -7222,6 +7817,11 @@
 				id: "reliquified_ars_nouveau:spiked_cloak"
 			}
 			id: "33226CE14911DD71"
+			rewards: [{
+				id: "0E4972154D95F014"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "42B9FFDEA52BE884"
@@ -7316,6 +7916,11 @@
 				id: "reliquified_lenders_cataclysm:void_cloak"
 			}
 			id: "7061C172A1B9DC25"
+			rewards: [{
+				id: "51ED61B334416D51"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "60D959ACF8766ED8"
@@ -7374,6 +7979,11 @@
 				id: "reliquified_lenders_cataclysm:void_bubble"
 			}
 			id: "7142FBFEA82A0BE8"
+			rewards: [{
+				id: "3617241AAA2B4CB6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "74346F3D5561FF63"
@@ -7426,6 +8036,11 @@
 				id: "reliquified_lenders_cataclysm:vacuum_glove"
 			}
 			id: "0F350E10334C0D92"
+			rewards: [{
+				id: "2942AE059FFC4984"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "175272215FE524ED"
@@ -7478,6 +8093,11 @@
 				id: "reliquified_lenders_cataclysm:scouring_eye"
 			}
 			id: "3DB5A4838E91E889"
+			rewards: [{
+				id: "78C030787EC7D8C2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2A460C03C1A29209"
@@ -7533,6 +8153,11 @@
 				id: "reliquified_lenders_cataclysm:void_vortex_in_bottle"
 			}
 			id: "3B025B02B4BD864D"
+			rewards: [{
+				id: "4F7514FFCC0FC97B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7CC99C7941DA48C6"
@@ -7548,6 +8173,11 @@
 				id: "artifacts:eternal_steak"
 			}
 			id: "1B34C39438FEB4F1"
+			rewards: [{
+				id: "5C94D8D6EADE9E81"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "75F3BF7AD80D1A2D"

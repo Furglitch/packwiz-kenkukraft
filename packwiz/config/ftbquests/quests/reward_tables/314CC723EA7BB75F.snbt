@@ -1,0 +1,52 @@
+{
+	icon: {
+		id: "minecraft:netherite_ingot"
+	}
+	id: "314CC723EA7BB75F"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			id: "23B909E3E52001BE"
+			item: {
+				count: 1
+				id: "minecraft:ancient_debris"
+			}
+			random_bonus: 3
+		}
+		{
+			id: "4BD1B1FAA9737AB7"
+			item: {
+				count: 1
+				id: "minecraft:netherite_scrap"
+			}
+			random_bonus: 3
+			weight: 0.1f
+		}
+		{
+			id: "761CB63466F0EED1"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			random_bonus: 1
+			weight: 0.01f
+		}
+		{
+			id: "5280FFE7006E7A21"
+			item: {
+				count: 1
+				id: "minecraft:netherite_block"
+			}
+			weight: 0.001f
+		}
+		{
+			id: "33362D61BE5D2EB2"
+			item: {
+				count: 1
+				id: "minecraft:netherite_upgrade_smithing_template"
+			}
+			weight: 0.01f
+		}
+	]
+}

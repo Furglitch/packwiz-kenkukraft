@@ -1,0 +1,63 @@
+{
+	icon: {
+		id: "create:andesite_alloy"
+	}
+	id: "0DE7F0B30D4D93A2"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			id: "2CD4D2AC65BE5F52"
+			item: {
+				count: 1
+				id: "minecraft:andesite"
+			}
+			random_bonus: 15
+		}
+		{
+			id: "2A13DFA8A57257DE"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			random_bonus: 15
+			weight: 0.75f
+		}
+		{
+			id: "1A3FFEC36BDA5B2F"
+			item: {
+				count: 1
+				id: "create:andesite_casing"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "0D7718102AD53C9F"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "05398D7BFA19A1CB"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+			random_bonus: 3
+			weight: 0.1f
+		}
+		{
+			id: "79CDB5F213560A5E"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+			random_bonus: 3
+			weight: 0.1f
+		}
+	]
+}

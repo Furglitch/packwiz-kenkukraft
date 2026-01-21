@@ -1,0 +1,64 @@
+{
+	id: "4386705CDE85AE0E"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			id: "5A79392748901CBA"
+			item: {
+				count: 1
+				id: "create:cardboard"
+			}
+			random_bonus: 7
+		}
+		{
+			id: "0B4C2CD3997278C5"
+			item: {
+				count: 1
+				id: "create:cardboard_block"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "19C72878AEF486AF"
+			item: {
+				count: 1
+				id: "create:cardboard_helmet"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "6AFC989ED1328569"
+			item: {
+				count: 1
+				id: "create:cardboard_chestplate"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "5A1C3A52F864DAF1"
+			item: {
+				count: 1
+				id: "create:cardboard_leggings"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "668574D9A7EE1219"
+			item: {
+				count: 1
+				id: "create:cardboard_boots"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "7AA64AB5BBD3B436"
+			item: {
+				count: 1
+				id: "createcardboardthings:cardboard_elytra"
+			}
+			weight: 0.02f
+		}
+	]
+}

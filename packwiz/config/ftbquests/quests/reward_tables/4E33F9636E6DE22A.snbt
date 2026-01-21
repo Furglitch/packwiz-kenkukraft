@@ -1,0 +1,54 @@
+{
+	icon: {
+		id: "minecraft:copper_ingot"
+	}
+	id: "4E33F9636E6DE22A"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			id: "1B62720B15FE535F"
+			item: {
+				count: 1
+				id: "minecraft:raw_copper"
+			}
+			random_bonus: 15
+		}
+		{
+			id: "0C9F1B83D44FA7FA"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			random_bonus: 15
+			weight: 0.75f
+		}
+		{
+			id: "1A84E16214C36E3D"
+			item: {
+				count: 1
+				id: "create:copper_casing"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "677F95AE5182D2FA"
+			item: {
+				count: 1
+				id: "create:fluid_pipe"
+			}
+			random_bonus: 3
+			weight: 0.1f
+		}
+		{
+			id: "3A9625EA9ED90659"
+			item: {
+				count: 1
+				id: "create:mechanical_pump"
+			}
+			random_bonus: 3
+			weight: 0.1f
+		}
+	]
+}

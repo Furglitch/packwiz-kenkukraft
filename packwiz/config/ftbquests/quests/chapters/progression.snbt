@@ -16,6 +16,19 @@
 				id: "minecraft:oak_log"
 			}
 			id: "0C921EB9D612C9D4"
+			rewards: [
+				{
+					id: "637293075BF33AAF"
+					type: "xp"
+					xp: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C2E1E0661A23E6D"
+					table_id: 7495427670202568273L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "17B8D7045C8C6219"
@@ -31,6 +44,19 @@
 				id: "minecraft:crafting_table"
 			}
 			id: "6F10E6E7A08718C2"
+			rewards: [
+				{
+					id: "415DCCA02F01727E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62D03BDB13FE944E"
+					table_id: 7495427670202568273L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1B433B04754F75AC"
@@ -46,6 +72,19 @@
 				id: "minecraft:wooden_pickaxe"
 			}
 			id: "18E3A69ABAB80688"
+			rewards: [
+				{
+					id: "6BD28B1247EA07D6"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6CCEEB216A830B73"
+					table_id: 7495427670202568273L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "1316B88F741275E3"
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:wooden_pickaxe)item(minecraft:stone_pickaxe)item(aether:skyroot_pickaxe)item(aether:holystone_pickaxe))", "minecraft:custom_name": "\"Starter Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -60,6 +99,19 @@
 				id: "minecraft:furnace"
 			}
 			id: "1E18D1F47EE9687B"
+			rewards: [
+				{
+					id: "6066C55587668CD0"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4FEA7B79F6F2C0D3"
+					table_id: 607282058227023120L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "1AC5FCB65B5709B0"
@@ -75,9 +127,22 @@
 				id: "minecraft:coal"
 			}
 			id: "4435606B50DA72C1"
+			rewards: [
+				{
+					id: "76AA06AAE187EC2F"
+					type: "xp"
+					xp: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B872FEDBD416F59"
+					table_id: 4944978117693124849L
+					type: "random"
+				}
+			]
 			tasks: [{
-				id: "384BBEEF06EFBF4D"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:coals)item_tag(actuallyadditions:tiny_coals))", "minecraft:custom_name": "\"Coals\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "305771E70EA29B62"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:coal)item_tag(actuallyadditions:tiny_coals)item_tag(c:storage_blocks/coal)item_tag(c:storage_blocks/charcoal)item(minecraft:lava_bucket)item_tag(c:storage_blocks/dried_kelp))", "minecraft:custom_name": "\"Fuel\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -86,6 +151,19 @@
 		{
 			dependencies: ["1E18D1F47EE9687B"]
 			id: "52EC4607C33A9C5E"
+			rewards: [
+				{
+					id: "2B4AEBEE86C551E9"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12A4BB251D115953"
+					table_id: 50090997287052818L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "42D4BEB04A8319B5"
@@ -100,6 +178,22 @@
 			disable_toast: true
 			id: "6BEB6E3F4F9F6E7B"
 			optional: true
+			rewards: [
+				{
+					id: "1C3274DD70EAEC80"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "2235FD97E6B1E9CE"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "0E5796C2EF31E036"
@@ -112,6 +206,19 @@
 		{
 			dependencies: ["52EC4607C33A9C5E"]
 			id: "000FDC543FAC266A"
+			rewards: [
+				{
+					id: "6B10962A3B0C1AA1"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70C51D7619FECA9B"
+					table_id: 6339415639470526645L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "4E5CEBB1E20B9744"
@@ -124,6 +231,19 @@
 		{
 			dependencies: ["52EC4607C33A9C5E"]
 			id: "014B7220CA3FA090"
+			rewards: [
+				{
+					id: "667ED9946C46974C"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5BD0931AF5C160D8"
+					table_id: 5428766799984932800L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "2D7359C63B8E211F"
@@ -142,6 +262,19 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "202541923EFA7ED0"
+			rewards: [
+				{
+					id: "51B39C0FD3FFEEA9"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "320B47AB46E2BA0B"
+					table_id: 5772519623184385515L
+					type: "random"
+				}
+			]
 			tasks: [{
 				dimension: "minecraft:the_nether"
 				disable_toast: true
@@ -154,6 +287,19 @@
 		{
 			dependencies: ["202541923EFA7ED0"]
 			id: "743E5D826EF421E1"
+			rewards: [
+				{
+					id: "414FD321FB315E84"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "36E6A70E249C292E"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "64164BA18A057C55"
@@ -172,6 +318,19 @@
 				id: "minecraft:netherite_ingot"
 			}
 			id: "575B2C445B4C9167"
+			rewards: [
+				{
+					id: "63A50AF62FC696CB"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "014B60E5F49046D3"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -200,6 +359,19 @@
 				id: "minecraft:netherite_sword"
 			}
 			id: "62AF72D521EFABE9"
+			rewards: [
+				{
+					id: "5EA0572FF64A3DB0"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "26A6AFC4F6BBD5C5"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [{
 				disable_toast: true
 				id: "50800F100400BAFE"
@@ -216,6 +388,11 @@
 				id: "minecraft:sculk_catalyst"
 			}
 			id: "31C6823F4E945EC2"
+			rewards: [{
+				id: "102224505FD1510B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "237BD94432A1288E"
@@ -231,6 +408,11 @@
 				id: "minecraft:stone_bricks"
 			}
 			id: "7A4A07C79E7AA128"
+			rewards: [{
+				id: "5E49DC9CFD43B697"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0FD831AF65030EFA"
@@ -242,12 +424,32 @@
 		}
 		{
 			dependencies: ["6BC973FEF99DFDA8"]
+			icon: {
+				id: "minecraft:sculk"
+			}
 			id: "3318AC4DE74A0686"
+			optional: true
+			rewards: [
+				{
+					id: "573C8BC7541E486D"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55F1D258C5B24916"
+					table_id: 8109490213183450153L
+					type: "random"
+				}
+			]
 			tasks: [{
 				dimension: "sculks_of_arda:sculk_world"
 				disable_toast: true
 				icon: {
-					id: "minecraft:sculk"
+					components: {
+						"ftbquests:icon": "sculks_of_arda:block/wardenportal2"
+					}
+					id: "ftbquests:custom_icon"
 				}
 				id: "158696C6183E67CD"
 				type: "dimension"
@@ -257,12 +459,31 @@
 		}
 		{
 			dependencies: ["460D4773F335DC9E"]
+			icon: {
+				id: "minecraft:end_stone"
+			}
 			id: "61DCD4DADE27B75C"
+			rewards: [
+				{
+					id: "5A4F023F00082FB6"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E3D1DBA132EC85F"
+					table_id: 4369000963689878312L
+					type: "random"
+				}
+			]
 			tasks: [{
 				dimension: "minecraft:the_end"
 				disable_toast: true
 				icon: {
-					id: "minecraft:end_stone"
+					components: {
+						"ftbquests:icon": "minecraft:textures/entity/end_portal.png"
+					}
+					id: "ftbquests:custom_icon"
 				}
 				id: "64530417E5954FE4"
 				type: "dimension"
@@ -273,6 +494,12 @@
 		{
 			dependencies: ["31C6823F4E945EC2"]
 			id: "18CC4E42C557968F"
+			optional: true
+			rewards: [{
+				id: "1363CA9A2A08E0CA"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "17AE3EB2A5FECAF0"
@@ -288,6 +515,12 @@
 				"31C6823F4E945EC2"
 			]
 			id: "6BC973FEF99DFDA8"
+			optional: true
+			rewards: [{
+				id: "55460819CCEF34AD"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -308,6 +541,11 @@
 				id: "minecraft:ender_eye"
 			}
 			id: "14A50C7ABC63B909"
+			rewards: [{
+				id: "207C2ED831DBD70B"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -333,6 +571,11 @@
 				"7A4A07C79E7AA128"
 			]
 			id: "460D4773F335DC9E"
+			rewards: [{
+				id: "32C7FA88F867E70D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -355,6 +598,19 @@
 			}
 			id: "0997FE26A7A1A91B"
 			optional: true
+			rewards: [
+				{
+					id: "7AE7550BE0425B06"
+					type: "xp"
+					xp: 20
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1AC10E50E224EA97"
+					table_id: 607282058227023120L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "0B4637C53ABDFDB1"
 				item: { components: { "ftbfiltersystem:filter": "not(item(ironfurnaces:heater))or(mod(ironfurnaces)item(minecraft:blast_furnace)item(minecraft:smoker))", "minecraft:custom_name": "\"Furnace Upgrades\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }

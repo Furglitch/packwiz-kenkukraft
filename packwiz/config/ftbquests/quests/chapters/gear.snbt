@@ -16,6 +16,11 @@
 				id: "crafting_on_a_stick:crafting_table"
 			}
 			id: "31DF8E1BAEB2FB19"
+			rewards: [{
+				id: "344037F2C8FF6ADC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4F4D059B509FD220"
@@ -30,6 +35,11 @@
 				id: "buildinggadgets2:gadget_building"
 			}
 			id: "38E114AB4E9EB42A"
+			rewards: [{
+				id: "51A78FFE6AEA2142"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0C1AB5D39C9BBCE6"
@@ -44,6 +54,11 @@
 				id: "constructionwand:diamond_wand"
 			}
 			id: "170ECC5E57550DFA"
+			rewards: [{
+				id: "768EC8FADBCF8689"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1F5DB3B730631054"
@@ -55,6 +70,11 @@
 		}
 		{
 			id: "7E22581ABF73ECE4"
+			rewards: [{
+				id: "4EA6E3DEC694FAAD"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1B86B7F3D01D95B2"
@@ -69,6 +89,11 @@
 				id: "utilitarian:trowel"
 			}
 			id: "0770AC37F4B27219"
+			rewards: [{
+				id: "1FC96598380CCA73"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "467B19CA4C9BF16C"
@@ -83,6 +108,11 @@
 				id: "toolbelt:belt"
 			}
 			id: "603A25FA317129AC"
+			rewards: [{
+				id: "56AFE1197F746A75"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -103,6 +133,11 @@
 		}
 		{
 			id: "6812335FE43FB00A"
+			rewards: [{
+				id: "367BE10211C71C01"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "44CFB64EC69A1810"
@@ -117,6 +152,11 @@
 				id: "compactmachines:personal_shrinking_device"
 			}
 			id: "6E63C73551BF3EDD"
+			rewards: [{
+				id: "021A77F8B3A21A34"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -137,6 +177,11 @@
 		{
 			disable_toast: true
 			id: "4642D0F7C90EA957"
+			rewards: [{
+				id: "611C4AA36187AF81"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4BA745E86095B803"
@@ -151,6 +196,11 @@
 				id: "naturescompass:naturescompass"
 			}
 			id: "5CDA3C0030BA3850"
+			rewards: [{
+				id: "5D38007BD528D96C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7D35107D7C57A937"
@@ -162,6 +212,11 @@
 		}
 		{
 			id: "50150BAFB6010538"
+			rewards: [{
+				id: "4ED38A39567F8330"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -183,6 +238,7 @@
 		{
 			disable_toast: true
 			id: "383755000972D087"
+			optional: true
 			x: -0.5d
 			y: -2.0d
 		}
@@ -192,6 +248,11 @@
 			id: "0B0869095AE2C898"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "02AC8E78E43CFC44"
+				type: "xp"
+				xp: 10
+			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

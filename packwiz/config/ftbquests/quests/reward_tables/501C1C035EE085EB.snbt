@@ -1,0 +1,29 @@
+{
+	icon: {
+		components: {
+			"ftbquests:icon": "supplementaries:textures/map/decorations/nether_portal.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "501C1C035EE085EB"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			id: "081EAB67CFA39FBD"
+			item: {
+				count: 1
+				id: "minecraft:obsidian"
+			}
+			random_bonus: 9
+		}
+		{
+			id: "6CCE1B19D1E8C3E1"
+			item: {
+				count: 1
+				id: "minecraft:respawn_anchor"
+			}
+			weight: 0.01f
+		}
+	]
+}

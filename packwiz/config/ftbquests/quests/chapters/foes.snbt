@@ -18,6 +18,11 @@
 		{
 			id: "0B681CBB80194B87"
 			invisible: true
+			rewards: [{
+				id: "65A274A7BD4B1791"
+				type: "xp"
+				xp: 500
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -32,6 +37,11 @@
 		{
 			dependencies: ["0E1B8716AE4E54DA"]
 			id: "07169C73D9318832"
+			rewards: [{
+				id: "55B531CD9BBACC7C"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:zombie"
@@ -45,6 +55,11 @@
 		{
 			dependencies: ["33AFEE2DC7A5D4F5"]
 			id: "22A156A66411A103"
+			rewards: [{
+				id: "65DFD735EF01904E"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:skeleton"
@@ -58,6 +73,11 @@
 		{
 			dependencies: ["04C1A8CCFBE7FC91"]
 			id: "36B42A84413446F2"
+			rewards: [{
+				id: "736CB5130BA8213A"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:creeper"
@@ -71,6 +91,11 @@
 		{
 			dependencies: ["66F19CD3A4E06772"]
 			id: "2896BC723B373887"
+			rewards: [{
+				id: "254C7DA27BA6CD98"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:spider"
@@ -84,6 +109,11 @@
 		{
 			dependencies: ["68F0B38A76FB4B48"]
 			id: "54A8FC2D135F467F"
+			rewards: [{
+				id: "7279A5DCDB7CFA20"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:pillager"
@@ -97,6 +127,11 @@
 		{
 			dependencies: ["338AF2E787725427"]
 			id: "6DF1885307CA4128"
+			rewards: [{
+				id: "6279A24BDBB36D69"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:blaze"
@@ -110,6 +145,11 @@
 		{
 			dependencies: ["678DC17D15C81342"]
 			id: "74284FA087770354"
+			rewards: [{
+				id: "30A61D3E23D868EC"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:wither_skeleton"
@@ -123,6 +163,11 @@
 		{
 			dependencies: ["0E55B32201494B90"]
 			id: "74C3FCC135F197D8"
+			rewards: [{
+				id: "4A4D04627076054E"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:enderman"
@@ -137,6 +182,11 @@
 			dependencies: ["7698F1157A626697"]
 			disable_toast: true
 			id: "0E55B32201494B90"
+			rewards: [{
+				id: "2D23B81C70C33B4F"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:enderman"
@@ -151,6 +201,11 @@
 			dependencies: ["36C25678BDDA8977"]
 			disable_toast: true
 			id: "678DC17D15C81342"
+			rewards: [{
+				id: "2C1AC8479B7EA826"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:wither_skeleton"
@@ -165,6 +220,11 @@
 			dependencies: ["0ADEDD1E289C73B2"]
 			disable_toast: true
 			id: "338AF2E787725427"
+			rewards: [{
+				id: "7734FA500EB06FE1"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:blaze"
@@ -179,6 +239,11 @@
 			dependencies: ["5C3E339B7086268F"]
 			disable_toast: true
 			id: "68F0B38A76FB4B48"
+			rewards: [{
+				id: "1DDCACCD321E72BF"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:pillager"
@@ -193,6 +258,11 @@
 			dependencies: ["41C3414EFF496497"]
 			disable_toast: true
 			id: "66F19CD3A4E06772"
+			rewards: [{
+				id: "4944AA37078FE4AE"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:spider"
@@ -207,6 +277,11 @@
 			dependencies: ["7ECAAC68A033C25C"]
 			disable_toast: true
 			id: "04C1A8CCFBE7FC91"
+			rewards: [{
+				id: "371A3D9A5BD106A5"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:creeper"
@@ -221,6 +296,11 @@
 			dependencies: ["49213B5264BD6D29"]
 			disable_toast: true
 			id: "33AFEE2DC7A5D4F5"
+			rewards: [{
+				id: "272B87C94DD717FC"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:skeleton"
@@ -235,6 +315,11 @@
 			dependencies: ["31A478C6578CC876"]
 			disable_toast: true
 			id: "0E1B8716AE4E54DA"
+			rewards: [{
+				id: "4DB5D117B40DC2C8"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:zombie"
@@ -249,6 +334,11 @@
 			dependencies: ["27C0E1204513157C"]
 			disable_toast: true
 			id: "31A478C6578CC876"
+			rewards: [{
+				id: "3E161CF81E495963"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:zombie"
@@ -263,6 +353,11 @@
 			dependencies: ["05909579289EBC07"]
 			disable_toast: true
 			id: "49213B5264BD6D29"
+			rewards: [{
+				id: "58F111733B17594F"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:skeleton"
@@ -277,6 +372,11 @@
 			dependencies: ["699C3578CB13134A"]
 			disable_toast: true
 			id: "7ECAAC68A033C25C"
+			rewards: [{
+				id: "4EA5F6F427F8A7C8"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:creeper"
@@ -291,6 +391,11 @@
 			dependencies: ["02C8F709A1449134"]
 			disable_toast: true
 			id: "41C3414EFF496497"
+			rewards: [{
+				id: "660919C818A70513"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:spider"
@@ -305,6 +410,11 @@
 			dependencies: ["4D301D79BDE84FC4"]
 			disable_toast: true
 			id: "5C3E339B7086268F"
+			rewards: [{
+				id: "786C17EE60D23745"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:pillager"
@@ -319,6 +429,11 @@
 			dependencies: ["2F5AACA278722048"]
 			disable_toast: true
 			id: "0ADEDD1E289C73B2"
+			rewards: [{
+				id: "6A57C4379F30CFC0"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:blaze"
@@ -333,6 +448,11 @@
 			dependencies: ["35A394EB70B1704D"]
 			disable_toast: true
 			id: "36C25678BDDA8977"
+			rewards: [{
+				id: "6CCC06E36EE4C95F"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:wither_skeleton"
@@ -347,6 +467,11 @@
 			dependencies: ["34F030ABA6F3AB7B"]
 			disable_toast: true
 			id: "7698F1157A626697"
+			rewards: [{
+				id: "209405CE175BA806"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:enderman"
@@ -360,6 +485,11 @@
 		{
 			disable_toast: true
 			id: "34F030ABA6F3AB7B"
+			rewards: [{
+				id: "0E7CF8FB6204AAA1"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:enderman"
@@ -373,6 +503,11 @@
 		{
 			disable_toast: true
 			id: "35A394EB70B1704D"
+			rewards: [{
+				id: "06BE6B2EA3984D3C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:wither_skeleton"
@@ -386,6 +521,11 @@
 		{
 			disable_toast: true
 			id: "2F5AACA278722048"
+			rewards: [{
+				id: "788B9DA446139677"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:blaze"
@@ -399,6 +539,11 @@
 		{
 			disable_toast: true
 			id: "4D301D79BDE84FC4"
+			rewards: [{
+				id: "5E0FF227D82810A2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:pillager"
@@ -412,6 +557,11 @@
 		{
 			disable_toast: true
 			id: "02C8F709A1449134"
+			rewards: [{
+				id: "0AA050C090B3CAE1"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:spider"
@@ -425,6 +575,11 @@
 		{
 			disable_toast: true
 			id: "699C3578CB13134A"
+			rewards: [{
+				id: "06E4C564BF193376"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:creeper"
@@ -438,6 +593,11 @@
 		{
 			disable_toast: true
 			id: "05909579289EBC07"
+			rewards: [{
+				id: "256405EC866B0F7C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:skeleton"
@@ -451,6 +611,11 @@
 		{
 			disable_toast: true
 			id: "27C0E1204513157C"
+			rewards: [{
+				id: "29EDD2504A0775D6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:zombie"
@@ -466,6 +631,11 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: false
 			id: "41F783362CB1F53D"
+			rewards: [{
+				id: "5A60F0D1371350BD"
+				type: "xp"
+				xp: 100
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -482,6 +652,11 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: false
 			id: "0D807A43A1D473D8"
+			rewards: [{
+				id: "64A9B3B451A91F63"
+				type: "xp"
+				xp: 100
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -495,6 +670,11 @@
 		}
 		{
 			id: "707BB002EB957A17"
+			rewards: [{
+				id: "304BC533A5594A59"
+				type: "xp"
+				xp: 100
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -508,6 +688,11 @@
 		}
 		{
 			id: "65A8E8E92A8ADA28"
+			rewards: [{
+				id: "6A61DD9A6B744D5E"
+				type: "xp"
+				xp: 50
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -521,6 +706,11 @@
 		}
 		{
 			id: "7CF288AE2BAC939D"
+			rewards: [{
+				id: "6BEC288E0D0FBCCD"
+				type: "xp"
+				xp: 50
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -534,6 +724,11 @@
 		}
 		{
 			id: "7199B1F6798B61DE"
+			rewards: [{
+				id: "11CD8CAFDD448651"
+				type: "xp"
+				xp: 50
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -552,11 +747,19 @@
 				id: "spore:mutated_heart"
 			}
 			id: "7F5BB380689D9750"
+			rewards: [{
+				id: "4E82BE3DD95409BC"
+				type: "xp"
+				xp: 500
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
 				entity: "minecraft:llama"
 				entityTypeTag: "spore:fungus_entities"
+				icon: {
+					id: "spore:construct_spawnegg"
+				}
 				id: "71C219C4CF850883"
 				type: "kill"
 				value: 100L
@@ -567,6 +770,11 @@
 		{
 			disable_toast: true
 			id: "67F142064F6C6245"
+			rewards: [{
+				id: "53047B46C3033A4A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:badlands_creeper"
@@ -580,6 +788,11 @@
 		{
 			disable_toast: true
 			id: "7F00086277DDA115"
+			rewards: [{
+				id: "588DFFE6909AB128"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:bamboo_creeper"
@@ -593,6 +806,11 @@
 		{
 			disable_toast: true
 			id: "59F41A38E61C8C6D"
+			rewards: [{
+				id: "7C158523BE74ADFC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:beach_creeper"
@@ -606,6 +824,11 @@
 		{
 			disable_toast: true
 			id: "110102849238FF8C"
+			rewards: [{
+				id: "47DFB4760F04F595"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:birch_creeper"
@@ -619,6 +842,11 @@
 		{
 			disable_toast: true
 			id: "128A07621551BF0D"
+			rewards: [{
+				id: "6B1015AE3931E390"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:cave_creeper"
@@ -632,6 +860,11 @@
 		{
 			disable_toast: true
 			id: "23252E79BCF939F4"
+			rewards: [{
+				id: "2E6453881C3C68EC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:dark_oak_creeper"
@@ -645,6 +878,11 @@
 		{
 			disable_toast: true
 			id: "3367B958F9C0E501"
+			rewards: [{
+				id: "124D7DE53A0C4D8D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:desert_creeper"
@@ -658,6 +896,11 @@
 		{
 			disable_toast: true
 			id: "725B51FBC9998754"
+			rewards: [{
+				id: "693BA26849031C87"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:hills_creeper"
@@ -671,6 +914,11 @@
 		{
 			disable_toast: true
 			id: "474CF9E216B5F361"
+			rewards: [{
+				id: "10A3C9C1498E63D7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:swamp_creeper"
@@ -684,6 +932,11 @@
 		{
 			disable_toast: true
 			id: "4FB0505C303830CD"
+			rewards: [{
+				id: "785D400937B9BFAC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:spruce_creeper"
@@ -697,6 +950,11 @@
 		{
 			disable_toast: true
 			id: "5A39CA82057E74C5"
+			rewards: [{
+				id: "29F9F6D66201A9C6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:snowy_creeper"
@@ -710,6 +968,11 @@
 		{
 			disable_toast: true
 			id: "44C2DDA6D020A022"
+			rewards: [{
+				id: "056A27B8AFB35AD3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:savannah_creeper"
@@ -723,6 +986,11 @@
 		{
 			disable_toast: true
 			id: "24ED3925696A93A0"
+			rewards: [{
+				id: "0B07B161005BBAFB"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:ocean_creeper"
@@ -736,6 +1004,11 @@
 		{
 			disable_toast: true
 			id: "5AB5479E9AA78613"
+			rewards: [{
+				id: "0BEE7CC4AFA66FB0"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:jungle_creeper"
@@ -749,6 +1022,11 @@
 		{
 			disable_toast: true
 			id: "2008C5B5FC9E14C2"
+			rewards: [{
+				id: "70738980D1737C0F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "creeperoverhaul:dripstone_creeper"
@@ -762,6 +1040,11 @@
 		{
 			disable_toast: true
 			id: "7380920A6409BC91"
+			rewards: [{
+				id: "703CF8D1E0B147BA"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:badlands_enderman"
@@ -775,6 +1058,11 @@
 		{
 			disable_toast: true
 			id: "453E6ADC537AFDBC"
+			rewards: [{
+				id: "10D720DAF79693C5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:cave_enderman"
@@ -788,6 +1076,11 @@
 		{
 			disable_toast: true
 			id: "35B0DC76FE4757CB"
+			rewards: [{
+				id: "345041CCB93377C2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:coral_enderman"
@@ -801,6 +1094,11 @@
 		{
 			disable_toast: true
 			id: "3DC316E85B1775B2"
+			rewards: [{
+				id: "6F64C98B1544BB9C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:crimson_forest_enderman"
@@ -814,6 +1112,11 @@
 		{
 			disable_toast: true
 			id: "7D43AE3C564184FD"
+			rewards: [{
+				id: "14A66883D9983E99"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:dark_oak_enderman"
@@ -827,6 +1130,11 @@
 		{
 			disable_toast: true
 			id: "2C987B749EB2F494"
+			rewards: [{
+				id: "02208C3750E9B8F6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:desert_enderman"
@@ -840,6 +1148,11 @@
 		{
 			disable_toast: true
 			id: "5E5B31548768E850"
+			rewards: [{
+				id: "58B44A49F88CB313"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:end_enderman"
@@ -853,6 +1166,11 @@
 		{
 			disable_toast: true
 			id: "2F52C9DCB82CC7D5"
+			rewards: [{
+				id: "36186A7E2E226678"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:end_islands_enderman"
@@ -866,6 +1184,11 @@
 		{
 			disable_toast: true
 			id: "209FC894909E873B"
+			rewards: [{
+				id: "1C537D081F82C8CB"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:swamp_enderman"
@@ -879,6 +1202,11 @@
 		{
 			disable_toast: true
 			id: "5321512C3AA91F5C"
+			rewards: [{
+				id: "29B3C51A5C581691"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:soulsand_valley_enderman"
@@ -892,6 +1220,11 @@
 		{
 			disable_toast: true
 			id: "29AE5DC32E921C3F"
+			rewards: [{
+				id: "5A5FBEF7E37C4EE5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:snowy_enderman"
@@ -905,6 +1238,11 @@
 		{
 			disable_toast: true
 			id: "2B02B8FCFA573081"
+			rewards: [{
+				id: "10E1A2A462E03FBC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:savanna_enderman"
@@ -918,6 +1256,11 @@
 		{
 			disable_toast: true
 			id: "7E51EA7CD7044E28"
+			rewards: [{
+				id: "54CE8502A59C5D58"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:nether_wastes_enderman"
@@ -931,6 +1274,11 @@
 		{
 			disable_toast: true
 			id: "3C1A46FB358DAF4F"
+			rewards: [{
+				id: "0AF87DEE20FC361A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:mushroom_fields_enderman"
@@ -944,6 +1292,11 @@
 		{
 			disable_toast: true
 			id: "27A7332F12AF483E"
+			rewards: [{
+				id: "610658BFE8ACEB9E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:ice_spikes_enderman"
@@ -957,6 +1310,11 @@
 		{
 			disable_toast: true
 			id: "4318451AB88AD15E"
+			rewards: [{
+				id: "18364BDA2878A884"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:flower_fields_enderman"
@@ -970,6 +1328,11 @@
 		{
 			disable_toast: true
 			id: "2BE7EE12371D72C0"
+			rewards: [{
+				id: "6A55AB4610CB86DC"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:warped_forest_enderman"
@@ -983,6 +1346,11 @@
 		{
 			disable_toast: true
 			id: "28F96F77AF7EE501"
+			rewards: [{
+				id: "12FEE0C780A522D8"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "endermanoverhaul:windswept_hills_enderman"
@@ -996,6 +1364,11 @@
 		{
 			disable_toast: true
 			id: "52B45EAAF38CDAC8"
+			rewards: [{
+				id: "5D2EE731A4006E58"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:alchemist"
@@ -1009,6 +1382,11 @@
 		{
 			disable_toast: true
 			id: "31C0361905381A4E"
+			rewards: [{
+				id: "36FFBDEDCA67238E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:archivist"
@@ -1022,6 +1400,11 @@
 		{
 			disable_toast: true
 			id: "0985DFE47EE6FDEB"
+			rewards: [{
+				id: "60B5B688F73D7B00"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:basher"
@@ -1035,6 +1418,11 @@
 		{
 			disable_toast: true
 			id: "532D366501D45854"
+			rewards: [{
+				id: "69585956CE909E07"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:firecaller"
@@ -1048,6 +1436,11 @@
 		{
 			disable_toast: true
 			id: "144B302CAA57D530"
+			rewards: [{
+				id: "7A38AE97A5B2DED2"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:inquisitor"
@@ -1061,6 +1454,11 @@
 		{
 			disable_toast: true
 			id: "0D09EB224C250147"
+			rewards: [{
+				id: "594C11D15FC83E2B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:invoker"
@@ -1074,6 +1472,11 @@
 		{
 			disable_toast: true
 			id: "0828A8CF48A864E9"
+			rewards: [{
+				id: "5B927B7A694C9136"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:marauder"
@@ -1087,6 +1490,11 @@
 		{
 			disable_toast: true
 			id: "59508397544B2C43"
+			rewards: [{
+				id: "1CABC10C8CC324DF"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:necromancer"
@@ -1100,6 +1508,11 @@
 		{
 			disable_toast: true
 			id: "6361E7043834BFFD"
+			rewards: [{
+				id: "2F686C8ABD3A6267"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:provoker"
@@ -1113,6 +1526,11 @@
 		{
 			disable_toast: true
 			id: "0908828704D69F75"
+			rewards: [{
+				id: "2651094DEB834C29"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "illagerinvasion:sorcerer"
@@ -1125,6 +1543,11 @@
 		}
 		{
 			id: "1BD5664353408156"
+			rewards: [{
+				id: "089962D684844799"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1141,6 +1564,11 @@
 		}
 		{
 			id: "1B9AB525E50A1FD9"
+			rewards: [{
+				id: "78A7EC1F45C882B2"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1157,6 +1585,11 @@
 		}
 		{
 			id: "482C65F3687138C5"
+			rewards: [{
+				id: "4030AB9C45228234"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1173,6 +1606,11 @@
 		}
 		{
 			id: "27A58B5B682DF7DF"
+			rewards: [{
+				id: "1AE2A35FE8F18A57"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1189,6 +1627,11 @@
 		}
 		{
 			id: "5C1C3E23B90A387B"
+			rewards: [{
+				id: "2D112CC23BEFAA6D"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1202,6 +1645,11 @@
 		}
 		{
 			id: "24611461BDED7387"
+			rewards: [{
+				id: "50496BA0C76C63A9"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1215,6 +1663,11 @@
 		}
 		{
 			id: "451998E1F40C38F7"
+			rewards: [{
+				id: "518F2C5BD2053A60"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1228,6 +1681,11 @@
 		}
 		{
 			id: "69AD22005C6585A3"
+			rewards: [{
+				id: "1B6D1C402AC7F670"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1241,6 +1699,11 @@
 		}
 		{
 			id: "0DB1689F2E4EF7DB"
+			rewards: [{
+				id: "19AE5B7AD7E49EB3"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1254,6 +1717,11 @@
 		}
 		{
 			id: "6C24D1994CEA351D"
+			rewards: [{
+				id: "6781C61197AEBEDD"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1267,6 +1735,11 @@
 		}
 		{
 			id: "07075BA70D3D7921"
+			rewards: [{
+				id: "7C66A5949EFCD6F4"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1280,6 +1753,11 @@
 		}
 		{
 			id: "74D463A1EC4DF76D"
+			rewards: [{
+				id: "6389348EA8DC348C"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1293,6 +1771,11 @@
 		}
 		{
 			id: "313C25C51965902F"
+			rewards: [{
+				id: "3165BEC0BB377565"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -1306,6 +1789,11 @@
 		}
 		{
 			id: "169C5077882F6649"
+			rewards: [{
+				id: "0B539185D860BFBE"
+				type: "xp"
+				xp: 100
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true

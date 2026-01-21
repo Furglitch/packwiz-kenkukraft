@@ -1,0 +1,54 @@
+{
+	icon: {
+		id: "create:sturdy_sheet"
+	}
+	id: "3ED0837575FF5BF0"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			id: "092D8DDEB39F6C84"
+			item: {
+				count: 1
+				id: "minecraft:obsidian"
+			}
+			random_bonus: 15
+		}
+		{
+			id: "40102A94057D5F12"
+			item: {
+				count: 1
+				id: "create:powdered_obsidian"
+			}
+			random_bonus: 15
+			weight: 0.75f
+		}
+		{
+			id: "01DD0F047253EDD9"
+			item: {
+				count: 1
+				id: "create:sturdy_sheet"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+		{
+			id: "40D8547D97DD98D9"
+			item: {
+				count: 1
+				id: "create:railway_casing"
+			}
+			random_bonus: 7
+			weight: 0.25f
+		}
+		{
+			id: "2287C63D38F3FA5E"
+			item: {
+				count: 1
+				id: "create:track"
+			}
+			random_bonus: 7
+			weight: 0.1f
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	icon: {
+		id: "minecraft:book"
+	}
+	id: "5826FBEE16BDD178"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			id: "71850141EF949586"
+			item: {
+				count: 1
+				id: "minecraft:book"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "4F94EED002B56A1B"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			random_bonus: 2
+		}
+	]
+}

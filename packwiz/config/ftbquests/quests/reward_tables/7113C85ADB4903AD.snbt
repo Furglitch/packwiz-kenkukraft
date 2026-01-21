@@ -1,0 +1,82 @@
+{
+	icon: {
+		id: "minecraft:stone"
+	}
+	id: "7113C85ADB4903AD"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			count: 2
+			id: "5E1A5444FBF566B1"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "27A6913E51ADD640"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "37591FFBB9DD509E"
+			item: {
+				count: 1
+				id: "minecraft:granite"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "62D31D28F475999B"
+			item: {
+				count: 1
+				id: "minecraft:diorite"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "5DF19B58805BA1AB"
+			item: {
+				count: 1
+				id: "minecraft:andesite"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "137217683AEE98BB"
+			item: {
+				count: 1
+				id: "minecraft:cobbled_deepslate"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "3139F054E318242F"
+			item: {
+				count: 1
+				id: "minecraft:deepslate"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "3F2DD129749947C4"
+			item: {
+				count: 1
+				id: "minecraft:calcite"
+			}
+			random_bonus: 6
+		}
+	]
+}

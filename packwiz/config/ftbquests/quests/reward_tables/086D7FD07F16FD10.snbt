@@ -1,0 +1,76 @@
+{
+	icon: {
+		id: "minecraft:furnace"
+	}
+	id: "086D7FD07F16FD10"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 2
+			id: "2CC58C84533DFBEB"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+			random_bonus: 6
+		}
+		{
+			id: "3BFE2BE54601D48A"
+			item: {
+				count: 1
+				id: "minecraft:furnace"
+			}
+			random_bonus: 1
+			weight: 0.33f
+		}
+		{
+			id: "1E96FFA05B8FB43C"
+			item: {
+				count: 1
+				id: "minecraft:blast_furnace"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "40E8F97C4774E9D7"
+			item: {
+				count: 1
+				id: "minecraft:smoker"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "354C71561A93FDD5"
+			item: {
+				count: 1
+				id: "ironfurnaces:upgrade_copper"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "0E701C9B99BB80B4"
+			item: {
+				count: 1
+				id: "ironfurnaces:upgrade_iron"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "421E563BD980FC30"
+			item: {
+				count: 1
+				id: "ironfurnaces:copper_furnace"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "5DCDB8AC125FC64F"
+			item: {
+				count: 1
+				id: "ironfurnaces:iron_furnace"
+			}
+			weight: 0.005f
+		}
+	]
+}

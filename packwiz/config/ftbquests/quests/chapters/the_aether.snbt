@@ -20,6 +20,11 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "0BDF530897331095"
+			rewards: [{
+				id: "66B49D594AE7054E"
+				type: "xp"
+				xp: 50
+			}]
 			size: 3.0d
 			tasks: [{
 				dimension: "aether:the_aether"
@@ -43,6 +48,11 @@
 				id: "aether:bronze_dungeon_key"
 			}
 			id: "6E7C290EFBEA2D41"
+			rewards: [{
+				id: "0723EC6088048982"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -63,6 +73,11 @@
 		{
 			dependencies: ["6E7C290EFBEA2D41"]
 			id: "412B17AF6786BAA6"
+			rewards: [{
+				id: "227FC9F87EC88E30"
+				type: "xp"
+				xp: 50
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -81,6 +96,11 @@
 				id: "aether:silver_dungeon_key"
 			}
 			id: "5CF9B9BB0305CC0D"
+			rewards: [{
+				id: "4E4DBE0E87FAA8A4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -105,6 +125,11 @@
 				id: "aether:gold_dungeon_key"
 			}
 			id: "1923F5373BAC5326"
+			rewards: [{
+				id: "35104EB4BE4FECBA"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -125,6 +150,11 @@
 		{
 			dependencies: ["5CF9B9BB0305CC0D"]
 			id: "0885E0D20E59B8A2"
+			rewards: [{
+				id: "4E98D4A884F742BE"
+				type: "xp"
+				xp: 50
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -139,6 +169,11 @@
 		{
 			dependencies: ["1923F5373BAC5326"]
 			id: "4583ED9CE52C266C"
+			rewards: [{
+				id: "1DDCFED45CD6CC27"
+				type: "xp"
+				xp: 50
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -157,6 +192,11 @@
 				id: "aether:skyroot_pickaxe"
 			}
 			id: "47344BA7A876930E"
+			rewards: [{
+				id: "55CFDAE599B24400"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6528E3DC9B169DAA"
@@ -173,6 +213,11 @@
 				id: "aether:gravitite_pickaxe"
 			}
 			id: "7331235938B138C2"
+			rewards: [{
+				id: "26380D3E27925FFC"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5B16C88A9007814D"
@@ -189,6 +234,11 @@
 				id: "aether:holystone_pickaxe"
 			}
 			id: "321106961E89DD3E"
+			rewards: [{
+				id: "4F958849E2B237DA"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "70FCEB192F404426"
@@ -205,6 +255,11 @@
 				id: "aether:zanite_pickaxe"
 			}
 			id: "62A385065D4AAAE7"
+			rewards: [{
+				id: "24612DA48F9D16A6"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0845D3F8CD17182C"
@@ -218,6 +273,11 @@
 			dependencies: ["0BDF530897331095"]
 			disable_toast: true
 			id: "4B9A406AE31DE4FF"
+			rewards: [{
+				id: "4DD5549DC79665EF"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "304B6505AACA95F8"
@@ -230,7 +290,15 @@
 		{
 			dependencies: ["0BDF530897331095"]
 			disable_toast: true
+			icon: {
+				id: "deep_aether:brass_dungeon_key"
+			}
 			id: "2706A7F16056744E"
+			rewards: [{
+				id: "2F4591A60FA634F9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -253,6 +321,11 @@
 			dependencies: ["2706A7F16056744E"]
 			id: "344CE2C176157B5A"
 			optional: true
+			rewards: [{
+				id: "34DC7C8ABEA40981"
+				type: "xp"
+				xp: 50
+			}]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -274,6 +347,11 @@
 				id: "deep_aether:stratus_pickaxe"
 			}
 			id: "20CEEA3810F99B57"
+			rewards: [{
+				id: "55A11EC2CC8A1D29"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [
 				{
 					disable_toast: true

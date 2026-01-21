@@ -1,0 +1,26 @@
+{
+	icon: {
+		id: "minecraft:diamond"
+	}
+	id: "4B56DAA4498937C0"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "13D40F61B22A0F87"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "047B74130CDD4FDF"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+			weight: 0.005f
+		}
+	]
+}

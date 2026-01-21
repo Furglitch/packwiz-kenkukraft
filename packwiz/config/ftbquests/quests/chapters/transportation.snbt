@@ -14,6 +14,11 @@
 		{
 			disable_toast: true
 			id: "21389ED25D91A8B7"
+			rewards: [{
+				id: "403E3220E947FD25"
+				type: "xp"
+				xp: 25
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -28,6 +33,11 @@
 			disable_toast: true
 			id: "15B0324882F81C00"
 			optional: true
+			rewards: [{
+				id: "57FE6A8DF0F330E5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "57709E665E65C8CA"
@@ -42,6 +52,11 @@
 			disable_toast: true
 			id: "6C0D459D01BA770D"
 			optional: true
+			rewards: [{
+				id: "12D623721B8D9600"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6767399648232217"
@@ -56,6 +71,11 @@
 			disable_toast: true
 			id: "75355E86FA2B0882"
 			optional: true
+			rewards: [{
+				id: "03BC8C5AC1C46BF7"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0EFEEFEA31E71EA1"
@@ -70,6 +90,11 @@
 			disable_toast: true
 			id: "010321E7C2AB84C5"
 			optional: true
+			rewards: [{
+				id: "2969863429FC68BE"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5C8B066D2C2DAD99"
@@ -98,6 +123,11 @@
 			hide_until_deps_visible: true
 			id: "093773E75A50EE3B"
 			optional: true
+			rewards: [{
+				id: "1ED559DE7F4B97FD"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "33BD122034292D53"
@@ -113,6 +143,11 @@
 				id: "waystones:waystone"
 			}
 			id: "40DC42FA154CA8D9"
+			rewards: [{
+				id: "4EBBDA8C6325D36C"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6C66D24D2334988A"
@@ -128,6 +163,11 @@
 				id: "naturescompass:naturescompass"
 			}
 			id: "3EB45BA3D096397B"
+			rewards: [{
+				id: "6148F675E5F04AB0"
+				type: "xp"
+				xp: 25
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -141,6 +181,11 @@
 		{
 			dependencies: ["253A613718D82D70"]
 			id: "795DDC1776007394"
+			rewards: [{
+				id: "1A3CDB7D875172A7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3CCB89DAD3DAA91E"
@@ -152,6 +197,11 @@
 		}
 		{
 			id: "253A613718D82D70"
+			rewards: [{
+				id: "461FCE0B7B920D3C"
+				type: "xp"
+				xp: 10
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -163,7 +213,13 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["253A613718D82D70"]
 			id: "14650661A5A65916"
+			rewards: [{
+				id: "38A20756B031B120"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7C30AE5D49A6352B"
@@ -176,6 +232,11 @@
 		{
 			dependencies: ["00763328D2B8FCB0"]
 			id: "289E47752CB669A7"
+			rewards: [{
+				id: "60A37C08F4E0D038"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "12F46C42BBE5FB13"
@@ -186,7 +247,13 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["253A613718D82D70"]
 			id: "00763328D2B8FCB0"
+			rewards: [{
+				id: "307ED1B852CE33E9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5F2D728BFDB55307"
@@ -199,6 +266,11 @@
 		{
 			dependencies: ["253A613718D82D70"]
 			id: "260A4C5AB4C3C88F"
+			rewards: [{
+				id: "08F10A3191FA708D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0D6D751CA29FE41E"
@@ -213,6 +285,11 @@
 				id: "immersive_aircraft:biplane"
 			}
 			id: "0253C0DD67DA66A1"
+			rewards: [{
+				id: "73EE852726DADB13"
+				type: "xp"
+				xp: 25
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -230,6 +307,11 @@
 				id: "immersive_aircraft:enhanced_propeller"
 			}
 			id: "6AF45BC99E144E9C"
+			rewards: [{
+				id: "1C3BB07BA0C7E53A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "251F6FBED5DB4255"
@@ -246,6 +328,11 @@
 				id: "immersive_aircraft:rotary_cannon"
 			}
 			id: "517B93C18CD1835E"
+			rewards: [{
+				id: "0206246421DE1A23"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "182C9F93B88A2815"
@@ -261,6 +348,11 @@
 			id: "0B2A9C64EAFD4888"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "4E652FEEA59CF226"
+				type: "xp"
+				xp: 10
+			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true

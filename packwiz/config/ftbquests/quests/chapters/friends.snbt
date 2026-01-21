@@ -17,6 +17,11 @@
 		{
 			disable_toast: true
 			id: "7F82D1AF7EA179D5"
+			rewards: [{
+				id: "01480ED5F6D49F45"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -33,6 +38,11 @@
 			disable_toast: true
 			id: "0BB9E16B4AA4C91D"
 			optional: true
+			rewards: [{
+				id: "65B6E1E2FBAF637D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "01721CCD9C8745E6"
@@ -48,6 +58,11 @@
 			hide_until_deps_complete: true
 			id: "24A87FB8930BD9B8"
 			optional: true
+			rewards: [{
+				id: "00F4E6FCDDBC948F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6FEA5D724EEDDF8C"
@@ -61,6 +76,11 @@
 			disable_toast: true
 			id: "2286399E10668FD3"
 			optional: true
+			rewards: [{
+				id: "189176D80F5EBFA1"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4FDD59B665208FC3"
@@ -74,6 +94,11 @@
 			disable_toast: true
 			id: "21F806D4B526E0F6"
 			optional: true
+			rewards: [{
+				id: "403296543E4A4353"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "57D1D0CAC10EDB35"
@@ -87,6 +112,11 @@
 			disable_toast: true
 			id: "72F1441F7CE76230"
 			optional: true
+			rewards: [{
+				id: "45A9336224489285"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "75EF3671F8C94078"
@@ -99,6 +129,11 @@
 		{
 			disable_toast: true
 			id: "5580380B6F40CEE4"
+			rewards: [{
+				id: "02E1B5C55EE3BB59"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -117,6 +152,11 @@
 		{
 			disable_toast: true
 			id: "62F9A108BAE3603D"
+			rewards: [{
+				id: "2751FAC27D7F8094"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5483567077947B13"
@@ -129,6 +169,11 @@
 		{
 			disable_toast: true
 			id: "47D8E21DA2C94AF5"
+			rewards: [{
+				id: "07F840E1BB783F8C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0E38A6A269407801"
@@ -141,6 +186,11 @@
 		{
 			disable_toast: true
 			id: "1B21012A59E76D8F"
+			rewards: [{
+				id: "5C0359238C60AA22"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3269F86400EED767"
@@ -153,6 +203,11 @@
 		{
 			disable_toast: true
 			id: "1032E1EC96C47D29"
+			rewards: [{
+				id: "5178106391AD553E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0858CACD0563D4D9"
@@ -165,6 +220,11 @@
 		{
 			disable_toast: true
 			id: "5585D16187585357"
+			rewards: [{
+				id: "4437A009B0BFB7C1"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5CEF54B5CF2156B4"
@@ -177,6 +237,11 @@
 		{
 			disable_toast: true
 			id: "76A4235FBF4F5CC1"
+			rewards: [{
+				id: "2910587387A0CE5F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "77F7E7868D79B4F9"
@@ -189,6 +254,11 @@
 		{
 			disable_toast: true
 			id: "4BBE1A46E1815656"
+			rewards: [{
+				id: "071B705315BA1D7A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5C6A7B155051FD1C"
@@ -201,6 +271,11 @@
 		{
 			disable_toast: true
 			id: "223AF887C859E96D"
+			rewards: [{
+				id: "7A0E0111DCC79CA0"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "57E4ECDC6ABAC87A"
@@ -213,6 +288,11 @@
 		{
 			disable_toast: true
 			id: "7724D513C7EF4DA7"
+			rewards: [{
+				id: "118EE2B639158531"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0A5120410ABA7578"
@@ -225,6 +305,11 @@
 		{
 			disable_toast: true
 			id: "60A001D99F882D05"
+			rewards: [{
+				id: "28496086E262F07D"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6E0B6017D50FBA03"
@@ -237,6 +322,11 @@
 		{
 			disable_toast: true
 			id: "1FCF1F2FB7DF2B29"
+			rewards: [{
+				id: "62720E669BEE76E3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "0F88A8DE21388A27"
@@ -249,6 +339,11 @@
 		{
 			disable_toast: true
 			id: "46D6880D60412C91"
+			rewards: [{
+				id: "0301BB061ACC9879"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "799F12103AFD5CEA"
@@ -261,6 +356,11 @@
 		{
 			disable_toast: true
 			id: "5B723E74678BC2E8"
+			rewards: [{
+				id: "26FBA673956C2A63"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "46161FCC6E408BDE"
@@ -274,6 +374,11 @@
 			disable_toast: true
 			id: "1B49C34D2BE233BA"
 			optional: true
+			rewards: [{
+				id: "05DEBFC53E4814F5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "69F24C17032CA216"
@@ -287,6 +392,11 @@
 			disable_toast: true
 			id: "66937DE7C119AEF2"
 			optional: true
+			rewards: [{
+				id: "363209E171FD8384"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "195589E410DB40D2"
@@ -300,6 +410,11 @@
 			disable_toast: true
 			id: "614A1EFED3B2DC28"
 			optional: true
+			rewards: [{
+				id: "3A3172F1CE84F7B4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6BE81951CD299882"
@@ -313,6 +428,11 @@
 			disable_toast: true
 			id: "613C488E0C148F52"
 			optional: true
+			rewards: [{
+				id: "4BC889BDA83F21B7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1809F152BAAF4E25"
@@ -326,6 +446,11 @@
 			disable_toast: true
 			id: "6479FEBC76A79A59"
 			optional: true
+			rewards: [{
+				id: "51E6A1D8AC80C013"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "57D51343384E3386"
@@ -339,6 +464,11 @@
 			disable_toast: true
 			id: "2CCF053832A3CB10"
 			optional: true
+			rewards: [{
+				id: "63E750CC8176D854"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2207D80866C4568B"
@@ -352,6 +482,11 @@
 			disable_toast: true
 			id: "256EB1EA64A3CEEA"
 			optional: true
+			rewards: [{
+				id: "2F8741C7540AE236"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7E0F6A16CCE2CA84"
@@ -365,6 +500,11 @@
 			disable_toast: true
 			id: "3A49F2E48EE017E9"
 			optional: true
+			rewards: [{
+				id: "12413795F8638E53"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "5D1DB7F06DD46261"
@@ -378,6 +518,11 @@
 			disable_toast: true
 			id: "4F0FFBE46C65510C"
 			optional: true
+			rewards: [{
+				id: "03BCA1138AC2BF28"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "21518B1BAD8C6F67"
@@ -391,6 +536,11 @@
 			disable_toast: true
 			id: "35CAC3C7D57F51B2"
 			optional: true
+			rewards: [{
+				id: "2F458B151458FAA6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "24E87002683B29B9"
@@ -404,6 +554,11 @@
 			disable_toast: true
 			id: "0DAD96D84BB49BD4"
 			optional: true
+			rewards: [{
+				id: "4119D45DC0B58FEE"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "563835ECCFA09589"
@@ -417,6 +572,11 @@
 			disable_toast: true
 			id: "3CD35ED27BC45664"
 			optional: true
+			rewards: [{
+				id: "1C16CC1C3ACD50AB"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4F4E192051623E76"
@@ -430,6 +590,11 @@
 			disable_toast: true
 			id: "3F2A62425E272FCA"
 			optional: true
+			rewards: [{
+				id: "25F3C280B2BCA766"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "744A79F3FA413608"
@@ -443,6 +608,11 @@
 			disable_toast: true
 			id: "6A2FEA8B9DACA19D"
 			optional: true
+			rewards: [{
+				id: "1CC66237F8F97594"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4A128E0F8914D559"
@@ -458,6 +628,11 @@
 			id: "26396302590C6530"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "26187608A13E4649"
+				type: "xp"
+				xp: 10
+			}]
 			size: 0.5d
 			tasks: [{
 				disable_toast: true
@@ -468,18 +643,12 @@
 			y: 0.0d
 		}
 		{
-			disable_toast: true
-			id: "4550EEC5FE7A9FF8"
-			tasks: [{
-				disable_toast: true
-				id: "00AA1E8FCD07D80E"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: 1.0d
-		}
-		{
 			id: "18A49A89E2A7206F"
+			rewards: [{
+				id: "11884CF6FAEEF24B"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -493,6 +662,11 @@
 		}
 		{
 			id: "52C10DF5944FAB88"
+			rewards: [{
+				id: "2D01F8014820F0FC"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -506,6 +680,11 @@
 		}
 		{
 			id: "259D78853CDC5363"
+			rewards: [{
+				id: "04331A332C1DA269"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -519,6 +698,11 @@
 		}
 		{
 			id: "4ADDDE3A3EE9226E"
+			rewards: [{
+				id: "0EEEF996CC9F536A"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -533,6 +717,11 @@
 		{
 			id: "57723120D50F37CC"
 			invisible: true
+			rewards: [{
+				id: "796CEFE62DDDEBFE"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "057D373F80CDE214"
@@ -548,6 +737,11 @@
 				id: "pet_cemetery:zombie_wolf_spawn_egg"
 			}
 			id: "2366E7D0CEDE316B"
+			rewards: [{
+				id: "710DC8870DC798D0"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [
 				{
 					disable_toast: true

@@ -1,0 +1,63 @@
+{
+	icon: {
+		id: "minecraft:sculk_catalyst"
+	}
+	id: "708AB2620A4E6C29"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			id: "21F77C08ADEA60D7"
+			item: {
+				count: 1
+				id: "minecraft:deepslate"
+			}
+			random_bonus: 7
+		}
+		{
+			id: "25EA18C420FA8ECF"
+			item: {
+				count: 1
+				id: "minecraft:sculk"
+			}
+			random_bonus: 3
+			weight: 0.75f
+		}
+		{
+			id: "00532D91A407302B"
+			item: {
+				count: 1
+				id: "minecraft:sculk_catalyst"
+			}
+			random_bonus: 2
+			weight: 0.5f
+		}
+		{
+			id: "7DAFF03AFEF4E8C5"
+			item: {
+				count: 1
+				id: "minecraft:sculk_shrieker"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "14A683A4DA02EB60"
+			item: {
+				count: 1
+				id: "minecraft:sculk_sensor"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			id: "57C4DD7EE99F9BF8"
+			item: {
+				count: 1
+				id: "minecraft:echo_shard"
+			}
+			random_bonus: 3
+			weight: 0.25f
+		}
+	]
+}

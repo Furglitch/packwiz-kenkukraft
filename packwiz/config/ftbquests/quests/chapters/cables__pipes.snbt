@@ -14,6 +14,11 @@
 		{
 			disable_toast: true
 			id: "790495039E70A8F0"
+			rewards: [{
+				id: "54D1983CDDBDFAA3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "3A98C1A0EB8E730E"
@@ -27,6 +32,11 @@
 			dependencies: ["790495039E70A8F0"]
 			disable_toast: true
 			id: "11AE9B5901D81AA8"
+			rewards: [{
+				id: "37BEFDAF7F8736E5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "2505FB9751CC687A"
@@ -40,6 +50,11 @@
 			dependencies: ["285C1FB5C6A66044"]
 			disable_toast: true
 			id: "56C4549444A5C9AB"
+			rewards: [{
+				id: "0317BC663A3D3706"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7275244C4CD9ECD4"
@@ -53,6 +68,11 @@
 			dependencies: ["58372D39F9D8CAA4"]
 			disable_toast: true
 			id: "285C1FB5C6A66044"
+			rewards: [{
+				id: "7E06CF01E3F936F7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7BCE86153A4D6540"
@@ -66,6 +86,11 @@
 			dependencies: ["58372D39F9D8CAA4"]
 			disable_toast: true
 			id: "504D46FA4E9A5029"
+			rewards: [{
+				id: "38B12DDBD30954B1"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6CC921F88A2EB0A8"
@@ -79,6 +104,11 @@
 			dependencies: ["790495039E70A8F0"]
 			disable_toast: true
 			id: "58372D39F9D8CAA4"
+			rewards: [{
+				id: "48A1CED5424F3790"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -100,6 +130,11 @@
 			dependencies: ["11AE9B5901D81AA8"]
 			disable_toast: true
 			id: "5F165DF4C7D440D0"
+			rewards: [{
+				id: "7523B3CEAD9589C9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true
@@ -120,6 +155,11 @@
 		{
 			disable_toast: true
 			id: "0EEE50CDF19AC112"
+			rewards: [{
+				id: "27A9A3B4EECA8124"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "6EA57A33E2910CD4"
@@ -132,6 +172,11 @@
 		{
 			disable_toast: true
 			id: "642AADDB1ECE901D"
+			rewards: [{
+				id: "1CB6A6E18664596C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "1F3BA3E7ECA5407F"
@@ -150,6 +195,11 @@
 			disable_toast: true
 			hide_dependency_lines: true
 			id: "35EB398BBCA34A8E"
+			rewards: [{
+				id: "651BE22D6D2E95B4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "616894BEDCA42465"
@@ -162,6 +212,11 @@
 		{
 			disable_toast: true
 			id: "55E5DFF182593689"
+			rewards: [{
+				id: "47B629AA8CD05A9B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "549A8E0E26E59046"
@@ -174,6 +229,11 @@
 		{
 			disable_toast: true
 			id: "4A22E75999092DF2"
+			rewards: [{
+				id: "1C8787B6FCA851A8"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "4EEBCE22D8013498"
@@ -185,6 +245,11 @@
 		}
 		{
 			id: "0DD3EAFC044CFB62"
+			rewards: [{
+				id: "1D575DD64FE93900"
+				type: "xp"
+				xp: 10
+			}]
 			size: 1.5d
 			tasks: [{
 				disable_toast: true
@@ -198,6 +263,11 @@
 		{
 			disable_toast: true
 			id: "09D994210BB222EA"
+			rewards: [{
+				id: "4C15294209E9F78F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "7FD767BC0E3E2925"
@@ -213,6 +283,11 @@
 				id: "cable_facades:facade"
 			}
 			id: "23CD143A2F7DF5FB"
+			rewards: [{
+				id: "03ABCE7C20DC9276"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					disable_toast: true

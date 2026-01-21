@@ -40,6 +40,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "52B9AE2D79BF3604"
+			rewards: [{
+				id: "042CDEC4A7C36615"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_human"
@@ -54,6 +59,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "508EF423A94783E5"
+			rewards: [{
+				id: "7EDB68CD145C6024"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_husk"
@@ -68,6 +78,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "774F7C74EFC00F8C"
+			rewards: [{
+				id: "24FE29E178AE13A5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_drowned"
@@ -82,6 +97,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "39B35ACE70A2E823"
+			rewards: [{
+				id: "7AFCC17B9DBC9CCB"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_villager"
@@ -96,6 +116,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6974A828EFA2304D"
+			rewards: [{
+				id: "71BC87E877001637"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_diseased_villager"
@@ -110,6 +135,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "4391942E76DEF947"
+			rewards: [{
+				id: "070C456E192E38A0"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_wanderer"
@@ -124,6 +154,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "1522131524C03BD1"
+			rewards: [{
+				id: "793180A039BAA045"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_witch"
@@ -138,6 +173,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "18C1130C90E6066C"
+			rewards: [{
+				id: "70ED86AE9ABE73D3"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_pillager"
@@ -152,6 +192,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6F1B0B85D3F7D8C0"
+			rewards: [{
+				id: "635076B579DAF8A6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_player"
@@ -166,6 +211,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "31A5582828F29CFF"
+			rewards: [{
+				id: "7347D9C744E29E4C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_hazmat"
@@ -180,6 +230,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "3125F9BC57A88E35"
+			rewards: [{
+				id: "558B5AC4E2AE956C"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:knight"
@@ -194,6 +249,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "45961D30563CC618"
+			rewards: [{
+				id: "564C0C453771D385"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:griefer"
@@ -208,6 +268,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "078D1B5023BD0CCD"
+			rewards: [{
+				id: "7460EECD043910DF"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:braiomil"
@@ -222,6 +287,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6D3C77368E2208D2"
+			rewards: [{
+				id: "6280D905EFCA8053"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:thorn"
@@ -236,6 +306,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "330F68EC4F0F14AC"
+			rewards: [{
+				id: "1CA01EC5E6BF3BAC"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:busser"
@@ -250,6 +325,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6B287D707BB93BE5"
+			rewards: [{
+				id: "04523A522FEAC78F"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:jagd"
@@ -264,6 +344,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "7A990A5F253BD3E0"
+			rewards: [{
+				id: "65F54143B93D9153"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:bloater"
@@ -278,6 +363,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "64A4B796532E5757"
+			rewards: [{
+				id: "32DB8B3876BDB00D"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:naiad"
@@ -292,6 +382,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "67E725CB096C4115"
+			rewards: [{
+				id: "3FEA6B8381E9BFC7"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:scavenger"
@@ -306,6 +401,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "0D1944FA2AABAE35"
+			rewards: [{
+				id: "71545364F3F568BC"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:leaper"
@@ -320,6 +420,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "5B7F77DD73FA0EDD"
+			rewards: [{
+				id: "3538525E4845AAD6"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:mephitic"
@@ -334,6 +439,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "37441FE07AC7D70E"
+			rewards: [{
+				id: "0610AF3EE18C3A8E"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:slasher"
@@ -348,6 +458,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "15C715891DF1923B"
+			rewards: [{
+				id: "78392B1D0C1F1ADD"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:volatile"
@@ -362,6 +477,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "1BF40AD584A7B504"
+			rewards: [{
+				id: "0AB30AE47419E9E7"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:spitter"
@@ -376,6 +496,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "615E734F03D99881"
+			rewards: [{
+				id: "39960055EAD6935A"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:howler"
@@ -390,6 +515,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "484CE012B772FEB6"
+			rewards: [{
+				id: "5CBCEDEAECD240E2"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:brute"
@@ -404,6 +534,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "5ADB7D6FBA7B786D"
+			rewards: [{
+				id: "64BEC042BB1E3104"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:stalker"
@@ -418,6 +553,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "2E7BCA35CAED22F3"
+			rewards: [{
+				id: "1FFF517DB08A7BD7"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:nuclea"
@@ -432,6 +572,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "38DA635A705ADFA6"
+			rewards: [{
+				id: "38807D410A319BDA"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:protector"
@@ -446,6 +591,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "0A4661AA095968BD"
+			rewards: [{
+				id: "143420C2C2FECA20"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_vindicator"
@@ -460,6 +610,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "10C73ACB946340D8"
+			rewards: [{
+				id: "1B35ADDA2651F907"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:chemist"
@@ -474,6 +629,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "5C9793A28F74A837"
+			rewards: [{
+				id: "696BA14E5CD0014E"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_evoker"
@@ -488,6 +648,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "3A7D803CB28BB4BC"
+			rewards: [{
+				id: "3076176A4069259C"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inebriater"
@@ -502,6 +667,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "1A94F50B0561DAFF"
+			rewards: [{
+				id: "143B5DDB61AEDC95"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inquisitor"
@@ -516,6 +686,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6C2FB262C5292F93"
+			rewards: [{
+				id: "1F9990950B54B508"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:brot"
@@ -530,6 +705,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "3E9DFB29A4A5548A"
+			rewards: [{
+				id: "1BCF29402D748096"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:wendigo"
@@ -544,6 +724,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "2656DDADFB41E6AE"
+			rewards: [{
+				id: "2ABFBD5E11140AF9"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:ogre"
@@ -558,6 +743,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "46FDD25E0EEC4815"
+			rewards: [{
+				id: "7458F902F7E81C67"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:hvindicator"
@@ -572,6 +762,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "0EB817CB40D7E5E7"
+			rewards: [{
+				id: "6C97048DE8871BFF"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:hevoker"
@@ -586,6 +781,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "799F8AC34E0B9CF3"
+			rewards: [{
+				id: "2C9C51F912E272DB"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:bairn"
@@ -600,6 +800,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6D4DEB233EE0D527"
+			rewards: [{
+				id: "243D4C0D110E81A4"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:scamper"
@@ -614,6 +819,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "6AB0898A2F767F5B"
+			rewards: [{
+				id: "168415AC2642E01D"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:gastgaber"
@@ -628,6 +838,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "49A3B25B4960EDE1"
+			rewards: [{
+				id: "4891AECF41B62644"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:specter"
@@ -642,6 +857,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "0348C3584E80BE4A"
+			rewards: [{
+				id: "17EC70A5F5FC32D4"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:vanguard"
@@ -656,6 +876,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "550F1C2B3520DF6D"
+			rewards: [{
+				id: "0869988519BE6E92"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:inf_contruct"
@@ -670,6 +895,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			id: "608C7235E0CCDCED"
 			invisible: true
+			rewards: [{
+				id: "364A6C197E6F7D47"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -688,6 +918,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "39024D2C2D286A4A"
+			rewards: [{
+				id: "1FBDB2A367136A71"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:umarmed"
@@ -702,6 +937,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "75870B52198C9E59"
+			rewards: [{
+				id: "10492D15C0EAC655"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:usurper"
@@ -716,6 +956,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "1040C146F7E7A5E4"
+			rewards: [{
+				id: "1178719828E36368"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:vigil"
@@ -730,6 +975,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "2E5DE4387B39065B"
+			rewards: [{
+				id: "1B8EBC0D08555A35"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:braurei"
@@ -744,6 +994,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "3D2758ED80233953"
+			rewards: [{
+				id: "6753B713A27FFCD9"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:verva"
@@ -758,6 +1013,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "1CF88179E4D1F9A0"
+			rewards: [{
+				id: "270FFE92E9A514CA"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:delusioner"
@@ -772,6 +1032,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "0D0FE177CB154C53"
+			rewards: [{
+				id: "1E5A097BA9935913"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:reconstructor"
@@ -786,6 +1051,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "66F0BD6805905B1D"
+			rewards: [{
+				id: "2C2DC5003AAC40C7"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:proto"
@@ -800,6 +1070,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "7144E2A5F89A6757"
+			rewards: [{
+				id: "30C240799835E885"
+				type: "xp"
+				xp: 50
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:mound"
@@ -814,6 +1089,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "75414A184750D591"
+			rewards: [{
+				id: "2517216D3CA6BF21"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:sieger"
@@ -828,6 +1108,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "02B4C1B6A220AFF2"
+			rewards: [{
+				id: "226955F3D8FEC9F3"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:howitzer"
@@ -842,6 +1127,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "5AA05A032682DC4E"
+			rewards: [{
+				id: "0884104F1C97067B"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:hohlfresser"
@@ -856,6 +1146,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "216109C11FA4A6AF"
+			rewards: [{
+				id: "401BB07903A05C5A"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:gazenbreacher"
@@ -870,6 +1165,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "2DD43F99BD4CC090"
+			rewards: [{
+				id: "2D0D8FF1C28E7C93"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:kraken"
@@ -884,6 +1184,11 @@
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "49F6F27EBDA6D255"
+			rewards: [{
+				id: "094A4C6701273892"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				disable_toast: true
 				entity: "spore:hindenburg"
@@ -899,6 +1204,11 @@
 			id: "7AF3AC2E656AC27E"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "0B3EEF5FB2B8F33F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -918,6 +1228,11 @@
 			id: "22DFCB8538654849"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "4033EAC7FE5D0DDF"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -929,14 +1244,19 @@
 				id: "44409E6178ACA35B"
 				type: "custom"
 			}]
-			x: 1.0d
-			y: 4.5d
+			x: 0.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["3120C584B2C0577E"]
 			id: "6472E793795F1AEF"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "67B583A4C0E5A57F"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				icon: {
@@ -948,100 +1268,147 @@
 				id: "50BBBE66652A2EDC"
 				type: "custom"
 			}]
-			x: -1.0d
-			y: 4.5d
+			x: -0.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["3C7E3EAEC9ADB7D1"]
+			hide_until_deps_complete: false
 			id: "27DCB787817FB2E6"
+			rewards: [{
+				id: "4DAD8AB2037ADEA6"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "14EF7F8EBE2A451F"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(spore:weapons))", "minecraft:custom_name": "\"Infected Tools\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.0d
+			x: 1.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["27DCB787817FB2E6"]
 			hide_until_deps_complete: false
 			hide_until_deps_visible: true
 			id: "79BB612059CB8117"
+			rewards: [{
+				id: "670DF2DA5F3DC69C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "12B38735C513132D"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(spore:reagents))", "minecraft:custom_name": "\"Reagents\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 0.5d
+			x: 2.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["27DCB787817FB2E6"]
 			hide_until_deps_complete: false
 			hide_until_deps_visible: true
 			id: "509408D446D71587"
+			rewards: [{
+				id: "016BCB21210C598A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "207E0386A0F53C86"
 				item: { components: { "ftbfiltersystem:filter": "or(item(spore:vampiric_syringe)item(spore:calcified_syringe)item(spore:bezerk_syringe)item(spore:toxic_syringe)item(spore:rotten_syringe)item(spore:reinforced_syringe)item(spore:skeletal_syringe)item(spore:drowned_syringe)item(spore:charred_syringe)item(spore:syringe)item(spore:mutation_syringe))", "minecraft:custom_name": "\"Blood Samples\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -0.5d
+			x: 2.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["3120C584B2C0577E"]
 			id: "65E166D9E3B5E57F"
+			rewards: [{
+				id: "2911A7BBB7BDB3E8"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "01C2E9EF56847192"
 				item: { count: 1, id: "spore:container" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 2.0d
+			x: -2.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["10415AE7AC504855"]
 			hide_until_deps_complete: false
 			hide_until_deps_visible: true
 			id: "3286E44EA851FA9E"
+			rewards: [{
+				id: "1C576C7D5534DC4C"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "044522AD6BD62298"
 				item: { count: 1, id: "spore:cdu" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 2.0d
+			x: -2.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "10415AE7AC504855"
+			rewards: [{
+				id: "6E2345A0940574E7"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "195AA3D117A5440A"
 				item: { count: 1, id: "spore:ice_canister" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: -1.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["3120C584B2C0577E"]
 			disable_toast: true
 			id: "3C7E3EAEC9ADB7D1"
+			rewards: [{
+				id: "2186A6BF4389AAEE"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				disable_toast: true
 				id: "20FDEDE2822E88FB"
 				item: { count: 1, id: "spore:surgery_table" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 0.0d
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3120C584B2C0577E"]
+			id: "4356276EA8B24456"
+			tasks: [{
+				id: "4AB4B7B1AD14A406"
+				item: { count: 1, id: "spore:gas_mask" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
 		}
 	]
 }

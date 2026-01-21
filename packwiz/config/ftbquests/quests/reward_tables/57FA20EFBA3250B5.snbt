@@ -1,0 +1,43 @@
+{
+	icon: {
+		id: "minecraft:gold_ingot"
+	}
+	id: "57FA20EFBA3250B5"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "20D1A9FD9C46B798"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 2
+			weight: 0.8f
+		}
+		{
+			id: "2F8F2B366EA01B90"
+			item: {
+				count: 1
+				id: "minecraft:gold_block"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "1432101FC777DCF3"
+			item: {
+				count: 1
+				id: "minecraft:raw_gold"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "5E55999744DDA532"
+			item: {
+				count: 1
+				id: "minecraft:raw_gold_block"
+			}
+			weight: 0.02f
+		}
+	]
+}

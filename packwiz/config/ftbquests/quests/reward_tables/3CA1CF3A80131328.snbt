@@ -1,0 +1,54 @@
+{
+	icon: {
+		id: "minecraft:ender_eye"
+	}
+	id: "3CA1CF3A80131328"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			id: "12C4FB7D6EE2D87A"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			random_bonus: 2
+			weight: 0.5f
+		}
+		{
+			id: "793B9E4AC5C40173"
+			item: {
+				count: 1
+				id: "minecraft:ender_eye"
+			}
+			random_bonus: 2
+			weight: 0.25f
+		}
+		{
+			id: "5D6E974DBF853096"
+			item: {
+				count: 1
+				id: "minecraft:end_crystal"
+			}
+			random_bonus: 1
+			weight: 0.01f
+		}
+		{
+			id: "3C5430F401C2C749"
+			item: {
+				count: 1
+				id: "minecraft:end_stone"
+			}
+			random_bonus: 7
+		}
+		{
+			id: "4AED33DE9F3329A9"
+			item: {
+				count: 1
+				id: "minecraft:obsidian"
+			}
+			random_bonus: 7
+			weight: 0.75f
+		}
+	]
+}

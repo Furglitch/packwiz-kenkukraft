@@ -1,0 +1,43 @@
+{
+	icon: {
+		id: "minecraft:iron_ingot"
+	}
+	id: "00B1F57F23BD6612"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			id: "508694B562ED46DA"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 2
+			weight: 0.8f
+		}
+		{
+			id: "6EED3398A9876181"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "1052D73B8F91A5BB"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "0DACD48E2C5ABD18"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron_block"
+			}
+			weight: 0.02f
+		}
+	]
+}

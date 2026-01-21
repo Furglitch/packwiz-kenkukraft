@@ -549,6 +549,19 @@
 				id: "minecraft:iron_ingot"
 			}
 			id: "56787FE5BE296174"
+			rewards: [
+				{
+					id: "207524FCA91C4948"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58FE2264CF4AAF85"
+					table_id: 50090997287052818L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -590,6 +603,19 @@
 				id: "minecraft:gold_ingot"
 			}
 			id: "42492E94027EAEAE"
+			rewards: [
+				{
+					id: "08D5D5682BAA80E6"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "10E60D00BFA15B4A"
+					table_id: 6339415639470526645L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -632,6 +658,19 @@
 				id: "minecraft:diamond"
 			}
 			id: "5CA0808F9868264D"
+			rewards: [
+				{
+					id: "67BDF7D9314874A8"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "016583B9FA568235"
+					table_id: 5428766799984932800L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -675,6 +714,19 @@
 				id: "minecraft:netherite_ingot"
 			}
 			id: "4EFAF8DD0AC49822"
+			rewards: [
+				{
+					id: "72B5F35BCEB28460"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61894143A2AE2187"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -718,6 +770,19 @@
 				id: "advancednetherite:netherite_iron_ingot"
 			}
 			id: "56A5B1EC0E26238B"
+			rewards: [
+				{
+					id: "49B88DB0A4A192CA"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7634F3502EEAF34A"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -761,6 +826,19 @@
 				id: "advancednetherite:netherite_gold_ingot"
 			}
 			id: "746CB64C65CD9709"
+			rewards: [
+				{
+					id: "4175A7B61A0802F5"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "45B4C96EF50C76EB"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -804,6 +882,19 @@
 				id: "advancednetherite:netherite_emerald_ingot"
 			}
 			id: "59D3D025C3D11E34"
+			rewards: [
+				{
+					id: "0ABF9BAC8E03F441"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E74842698E9982B"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -846,6 +937,19 @@
 				id: "advancednetherite:netherite_diamond_ingot"
 			}
 			id: "11F41FA9148F5378"
+			rewards: [
+				{
+					id: "593168A54E1B86E0"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "524EEFF476D814BE"
+					table_id: 3552433163160237919L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -958,6 +1062,19 @@
 				id: "minecraft:cobblestone"
 			}
 			id: "13384B5804FF4162"
+			rewards: [
+				{
+					id: "43F9BB852448A1F9"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E9D14C1A653486E"
+					table_id: 8148076443394966445L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true
@@ -998,6 +1115,19 @@
 				id: "minecraft:oak_planks"
 			}
 			id: "4F0443D10EB13433"
+			rewards: [
+				{
+					id: "1A0E181243E59E32"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "611A4DB7BDF3331E"
+					table_id: 7495427670202568273L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					disable_toast: true

@@ -1,0 +1,59 @@
+{
+	icon: {
+		id: "minecraft:coal"
+	}
+	id: "44A01765FF2DB0F1"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			id: "0F6C794691D0913F"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "79CF0B59CFBE3B6F"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "0EF4DD4936E0ADAD"
+			item: {
+				count: 1
+				id: "utilitarian:tiny_coal"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "0FBD5F90FEDBEFEA"
+			item: {
+				count: 1
+				id: "utilitarian:tiny_charcoal"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "533E66978C059C57"
+			item: {
+				count: 1
+				id: "minecraft:dried_kelp_block"
+			}
+			random_bonus: 1
+			weight: 0.1f
+		}
+		{
+			id: "075222CE362D038E"
+			item: {
+				count: 1
+				id: "minecraft:lava_bucket"
+			}
+			weight: 0.01f
+		}
+	]
+}

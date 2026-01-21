@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "create:brass_ingot"
+	}
+	id: "251DD381AEA6BCEE"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{
+			id: "7D575EF64E318EA3"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			random_bonus: 15
+		}
+		{
+			id: "01CBE292418A1FEA"
+			item: {
+				count: 1
+				id: "create:zinc_ingot"
+			}
+			random_bonus: 15
+		}
+		{
+			id: "716EDFDCDF6DFBFC"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+			random_bonus: 15
+			weight: 0.75f
+		}
+		{
+			id: "5348A8646B2477BD"
+			item: {
+				count: 1
+				id: "create:brass_casing"
+			}
+			random_bonus: 7
+			weight: 0.5f
+		}
+	]
+}

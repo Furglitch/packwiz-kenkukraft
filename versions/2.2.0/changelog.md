@@ -25,6 +25,7 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
     - Added quests (Note: Incomplete, more to come)
 - ***KubeJS***
     - Disabled /locate in favor of using *Explorer's Compass* and *Nature's Compass*
+    - Added custom music discs!
 
 <ins>**Added:**</ins>
 - *Create: Extended Wrenches*

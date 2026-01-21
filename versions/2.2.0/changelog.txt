@@ -27,6 +27,7 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
     - Added quests (Note: Incomplete, more to come)
 - §oKubeJS§r
     - Disabled /locate in favor of using §oExplorer's Compass§r and §oNature's Compass§r
+    - Added custom music discs!
 
 §n§lAdded:§r
 

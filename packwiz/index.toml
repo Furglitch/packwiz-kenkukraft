@@ -37,6 +37,10 @@ file = "config/ambientsounds-client.json"
 hash = "deeb51d9b4abbf6e4f092823fbf792e2147d78c9b6b9920c4cd273e3717600c5"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "60d81961cfb17571128d08cde03de4ed557a758742461abbc6c461784b22b51b"
+
+[[files]]
 file = "config/ars_nouveau-common.toml"
 hash = "e6b85d4f0e3438c645912068a9aace13a5ddb90ba0a0863b6e134a7f7530eb47"
 

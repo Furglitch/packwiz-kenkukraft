@@ -34,6 +34,12 @@ Full Changelog: [*2.1.2* ➜ *2.2.0*](https://github.com/Furglitch/packwiz-kenku
 - *Figura*
 - *Modpack Update Checker*
 
+Shaders:
+- *Spooklementary*
+- *Hysteria Shaders*
+- *Insanity Shader*
+- *Super Duper Vanilla Shaders*
+
 <ins>**Removed:**</ins>
 - *Better Fps - Render Distance[Forge]*: Redundant with other mods
 - *Chunk Sending [Forge/Fabric]*: Redundant with other mods

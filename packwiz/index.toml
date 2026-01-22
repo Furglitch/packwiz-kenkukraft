@@ -4261,45 +4261,65 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
-hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+hash = "960ff0bf24fac909dd6c99fc7a3630d833c21937c07f2c713c8b43ba308185bc"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "49c4f8541dfc148a992d36e2ebbda896ded176164558a2979dd2e04de11a46e7"
+hash = "41d0a9ee27834f6f52b82624b2148768484491509e1ab48984a8c2dca31b6038"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+hash = "70db0963bd7131d0cd9a90b0c38bb84b709034e2cec004a675b4bff1f058102d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+hash = "895c03b12501f44e539234ab6b57d4fd67e098b1eefc3b82eac81acf2b501746"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "fac24b0a875dae1d7a19aafb398f33ed74723054eef87dec4cfd43c2ebf06c9b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "93320f8ee70ba60eab15c70fd1aac2c72c365687a132664459f0b352999596fc"
+hash = "cc1a9d508b4a5a9cb33f1ee44410316186e82577a86f6120ee42ead525283ac6"
 metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "09c8e6752fe02ae348923b6038bc1c3d4b06f452886a1d42c90d72adcc2e40ef"
+hash = "3b1418914b05b2ce2e7bcfd33b9f406348fd3082f4e7f3ae2e3de12002d55228"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-enhanced-default.pw.toml"
-hash = "87bd04dc9b823ec30f54f14a402ab25f0e9c9f554960b523ed0ee50083ba5ce5"
+hash = "9ad61e8be824489c9e2082ff6af82d0952492b0b3eb57ce3f786e5664797becb"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
-hash = "570ff81f327de76e6949c83432ee128a04dce476564e410e4d834c15ac50da90"
+hash = "73ca042378152653add2101410dedb4772024da2f2c424db6e843992785bcf2c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "fac0589a093ee63393db58dab25bd95624be5423ba232a12a4a9ca4f67407c3d"
+hash = "58fd0c00dbc12e6a64111ebaacb312d8471c0cf8b046ec434b26250809552060"
+metafile = true
+
+[[files]]
+file = "shaderpacks/spooklementary.pw.toml"
+hash = "b629ccab4bbd954e039b02889a795ef66d9e03a2d72e8d2a8571b114c4d09045"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla-shaders.pw.toml"
+hash = "b0795158842fbe60d74233c56cc49be51a1e841d82cd4140cbffd808e5d157f6"
 metafile = true

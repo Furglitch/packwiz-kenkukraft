@@ -37,6 +37,12 @@ Full Changelog: [§o2.1.2§r ➜ §o2.2.0§r](https://github.com/Furglitch/packw
 - §oFigura§r
 - §oModpack Update Checker§r
 
+Shaders:
+- §oSpooklementary§r
+- §oHysteria Shaders§r
+- §oInsanity Shader§r
+- §oSuper Duper Vanilla Shaders§r
+
 §n§lRemoved:§r
 
 - §oBetter Fps - Render Distance[Forge]§r: Redundant with other mods

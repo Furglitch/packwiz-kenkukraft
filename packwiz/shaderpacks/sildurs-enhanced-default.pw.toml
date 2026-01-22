@@ -1,6 +1,6 @@
 name = "Sildur's Enhanced Default"
 filename = "Sildur's Enhanced Default v1.18 Fancy.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

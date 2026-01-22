@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft%20Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft: Infected" width="600">
   </br></br>
   <p style="text-align:center">
-    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.0&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.0"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.0&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.0"></a>
     &nbsp;
-    <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=920000&labelColor=874161&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
+    <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
-    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=600%2B&color=920000&labelColor=874161&style=for-the-badge" alt="600+ Mods"></a>
+    <a href="https://github.com/Furglitch/packwiz-kenkukraft/blob/main/docs/MODLIST.md"><img src="https://img.shields.io/static/v1?label=Mods&message=600%2B&color=575457&labelColor=582323&style=for-the-badge" alt="600+ Mods"></a>
     &nbsp;
-    <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=920000&labelColor=874161&style=for-the-badge" alt="8-10GB RAM">
+    <img src="https://img.shields.io/static/v1?label=RAM&message=8-10GB&color=575457&labelColor=582323&style=for-the-badge" alt="8-10GB RAM">
   </p>
 </p>
 
@@ -73,12 +73,6 @@ There are two scripts included to start the server:
 - **Recommended Server RAM:** 8GB+
 - **Minecraft Version:** 1.21.1
 - **Mod Loader:** Neoforge
-
----
-
-### Known Issues
-- It is common for the first launch to either crash, freeze, or take a while. Launching again usually resolves this, since the assets will be cached after the first run.
-- If you are able to launch, but see missing textures on the title screen or in-game, restart. It's likely that the game crashed but was "recovered" by Not Enough Crashes.
 
 ---
 

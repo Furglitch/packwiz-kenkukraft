@@ -1,0 +1,3 @@
+[Server]
+	enableWelcomeMessage = false
+	pauseWhileEmptySeconds = 15

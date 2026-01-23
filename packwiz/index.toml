@@ -846,6 +846,10 @@ file = "configureddefaults/config/lambdynlights.toml"
 hash = "e8e84f93abb4e7fa542d18fb01062167ee350eb73f7fc6981c7cf0b697e9bdc3"
 
 [[files]]
+file = "configureddefaults/config/readyplayerfun-common.toml"
+hash = "eb7fe35147868e05ef2e393ed9e67fa83aa94ac8f4f57a55858eb85c2aca598d"
+
+[[files]]
 file = "configureddefaults/config/serverpause-common.toml"
 hash = "b3f96323deac517356a3e92d5f3bea576d8ca4ab4ef051abccbf61c618fba011"
 
@@ -3065,11 +3069,6 @@ hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
-file = "mods/multiplayer-server-pause-forge.pw.toml"
-hash = "261cc0148570b22adbb07b9b1e0abaf15548d02127553b56c07bae2de62545d4"
-metafile = true
-
-[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
 metafile = true
@@ -3322,6 +3321,11 @@ metafile = true
 [[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "68d7d2cbeb93c10f99b3985c96b098aed7dc64f5d08e4855fdd9f37a759f7072"
+metafile = true
+
+[[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "665480aca547bdb19608a1b0561145cf9b04327b270491fcc487058195376ac2"
 metafile = true
 
 [[files]]

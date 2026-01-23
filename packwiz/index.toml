@@ -1007,7 +1007,7 @@ hash = "e7923f98fd4781911d2dfa6e42e9a7abd106a83806ca7d7dc601bdcc67451404"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/tasks/spore-days.js"
-hash = "29387d1055cfcbdb45e579907ef7fb5d8d65d050f641419f80fd18cb1bdbc389"
+hash = "50e9362a1fb4598079c758f95d155549614744f25d771e31ee61f06661688c68"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/tasks/spore-status.js"

@@ -4,3 +4,4 @@ Full Changelog: [§o2.2.0§r ➜ §o2.2.1§r](https://github.com/Furglitch/packw
 
 - §oMultiplayer Server Pause§r ➜ §oReady Player Fun§r: MSP does not pause when running Chunky on an empty server.
   - Note: Chunky is not included in this pack by default, but can be added via your modpack/server manager. It's recommended to disable Distant Horizons while pre-generating chunks with Chunky.
+  - Added /setday command to change day counter as a fallback, in case player-offline pausing does not work as intended.

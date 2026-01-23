@@ -1,0 +1,13 @@
+name = "PainterJS"
+filename = "painterjs-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e902f75442f07a4623a29fe418989af27cd3247"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7445587
+project-id = 1422528

@@ -962,6 +962,10 @@ file = "kubejs/assets/kubejs/textures/item/disc_mycelium.png"
 hash = "66a8d8a8d521cfcfc5b0421ee1db71e618868f929177e53e5a55eaa0ca510d64"
 
 [[files]]
+file = "kubejs/client_scripts/counter_overlay.js"
+hash = "a1fae3c4d5ae0592b974faff33ab227f3bc19421677cd96db6384b912c96d548"
+
+[[files]]
 file = "kubejs/data/kubejs/jukebox_song/anhedonia.json"
 hash = "38cb2479e8dd5aa75d369c0a70f93699c873fed18cf24ba4da092ed69a54bf76"
 
@@ -976,6 +980,10 @@ hash = "169f1c13195cf16107d8ce4f072f3d2248d649bc4db7fd561c41a322fb819cfd"
 [[files]]
 file = "kubejs/server_scripts/commands/locate.js"
 hash = "df48476a4c30c1b7a079d86a4607a61f4468befdef55e278bd45938d7b677fee"
+
+[[files]]
+file = "kubejs/server_scripts/death_tracker.js"
+hash = "6f021f25278b5b03c209fa8518ee860139f6e9ea2c5f392a0e6933783f2dc2b1"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/filters/buildinggadgets.js"
@@ -1641,11 +1649,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
-metafile = true
-
-[[files]]
-file = "mods/counter-day-death.pw.toml"
-hash = "fb11afa9913e1278c2682ccf87088b6b1b7522d54b05b8735ae9c3e25caea6c5"
 metafile = true
 
 [[files]]
@@ -3196,6 +3199,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
+metafile = true
+
+[[files]]
+file = "mods/painterjs.pw.toml"
+hash = "ca0db4f358450a1efe7642f4932ded2bc9d3ca8b9d2ba0cf4f9b43bf75856336"
 metafile = true
 
 [[files]]

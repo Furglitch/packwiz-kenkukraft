@@ -66,7 +66,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b4d0e772c5bcf5b04a51afa46f6c4b5246a98419eae2bc03ae44b2bade62db9d"
+hash = "95735fd7bf8a55306405b7d4bf0b0f2d8f202f84e24a05385b7f4cfa429b674f"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -510,7 +510,7 @@ hash = "622658ab12d4c1b249b8fcbe1ec68b7424a66b45ddb1e52f447e690c23d1d960"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "4a087377267687e0d41272204e6f6980520d8cc0bfc184ca0197efacee30992c"
+hash = "2e00ff319ee04a838d896a5e5ba58bfe0175b39a5664320774007ff1d7ba9c34"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"

@@ -1,12 +1,12 @@
 name = "KenkuKraft: Infected"
 author = "furglitch"
-version = "2.2.0"
+version = "2.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "138bed1a0bbbde148a54388436888f525da9e98eb869a8e94072fddb38e87867"
+hash = "06e01197170aa59373d3cd40cc6f95e09e6bd4cd706139abde6a6fc421cad875"
 
 [versions]
 minecraft = "1.21.1"

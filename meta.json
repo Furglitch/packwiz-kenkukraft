@@ -64,10 +64,10 @@
         },
         {
             "id": "2.2.1",
-            "releasedAt": 9999999999999,
+            "releasedAt": 1769302800000,
             "promotions": {
                 "downloads": {
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/0"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7514957"
                 }
             },
             "updateType": "minor"

@@ -963,7 +963,7 @@ hash = "66a8d8a8d521cfcfc5b0421ee1db71e618868f929177e53e5a55eaa0ca510d64"
 
 [[files]]
 file = "kubejs/client_scripts/counter_overlay.js"
-hash = "a1fae3c4d5ae0592b974faff33ab227f3bc19421677cd96db6384b912c96d548"
+hash = "4b42b720f2d5072ca099c78d6b5a4362cefb30b403bf78e9fee6b55c6f9778bc"
 
 [[files]]
 file = "kubejs/data/kubejs/jukebox_song/anhedonia.json"

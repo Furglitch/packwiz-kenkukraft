@@ -1,10 +1,14 @@
 let deathCount = 0
+let tickCounter = 0
 
 NetworkEvents.dataReceived('death_update', event => {
     deathCount = event.data.count
 })
 
 ClientEvents.tick(event => {
+    tickCounter++
+    if (tickCounter < 20) return // Update every 20 ticks (1 second)
+    tickCounter = 0
     if (event.player == null) return
     
     let currentDay = Math.floor(event.player.level.getDayTime() / 24000)

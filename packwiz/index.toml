@@ -982,6 +982,10 @@ file = "kubejs/server_scripts/commands/locate.js"
 hash = "df48476a4c30c1b7a079d86a4607a61f4468befdef55e278bd45938d7b677fee"
 
 [[files]]
+file = "kubejs/server_scripts/commands/time.js"
+hash = "613e1b48c3db5a759d0149382daba614da90d045868d9ec3ed4d6767d1e6162d"
+
+[[files]]
 file = "kubejs/server_scripts/death_tracker.js"
 hash = "6f021f25278b5b03c209fa8518ee860139f6e9ea2c5f392a0e6933783f2dc2b1"
 
@@ -1015,7 +1019,7 @@ hash = "e7923f98fd4781911d2dfa6e42e9a7abd106a83806ca7d7dc601bdcc67451404"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/tasks/spore-days.js"
-hash = "50e9362a1fb4598079c758f95d155549614744f25d771e31ee61f06661688c68"
+hash = "a08317d284b6216a40eab9bee03ef1d8e5e7358ced11c28769af9bdc28bbe76f"
 
 [[files]]
 file = "kubejs/server_scripts/ftbquests/tasks/spore-status.js"

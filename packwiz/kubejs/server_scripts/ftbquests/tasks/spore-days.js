@@ -1,6 +1,6 @@
+// FTB Quest task to track days
 FTBQuestsEvents.customTask('1A81BA9350B2B38B', event => {
     event.maxProgress = 30 // days
-    
     event.setCheckTimer(20) // ticks
     
     event.setCheck((task, player) => {
@@ -12,6 +12,7 @@ FTBQuestsEvents.customTask('1A81BA9350B2B38B', event => {
     })
 })
 
+// Prevent spore mobs from spawning before day 30
 EntityEvents.spawned(event => {
     let entity = event.entity
     let entityType = entity.type
@@ -25,25 +26,3 @@ EntityEvents.spawned(event => {
         }
     }
 })
-
-ServerEvents.commandRegistry(event => {
-    const { commands: Commands, arguments: Arguments } = event
-
-    event.register(
-        Commands.literal('setday')
-            .then(Commands.argument('days', Arguments.INTEGER.create(event))
-                .executes(ctx => {
-                    const days = Arguments.INTEGER.getResult(ctx, 'days')
-                    const server = ctx.source.server
-                    
-                    server.getAllLevels().forEach(world => {
-                        world.setDayTime(days * 24000)
-                    })
-                    server.runCommandSilent('ftbquests change_progress @a reset 1A81BA9350B2B38B')
-                    
-                    ctx.source.sendSuccess(`Set to ${days} days.`, false)
-                    return 1
-                })
-            )
-    );
-});

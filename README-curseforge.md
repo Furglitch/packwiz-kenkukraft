@@ -62,7 +62,7 @@ Download the modpack from [CurseForge](https://www.curseforge.com/minecraft/modp
 #### Server Hosting
 
 <p style="text-align:center">
-  <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/wabbanode/textures/gui/furglitch_big-banner.png" alt="Wabbanode Partner" width="600">
+  <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/wabbanode/textures/gui/furglitch_big-banner.png" alt="Wabbanode Partner" width="auto">
 </p>
 
 Looking for a reliable server host? **[Wabbanode](https://wabbanode.com/affiliate/kenkukraft)** is an official partner of KenkuKraft: Infected! They offer affordable high-performance Minecraft servers with instant setup, DDoS protection, and 24/7 support.

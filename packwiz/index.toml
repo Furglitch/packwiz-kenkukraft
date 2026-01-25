@@ -66,7 +66,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9b49e44ee10531c325845b84dd42209dda97ca2a5e2748f7c357301ba7fc1d12"
+hash = "384adc6b421bf2617956c126716779ae67fd011e03f25fcd1f1a6d9bb8463817"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -514,7 +514,7 @@ hash = "622658ab12d4c1b249b8fcbe1ec68b7424a66b45ddb1e52f447e690c23d1d960"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "a34fe09afa39e001f5ca38c3b459031b93562e7a5824cced206e85e81d4e5f18"
+hash = "46f941c9fa606a9f2a9535cddddecc792e67f02a1d24f7b6a2456b9947ea901c"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1597,7 +1597,7 @@ metafile = true
 
 [[files]]
 file = "mods/cocktails-delight.pw.toml"
-hash = "e910bcb93bd43c2122d8757edbed3382886897c8029618033a84dcd985c46aab"
+hash = "ca51a35945058aed34b6fad39a65acac18f561cb8090a4e22421b180227eb8a9"
 metafile = true
 
 [[files]]

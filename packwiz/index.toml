@@ -3362,12 +3362,12 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
-hash = "493bfc668f2bfa10afd2a74b64b7120f803969ef5534359de0128d2e9408619a"
+hash = "39131fc0691acb2c9b28a180d6a2b88efa28fc6b1360a8875b339027c0b71202"
 metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "1cf7e6e2c3d53be5a77f4823459a057d03f36aec7966c27af35204c50028de15"
+hash = "6eeea1dae7478a3551db266d67874b40d8b976939a5b7e953f7a41df4bd9aad0"
 metafile = true
 
 [[files]]
@@ -3487,7 +3487,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4a59816c419300213bbfa8a9cefe6bc6e1227bd4c0211bc839e4260b39d6217f"
+hash = "8067b8a931ab38f7f274a6348e6da98bd943796e85ff3fc68a37c5f989afc694"
 metafile = true
 
 [[files]]
@@ -3697,7 +3697,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "02f8055118d05472455d9fb11b3b5154ab102a005d97ddc44e3e2bc8b9838566"
+hash = "8be310770ba85af8263754e23f39ff71e374c6bc74ea119634ad74961493498b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,5 @@
+Full Changelog: [§o2.2.2§r ➜ §o2.2.3§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.2.2...2.2.3)
+
+§n§lUpdate Rollback:§r
+
+- §oCocktails Delight:§r 1.0.5 ➜ 1.0.4 - Bad JSON causing crash on world creation

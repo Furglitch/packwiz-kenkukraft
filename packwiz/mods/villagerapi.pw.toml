@@ -1,13 +1,13 @@
 name = "Villager API"
-filename = "Villager-API-1.21.1-neoforge-1.26.01.1.jar"
+filename = "Villager-API-1.21.1-neoforge-1.26.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f79797356920c212cfd47390dbbe35e66a50043"
+hash = "4d90d0fc2743f0a5e6916bb773b9115627d8ab53"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7447420
+file-id = 7513060
 project-id = 1396381

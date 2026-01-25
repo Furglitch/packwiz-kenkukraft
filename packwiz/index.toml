@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/bagus-lib.pw.toml"
-hash = "864763a96feb89b0479e9f8ad296c18c267141f0a1c1a204deedb763866f24a9"
+hash = "4c2695ad0cc2152e331e892e010e54070e55e0ca94500c65d222af6b177ad063"
 metafile = true
 
 [[files]]
@@ -1632,7 +1632,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wands-revived.pw.toml"
-hash = "2b0e57f8067b89ece3167149a166440f7ebdefc309953ad00ae6bae90b37daaf"
+hash = "61d82be1faf4856f5d0e8574e283318f9a8597a64429cb89662505e8a1833c4f"
 metafile = true
 
 [[files]]
@@ -1767,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "6a5638b1888c9c882ea5cd45bc93aab958a50fd302cb7e9af3c807a2b46c9497"
+hash = "b4cb9f000ce5f219a468cbc3062314acf6c72c82999720d08a5422d051c617d2"
 metafile = true
 
 [[files]]
@@ -1992,7 +1992,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "c5a93805e9edc7013b5f18b61918812eb333de605304edffbec113c98ae282fb"
+hash = "f88b965850ffbe85274c04936d9e09d961995857b3d45a39d8cde4a7f3552187"
 metafile = true
 
 [[files]]
@@ -2017,7 +2017,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-doppelganger.pw.toml"
-hash = "b9539aa689ae884165439ac694634eeb26c9d6f5cbf0f309f9de4893a1b05969"
+hash = "cd53f8ee28fcdf0030cf9e76b4329cf2a8fcb1d2e51729b2ba4f10d108e42ae8"
 metafile = true
 
 [[files]]
@@ -3197,7 +3197,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "d67c4d19ce7de51e6748453defe381873b32bae6d8a55dd79804e60e03e63cc9"
+hash = "876164a4cf7aa03ea49a5210397a4aaa8fc5138d158f12280016e2cd93a34172"
 metafile = true
 
 [[files]]
@@ -3572,7 +3572,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "febf3a97a4e72f1cf8ef69cf82d2a863e1ed02c5006d9fa25f02569a21cf0081"
+hash = "2459c0c16e25260ea522cab5ff989ed848e4b985c04fcccb88bc48043d23c544"
 metafile = true
 
 [[files]]
@@ -3667,7 +3667,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "225e30b5480bc122a7a8cc510d9cd0c32c1ef026c50a9ddc3484bb825c4ba672"
+hash = "7b3a77ed1133195da94dbcc641764d1060e9bc820ebd30e0591ea94e028f2f63"
 metafile = true
 
 [[files]]

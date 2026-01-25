@@ -2,7 +2,7 @@
   <img src="packwiz/config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft: Infected" width="600">
   </br></br>
   <div align="center">
-    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.1&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.1"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.2&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.2"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;
@@ -70,7 +70,7 @@ There are two scripts included to start the server:
 #### System Requirements
 - **Minimum RAM:** 6GB
 - **Recommended RAM:** 8GB
-- **Recommended Server RAM:** 8GB+
+- **Recommended Server RAM:** 10GB+
 - **Minecraft Version:** 1.21.1
 - **Mod Loader:** Neoforge
 
@@ -87,12 +87,6 @@ For detailed configuration changes, see [CONFIG.md](docs/CONFIG.md).
 
 Modpack and repo distributed under the CC0 1.0 Universal License.
 See [LICENSE](LICENSE) for details.
-
----
-
-#### Credits
-
-Description layout inspired by **[Create Chronicles: The Endventure](https://www.curseforge.com/minecraft/modpacks/create-chronicles-the-endventure)** by Reyals.
 
 ---
 

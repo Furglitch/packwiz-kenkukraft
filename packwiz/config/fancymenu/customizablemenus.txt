@@ -1,11 +1,14 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
 lain.mods.cos.impl.client.gui.GuiCosArmorInventory {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 

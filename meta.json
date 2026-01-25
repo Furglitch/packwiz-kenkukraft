@@ -71,6 +71,16 @@
                 }
             },
             "updateType": "minor"
+        },
+        {
+            "id": "2.2.2",
+            "releasedAt": 0,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/0"
+                }
+            },
+            "updateType": "minor"
         }
     ]
 }

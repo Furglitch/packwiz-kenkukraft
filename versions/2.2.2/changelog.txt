@@ -1,0 +1,10 @@
+Full Changelog: [§o2.2.1§r ➜ §o2.2.2§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.2.1...2.2.2)
+
+§n§lAffiliation:§r
+
+KenkuKraft: Infected is now affiliated with Wabbanode!
+If you need a server, check them out [here](https://wabbanode.com/affiliate/kenkukraft) and use code `Furglitch` for 25% off!
+
+§n§lRemoved:§r
+
+- §oCreate: Extended Wrenches§r: As much as I love this mod, it was removed from CurseForge a while ago. It's still available on Modrinth and that's where I've sourced it from for now, but even though it's on CF's approval list, it keeps getting flagged by CurseForge's automated systems and delays uploads.

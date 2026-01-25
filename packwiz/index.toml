@@ -66,7 +66,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "95735fd7bf8a55306405b7d4bf0b0f2d8f202f84e24a05385b7f4cfa429b674f"
+hash = "9b49e44ee10531c325845b84dd42209dda97ca2a5e2748f7c357301ba7fc1d12"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -158,11 +158,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f6b36f96139f393a842fe56f1498ff06c80177ad90844bdc974a555c710bde03"
+hash = "13f4371c4d22f1dceb652a7b77a2e62f4a14e2ae94e3a5717d63449bd542ecd6"
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
 hash = "6f637df44d9ca5deda6b496b87f3b95ac133488951521f32d904783eb34dd358"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "a805cf5846f370f1e59b32f49dd7043767049de02e9ef474cbedce08aa4b19db"
 
 [[files]]
 file = "config/fancymenu/customization/lain.mods.cos.impl.client.gui.guicosarmorinventory_layout.txt"
@@ -170,7 +174,7 @@ hash = "8940d18fcb3a41dc564b2ecadaa292653b036ed9c90ae2872a8fc00b3614eff2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "43431cfdd2db9af7163d652edf36e443e090d70ed380bb78462792f816aa98cd"
+hash = "a775b9a8281efd014833e58b35251397e9a30562632b50de09db77ceb1dc59b8"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -510,7 +514,7 @@ hash = "622658ab12d4c1b249b8fcbe1ec68b7424a66b45ddb1e52f447e690c23d1d960"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "2e00ff319ee04a838d896a5e5ba58bfe0175b39a5664320774007ff1d7ba9c34"
+hash = "a34fe09afa39e001f5ca38c3b459031b93562e7a5824cced206e85e81d4e5f18"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -704,6 +708,22 @@ hash = "ec1271a2c33c74c3e7f6f690189ccde626f6049a6def7e5b27ea610197194159"
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/title.png"
 hash = "fc1a7320cd9f3a1e8cc778d44473d59577747e0366d899d2a1b2877fee2dd165"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/wabbanode/textures/gui/furglitch_big-banner.png"
+hash = "720dfffe0b3b18e37945c450f8a8686778622c323c61cb776e295112d88ed2f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/wabbanode/textures/gui/furglitch_small-banner.png"
+hash = "0f8d1c81bcac8751cb0d675ca501a58e31d44625a742f0b5d6c47c5c50960843"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/wabbanode/textures/gui/icon_large.png"
+hash = "a002ff3eafc566bd2fad2c67f83fc2dd541a2ca2ded36ee35ddf060d450dafc6"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/wabbanode/textures/gui/icon_small.png"
+hash = "09b44865eed245c73ed5a89a9c1d030456086adbe574c3b1e3cbdc1938c576dc"
 
 [[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.mcmeta"
@@ -2233,11 +2253,6 @@ metafile = true
 [[files]]
 file = "mods/extended-oritech.pw.toml"
 hash = "bf7c284a6f1f669cc4d1c0492a720fd19ff52360ae0dd4e5bc69ef8a656e2c44"
-metafile = true
-
-[[files]]
-file = "mods/extended-wrenches.pw.toml"
-hash = "b26a7557ac7ff208a4842924a3a18027b08b5842d8ad2eb54a2c8ab278b1fa01"
 metafile = true
 
 [[files]]

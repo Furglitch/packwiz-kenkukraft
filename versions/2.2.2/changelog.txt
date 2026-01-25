@@ -8,3 +8,33 @@ If you need a server, check them out [here](https://wabbanode.com/affiliate/kenk
 §n§lRemoved:§r
 
 - §oCreate: Extended Wrenches§r: As much as I love this mod, it was removed from CurseForge a while ago. It's still available on Modrinth and that's where I've sourced it from for now, but even though it's on CF's approval list, it keeps getting flagged by CurseForge's automated systems and delays uploads.
+
+§n§lUpdated:§r
+
+- §o(Der's) Smooth Shaded Font - Faithful 32x:§r v6 ➜ v7
+- §oAppleSkin:§r 3.0.7 ➜ 3.0.8
+- §oAquaculture 2:§r 2.7.17 ➜ 2.7.18
+- §oArs Technica:§r 2.5.2 ➜ 2.6.1
+- §oBagus Lib:§r 13.23.0 ➜ 13.24.0
+- §oCocktails Delight:§r 1.0.4 ➜ 1.0.5
+- §oConstruction Wands Revived:§r 3.3.2 ➜ 3.3.6
+- §oCreate Crafts & Additions:§r 1.5.9 ➜ 1.5.10
+- §oCreate: Dragons Plus:§r 1.8.5 ➜ 1.8.6
+- §oCreate: Food:§r 2.0.0a ➜ 2.1.0
+- §oCultural Delights:§r 0.17.7 ➜ 0.17.8
+- §oDark Doppelganger : Iron's Spells and Spellbooks Addon:§r 3.2.0 ➜ 3.2.1
+- §oL_Ender 's Cataclysm Reimagined:§r 1.3.2 ➜ 1.3.3
+- §oMakeUp - Ultra Fast | Shaders:§r 9.4a ➜ 9.4b
+- §oMech Trowel:§r 1.2.11 ➜ 1.2.12
+- §oModernFix:§r 5.25.1 ➜ 5.26.1
+- §oMoonlight Lib:§r 2.29.11 ➜ 2.29.14
+- §oMVS - Moog's Voyager Structures:§r 5.0.3 ➜ 5.0.4
+- §oOk Zoomer - It's Zoom!:§r 10.0.0-beta.10 ➜ 10.0.0-beta.11
+- §oOritech:§r 1.0.0-rc2 ➜ 1.0.0-rc3
+- §oProject Resonance for MineColonies:§r 1.5.2 ➜ 1.5.4
+- §oRightClickHarvest:§r 4.6.0 ➜ 4.6.1
+- §oSophisticated Core:§r 1.3.105.1414 ➜ 1.3.106.1419
+- §oStructurify:§r 2.0.12 ➜ 2.0.14
+- §oSuperMartijn642's Core Lib:§r 1.1.19 ➜ 1.1.20
+- §oSupplementaries:§r 3.5.16 ➜ 3.5.17
+- §oVillager API:§r 1.26.01.1 ➜ 1.26.1.2

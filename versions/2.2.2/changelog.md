@@ -33,5 +33,5 @@ If you need a server, check them out [here](https://wabbanode.com/affiliate/kenk
 - **Sophisticated Core:** 1.3.105.1414 ➜ 1.3.106.1419
 - **Structurify:** 2.0.12 ➜ 2.0.14
 - **SuperMartijn642's Core Lib:** 1.1.19 ➜ 1.1.20
-- **Supplementaries:** 3.5.16 ➜ 3.5.17
+- **Supplementaries:** 3.5.16 ➜ 3.5.18
 - **Villager API:** 1.26.01.1 ➜ 1.26.1.2

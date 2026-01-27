@@ -3,3 +3,4 @@ Full Changelog: [§o2.2.3§r ➜ §o2.2.4§r](https://github.com/Furglitch/packw
 §n§lRemoved:§r
 
 - §oCarry On§r: Custom_payload crash on servers
+- §oLambDynamicLights§r: Conflict with chunk rendering mods causing crashes

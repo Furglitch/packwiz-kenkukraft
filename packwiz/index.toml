@@ -66,7 +66,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "384adc6b421bf2617956c126716779ae67fd011e03f25fcd1f1a6d9bb8463817"
+hash = "523e855ecceb685257fbba61410fa8a214041398785422aaf57d605dc74668ac"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -514,7 +514,7 @@ hash = "622658ab12d4c1b249b8fcbe1ec68b7424a66b45ddb1e52f447e690c23d1d960"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "46f941c9fa606a9f2a9535cddddecc792e67f02a1d24f7b6a2456b9947ea901c"
+hash = "049ca1bf4086cd2c2e5b080c03cacb8c2ffe2fe67498fe53056cf228f370fe22"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2668,11 +2668,6 @@ metafile = true
 [[files]]
 file = "mods/labels.pw.toml"
 hash = "20ac722fe5e336e36a5f47bacf353138e76ae0f923642009aef72bd87d0022c4"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "ff056ce8d4f6621a6e30e0cc6e05ae3ab2a1c07b34ea9ccfe3fe3473d83721f8"
 metafile = true
 
 [[files]]

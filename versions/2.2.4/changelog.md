@@ -3,3 +3,4 @@ Full Changelog: [*2.2.3* ➜ *2.2.4*](https://github.com/Furglitch/packwiz-kenku
 <ins>**Removed:**</ins>
 
 - **Carry On**: Custom_payload crash on servers
+- **LambDynamicLights**: Conflict with chunk rendering mods causing crashes

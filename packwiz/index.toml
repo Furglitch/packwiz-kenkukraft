@@ -1526,11 +1526,6 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "d0af80a62f96d2ac0cdb344757673103c63704bd6786c0f31818b16a4194341e"
 metafile = true

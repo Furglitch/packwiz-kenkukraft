@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Furglitch/packwiz-kenkukraft/refs/heads/main/packwiz/config/paxi/resourcepacks/KenkuKraft%20Resources/assets/minecraft/textures/gui/title/title.png" alt="KenkuKraft: Infected" width="600">
   </br></br>
   <p style="text-align:center">
-    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.3&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.3"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/all"><img src="https://img.shields.io/static/v1?label=Version&message=2.2.4&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Modpack Version 2.2.4"></a>
     &nbsp;
     <img src="https://img.shields.io/static/v1?label=Neoforge&message=1.21.1&color=575457&labelColor=582323&style=for-the-badge&logoColor=fff" alt="Neoforge 1.21.1">
     &nbsp;

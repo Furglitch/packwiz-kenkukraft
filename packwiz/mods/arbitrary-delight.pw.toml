@@ -1,13 +1,13 @@
 name = "Arbitrary Delight"
-filename = "ArbitraryDelight-v0.9.1-NeoForge-1.21.1.jar"
+filename = "ArbitraryDelight-v1.0.0-NeoForge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d3309889f52550dcc3c21a454cef664ad6a507fa"
+hash = "d04b86046e34af7ae70bec9118ab5089afc451c5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7489892
+file-id = 7533378
 project-id = 1228903

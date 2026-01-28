@@ -83,11 +83,31 @@
             "updateType": "minor"
         },
         {
-            "id": "2.2.4",
+            "id": "2.2.3",
             "releasedAt": 1769328000000,
             "promotions": {
                 "downloads": {
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7522543"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7522993"
+                }
+            },
+            "updateType": "minor"
+        },
+        {
+            "id": "2.2.4",
+            "releasedAt": 1769498700000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7534552"
+                }
+            },
+            "updateType": "minor"
+        },
+        {
+            "id": "2.2.5",
+            "releasedAt": 1769565600000,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/kenkukraft/files/7534552"
                 }
             },
             "updateType": "minor"

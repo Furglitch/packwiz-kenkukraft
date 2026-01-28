@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Koopa's Critters Configurations.toml"
+hash = "2c8058bb8bd506e51ebac4a82d27607b81f74f5e63d7ddc08ad5b8bf6d43e792"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -66,7 +70,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "523e855ecceb685257fbba61410fa8a214041398785422aaf57d605dc74668ac"
+hash = "e65ba9e9e95113301daba3244e20056394af9bd6f20a9795f123b8c2039e46e2"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -514,7 +518,7 @@ hash = "622658ab12d4c1b249b8fcbe1ec68b7424a66b45ddb1e52f447e690c23d1d960"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "049ca1bf4086cd2c2e5b080c03cacb8c2ffe2fe67498fe53056cf228f370fe22"
+hash = "a7cad73e12538f10417598343bb6abc6f8999db2644cc483245592001e5f07ce"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"

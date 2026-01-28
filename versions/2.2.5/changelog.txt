@@ -1,0 +1,5 @@
+Full Changelog: [§o2.2.4§r ➜ §o2.2.5§r](https://github.com/Furglitch/packwiz-kenkukraft/compare/2.2.4...2.2.5)
+
+§n§lConfig Changes:§r
+
+- §oKoopa's Critters§r: Disabled Rock Ptarmigan and Tibetan Fox spawning due to excessive spawn rates causing lag issues on some systems. Users can re-enable these spawns in the mod's config file if desired.

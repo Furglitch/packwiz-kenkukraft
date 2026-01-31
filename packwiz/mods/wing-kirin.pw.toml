@@ -1,13 +1,13 @@
 name = "Wing Kirin - Dragon Survival Addon"
-filename = "Wing Kirin - V.2.1.0.jar"
+filename = "Wing Kirin - V.2.2.0-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1747504e7e3f93a440825ce43420fc1e13627fb8"
+hash = "affe73cfda3e98888dcd099ed1db6ac10030aa7b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7330796
+file-id = 7545026
 project-id = 1370041

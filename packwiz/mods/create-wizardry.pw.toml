@@ -1,13 +1,13 @@
 name = "Create: Wizardry"
-filename = "create_wizardry-0.3.5.jar"
+filename = "create_wizardry-0.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b71a4df626992792aafd3b2350f638cc1cda411f"
+hash = "957188212f16f1cc3d6e311c9335044f99eb2b5c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7314812
+file-id = 7554323
 project-id = 949995

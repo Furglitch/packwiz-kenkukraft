@@ -1466,7 +1466,7 @@ metafile = true
 
 [[files]]
 file = "mods/bjornlib.pw.toml"
-hash = "8d1256e9a5f2022ca0f49cca2d6a2609eacc41a00800e0d419217c9a328110e2"
+hash = "6d833096b4694312d57f90121de9cfc066db620a176e7de34c44e9aec8a4cac8"
 metafile = true
 
 [[files]]
@@ -1736,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "d4433d15fae3bde0f3c720b7abfccd8fc37636f292435bbdc0eae2e5dc554f12"
+hash = "f83128225aba20188ce3e68aa5985d97c9f9be402546d6220886e3b97047d000"
 metafile = true
 
 [[files]]
@@ -1936,7 +1936,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-wizardry.pw.toml"
-hash = "b43cb0ff928d87f5036ea1a47b88e34e774e10c0254fd62a314bfbda1cbf058c"
+hash = "eabadafea736bfc8d5df80ff946b67d3dad47aab3250f890e6cf289637a6e49d"
 metafile = true
 
 [[files]]
@@ -2196,7 +2196,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "dcc9e5eb30939027579b411e019d73ad71f3a4fb179c40bb5c23f17398d4fdf3"
+hash = "d056f638b4ade16a2f5d2562c5f1332a8d09c69974b4dad6582b92d93329e7e9"
 metafile = true
 
 [[files]]
@@ -2691,7 +2691,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "cae9c177c018f3f2fba220a7dce499fa15d02c700ce2b1f9a56d685eb9c7563d"
+hash = "70dac60943c56a9d8f515977bb959c1fd7a92e1d30684547e074933e2a2d87ec"
 metafile = true
 
 [[files]]
@@ -3046,7 +3046,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-relics.pw.toml"
-hash = "99224739e8a5cbbacf8e3f9b792d8c6619cf045659e450136173d2e9c68c7113"
+hash = "c7941b4eae9196b4e3eb2fb080810b6bccf662a68339555bd3fdf2b9ac58868e"
 metafile = true
 
 [[files]]
@@ -3191,7 +3191,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "876164a4cf7aa03ea49a5210397a4aaa8fc5138d158f12280016e2cd93a34172"
+hash = "0727c080dffa11ec3a6bb06cd49f1e00f76793e0739da0c8203150039b9f056d"
 metafile = true
 
 [[files]]
@@ -3301,7 +3301,7 @@ metafile = true
 
 [[files]]
 file = "mods/project-resonance.pw.toml"
-hash = "6482bee99f7b9d2fbd46b19729f56c98318af0f19798b3d9a48f507ff0c32c54"
+hash = "545e6a796060da4ca4eca2d0b5e094c5259607ecbabba9942881d416e0ccf713"
 metafile = true
 
 [[files]]
@@ -3376,7 +3376,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeves-furniture.pw.toml"
-hash = "8e2cbdca5b70ac4a1b30dffe044dd1fedd9cb9c9001317c5f693138a5859b8e5"
+hash = "ec714afeb26317d6e7440caab4e27519460adc9683d809565f357cad308cd45f"
 metafile = true
 
 [[files]]

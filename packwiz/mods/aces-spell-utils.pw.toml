@@ -1,13 +1,13 @@
 name = "Ace's Spell Utils"
-filename = "aces_spell_utils-1.2.2-1.21.1.jar"
+filename = "aces_spell_utils-1.2.3-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a42af8dcb1ec335a93314528da20bcc5c0a9c56c"
+hash = "7d5c9c5ec5beb756bbec93aead11e82f2205a0a3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7547015
+file-id = 7586646
 project-id = 1299492

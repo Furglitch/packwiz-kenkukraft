@@ -1,13 +1,13 @@
 name = "Arda's Sculks (Ancient City Portal / Deep Dark Dimension)"
-filename = "Arda's Sculks 1.4.3.4_1 [NEOFORGE] [1.21.1].jar"
+filename = "Arda's Sculks 1.4.3.5 [NEOFORGE] [1.21.1].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "47af3df0719c76ea7f1617aa05eb1fa49a3505c4"
+hash = "9af5fc25932a5efc2c1845a06556a71d369c44ff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7585245
+file-id = 7599672
 project-id = 953793

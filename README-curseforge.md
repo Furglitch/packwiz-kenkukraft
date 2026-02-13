@@ -14,6 +14,16 @@
 
 ---
 
+## V3 is in the works
+Currently, the modpack is unpolished and is far from stable. It was intended as a kitchen sink modpack for personal use, but I want to make it more focused and polished.
+
+3.0.0 will be a complete overhaul, focused on a cohesive theme, progression, and performance. The modlist will be significantly reduced and curated for a more balanced experience.
+
+For now, the source repository will be archived, and the modpack will remain available on CurseForge in its current state.<br>
+Development of 3.0.0 is moved to a new source repo (which is currently private, but will be made public when release approaches).
+
+---
+
 ***KenkuKraft: Infected* is a comprehensive kitchen sink modpack centered around *Fungal Infection: Spore*.** With over 600 mods, this pack gives you complete freedom to play however you want — whether that's building massive automated factories, mastering powerful magic, conquering epic bosses, or creating your dream base.
 
 **No forced progression. No recipe restrictions. No limitations.** This is YOUR world to shape. Automate everything with Create and Mekanism. Cast devastating spells with Ars Nouveau and Iron's Spells. Build thriving colonies with Minecolonies. Or just explore the vast, overhauled world filled with new dimensions, structures, and creatures.

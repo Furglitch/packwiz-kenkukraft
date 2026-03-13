@@ -1,13 +1,13 @@
 name = "Moderately Enough Effect Descriptions (MEED)"
-filename = "MEED-1.21.1-7.7.jar"
+filename = "MEED-1.21.1-7.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9034f38a81bc3918bcc37fc03b18d4ef2041b343"
+hash = "e7647bdd835c7e506ae32fd12d78fedf51a1e811"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7491331
+file-id = 7581967
 project-id = 918638

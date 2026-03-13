@@ -1,13 +1,13 @@
 name = "BB's Bosses Of Mass Destruction Tweaks"
-filename = "BB'sBOMDTweaks0.5.zip"
+filename = "BB'sBOMDTweaks0.6.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "efec84d082a4cb81e7fcf4e531e5f5417c8db5e7"
+hash = "11bd4debfb4fe2a3474bd8103dc16c3b5ac0da03"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7327372
+file-id = 7566454
 project-id = 1343438

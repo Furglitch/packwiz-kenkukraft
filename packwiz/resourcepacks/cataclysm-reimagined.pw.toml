@@ -1,13 +1,13 @@
 name = "L_Ender 's Cataclysm Reimagined"
-filename = "Cataclysm Reimagined v1.3.3 for NeoForge.zip"
+filename = "Cataclysm Reimagined v1.3.4 for NeoForge.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "823e9d202e031d35e84d08b775d1b5342394c731"
+hash = "98060b01d86312b2f3e10c546b7b319820ebdc9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7514251
+file-id = 7526083
 project-id = 1212044

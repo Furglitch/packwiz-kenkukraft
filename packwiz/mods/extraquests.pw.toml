@@ -1,13 +1,13 @@
 name = "ExtraQuests [FTB Quests]"
-filename = "ExtraQuests-1.6.1-1.21.1-NeoForge.jar"
+filename = "ExtraQuests-1.6.2-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "67eed34811df302b27cc7b605490da6b29548c1f"
+hash = "38457fe8174c3662ac6ed32f4e1595e249f41302"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7417220
+file-id = 7523528
 project-id = 964194
